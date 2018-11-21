@@ -1,0 +1,58 @@
+
+TargetCharms_Options = {
+	["ReadyCharm"] = {
+		["draggable"] = 1,
+		["barscale"] = 0.999999940395355,
+		["show"] = 2,
+		["text"] = "检查就绪",
+		["alphaVal"] = 0.800000011920929,
+		["width"] = 70,
+	},
+	["Version"] = "1.5.5 (29/08/2014)",
+	["AttackFrame"] = {
+		["TopReady"] = {
+			"BOTTOMLEFT", -- [1]
+			"UIParent", -- [2]
+			"BOTTOMLEFT", -- [3]
+			414.170806884766, -- [4]
+			270.384918212891, -- [5]
+		},
+		["TopFlare"] = {
+			"BOTTOMRIGHT", -- [1]
+			"UIParent", -- [2]
+			"BOTTOMRIGHT", -- [3]
+			-449.223327636719, -- [4]
+			16.1365337371826, -- [5]
+		},
+		["TopCharm"] = {
+			"LEFT", -- [1]
+			"UIParent", -- [2]
+			"LEFT", -- [3]
+			34.547306060791, -- [4]
+			-282.153289794922, -- [5]
+		},
+	},
+	["FlareCharms"] = {
+		["draggable"] = 1,
+		["alphaVal"] = 0.800000011920929,
+		["showicons"] = false,
+		["Yspacing"] = 0,
+		["buttonSetupID"] = 3,
+		["buttonSetup"] = ">B>G>P>R>Y>X",
+		["barscale"] = 1.05999994277954,
+		["show"] = 2,
+		["Xspacing"] = -4,
+	},
+	["TargetCharms"] = {
+		["draggable"] = 1,
+		["alphaVal"] = 1,
+		["showontarget"] = true,
+		["show"] = 1,
+		["toggleicon"] = false,
+		["buttonSetupID"] = 3,
+		["buttonSetup"] = ">1>2>3>4>5>6>7>8>0",
+		["barscale"] = 0.959999978542328,
+		["Yspacing"] = 0,
+		["Xspacing"] = -3,
+	},
+}

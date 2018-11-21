@@ -1,0 +1,65 @@
+
+IcyDemonsIndicatorSettings = {
+	["barPoint"] = "TOPLEFT",
+	["poolRelativeTo"] = "UIParent",
+	["barGrow"] = -1,
+	["barRelativePoint"] = "TOPLEFT",
+	["trackedDemons"] = {
+		["Creature-135816"] = {
+			["icon"] = 1616211,
+			["duration"] = 15,
+			["name"] = "vilefiend",
+			["display_name"] = "邪犬",
+		},
+		["Creature-55659"] = {
+			["icon"] = 460856,
+			["display_name"] = "野生小鬼",
+			["name"] = "imp",
+			["base_duration"] = 10,
+		},
+		["Creature-17252"] = {
+			["icon"] = 136216,
+			["duration"] = 15,
+			["name"] = "grimoire",
+			["display_name"] = "魔典: 恶魔卫士",
+		},
+		["Creature-143622"] = {
+			["icon"] = 460856,
+			["display_name"] = "野生小鬼",
+			["name"] = "imp",
+			["base_duration"] = 10,
+		},
+		["Creature-135002"] = {
+			["icon"] = 2065628,
+			["duration"] = 15,
+			["name"] = "tyrant",
+			["display_name"] = "恶魔暴君",
+		},
+		["Vehicle-98035"] = {
+			["icon"] = 1378282,
+			["duration"] = 12,
+			["name"] = "dreadstalker",
+			["display_name"] = "恐惧猎犬",
+		},
+	},
+	["barTexture"] = "Blizzard",
+	["barMaxCount"] = 20,
+	["poolRelativePoint"] = "BOTTOM",
+	["poolPoint"] = "BOTTOM",
+	["barColor"] = {
+		["a"] = 1,
+		["b"] = 0,
+		["g"] = 0,
+		["r"] = 1,
+	},
+	["version"] = {
+		["minor"] = 0,
+		["major"] = 2,
+		["patch"] = 0,
+	},
+	["offsetX"] = -377.999938964844,
+	["barHeight"] = 20,
+	["offsetY"] = 31.0000038146973,
+	["barRelativeTo"] = "IcyDemonsIndicatorBarPoolFrame",
+	["barWidth"] = 200,
+}

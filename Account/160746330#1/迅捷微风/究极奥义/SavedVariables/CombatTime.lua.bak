@@ -1,0 +1,7 @@
+
+CombatTimeSettings = {
+	["locked"] = true,
+	["hide"] = false,
+	["posY"] = 191.000427246094,
+	["posX"] = 572.000061035156,
+}

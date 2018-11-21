@@ -1,0 +1,14 @@
+VER 3 0100000000000005 "冲动" "INV_MISC_QUESTIONMARK"
+#showtooltip 冲动
+/use 金辉飞羽
+/cast 冲动
+END
+VER 3 0100000000000003 "嫁祸" "INV_Misc_QuestionMark"
+#showtooltip 嫁祸诀窍
+/cast [help] [target=focus, help] [target=targettarget, help] 嫁祸诀窍
+END
+VER 3 0100000000000004 "杀戮" "INV_MISC_QUESTIONMARK"
+#showtooltip 影舞步
+/use 金辉飞羽
+/cast 影舞步
+END

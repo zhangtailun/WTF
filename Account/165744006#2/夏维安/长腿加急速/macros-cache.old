@@ -1,0 +1,76 @@
+VER 3 010000000000002B "DB_AFF" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_AFF
+END
+VER 3 010000000000002C "DB_AFF2" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_AFF2
+END
+VER 3 010000000000002D "卡碎片" "519384"
+/petattack
+/petpassive
+END
+VER 3 0100000000000002 "吸取灵魂" "INV_Misc_QuestionMark"
+#showtooltip 吸取灵魂
+/cast [target=mouseover,nomodifier,exists] 吸取灵魂;吸取灵魂
+END
+VER 3 010000000000002E "回廊小怪" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player,pet:艾瑞达混沌使者] 军团烙印
+END
+VER 3 010000000000002F "屏幕定位" "519384"
+/run if not TuInd then UIParent:CreateTexture("TuInd");TuInd:SetSize(24,24);TuInd:SetPoint("CENTER",0, 0);TuInd:SetTexture(ICON_LIST [3]:sub(3,-2)) ;TuInd:Hide()end; if TuInd:IsShown() then TuInd:Hide() else TuInd:Show() end
+END
+VER 3 0100000000000030 "恶魔卡碎片" "132317"
+/petattack
+/cast 恶魔增效
+/petpassive
+/petassist
+END
+VER 3 0100000000000031 "毁灭卡碎片" "132317"
+/stopcasting
+/stopcasting
+/cast 烧尽
+END
+VER 3 0100000000000032 "浩劫" "460695"
+/cast [target=focus,harm,nodead][]浩劫
+END
+VER 3 0100000000000009 "浩劫" "460695"
+#showtooltip 浩劫
+/cast [target=focus,exists]浩劫;[target=mouseover,exists]浩劫;浩劫
+END
+VER 3 0100000000000033 "焦点宏" "132317"
+/focus
+END
+VER 3 0100000000000034 "爆发" "134229"
+/use 勇气号角
+/cast 狂暴
+END
+VER 3 0100000000000035 "爆发" "463284"
+/cast 灵魂收割
+/cast 勇气号角
+/cast 血性狂怒(种族特长)
+/cast 狂暴(种族特长)
+/cast 缺指指环
+/cast 生锈的哨兵奖章
+END
+VER 3 010000000000002A "爆发" "135727"
+/cast 狂暴
+/cast 灵魂收割
+END
+VER 3 010000000000001E "生命虹吸" "INV_MISC_QUESTIONMARK"
+#showtooltip 生命虹吸
+/cast [target=mouseover,nomodifier,exists] 生命虹吸;生命虹吸
+END
+VER 3 010000000000000A "痛楚" "INV_Misc_QuestionMark"
+#showtooltip 痛楚
+/cast [target=mouseover,nomodifier,exists] 痛楚;痛楚
+END
+VER 3 010000000000000B "痛苦无常" "INV_Misc_QuestionMark"
+#showtooltip 痛苦无常
+/cast [target=mouseover,nomodifier,exists] 痛苦无常;痛苦无常
+END
+VER 3 010000000000000C "腐蚀术" "INV_Misc_QuestionMark"
+#showtooltip 腐蚀术
+/cast [target=mouseover,nomodifier,exists] 腐蚀术;腐蚀术
+END

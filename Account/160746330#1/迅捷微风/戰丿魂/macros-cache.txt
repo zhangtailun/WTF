@@ -1,0 +1,5 @@
+VER 3 0100000000000005 "爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast 天神下凡
+/cast 血性狂怒
+END

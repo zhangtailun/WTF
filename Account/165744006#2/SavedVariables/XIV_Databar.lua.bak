@@ -1,0 +1,704 @@
+
+TEST_CONFIG = nil
+XIVBarDB = {
+	["char"] = {
+		["第三个号的框 - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["Holdmydk - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["牧酒麟丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["库拉索 - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["牧酒萁丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["水笙 - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["Stabface - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["贝尔里希特 - 夏维安"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["奇偶的好的 - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["Ayecon - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["付兰兰 - 死亡之翼"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["阿饭君 - 死亡之翼"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["贝尔缇娜 - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["究极奥义 - 夏维安"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["南惗丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["阿里郎西 - 死亡之翼"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["Pornhub - 影之哀伤"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["Semenhunter - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["牧酒歌丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["Sumshushi - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["Narcoss - 死亡之翼"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["Joyz - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["长腿加急速 - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["贝尔塔伦 - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["Sumzhan - 夏维安"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["Blure - 死亡之翼"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["成年白野猪 - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["阿饭君 - 影之哀伤"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["南勃丸 - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["丿丶埃辛诺斯 - 夏维安"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["牧酒清丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["贝尔加雷斯 - 夏维安"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["Tréboles - 死亡之翼"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["Biebering - 夏维安"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["戰丿魂 - 夏维安"] = {
+			["portItem"] = {
+				["text"] = "达拉然",
+				["portId"] = 140192,
+			},
+		},
+		["南念丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+		["牧酒诗丶 - 影之哀伤"] = {
+			["portItem"] = {
+				["portId"] = 140192,
+				["text"] = "达拉然",
+			},
+		},
+	},
+	["profiles"] = {
+		["第三个号的框 - 夏维安"] = {
+		},
+		["Sumshushi - 夏维安"] = {
+		},
+		["丿丶埃辛诺斯 - 夏维安"] = {
+		},
+		["Sumzhan - 夏维安"] = {
+		},
+		["Default"] = {
+			["color"] = {
+				["hover"] = {
+					["a"] = 1,
+				},
+				["inactive"] = {
+					["a"] = 0.754525348544121,
+				},
+				["useHoverCC"] = false,
+				["barColor"] = {
+					["a"] = 0.201590418815613,
+					["r"] = 0.0235294117647059,
+					["g"] = 0.0235294117647059,
+					["b"] = 0.0235294117647059,
+				},
+				["normal"] = {
+					["a"] = 0.754525348544121,
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+			},
+			["text"] = {
+				["flags"] = 1,
+				["font"] = "Prototype",
+			},
+			["general"] = {
+				["barFullscreen"] = false,
+				["barPadding"] = 6,
+				["moduleSpacing"] = 35,
+			},
+			["modules"] = {
+				["tradeskill"] = {
+					["showTooltip"] = false,
+				},
+				["currency"] = {
+					["enabled"] = false,
+					["showXPbar"] = false,
+					["currencyThree"] = "1501",
+					["currencyTwo"] = "1226",
+					["currencyOne"] = "1220",
+				},
+				["talent"] = {
+					["minWidth"] = 70,
+					["barCC"] = true,
+				},
+				["gold"] = {
+					["showFreeBagSpace"] = false,
+					["shortThousands"] = true,
+				},
+				["armor"] = {
+					["durabilityMax"] = 100,
+					["durabilityMin"] = 30,
+				},
+				["MasterVolume"] = {
+					["enabled"] = true,
+				},
+				["clock"] = {
+					["timeFormat"] = "twoFour",
+				},
+				["microMenu"] = {
+					["combatEn"] = true,
+					["chat"] = false,
+					["hideSocialText"] = true,
+				},
+			},
+		},
+		["Len"] = {
+			["color"] = {
+				["hover"] = {
+					["a"] = 1,
+				},
+				["inactive"] = {
+					["a"] = 0.754525348544121,
+				},
+				["useHoverCC"] = false,
+				["barColor"] = {
+					["a"] = 0.201590418815613,
+					["b"] = 0.0235294117647059,
+					["g"] = 0.0235294117647059,
+					["r"] = 0.0235294117647059,
+				},
+				["normal"] = {
+					["a"] = 0.754525348544121,
+					["b"] = 1,
+					["g"] = 1,
+					["r"] = 1,
+				},
+			},
+			["text"] = {
+				["flags"] = 1,
+				["font"] = "Prototype",
+			},
+			["general"] = {
+				["barFullscreen"] = false,
+				["barPadding"] = 6,
+				["moduleSpacing"] = 35,
+			},
+			["modules"] = {
+				["currency"] = {
+					["enabled"] = false,
+					["showXPbar"] = false,
+					["currencyThree"] = "1501",
+					["currencyTwo"] = "1226",
+					["currencyOne"] = "1220",
+				},
+				["tradeskill"] = {
+					["showTooltip"] = false,
+				},
+				["clock"] = {
+					["timeFormat"] = "twoFour",
+				},
+				["talent"] = {
+					["barCC"] = true,
+					["minWidth"] = 70,
+				},
+				["armor"] = {
+					["durabilityMax"] = 100,
+					["durabilityMin"] = 30,
+				},
+				["MasterVolume"] = {
+					["enabled"] = true,
+				},
+				["gold"] = {
+					["showFreeBagSpace"] = false,
+					["shortThousands"] = true,
+				},
+				["microMenu"] = {
+					["shop"] = false,
+					["help"] = false,
+					["hideSocialText"] = true,
+					["combatEn"] = true,
+					["chat"] = false,
+				},
+			},
+		},
+		["究极奥义 - 夏维安"] = {
+			["color"] = {
+				["hover"] = {
+					["a"] = 1,
+				},
+				["inactive"] = {
+					["a"] = 0.75,
+				},
+				["useHoverCC"] = false,
+				["barColor"] = {
+					["a"] = 0.310000002384186,
+					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["normal"] = {
+					["a"] = 0.807185158133507,
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+			},
+			["text"] = {
+				["flags"] = 1,
+				["smallFontSize"] = 14,
+				["font"] = "Action Man",
+			},
+			["general"] = {
+				["barFullscreen"] = false,
+				["barPosition"] = "TOP",
+				["barPadding"] = 6,
+				["ohHide"] = false,
+				["moduleSpacing"] = 50,
+			},
+			["modules"] = {
+				["tradeskill"] = {
+					["showTooltip"] = false,
+				},
+				["clock"] = {
+					["timeFormat"] = "twoFour",
+				},
+				["talent"] = {
+					["minWidth"] = 30,
+					["barCC"] = true,
+				},
+				["armor"] = {
+					["durabilityMin"] = 30,
+					["durabilityMax"] = 100,
+					["alwaysShowIlvl"] = false,
+				},
+				["currency"] = {
+					["enabled"] = false,
+					["showXPbar"] = false,
+					["currencyThree"] = "1533",
+					["currencyTwo"] = "1508",
+					["currencyOne"] = "1220",
+				},
+				["gold"] = {
+					["enabled"] = false,
+					["shortThousands"] = true,
+					["showFreeBagSpace"] = false,
+				},
+				["microMenu"] = {
+					["combatEn"] = true,
+					["chat"] = false,
+					["hideSocialText"] = true,
+				},
+			},
+		},
+		["戰丿魂 - 夏维安"] = {
+			["general"] = {
+				["barPosition"] = "TOP",
+			},
+		},
+		["moon1"] = {
+			["color"] = {
+				["hover"] = {
+					["a"] = 1,
+				},
+				["inactive"] = {
+					["a"] = 0.75,
+				},
+				["useHoverCC"] = false,
+				["normal"] = {
+					["a"] = 0.807185158133507,
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+				["barColor"] = {
+					["a"] = 0.310000002384186,
+					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
+				},
+			},
+			["text"] = {
+				["flags"] = 1,
+				["font"] = "Action Man",
+				["smallFontSize"] = 14,
+			},
+			["general"] = {
+				["barPosition"] = "TOP",
+				["barFullscreen"] = false,
+				["moduleSpacing"] = 50,
+				["ohHide"] = false,
+				["barPadding"] = 6,
+			},
+			["modules"] = {
+				["tradeskill"] = {
+					["showTooltip"] = false,
+				},
+				["talent"] = {
+					["minWidth"] = 30,
+					["barCC"] = true,
+				},
+				["microMenu"] = {
+					["chat"] = false,
+					["combatEn"] = true,
+					["hideSocialText"] = true,
+				},
+				["currency"] = {
+					["enabled"] = false,
+					["showXPbar"] = false,
+					["currencyThree"] = "1533",
+					["currencyTwo"] = "1508",
+					["currencyOne"] = "1220",
+				},
+				["gold"] = {
+					["showFreeBagSpace"] = false,
+					["shortThousands"] = true,
+					["enabled"] = false,
+				},
+				["clock"] = {
+					["timeFormat"] = "twoFour",
+				},
+				["armor"] = {
+					["durabilityMin"] = 30,
+					["durabilityMax"] = 100,
+					["alwaysShowIlvl"] = false,
+				},
+			},
+		},
+		["奇偶的好的 - 夏维安"] = {
+		},
+	},
+	["profileKeys"] = {
+		["南惗丶 - 影之哀伤"] = "Len",
+		["南勃丸 - 影之哀伤"] = "Len",
+		["Sumzhan - 夏维安"] = "Sumzhan - 夏维安",
+		["成年白野猪 - 夏维安"] = "moon1",
+		["Holdmydk - 影之哀伤"] = "Len",
+		["第三个号的框 - 夏维安"] = "第三个号的框 - 夏维安",
+		["Pornhub - 影之哀伤"] = "Len",
+		["牧酒麟丶 - 影之哀伤"] = "Len",
+		["库拉索 - 影之哀伤"] = "Len",
+		["牧酒萁丶 - 影之哀伤"] = "Len",
+		["Sumshushi - 夏维安"] = "Sumshushi - 夏维安",
+		["水笙 - 影之哀伤"] = "Len",
+		["Biebering - 夏维安"] = "moon1",
+		["Stabface - 影之哀伤"] = "Len",
+		["贝尔里希特 - 夏维安"] = "moon1",
+		["奇偶的好的 - 夏维安"] = "奇偶的好的 - 夏维安",
+		["牧酒清丶 - 影之哀伤"] = "Len",
+		["阿饭君 - 影之哀伤"] = "Len",
+		["贝尔塔伦 - 夏维安"] = "moon1",
+		["付兰兰 - 死亡之翼"] = "Len",
+		["贝尔加雷斯 - 夏维安"] = "moon1",
+		["丿丶埃辛诺斯 - 夏维安"] = "丿丶埃辛诺斯 - 夏维安",
+		["长腿加急速 - 夏维安"] = "moon1",
+		["Narcoss - 死亡之翼"] = "Len",
+		["贝尔缇娜 - 夏维安"] = "moon1",
+		["阿饭君 - 死亡之翼"] = "Len",
+		["Semenhunter - 影之哀伤"] = "Len",
+		["Tréboles - 死亡之翼"] = "Len",
+		["究极奥义 - 夏维安"] = "moon1",
+		["戰丿魂 - 夏维安"] = "moon1",
+		["南念丶 - 影之哀伤"] = "Len",
+		["牧酒诗丶 - 影之哀伤"] = "Len",
+	},
+	["factionrealm"] = {
+		["Horde - 影之哀伤"] = {
+			["库拉索"] = {
+				["currentMoney"] = 1771372155,
+				["sessionMoney"] = -4033632,
+			},
+			["Pornhub"] = {
+				["currentMoney"] = 5605553,
+				["sessionMoney"] = 953653,
+			},
+			["Joyz"] = {
+				["currentMoney"] = 19625018,
+				["sessionMoney"] = 0,
+			},
+			["牧酒清丶"] = {
+				["currentMoney"] = 10807309,
+				["sessionMoney"] = 4891072,
+			},
+			["牧酒歌丶"] = {
+				["currentMoney"] = 525275,
+				["sessionMoney"] = 0,
+			},
+			["Stabface"] = {
+				["currentMoney"] = 28599717,
+				["sessionMoney"] = 2764526,
+			},
+			["阿饭君"] = {
+				["currentMoney"] = 705267771,
+				["sessionMoney"] = 0,
+			},
+			["Semenhunter"] = {
+				["currentMoney"] = 1682334,
+				["sessionMoney"] = 0,
+			},
+			["牧酒麟丶"] = {
+				["currentMoney"] = 379059361,
+				["sessionMoney"] = 70590021,
+			},
+			["牧酒诗丶"] = {
+				["currentMoney"] = 73829,
+				["sessionMoney"] = 0,
+			},
+			["南惗丶"] = {
+				["currentMoney"] = 36681263,
+				["sessionMoney"] = 380429,
+			},
+			["Holdmydk"] = {
+				["currentMoney"] = 429038,
+				["sessionMoney"] = 70646,
+			},
+			["南念丶"] = {
+				["currentMoney"] = 1483,
+				["sessionMoney"] = -52826664,
+			},
+			["水笙"] = {
+				["currentMoney"] = 402678,
+				["sessionMoney"] = 0,
+			},
+			["牧酒萁丶"] = {
+				["currentMoney"] = 21647941,
+				["sessionMoney"] = 0,
+			},
+			["南勃丸"] = {
+				["currentMoney"] = 270603,
+				["sessionMoney"] = 0,
+			},
+		},
+		["Horde - 死亡之翼"] = {
+			["Tréboles"] = {
+				["currentMoney"] = 3411065,
+				["sessionMoney"] = 0,
+			},
+			["阿里郎西"] = {
+				["currentMoney"] = 9940,
+				["sessionMoney"] = 0,
+			},
+			["Narcoss"] = {
+				["currentMoney"] = 1001621,
+				["sessionMoney"] = 0,
+			},
+			["Blure"] = {
+				["currentMoney"] = 6289,
+				["sessionMoney"] = 0,
+			},
+			["阿饭君"] = {
+				["currentMoney"] = 2046392782,
+				["sessionMoney"] = -306469846,
+			},
+			["付兰兰"] = {
+				["currentMoney"] = 6096,
+				["sessionMoney"] = -1222200030,
+			},
+		},
+		["Horde - 夏维安"] = {
+			["究极奥义"] = {
+				["dailyMoney"] = 146750,
+				["sessionMoney"] = 0,
+				["lastLoginDate"] = 20180218,
+				["currentMoney"] = 27929252,
+				["daily"] = 0,
+			},
+			["Sumshushi"] = {
+				["currentMoney"] = 0,
+				["dailyMoney"] = 0,
+				["lastLoginDate"] = 20180118,
+				["sessionMoney"] = 0,
+			},
+			["Sumzhan"] = {
+				["lastLoginDate"] = 20180118,
+				["dailyMoney"] = 0,
+				["currentMoney"] = 0,
+				["sessionMoney"] = 0,
+			},
+			["戰丿魂"] = {
+				["lastLoginDate"] = 20180220,
+				["dailyMoney"] = 0,
+				["currentMoney"] = 9069733,
+				["sessionMoney"] = 0,
+			},
+			["成年白野猪"] = {
+				["currentMoney"] = 213578564,
+				["sessionMoney"] = 0,
+			},
+			["长腿加急速"] = {
+				["dailyMoney"] = 0,
+				["sessionMoney"] = 0,
+				["daily"] = 0,
+				["currentMoney"] = 1683407209,
+				["lastLoginDate"] = 20180220,
+			},
+			["丿丶埃辛诺斯"] = {
+				["dailyMoney"] = -1891002287,
+				["sessionMoney"] = 0,
+				["currentMoney"] = 7966250,
+				["lastLoginDate"] = 20180218,
+				["daily"] = 0,
+			},
+		},
+		["Alliance - 影之哀伤"] = {
+			["Ayecon"] = {
+				["currentMoney"] = 78,
+				["sessionMoney"] = 78,
+			},
+		},
+		["Neutral - 死亡之翼"] = {
+			["付兰兰"] = {
+				["currentMoney"] = 27143,
+				["sessionMoney"] = 17943,
+			},
+		},
+	},
+}

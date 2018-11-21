@@ -1,0 +1,82 @@
+
+OneRing_Config = {
+	["CharProfiles"] = {
+		["夏维安-长腿加急速"] = "default",
+	},
+	["_GameVersion"] = "7.3.5",
+	["_OPieVersion"] = "Vanilla 2 (3.91)",
+	["ProfileStorage"] = {
+		["default"] = {
+			["ClickActivation"] = true,
+			["Bindings"] = {
+				["x"] = "ALT-E",
+			},
+		},
+	},
+	["PersistentStorage"] = {
+		["RingKeeper"] = {
+			["x"] = {
+				{
+					"equipmentset", -- [1]
+					"腐蚀戒", -- [2]
+					["sliceToken"] = "ABues7L0oRp",
+				}, -- [1]
+				{
+					"equipmentset", -- [1]
+					"单体", -- [2]
+					["sliceToken"] = "ABues7L0oRo",
+				}, -- [2]
+				{
+					"equipmentset", -- [1]
+					"AOE", -- [2]
+					["sliceToken"] = "ABues7L0oR3",
+				}, -- [3]
+				{
+					"equipmentset", -- [1]
+					"赛秘密", -- [2]
+					["sliceToken"] = "ABues7L0oRs",
+				}, -- [4]
+				{
+					"equipmentset", -- [1]
+					"斩杀", -- [2]
+					["sliceToken"] = "ABues7L0oRd",
+				}, -- [5]
+				["name"] = "痛苦一键换装",
+				["save"] = true,
+				["hotkey"] = "ALT-E",
+				["limit"] = "长腿加急速-夏维安",
+			},
+			["OPieDeletedRings"] = {
+				["WarlockLTS"] = true,
+				["DruidUtility"] = true,
+				["MageCombat"] = true,
+				["DruidFeral"] = true,
+				["RaidSymbols"] = true,
+				["DeathKnightPresence"] = true,
+				["WorldMarkers"] = true,
+				["HunterShots"] = true,
+				["WarlockGuardians"] = true,
+				["MageTravel"] = true,
+				["WarlockCombat"] = true,
+				["WarlockDemons"] = true,
+				["MagePolymorph"] = true,
+				["PaladinTools"] = true,
+				["CommonTrades"] = true,
+				["DruidShift"] = true,
+				["PaladinAuras"] = true,
+				["MageTools"] = true,
+				["HunterPets"] = true,
+				["ExtraPortals"] = true,
+				["SpecMenu"] = true,
+				["HunterTraps"] = true,
+				["HunterAspects"] = true,
+				["PaladinBlessing"] = true,
+				["DKCombat"] = true,
+			},
+			["OPieFlagStore"] = {
+				["FlushedDefaultColors"] = true,
+			},
+		},
+	},
+	["_GameLocale"] = "zhCN",
+}

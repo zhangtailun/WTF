@@ -1,0 +1,567 @@
+VER 3 000000000000001C "            " "134400"
+/script SetRaidTarget("mouseover",2)
+/click ExtraActionButton1
+END
+VER 3 000000000000001E "            " "134400"
+/施放 |cff71d5ff|Hspell:17962|h[燃烧]|h|r
+/施放 生命之血
+END
+VER 3 000000000000001F "            " "463284"
+/施放 黑暗灵魂：学识
+/施放 血性狂怒(种族特长)
+/施放 生命之血
+END
+VER 3 000000000000001D "            " "134400"
+/pull 12
+END
+VER 3 0000000000000020 "  --" "463284"
+/施放 黑暗灵魂
+END
+VER 3 0000000000000023 "  --" "463284"
+/施放 黑暗灵魂
+/施放 血性狂怒
+/use 10
+END
+VER 3 0000000000000024 "  --" "463284"
+/施放 黑暗灵魂
+/施放 血性狂怒
+/施放 生命之血
+/use 10
+END
+VER 3 0000000000000021 "  --" "463284"
+/施放 黑暗灵魂
+/施放 狂暴(种族特长)
+/use 10
+END
+VER 3 0000000000000022 "  --" "463284"
+/施放 黑暗灵魂
+/施放 生命之血
+/use 10
+END
+VER 3 0000000000000025 "  --" "463284"
+/施放 黑暗灵魂
+/use 10
+END
+VER 3 0000000000000026 "  ...." "463284"
+/施放 黑暗灵魂
+/施放 10
+/施放 血性狂怒
+END
+VER 3 0000000000000027 "  ...." "463284"
+/施放 黑暗灵魂
+/施放 生命之血
+/施放 血性狂怒
+END
+VER 3 0000000000000029 "...." "INV_Misc_QuestionMark"
+#showtooltip 灾难之握
+/cast 虚空之盾
+/cast 灾难之握
+END
+VER 3 000000000000002A "...." "INV_Misc_QuestionMark"
+#showtooltip 灾难之握
+/cast 10
+/cast 灾难之握
+END
+VER 3 0000000000000028 "...." "INV_Misc_QuestionMark"
+#showtooltip 燃烧
+/cast 10
+/施放 燃烧
+END
+VER 3 000000000000002B "/目标" "132317"
+/way 63.8, 59.2
+/way 65.6, 47.8
+/way 58, 50.8
+/way 55.6, 44.4
+/way 51.2, 46
+/way 46.8, 46.8
+/way 47, 53.7
+/way 44.2, 65.2
+/way 52.8, 63
+/way 53, 70.8
+/way 49.8, 65.8
+/way 60.4, 66.2
+/way 65, 75.6
+/cway
+END
+VER 3 0000000000000031 "1" "134400"
+/CAST 虔诚光环
+/RA 我已开启>>>虔诚光环<<<持续6秒！
+/RA 我已开启>>>虔诚光环<<<持续6秒！
+/RA 我已开启>>>虔诚光环<<<持续6秒！
+END
+VER 3 000000000000002E "1" "132089"
+/团队 第一次  大团图腾  取代 盾墙
+/团队 第二次  大团饰品  取代 援护 牺牲
+/团队 第三次  包子罩子  取代 包子压制
+/团队 第四次  大团饰品  取代 春哥  援护
+/团队 第五次  鸥罩子      取代 鸥压制
+/团队 第六次  大团饰品  取代  牺牲 援护
+/团队 第七次  琉璃罩子  MACRO 2 "1" INV_Misc_QuestionMark
+/startattack 
+/console Sound_EnableSFX 0
+/castsequence reset=8 
+END
+VER 3 000000000000002D "1" "136150"
+/CAST 不灭决心
+/use 治疗石
+/cast 黑暗再生
+END
+VER 3 000000000000002C "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast 自然迅捷
+/cast 治疗之触
+END
+VER 3 000000000000002F "1" "136162"
+/script MainMenuBarLeftEndCap:Hide()
+/script MainMenuBarRightEndCap:Hide()
+END
+VER 3 0000000000000030 "1" "134400"
+/target 琥珀寄生虫
+/click OverrideActionBarButton4
+/targetlasttarget
+END
+VER 3 0000000000000032 "11" "134400"
+/petattack
+/施放 浩劫
+/目标 阿克蒙德
+END
+VER 3 0000000000000033 "111" "INV_Misc_QuestionMark"
+#showtooltip 德拉诺智力药水
+/use 德拉诺智力药水
+/petattack
+/cast 魔典：恶魔牺牲
+/cast 鬼影缠身
+/cast 暗影箭
+END
+VER 3 0000000000000034 "123" "134400"
+/cast 宁神射击
+/cast 假死
+END
+VER 3 000000000000000B "123" "135813"
+#show 烈焰震击
+/cast 烈焰震击
+/cast 熔岩爆裂
+END
+VER 3 0000000000000035 "2" "571586"
+/cast 化身：艾露恩之眷(天赋，变形)
+/cast 超凡之盟
+/cast 生命之血(等级 9)
+/cast 狂暴(种族特长)
+END
+VER 3 0000000000000036 "2" "134400"
+/dance
+END
+VER 3 0000000000000038 "3" "INV_Misc_QuestionMark"
+#showtooltip 星涌术
+/use 10
+/cast 星涌术
+END
+VER 3 000000000000000C "3" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player] 欺诈者的伟大蓝图
+END
+VER 3 0000000000000037 "3" "134400"
+/show 
+/castsequence [nomodifier] reset=5 复仇,顺劈斩
+/startattack
+/script UIErrorsFrame:Clear(0)
+END
+VER 3 000000000000000D "32" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 狂暴
+/cast 灵魂行者的恩赐
+/cast 维伦的未来预言
+/cast 升腾
+/cast 先祖指引
+END
+VER 3 0000000000000039 "321" "134400"
+/script LeaveBattlefield() 
+END
+VER 3 000000000000003A "4" "INV_Misc_QuestionMark"
+#showtooltip 暗影灼烧 
+/stopcasting 
+/focus 
+/tar [@mouseover,harm,nodead] 
+/cast 暗影灼烧 
+/tar [@focus] 
+/clearfocus
+END
+VER 3 000000000000003C "5" "132099"
+/sit
+END
+VER 3 000000000000003B "5" "134400"
+/AFK
+END
+VER 3 000000000000003D "6" "INV_Misc_QuestionMark"
+#showtooltip 鹰眼术
+/cast !鹰眼术
+END
+VER 3 000000000000003E "64654" "134400"
+y ▅▅▅▅▅ ◢███◤
+/y █●█●█ ▅█▅
+/y █▅█▅█ ▅▅█▅▅
+/y ▅█▅█
+/y ▅▅█▅▅█
+/y ●● ●● ◥█
+END
+VER 3 000000000000003F "a" "132100"
+/tar 奈瑟拉之光
+/欢呼
+END
+VER 3 0000000000000041 "a1" "134400"
+/click LFDRoleCheckPopupAcceptButton
+END
+VER 3 0000000000000040 "a1" "134400"
+/run LeaveBattlefield()
+END
+VER 3 0000000000000042 "A3" "134467"
+/click ExtraActionButton1
+END
+VER 3 0000000000000043 "AE" "538745"
+/use 治疗石
+/cast 新生
+END
+VER 3 0000000000000044 "BF_Mount" "132226"
+/bfmount
+END
+VER 3 0000000000000045 "BF_Pet" "236701"
+/BFPET
+END
+VER 3 0000000000000046 "BF_Pet" "236701"
+/cancelform
+/BFPET
+END
+VER 3 0000000000000047 "d " "INV_Misc_QuestionMark"
+#showtooltip
+/target 深渊领主
+/cast [target=mouseover,harm]奴役恶魔;[target=focus,harm]奴役恶魔;奴役恶魔
+END
+VER 3 000000000000004B "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 净化腐蚀;  [@mouseover,exists,mod:ctrl] 旋风; [@mouseover,exists,mod:shift] 净化腐蚀
+END
+VER 3 0000000000000048 "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 自然之愈;  [@mouseover,exists,mod:ctrl] 旋风; [@mouseover,exists,mod:shift] 自然之愈
+END
+VER 3 000000000000004C "Decursive" "INV_Misc_QuestionMark"
+#showtooltip 浩劫
+/cast [@mouseover,harm] [@focus,harm] [@target,harm] 浩劫 
+END
+VER 3 0000000000000049 "Decursive" "132089"
+/target 你叫什么名字
+/cast 误导
+END
+VER 3 000000000000004A "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 恐惧;  [@mouseover,exists,mod:ctrl] 恐惧; [@mouseover,exists,mod:shift] 恐惧
+END
+VER 3 000000000000004D "e" "INV_Misc_QuestionMark"
+#showtooltip 放逐术
+/target 末日领主
+/cast [@mouseover,harm] [@focus,harm] [@target,harm] 放逐术
+END
+VER 3 000000000000004E "F1" "135879"
+/cast 野性之心(天赋)
+/cast 宁静
+END
+VER 3 000000000000004F "F2" "INV_Misc_QuestionMark"
+#showtooltip 复生
+/cast 自然迅捷
+/cast 复生
+END
+VER 3 0000000000000050 "FM" "132104"
+/2 满级|cffffd000|Htrade:51313:450:450:9000000014A2D43:47Kbb6a+f5Z7msynvbJPDBgA+BWbz+2473/D/37/+b3/v////vT|h[附魔]|h|r     手工10G武器20G  代做|cffffd000|Henchant:56005|h[裁缝: 冰川背包]|h|r|cffffd000|Henchant:56006|h[裁缝: 神秘背包]|h|r|cffffd000|Henchant:63924|h[裁缝: 翡翠包]|h|r
+END
+VER 3 0000000000000051 "FS" "INV_Misc_QuestionMark"
+#showtooltip 星涌术
+/focus [mod:alt]target
+/stopmacro [mod:shift]
+/cast [@focus,harm,exists,nodead]星涌术;星涌术
+/focus [@focus,noexists] [@focus,dead] target
+END
+VER 3 0000000000000053 "Fsb" "136096"
+#show 月火术
+/cast [@focus] 月火术
+END
+VER 3 0000000000000052 "Fsb" "135730"
+#show 星涌术
+/cast [@focus] 星涌术
+END
+VER 3 0000000000000054 "FSs" "236216"
+#show 阳炎术
+/cast [@focus] 阳炎术
+END
+VER 3 0000000000000055 "GHG" "132665"
+/5 H黑石 1-9G团 强力 打工支 赴宝 7 o 现在开打
+END
+VER 3 0000000000000056 "Q" "136076"
+/cast 自然迅捷
+/cast 纠缠根须
+END
+VER 3 0000000000000057 "RL" "413591"
+/RELOAD
+END
+VER 3 0000000000000058 "sss" "134400"
+/dbm pull10
+END
+VER 3 0000000000000059 "T" "136096"
+/tar 恐角之魂
+/tar 嗡鸣水晶
+/cast 月火术
+/targetlasttarget
+END
+VER 3 000000000000000E "VuhDoDCShieldData" "132281"
+R1DT1OT1PH1PH1HR2LR2LR2IH2NM2DR3IR3HR3RM3RM[x]4MR4MR4MR4SH4WM8DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]3SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000000F "VuhDoDCShieldNames" "132281"
+N哥德式个比劳蛭魔Els噬血灬风云决鶓鹋水丶沫一點也Bay锄禾想She黑夜瞳艾瑞丽[x]天舞沙泣之靈Dem打牌昆兰君風之炎[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]三国的[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000005A "WD" "132096"
+/CAST 毒蛇钉刺
+/CAST 假死
+END
+VER 3 0000000000000010 "XXX" "538569"
+#show 治疗之潮图腾
+/CAST 先祖指引
+/CAST 治疗之潮图腾
+END
+VER 3 000000000000005B "一键驱散" "134400"
+/stopcasting
+/cast [target=mouseover,nomod,exists] 恐惧;  [target=mouseover,exists,mod:ctrl] 恐惧; [target=mouseover,exists,mod:shift] 恐惧
+END
+VER 3 000000000000005C "下跪" "132226"
+/下跪
+END
+VER 3 000000000000005D "东涌湖" "237542"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X
+END
+VER 3 000000000000005E "保护" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,exists,help,nodead][help,nodead][@targettarget,help,nodead][@player]保护之手
+END
+VER 3 000000000000005F "信标" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,exists,help,nodead][help,nodead][@targettarget,help,nodead][@player]圣光道标
+END
+VER 3 0000000000000060 "倒数" "132242"
+/DBM PULL 25
+END
+VER 3 0000000000000061 "冲锋" "134400"
+/cast 冲锋
+/cast 
+/cast 援护
+END
+VER 3 0000000000000062 "切换" "134400"
+/tar 胃出血
+/cast 元素诅咒
+END
+VER 3 0000000000000063 "刷人" "134400"
+/2  鳯彡 SS  蠍梶 DZ 王晓琪儿 点卡骗子   祝你俩死你全家 刷你两年 诅咒你家两年 现在ss重新上线了 友情提示避免受骗
+/5  鳯彡SS   蠍梶DZ 王晓琪儿  点卡骗子   祝你俩死你全家 刷你两年 诅咒你家两年现在ss重新上线了 友情提示避免受骗
+END
+VER 3 0000000000000011 "升腾" "135791"
+/cast 升腾
+/cast 灵魂行者的恩赐
+/cast 先祖指引
+END
+VER 3 0000000000000064 "卡饰品" "967532"
+/cast 德拉诺智力药水
+/petattack
+/cast 黑暗再生
+/cast 魔典：恶魔牺牲
+/cast 痛苦无常
+/cast 献祭
+END
+VER 3 0000000000000065 "召唤" "136223"
+/USE 召唤仪式
+/Y  厕所就为 拉啥你们自理
+END
+VER 3 0000000000000066 "周六下午 跨服G团 " "134400"
+/5  下午12.30 悬垂堡1-7HG团 想来的报名打工660 装备2 3 4起 战火+1H1-7
+/2 下午12.30 悬垂堡1-7G团 想来的报名打工660 装备20起 战火+1 H1-7
+END
+VER 3 0000000000000067 "喊死他" "136187"
+/1 岛上的BL注意了  一个叫新泽西的  亡灵贼专挑你打怪的时候偷袭你   都注意这B
+/2 岛上的BL注意了  一个叫新泽西的  亡灵贼专挑你打怪的时候偷袭你   都注意这B
+/5 岛上的BL注意了  一个叫新泽西的  亡灵贼专挑你打怪的时候偷袭你   都注意这B 
+END
+VER 3 0000000000000012 "土BB" "INV_Misc_QuestionMark"
+#showtooltip 土元素图腾
+/cast [target=mouseover,exists]土元素图腾;土元素图腾
+/CAST 强固
+END
+VER 3 0000000000000068 "圣言" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,exists,help,nodead][help,nodead][@targettarget,help,nodead][@player]荣耀圣令
+END
+VER 3 0000000000000013 "坐骑" "132226"
+/RandomMount
+END
+VER 3 0000000000000069 "坐骑" "132226"
+/RandomMount 
+END
+VER 3 0000000000000014 "坐骑" "INV_Misc_QuestionMark"
+#showtooltip 阿曼尼战熊
+/use [flyable,nomounted,outdoors] 奥的灰烬
+/use [noflyable,nomounted,outdoors] 银色战马
+/cast [combat,nomounted,outdoors] 幽灵狼
+/dismount
+END
+VER 3 000000000000006A "坐骑刷人" "132238"
+/cast 恐惧战马
+/2  鳯彡 SS  蠍梶 DZ 王晓琪儿 点卡骗子   祝你俩死你全家 刷你两年 诅咒你家两年
+/5  鳯彡SS   蠍梶DZ 王晓琪儿  点卡骗子   祝你俩死你全家 刷你两年 诅咒你家两年
+END
+VER 3 0000000000000015 "大" "134400"
+/目标 拜夜狂战士
+END
+VER 3 000000000000006B "大流血" "INV_Misc_QuestionMark"
+#showtooltip 
+/施放 [stance:1]重殴
+/施放 [stance:3]割裂
+END
+VER 3 000000000000006C "大灾变" "INV_Misc_QuestionMark"
+#showtooltip 大灾变
+/cast 黑暗灵魂：学识
+/施放 大灾变
+END
+VER 3 0000000000000016 "奶潮" "538569"
+/CAST 治疗之潮图腾
+/CAST 狂暴
+END
+VER 3 000000000000006D "孔角" "413580"
+/target 嗡鸣水晶
+/cast 月火术
+/targetlasttarget
+END
+VER 3 000000000000006E "小流血" "INV_Misc_QuestionMark"
+#showtooltip 
+/施放 [stance:1]割伤
+/施放 [stance:3]斜掠
+END
+VER 3 000000000000006F "小鬼" "INV_Misc_QuestionMark"
+#showtooltip 小鬼成群(雕文)
+/cast 虚无碎片
+/cast 小鬼成群(雕文)
+END
+VER 3 0000000000000070 "屏幕定位" "519384"
+/run if not TuInd then UIParent:CreateTexture("TuInd");TuInd:SetSize(24,24);TuInd:SetPoint("CENTER",0, 0);TuInd:SetTexture(ICON_LIST [3]:sub(3,-2)) ;TuInd:Hide()end; if TuInd:IsShown() then TuInd:Hide() else TuInd:Show() end
+END
+VER 3 0000000000000071 "工兵" "510017"
+/目标 暮光工兵
+/施放震荡射击
+END
+VER 3 0000000000000072 "恶魔" "INV_Misc_QuestionMark"
+#showtooltip 黑暗灵魂：哀难
+/cast 黑暗灵魂：哀难
+/cast 狂暴
+END
+VER 3 0000000000000073 "恶魔怒气" "840942"
+/run DemonicFuryBarFrame:ClearAllPoints()
+/run DemonicFuryBarFrame:SetPoint("CENTER", UIParent, "CENTER", 0, -93)
+/run DemonicFuryBarFrame:SetScale(1.71)
+/run DemonicFuryBarFrame:SetAlpha(1)
+END
+VER 3 0000000000000074 "战士的" "INV_Misc_QuestionMark"
+#showtooltip 英勇打击
+/cast 血性狂暴
+/cast 盾牌猛击
+/cast 英勇打击
+END
+VER 3 0000000000000076 "打断" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:shift]黑暗交易;吸取生命;
+END
+VER 3 0000000000000075 "打断" "INV_Misc_QuestionMark"
+#showtooltip 心灵冰冻
+/stopcasting 
+/clearfocus [target=focus,dead] 
+/clearfocus [target=focus,noexists] 
+/cast [target=focus,harm,exists] 心灵冰冻;[harm] 心灵冰冻;[target=targettarget, harm] 心灵冰冻
+END
+VER 3 0000000000000017 "打断" "INV_Misc_QuestionMark"
+#showtooltip 风剪 
+/cast [target=focus,exists]风剪;风剪
+END
+VER 3 0000000000000077 "斩" "463284"
+/stopcasting
+/施放 黑暗灵魂：易爆
+/cast 暗影灼烧
+END
+VER 3 0000000000000078 "无狂暴" "INV_Misc_QuestionMark"
+#showtooltip 黑暗灵魂：易爆
+/cast 生命之血(等级9)
+/use 14
+/cast 狂暴(种族特长)
+/cast 黑暗灵魂：易爆
+END
+VER 3 0000000000000001 "治疗数字" "451167"
+/console floatingCombatTextCombatHealing 1
+END
+VER 3 0000000000000018 "波" "INV_Misc_QuestionMark"
+#showtooltip 治疗波
+/cast [target=mouseover,nomodifier,exists] 治疗波;治疗波
+END
+VER 3 0000000000000002 "波" "INV_Misc_QuestionMark"
+#showtooltip [mod][target=mouseover,help,nodead]治疗波;[harm]闪电箭;治疗波
+/cast [mod:alt,target=player][target=mouseover,help,nodead]治疗波;[harm]闪电箭;治疗波
+END
+VER 3 0000000000000003 "涌" "INV_Misc_QuestionMark"
+#showtooltip [mod][target=mouseover,help,nodead]治疗之涌;[harm]熔岩爆裂;治疗之涌
+/cast [mod:alt,target=player][target=mouseover,help,nodead]治疗之涌;[harm]熔岩爆裂;治疗之涌
+END
+VER 3 0000000000000019 "涌" "INV_Misc_QuestionMark"
+#showtooltip 治疗之涌
+/cast [target=mouseover,nomodifier,exists] 治疗之涌;治疗之涌
+END
+VER 3 000000000000001A "激流" "INV_Misc_QuestionMark"
+#showtooltip 激流
+/cast [target=mouseover,nomodifier,exists] 激流;激流
+END
+VER 3 0000000000000004 "灵魂连接" "INV_Misc_QuestionMark"
+#showtooltip 灵魂链接图腾
+/cast 灵魂链接图腾
+/s 灵魂链接图腾已开启，10码内减伤10%分摊生命！
+/IN 3 /s 剩余时间3秒
+/IN 6 /s 灵魂链接图腾结束！
+END
+VER 3 0000000000000005 "灵魂链接" "INV_Misc_QuestionMark"
+#showtooltip 灵魂链接图腾
+/施放 灵魂链接图腾
+/run Minimap:PingLocation(0,0)
+/s 灵魂链接图腾来临，降低10%伤害，共享生命，持续6秒!
+/in 2 /s [灵魂链接]还剩4秒……
+/in 4 /s [灵魂链接]还剩2秒……
+/in 6 /s [灵魂链接]结束
+END
+VER 3 0000000000000006 "焦点打断" "136018"
+/showtooltip 风剪
+/stopcasting
+/cast [target=focus,exist] 风剪
+END
+VER 3 000000000000001B "链" "INV_Misc_QuestionMark"
+#showtooltip 治疗链
+/cast [target=mouseover,nomodifier,exists] 治疗链;治疗链
+END
+VER 3 0000000000000007 "链" "INV_Misc_QuestionMark"
+#showtooltip [mod][target=mouseover,help,nodead]治疗链;[harm]闪电链;治疗链
+/cast [mod:alt,target=player][target=mouseover,help,nodead]治疗链;[harm]闪电链;治疗链
+END
+VER 3 0000000000000008 "链接" "INV_Misc_QuestionMark"
+#showtooltip
+/施放 灵魂链接图腾
+/脚本 Minimap:PingLocation(0,0)
+/s 灵魂链接图腾来临，不想死的进绿圈，降低伤害共享生命，持续10秒！
+/in 2 /y [灵魂链接]还剩8秒……
+/in 4 /y [灵魂链接]还剩6秒……
+/in 6 /y [灵魂链接]还剩4秒……
+/in 8 /y [灵魂链接]结束
+END
+VER 3 0000000000000009 "驱散" "236288"
+/cast [mod:alt, target=player]净化灵魂; [nohelp, exists]净化术; [help] []净化灵魂
+END
+VER 3 000000000000000A "驱散" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod, @player] [help, nodead] 净化灵魂; [harm, nodead] [harm] 净化术; [] 净化灵魂
+END

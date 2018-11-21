@@ -1,0 +1,4 @@
+VER 3 0100000000000003 "嫁祸" "INV_Misc_QuestionMark"
+#showtooltip 嫁祸诀窍
+/cast [help] [target=focus, help] [target=targettarget, help] 嫁祸诀窍
+END
