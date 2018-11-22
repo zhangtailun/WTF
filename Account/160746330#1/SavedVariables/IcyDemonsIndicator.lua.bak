@@ -1,9 +1,9 @@
 
 IcyDemonsIndicatorSettings = {
-	["barGrow"] = -1,
-	["poolRelativeTo"] = "UIParent",
 	["barPoint"] = "TOPLEFT",
-	["barMaxCount"] = 20,
+	["poolRelativeTo"] = "UIParent",
+	["barGrow"] = -1,
+	["barRelativePoint"] = "TOPLEFT",
 	["trackedDemons"] = {
 		["Creature-135816"] = {
 			["name"] = "vilefiend",
@@ -17,11 +17,11 @@ IcyDemonsIndicatorSettings = {
 			["display_name"] = "野生小鬼",
 			["base_duration"] = 10,
 		},
-		["Vehicle-98035"] = {
-			["name"] = "dreadstalker",
-			["duration"] = 12,
-			["display_name"] = "恐惧猎犬",
-			["icon"] = 1378282,
+		["Creature-17252"] = {
+			["name"] = "grimoire",
+			["duration"] = 15,
+			["display_name"] = "魔典: 恶魔卫士",
+			["icon"] = 136216,
 		},
 		["Creature-143622"] = {
 			["name"] = "imp",
@@ -35,31 +35,31 @@ IcyDemonsIndicatorSettings = {
 			["display_name"] = "恶魔暴君",
 			["icon"] = 2065628,
 		},
-		["Creature-17252"] = {
-			["name"] = "grimoire",
-			["duration"] = 15,
-			["display_name"] = "魔典: 恶魔卫士",
-			["icon"] = 136216,
+		["Vehicle-98035"] = {
+			["name"] = "dreadstalker",
+			["duration"] = 12,
+			["display_name"] = "恐惧猎犬",
+			["icon"] = 1378282,
 		},
 	},
 	["barTexture"] = "Blizzard",
-	["barRelativePoint"] = "TOPLEFT",
+	["barMaxCount"] = 20,
 	["poolRelativePoint"] = "BOTTOM",
-	["offsetY"] = 31.0000038146973,
-	["barHeight"] = 20,
+	["poolPoint"] = "BOTTOM",
+	["barColor"] = {
+		["a"] = 1,
+		["b"] = 0,
+		["g"] = 0,
+		["r"] = 1,
+	},
 	["version"] = {
 		["minor"] = 0,
 		["major"] = 2,
 		["patch"] = 0,
 	},
 	["offsetX"] = -377.999938964844,
-	["barColor"] = {
-		["a"] = 1,
-		["r"] = 1,
-		["g"] = 0,
-		["b"] = 0,
-	},
-	["poolPoint"] = "BOTTOM",
+	["barHeight"] = 20,
+	["offsetY"] = 31.0000038146973,
 	["barRelativeTo"] = "IcyDemonsIndicatorBarPoolFrame",
 	["barWidth"] = 200,
 }

@@ -1,13 +1,15 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 4463,
+	["session"] = 4469,
 	["errors"] = {
 		{
-			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["time"] = "2018/11/21 09:13:02",
-			["session"] = 4463,
-			["counter"] = 12,
+			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'MainMenuBar:ClearAllPoints()'。",
+			["time"] = "2018/11/22 15:35:13",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\MainMenuBar.lua:43: in function `SetPositionForStatusBars'\nInterface\\FrameXML\\MainMenuBar.lua:122: in function <Interface\\FrameXML\\MainMenuBar.lua:65>",
+			["session"] = 4469,
+			["counter"] = 1,
 		}, -- [1]
 	},
 }
