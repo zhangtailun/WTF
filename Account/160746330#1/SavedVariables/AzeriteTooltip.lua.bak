@@ -1,6 +1,6 @@
 
 AzeriteTooltipDB = {
 	["OnlySpec"] = false,
-	["RemoveBlizzard"] = false,
 	["Compact"] = false,
+	["RemoveBlizzard"] = false,
 }
