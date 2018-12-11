@@ -276,7 +276,7 @@ SkadaDB = {
 		["遇术您疯 - 夏维安"] = {
 			["report"] = {
 				["number"] = 3,
-				["mode"] = "伤害",
+				["mode"] = "打断",
 				["target"] = "冷沁沁",
 				["channel"] = "party",
 			},
@@ -309,7 +309,7 @@ SkadaDB = {
 				["能量获取"] = 6,
 				["敌对受到伤害"] = 46,
 				["傷害"] = 1,
-				["伤害"] = 1304,
+				["伤害"] = 1307,
 				["GTFO 警报"] = 1,
 				["死亡"] = 37,
 				["过量治疗"] = 11,
@@ -321,7 +321,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barfont"] = "默认",
+					["x"] = 0,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -331,23 +331,7 @@ SkadaDB = {
 						["b"] = 0,
 					},
 					["barspacing"] = 2,
-					["title"] = {
-						["height"] = 21,
-						["font"] = "默认",
-						["borderthickness"] = 0,
-						["fontflags"] = "OUTLINE",
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["r"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["b"] = 0.00784313725490196,
-						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontsize"] = 15,
-						["texture"] = "ElvUI Norm",
-					},
+					["name"] = "当前",
 					["background"] = {
 						["color"] = {
 							["a"] = 0.310000002384186,
@@ -362,8 +346,24 @@ SkadaDB = {
 					["barwidth"] = 404.999694824219,
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "伤害",
-					["name"] = "当前",
-					["x"] = 0,
+					["title"] = {
+						["fontflags"] = "OUTLINE",
+						["font"] = "默认",
+						["fontsize"] = 15,
+						["borderthickness"] = 0,
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["r"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["b"] = 0.00784313725490196,
+						},
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["height"] = 21,
+						["texture"] = "ElvUI Norm",
+					},
+					["barfont"] = "默认",
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -744,8 +744,24 @@ SkadaDB = {
 					["classicons"] = false,
 					["barslocked"] = true,
 					["y"] = 44.4996566772461,
-					["x"] = 0,
-					["name"] = "当前",
+					["barfont"] = "默认",
+					["title"] = {
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["b"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["r"] = 0.00784313725490196,
+						},
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["font"] = "默认",
+						["borderthickness"] = 0,
+						["fontflags"] = "OUTLINE",
+						["fontsize"] = 15,
+						["height"] = 21,
+						["texture"] = "ElvUI Norm",
+					},
 					["barbgcolor"] = {
 						["a"] = 0.400000035762787,
 						["b"] = 0,
@@ -765,24 +781,8 @@ SkadaDB = {
 						["height"] = 161.000198364258,
 						["bordertexture"] = "Blizzard Chat Bubble",
 					},
-					["title"] = {
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["b"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["r"] = 0.00784313725490196,
-						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["font"] = "默认",
-						["borderthickness"] = 0,
-						["height"] = 21,
-						["fontflags"] = "OUTLINE",
-						["fontsize"] = 15,
-						["texture"] = "ElvUI Norm",
-					},
-					["barfont"] = "默认",
+					["name"] = "当前",
+					["x"] = 0,
 				}, -- [1]
 				{
 					["titleset"] = true,

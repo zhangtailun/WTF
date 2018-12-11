@@ -72,6 +72,9 @@ WeakAurasSaved = {
 		["还击"] = {
 			[199754] = 132269,
 		},
+		["重伤"] = {
+			[240559] = 132090,
+		},
 		["践踏"] = {
 			[272874] = 1373907,
 			[240447] = 136025,
@@ -82,14 +85,14 @@ WeakAurasSaved = {
 		["感染之伤"] = {
 			[258323] = 132099,
 		},
-		["重伤"] = {
-			[240559] = 132090,
+		["蚀刻"] = {
+			[263943] = 136202,
 		},
 		["恶性病原体"] = {
 			[261440] = 132104,
 		},
-		["蚀刻"] = {
-			[263943] = 136202,
+		["暗影映像：爆发"] = {
+			[236710] = 1357814,
 		},
 		["可乘之机"] = {
 			[195627] = 1373908,
@@ -106,45 +109,45 @@ WeakAurasSaved = {
 		["夜刃"] = {
 			[195452] = 1373907,
 		},
-		["暗影映像：爆发"] = {
-			[236710] = 1357814,
+		["猩红风暴"] = {
+			[121411] = 464079,
 		},
 		["恐怖光环"] = {
 			[268086] = 615099,
 		},
-		["猩红风暴"] = {
-			[121411] = 464079,
-		},
-		["割裂"] = {
-			[1943] = 132302,
-		},
-		["恶魔活力"] = {
-			[235538] = 841219,
+		["光明灌注"] = {
+			[235213] = 461859,
 		},
 		["艾泽里特觅心者"] = {
 			[262515] = 249174,
 			[262513] = 249174,
 		},
-		["光明灌注"] = {
-			[235213] = 461859,
+		["恶魔活力"] = {
+			[235538] = 841219,
 		},
-		["暗影斗篷"] = {
-			[31224] = 136177,
+		["割裂"] = {
+			[1943] = 132302,
 		},
 		["瘟疫"] = {
 			[269686] = 804968,
 		},
+		["暗影斗篷"] = {
+			[31224] = 136177,
+		},
 		["铁树皮盾"] = {
 			[261265] = 572025,
-		},
-		["湮灭帷幕"] = {
-			[274230] = 1097742,
 		},
 		["不稳定的妖术"] = {
 			[252781] = 797327,
 		},
+		["湮灭帷幕"] = {
+			[274230] = 1097742,
+		},
 		["暮光扫射"] = {
 			[236516] = 1391677,
+		},
+		["骨牢护甲"] = {
+			[236513] = 458717,
 		},
 		["刽子手的套索"] = {
 			[261428] = 134326,
@@ -169,8 +172,9 @@ WeakAurasSaved = {
 			[260838] = 369278,
 			[260829] = 369278,
 		},
-		["骨牢护甲"] = {
-			[236513] = 458717,
+		["苦痛之矛"] = {
+			[235924] = 135131,
+			[238442] = 135131,
 		},
 		["荆棘弹幕"] = {
 			[265761] = 136104,
@@ -212,9 +216,8 @@ WeakAurasSaved = {
 		["暗影之舞"] = {
 			[185422] = 236279,
 		},
-		["苦痛之矛"] = {
-			[235924] = 135131,
-			[238442] = 135131,
+		["腐烂之触"] = {
+			[265881] = 132102,
 		},
 		["防腐液"] = {
 			[271564] = 461804,
@@ -228,9 +231,6 @@ WeakAurasSaved = {
 		["月光弹幕"] = {
 			[237351] = 429383,
 		},
-		["腐烂之触"] = {
-			[265881] = 132102,
-		},
 		["臃肿肥胖"] = {
 			[275129] = 2032223,
 		},
@@ -239,6 +239,9 @@ WeakAurasSaved = {
 		},
 		["窒息之暗"] = {
 			[233901] = 136194,
+		},
+		["切割旋风"] = {
+			[276286] = 236170,
 		},
 		["死亡标记"] = {
 			[137619] = 236364,
@@ -249,11 +252,11 @@ WeakAurasSaved = {
 		["锁喉"] = {
 			[703] = 132297,
 		},
-		["切割旋风"] = {
-			[276286] = 236170,
-		},
 		["吐金"] = {
 			[265773] = 646669,
+		},
+		["疾影"] = {
+			[212800] = 1305150,
 		},
 		["痛楚"] = {
 			[980] = 136139,
@@ -264,14 +267,14 @@ WeakAurasSaved = {
 		["颠覆"] = {
 			[259718] = 236188,
 		},
-		["疾影"] = {
-			[212800] = 1305150,
+		["腐败之血"] = {
+			[263227] = 1035037,
 		},
 		["进食狂热"] = {
 			[242705] = 1120132,
 		},
-		["腐败之血"] = {
-			[263227] = 1035037,
+		["泰坦之壁"] = {
+			[235028] = 135874,
 		},
 		["不稳定的符文印记"] = {
 			[260703] = 633004,
@@ -293,23 +296,23 @@ WeakAurasSaved = {
 		["碎甲重击"] = {
 			[274633] = 132363,
 		},
-		["泰坦之壁"] = {
-			[235028] = 135874,
+		["爆裂"] = {
+			[240443] = 1035055,
 		},
-		["无尽黑暗"] = {
-			[268309] = 136197,
+		["戈霍恩之蚀"] = {
+			[260685] = 1394889,
 		},
 		["暗影之刃"] = {
 			[121471] = 376022,
 		},
-		["爆炸"] = {
-			[256105] = 878211,
-		},
 		["冲动"] = {
 			[13750] = 136206,
 		},
-		["爆裂"] = {
-			[240443] = 1035055,
+		["爆炸"] = {
+			[256105] = 878211,
+		},
+		["阴影弥漫"] = {
+			[234996] = 463284,
 		},
 		["死疽溃烂"] = {
 			[209858] = 458736,
@@ -327,14 +330,14 @@ WeakAurasSaved = {
 		["溺毙者之触"] = {
 			[268322] = 136148,
 		},
-		["千魂之暗"] = {
-			[239216] = 136123,
-		},
 		["消毒打击"] = {
 			[267787] = 132363,
 		},
-		["阴影弥漫"] = {
-			[234996] = 463284,
+		["千魂之暗"] = {
+			[239216] = 136123,
+		},
+		["掩护"] = {
+			[272144] = 132361,
 		},
 		["黑暗交易"] = {
 			[267409] = 633004,
@@ -348,8 +351,8 @@ WeakAurasSaved = {
 		["萦绕恐惧"] = {
 			[265882] = 633004,
 		},
-		["掩护"] = {
-			[272144] = 132361,
+		["瘟疫炸弹"] = {
+			[266948] = 1392546,
 		},
 		["毒伤"] = {
 			[32645] = 132287,
@@ -366,8 +369,8 @@ WeakAurasSaved = {
 		["恶魔变形"] = {
 			[162264] = 1247262,
 		},
-		["瘟疫炸弹"] = {
-			[266948] = 1392546,
+		["毒性打击"] = {
+			[257437] = 236270,
 		},
 		["小型强化结界"] = {
 			[268212] = 1589501,
@@ -381,14 +384,14 @@ WeakAurasSaved = {
 		["力量的低语"] = {
 			[267037] = 1386549,
 		},
-		["毒性打击"] = {
-			[257437] = 236270,
+		["腐烂孢子"] = {
+			[273226] = 132099,
 		},
 		["猩红之瓶"] = {
 			[185311] = 1373904,
 		},
-		["腐烂孢子"] = {
-			[273226] = 132099,
+		["污染墨汁"] = {
+			[232913] = 1500933,
 		},
 		["冰镇汽水"] = {
 			[280604] = 1698701,
@@ -399,11 +402,11 @@ WeakAurasSaved = {
 		["神圣马驹"] = {
 			[221886] = 1360759,
 		},
-		["污染墨汁"] = {
-			[232913] = 1500933,
+		["故障"] = {
+			[233739] = 134070,
 		},
-		["复仇之怒"] = {
-			[31884] = 135875,
+		["消失"] = {
+			[11327] = 132331,
 		},
 		["衰弱怒吼"] = {
 			[258128] = 589118,
@@ -411,11 +414,8 @@ WeakAurasSaved = {
 		["灵魂盛宴"] = {
 			[256577] = 1386547,
 		},
-		["消失"] = {
-			[11327] = 132331,
-		},
-		["重组冲击"] = {
-			[263504] = 1408832,
+		["复仇之怒"] = {
+			[31884] = 135875,
 		},
 		["净化协议"] = {
 			[241008] = 135796,
@@ -424,41 +424,44 @@ WeakAurasSaved = {
 			[1784] = 132320,
 			[115191] = 132320,
 		},
+		["疾跑"] = {
+			[2983] = 132307,
+		},
 		["符文印记"] = {
 			[264105] = 252272,
 		},
 		["侧袭"] = {
 			[121153] = 236274,
 		},
-		["强势连击"] = {
-			[193356] = 1393014,
+		["迅捷结界"] = {
+			[267888] = 965900,
 		},
 		["瞄准火炮"] = {
 			[272421] = 132212,
 		},
-		["迅捷结界"] = {
-			[267888] = 965900,
+		["强势连击"] = {
+			[193356] = 1393014,
 		},
 		["净化光线"] = {
 			[270289] = 892832,
 		},
-		["疾跑"] = {
-			[2983] = 132307,
+		["圣盾术"] = {
+			[642] = 524354,
 		},
 		["恶臭沼气"] = {
 			[262313] = 538518,
 		},
-		["圣盾术"] = {
-			[642] = 524354,
-		},
 		["污血"] = {
 			[255558] = 136008,
+		},
+		["虚空鞭笞"] = {
+			[265264] = 537022,
 		},
 		["胜利"] = {
 			[32216] = 132342,
 		},
-		["虚空鞭笞"] = {
-			[265264] = 537022,
+		["剑刃乱舞"] = {
+			[13877] = 132350,
 		},
 		["月光弥漫"] = {
 			[234995] = 1041231,
@@ -471,17 +474,17 @@ WeakAurasSaved = {
 			[265129] = 136133,
 			[267160] = 136133,
 		},
-		["剑刃乱舞"] = {
-			[13877] = 132350,
+		["强化结界"] = {
+			[267904] = 1589501,
 		},
 		["充电"] = {
 			[266923] = 237587,
 		},
-		["强化结界"] = {
-			[267904] = 1589501,
-		},
 		["腐烂恶臭"] = {
 			[262314] = 136182,
+		},
+		["折磨哀嚎"] = {
+			[238018] = 463286,
 		},
 		["宿敌"] = {
 			[79140] = 458726,
@@ -495,8 +498,8 @@ WeakAurasSaved = {
 		["折磨"] = {
 			[236548] = 1305154,
 		},
-		["折磨哀嚎"] = {
-			[238018] = 463286,
+		["死亡棱镜"] = {
+			[268202] = 136202,
 		},
 		["切割冲击"] = {
 			[267818] = 1029585,
@@ -510,8 +513,8 @@ WeakAurasSaved = {
 		["佯攻"] = {
 			[1966] = 132294,
 		},
-		["闪电之盾"] = {
-			[263246] = 136051,
+		["盲目怒火"] = {
+			[257739] = 841383,
 		},
 		["妨害切割"] = {
 			[273930] = 236304,
@@ -519,32 +522,14 @@ WeakAurasSaved = {
 		["鲜血灌注"] = {
 			[260668] = 135949,
 		},
-		["死亡棱镜"] = {
-			[268202] = 136202,
-		},
-		["隐刃"] = {
-			[270070] = 236273,
-		},
-		["小型迅捷结界"] = {
-			[268183] = 965900,
-		},
-		["铁之凝视"] = {
-			[260954] = 1357795,
-		},
-		["虚空种子"] = {
-			[276297] = 1386548,
+		["抓钩诱捕"] = {
+			[265377] = 134325,
 		},
 		["释放混沌"] = {
 			[234059] = 135795,
 		},
-		["盲目怒火"] = {
-			[257739] = 841383,
-		},
-		["减速药膏"] = {
-			[3408] = 132274,
-		},
-		["回响之痛"] = {
-			[233983] = 136181,
+		["铁之凝视"] = {
+			[260954] = 1357795,
 		},
 		["碎裂星辰"] = {
 			[233272] = 517112,
@@ -552,13 +537,31 @@ WeakAurasSaved = {
 		["爆炎弹"] = {
 			[256201] = 252172,
 		},
-		["严寒打击"] = {
-			[233429] = 237526,
+		["闪电之盾"] = {
+			[263246] = 136051,
+		},
+		["小型迅捷结界"] = {
+			[268183] = 965900,
+		},
+		["减速药膏"] = {
+			[3408] = 132274,
+		},
+		["回响之痛"] = {
+			[233983] = 136181,
 		},
 		["逆流"] = {
 			[264166] = 893778,
 			[264144] = 893778,
 			[265366] = 893778,
+		},
+		["虚空种子"] = {
+			[276297] = 1386548,
+		},
+		["严寒打击"] = {
+			[233429] = 237526,
+		},
+		["隐刃"] = {
+			[270070] = 236273,
 		},
 		["割肉"] = {
 			[268214] = 1392953,
@@ -594,11 +597,11 @@ WeakAurasSaved = {
 		["诡诈"] = {
 			[115192] = 571317,
 		},
-		["致伤药膏"] = {
-			[8679] = 134197,
-		},
 		["上古摧心者"] = {
 			[269131] = 462324,
+		},
+		["致伤药膏"] = {
+			[8679] = 134197,
 		},
 		["邪能灌注"] = {
 			[235240] = 135795,
@@ -609,8 +612,8 @@ WeakAurasSaved = {
 		["破碎尖叫"] = {
 			[236515] = 1391780,
 		},
-		["故障"] = {
-			[233739] = 134070,
+		["重组冲击"] = {
+			[263504] = 1408832,
 		},
 		["灵魂世界"] = {
 			[235621] = 636335,
@@ -624,11 +627,11 @@ WeakAurasSaved = {
 		["星界易伤"] = {
 			[236330] = 135864,
 		},
-		["能量衰竭"] = {
-			[274205] = 133018,
-		},
 		["锯齿荨麻"] = {
 			[260741] = 959837,
+		},
+		["能量衰竭"] = {
+			[274205] = 133018,
 		},
 		["带电鳞片"] = {
 			[272659] = 136051,
@@ -645,8 +648,8 @@ WeakAurasSaved = {
 		["浸透"] = {
 			[231770] = 463570,
 		},
-		["戈霍恩之蚀"] = {
-			[260685] = 1394889,
+		["无尽黑暗"] = {
+			[268309] = 136197,
 		},
 		["瘙痒叮咬"] = {
 			[260016] = 538518,
@@ -676,11 +679,11 @@ WeakAurasSaved = {
 		["暗鲨涌动"] = {
 			[193357] = 1269441,
 		},
-		["漆黑之风"] = {
-			[242017] = 1394892,
-		},
 		["浸油之刃"] = {
 			[257908] = 1500930,
+		},
+		["漆黑之风"] = {
+			[242017] = 1394892,
 		},
 		["爆发"] = {
 			[235974] = 841219,
@@ -805,9 +808,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["stickyDuration"] = false,
+			["internalVersion"] = 9,
 			["text1Containment"] = "INSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -815,11 +818,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOMRIGHT",
-			["authorOptions"] = {
-			},
+			["parent"] = "大秘境词缀监视",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -887,18 +889,19 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["internalVersion"] = 9,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "默认",
-			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["authorOptions"] = {
+			},
+			["text1Font"] = "默认",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -907,9 +910,9 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["width"] = 80,
-			["text2Enabled"] = false,
-			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
+			["text2FontSize"] = 24,
+			["alpha"] = 1,
 			["text1"] = "%s",
 			["glow"] = false,
 			["zoom"] = 0.3,
@@ -918,16 +921,16 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["id"] = "Necrotic Rot self",
 			["text1FontFlags"] = "THICKOUTLINE",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境词缀监视",
+			["selfPoint"] = "CENTER",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 458736,
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 		},
 		["06 Locus of Corruption"] = {
 			["text2Point"] = "CENTER",
@@ -1226,7 +1229,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["useTooltip"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -1244,7 +1247,7 @@ WeakAurasSaved = {
 				},
 			},
 			["glow"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["useTooltip"] = false,
 			["displayIcon"] = 136235,
 			["desaturate"] = false,
 			["progressPrecision"] = 0,
@@ -1431,26 +1434,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -1462,8 +1453,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 132298,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1004",
@@ -1517,10 +1507,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -1547,19 +1537,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Ground Crush",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "aAO2vDSBq5L",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["R_DS3"] = {
 			["sparkWidth"] = 10,
@@ -1956,15 +1959,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -1972,15 +1971,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -2032,21 +2026,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "你是目标",
 			["text2Color"] = {
 				1, -- [1]
@@ -2057,20 +2056,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Azerite Heartseeker 2",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "IyuZL3X3R4w",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["02 Spreading Epidemic"] = {
 			["text2Point"] = "CENTER",
@@ -2117,31 +2120,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = true,
+			["stickyDuration"] = false,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["icon"] = true,
+			["authorOptions"] = {
 			},
 			["glow"] = false,
-			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -2150,10 +2136,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["text2Font"] = "Arial Narrow",
+			["xOffset"] = 0,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -2207,35 +2193,29 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["internalVersion"] = 9,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["animations"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-				},
-			},
-			["width"] = 80,
-			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["icon"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["width"] = 80,
+			["alpha"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Font"] = "Arial Narrow",
+			["text1Font"] = "默认",
 			["text2FontSize"] = 25,
 			["frameStrata"] = 1,
 			["text1"] = "分散",
@@ -2250,7 +2230,17 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "02 Spreading Epidemic",
-			["text1Font"] = "默认",
+			["animations"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextEnabled"] = true,
@@ -2260,7 +2250,20 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Supression Fire"] = {
 			["text2Point"] = "CENTER",
@@ -2318,25 +2321,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -2349,7 +2340,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -2400,10 +2391,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -2418,7 +2421,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "面前",
@@ -2426,18 +2429,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Supression Fire",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "YQUznt9HGp7",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 524795,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Sonic Screech "] = {
 			["text2Point"] = "CENTER",
@@ -2495,25 +2498,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -2526,7 +2517,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -2577,10 +2568,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -2595,7 +2598,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "停止施法",
@@ -2603,18 +2606,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Sonic Screech ",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "fFUFo2h9VW5",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 252188,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Drain Fluids"] = {
 			["text2Point"] = "CENTER",
@@ -2671,26 +2674,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["xOffset"] = 0,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -2702,7 +2692,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -2725,15 +2715,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -2743,11 +2735,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -2756,10 +2746,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -2777,7 +2767,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -2788,18 +2779,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Drain Fluids",
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["uid"] = "pbtbzvuHb9Y",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["05 Contagion"] = {
 			["text2Point"] = "CENTER",
@@ -2881,7 +2884,6 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -2896,6 +2898,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["selfPoint"] = "CENTER",
 			["glow"] = false,
 			["displayIcon"] = 132096,
 			["stickyDuration"] = false,
@@ -3083,14 +3086,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -3102,7 +3117,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -3154,23 +3169,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -3183,10 +3186,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "AOE",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -3194,16 +3197,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Shipbreaker Storm",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "QQ)PGWrjlJn",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 458176,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Hindering Cleave"] = {
 			["text2Point"] = "CENTER",
@@ -3264,14 +3267,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -3283,7 +3298,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -3335,23 +3350,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -3364,10 +3367,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "躲头前",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -3375,16 +3378,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Hindering Cleave",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "FNiX33H187t",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 460959,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Metamorphosis - CD"] = {
 			["text2Point"] = "CENTER",
@@ -3457,27 +3460,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["selfPoint"] = "CENTER",
-			["text1Enabled"] = false,
+			["useglowColor"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["icon"] = true,
-			["xOffset"] = 0,
-			["stickyDuration"] = false,
+			["glow"] = false,
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -3502,7 +3493,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["desaturate"] = false,
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -3558,9 +3549,27 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
-			["useglowColor"] = false,
-			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
+			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -3576,7 +3585,7 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["cooldownTextEnabled"] = false,
@@ -3589,23 +3598,17 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "Metamorphosis - CD",
-			["text1Containment"] = "INSIDE",
+			["icon"] = true,
 			["alpha"] = 1,
 			["width"] = 50,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Enabled"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["cooldownEdge"] = false,
 		},
 		["Brutal Blackhand"] = {
 			["text2Point"] = "CENTER",
@@ -3663,25 +3666,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -3694,7 +3685,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -3745,10 +3736,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["desaturate"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -3763,7 +3766,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲头前",
@@ -3771,18 +3774,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["xOffset"] = 0,
 			["id"] = "Brutal Blackhand",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "Yjm85FRsglm",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132298,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["08 Collapse"] = {
 			["text2Point"] = "CENTER",
@@ -4009,7 +4012,8 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["yOffset"] = -130,
+			["authorOptions"] = {
+			},
 			["expanded"] = false,
 			["triggers"] = {
 				{
@@ -4032,10 +4036,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
-			["internalVersion"] = 9,
+			["yOffset"] = -130,
 			["borderOffset"] = 5,
+			["internalVersion"] = 9,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -4208,53 +4211,26 @@ WeakAurasSaved = {
 			},
 			["useTooltip"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "preset",
-					["duration_type"] = "seconds",
-					["preset"] = "fade",
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["scalex"] = 1,
-					["alphaType"] = "straight",
-					["colorA"] = 1,
-					["colorG"] = 1,
-					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
-					["use_alpha"] = true,
-					["type"] = "none",
-					["scaley"] = 1,
-					["alpha"] = 0,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["duration_type"] = "seconds",
-					["colorB"] = 1,
-					["colorFunc"] = "",
-					["rotate"] = 0,
-					["use_color"] = false,
-					["x"] = 0,
-				},
-				["finish"] = {
-					["type"] = "preset",
-					["duration_type"] = "seconds",
-					["preset"] = "fade",
-				},
-			},
-			["cooldownEdge"] = false,
-			["color"] = {
+			["selfPoint"] = "CENTER",
+			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Point"] = "CENTER",
-			["text1Containment"] = "INSIDE",
+			["useglowColor"] = false,
+			["parent"] = "DZ监视",
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "BOTTOMRIGHT",
-			["cooldownTextEnabled"] = true,
+			["icon"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 38,
-			["authorOptions"] = {
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["load"] = {
 				["talent2"] = {
@@ -4305,14 +4281,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
+			["text2Point"] = "CENTER",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -4326,28 +4297,60 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["alpha"] = 1,
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2FontSize"] = 20,
-			["parent"] = "DZ监视",
+			["text2Font"] = "Homespun",
 			["text1"] = "%s",
 			["text2"] = "%s%c",
 			["text1Enabled"] = false,
 			["zoom"] = 0,
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
 			["id"] = "Stealth",
 			["text1Font"] = "Homespun",
 			["frameStrata"] = 2,
 			["width"] = 38,
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["inverse"] = true,
-			["text2Font"] = "Homespun",
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["duration_type"] = "seconds",
+					["preset"] = "fade",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["scalex"] = 1,
+					["alphaType"] = "straight",
+					["colorA"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = true,
+					["type"] = "none",
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["y"] = 0,
+					["colorType"] = "custom",
+					["duration_type"] = "seconds",
+					["colorB"] = 1,
+					["colorFunc"] = "",
+					["rotate"] = 0,
+					["use_color"] = false,
+					["x"] = 0,
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["duration_type"] = "seconds",
+					["preset"] = "fade",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 		},
 		["08 Blood Host"] = {
 			["text2Point"] = "CENTER",
@@ -4407,7 +4410,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -4424,7 +4427,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["displayIcon"] = 460857,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -4550,18 +4553,18 @@ WeakAurasSaved = {
 		["进入战斗"] = {
 			["outline"] = "OUTLINE",
 			["fontSize"] = 25,
+			["authorOptions"] = {
+			},
+			["xOffset"] = -243.368347167969,
+			["displayText"] = "战斗状态",
+			["customText"] = "function()\n    local percent = (UnitPower(\"player\")/UnitPowerMax(\"player\"))*100\n    local base,casting = GetManaRegen()\n    local isCasting = UnitCastingInfo(\"player\")\n    if isCasting then\n        regen = casting\n    else \n        regen = base\n    end\n    local regenPercent = (regen/UnitPowerMax(\"player\"))*100\n    return (\"%.0f\"):format(percent)\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			["yOffset"] = -125,
+			["anchorPoint"] = "CENTER",
 			["color"] = {
 				0.925490196078432, -- [1]
 				0.141176470588235, -- [2]
 				0, -- [3]
 				1, -- [4]
-			},
-			["parent"] = "战斗状态",
-			["displayText"] = "战斗状态",
-			["customText"] = "function()\n    local percent = (UnitPower(\"player\")/UnitPowerMax(\"player\"))*100\n    local base,casting = GetManaRegen()\n    local isCasting = UnitCastingInfo(\"player\")\n    if isCasting then\n        regen = casting\n    else \n        regen = base\n    end\n    local regenPercent = (regen/UnitPowerMax(\"player\"))*100\n    return (\"%.0f\"):format(percent)\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-			["yOffset"] = -125,
-			["anchorPoint"] = "CENTER",
-			["authorOptions"] = {
 			},
 			["regionType"] = "text",
 			["fixedWidth"] = 200,
@@ -4610,7 +4613,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["xOffset"] = -243.368347167969,
+			["parent"] = "战斗状态",
 			["internalVersion"] = 9,
 			["justify"] = "LEFT",
 			["animation"] = {
@@ -4756,8 +4759,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -4766,15 +4769,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = false,
-			["useglowColor"] = false,
-			["desaturate"] = true,
+			["cooldownTextEnabled"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "BOTTOMRIGHT",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -4835,10 +4843,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
-			["cooldownTextEnabled"] = false,
-			["cooldownEdge"] = false,
+			["icon"] = true,
+			["glow"] = false,
+			["xOffset"] = -53,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -4854,31 +4861,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["text2Font"] = "Friz Quadrata TT",
-			["text1"] = "%s",
-			["zoom"] = 0.3,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2"] = "%p",
-			["auto"] = true,
-			["icon"] = true,
-			["id"] = "Fracture - CD - 0",
-			["text1Containment"] = "INSIDE",
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -4894,10 +4876,31 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1"] = "%s",
+			["zoom"] = 0.3,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2"] = "%p",
+			["auto"] = true,
+			["desaturate"] = true,
+			["id"] = "Fracture - CD - 0",
+			["useglowColor"] = false,
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["stickyDuration"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = -53,
+			["authorOptions"] = {
+			},
 		},
 		["08 Putrid Blood"] = {
 			["text2Point"] = "CENTER",
@@ -5153,35 +5156,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "DH复仇监视",
-			["text1Enabled"] = true,
+			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["stickyDuration"] = false,
-			["internalVersion"] = 9,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["desaturate"] = false,
+			["cooldownEdge"] = false,
+			["useglowColor"] = false,
+			["stickyDuration"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "BOTTOMRIGHT",
 			["conditions"] = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["cooldownTextEnabled"] = true,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -5242,9 +5236,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
-			["useglowColor"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
+			["parent"] = "DH复仇监视",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -5257,7 +5251,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text1FontFlags"] = "OUTLINE",
 			["text2FontSize"] = 24,
 			["text1Color"] = {
@@ -5271,11 +5265,20 @@ WeakAurasSaved = {
 			["glow"] = false,
 			["text2"] = "%p",
 			["auto"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["id"] = "Spirit Bomb - Available",
 			["frameStrata"] = 1,
@@ -5289,7 +5292,7 @@ WeakAurasSaved = {
 			},
 			["displayIcon"] = 1097742,
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 		},
 		["Blazing Azerite"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -5355,9 +5358,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -5366,10 +5370,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -5421,50 +5425,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "易伤",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Blazing Azerite",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "易伤",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Blazing Azerite",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "mDqCF)3Pbax",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Aura of Apathy"] = {
 			["text2Point"] = "CENTER",
@@ -5521,26 +5524,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -5552,7 +5542,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -5573,17 +5563,15 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["single"] = "HEALER",
-					["multi"] = {
-						["TANK"] = true,
-					},
-				},
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -5596,21 +5584,23 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["use_zone"] = false,
+				["role"] = {
+					["single"] = "HEALER",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
-				["use_zoneId"] = true,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -5628,7 +5618,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -5639,18 +5630,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Aura of Apathy",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["uid"] = "BKjSJHXZUBV",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 		},
 		["Mental Assault"] = {
 			["text2Point"] = "CENTER",
@@ -5706,26 +5709,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -5737,8 +5728,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136125,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -5792,10 +5782,23 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -5822,19 +5825,19 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Mental Assault",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["parent"] = "大秘境技能监视",
 			["uid"] = "8M)THdKH1h)",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 		},
 		["07 Annihilation"] = {
 			["text2Point"] = "CENTER",
@@ -6088,14 +6091,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6107,7 +6122,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -6159,23 +6174,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -6188,10 +6191,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "AOE",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -6199,16 +6202,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Static Shock",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "Gt(OU7OC8Qr",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 237587,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Sandstorm"] = {
 			["text2Point"] = "CENTER",
@@ -6267,14 +6270,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6286,7 +6301,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "974, 975, 976, 977, 978, 979, 980",
@@ -6338,23 +6353,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -6367,10 +6370,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "狂风",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -6378,16 +6381,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Sandstorm",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "YJLIMk9YeuT",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 796638,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["03 High Energy"] = {
 			["text2Point"] = "CENTER",
@@ -6448,7 +6451,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "默认",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -6589,7 +6592,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "默认",
+			["internalVersion"] = 9,
 		},
 		["灵魂碎片5"] = {
 			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
@@ -6763,13 +6766,13 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "event",
 						["debuffType"] = "HARMFUL",
-						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unitID, lineID, spellID = ...\n        if unitID == \"boss1\" then \n            if spellID == 267019 then\n                return true\n            end\n        end\n    end\nend",
+						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
 						["event"] = "Combat Log",
+						["name"] = "Shockwave Stomp",
+						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unitID, lineID, spellID = ...\n        if unitID == \"boss1\" then \n            if spellID == 267019 then\n                return true\n            end\n        end\n    end\nend",
+						["use_spellId"] = false,
 						["spellIds"] = {
 						},
-						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
-						["use_spellId"] = false,
-						["name"] = "Shockwave Stomp",
 						["unevent"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
@@ -6785,7 +6788,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -6802,7 +6805,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["displayIcon"] = 1519263,
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -6986,7 +6989,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -7010,7 +7013,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["displayIcon"] = 458969,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -7387,25 +7390,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -7418,7 +7409,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -7469,10 +7460,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["desaturate"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -7487,7 +7490,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "停止施法",
@@ -7495,18 +7498,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["xOffset"] = 0,
 			["id"] = "Shattering Bellow",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "CIBu2MOK7ma",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 589118,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Raging Gaze"] = {
 			["text2Point"] = "CENTER",
@@ -7565,15 +7568,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -7581,15 +7580,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -7641,21 +7635,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "被追踪",
 			["text2Color"] = {
 				1, -- [1]
@@ -7666,20 +7665,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Raging Gaze",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "twQ2L86kIfX",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["07 Xalzaix Attackable"] = {
 			["text2Point"] = "CENTER",
@@ -7765,11 +7768,24 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
 			["internalVersion"] = 9,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["glow"] = false,
+			["text2Font"] = "Arial Narrow",
 			["displayIcon"] = 632353,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -7895,20 +7911,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 		},
 		["06 Anchors Decaying Flesh to Nameplate (by asakawa)"] = {
 			["text2Point"] = "CENTER",
@@ -7979,7 +7982,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text1Enabled"] = false,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -8131,7 +8134,7 @@ WeakAurasSaved = {
 			["glow"] = true,
 			["displayIcon"] = 1029009,
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 		},
 		["Banana Rampage"] = {
 			["text2Point"] = "CENTER",
@@ -8189,25 +8192,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -8220,7 +8211,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -8271,10 +8262,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["desaturate"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -8289,7 +8292,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -8297,18 +8300,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Banana Rampage",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 			["uid"] = "Z4n(GBIyrpQ",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 133980,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Charge 2"] = {
 			["text2Point"] = "CENTER",
@@ -8369,14 +8372,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8388,7 +8403,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1041, 1042",
@@ -8440,23 +8455,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -8469,10 +8472,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "叠层",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -8480,16 +8483,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Charge 2",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "8IDUN5iEwOB",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 2011119,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Serrated Teeth"] = {
 			["text2Point"] = "CENTER",
@@ -8548,15 +8551,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8564,15 +8563,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -8624,21 +8618,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "牛批DOT",
 			["text2Color"] = {
 				1, -- [1]
@@ -8649,20 +8648,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Serrated Teeth",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "XyTUBezRWkn",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["08 Mind-Numbing Chatter"] = {
 			["text2Point"] = "CENTER",
@@ -8916,16 +8919,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorOptions"] = {
-			},
-			["glow"] = false,
-			["desaturate"] = false,
+			["xOffset"] = 0,
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8933,15 +8930,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -8964,12 +8956,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -8982,32 +8974,37 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
+			["icon"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["selfPoint"] = "CENTER",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "妖术",
 			["text2Color"] = {
 				1, -- [1]
@@ -9018,19 +9015,25 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text1Enabled"] = true,
+			["text2Enabled"] = false,
 			["id"] = "Unstable Hex",
-			["cooldownEdge"] = false,
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "RVY2gMAJlYj",
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 		},
 		["Death Bolt"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -9094,9 +9097,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -9105,10 +9109,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -9131,12 +9135,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -9149,61 +9153,60 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Death Bolt",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Death Bolt",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "AmO4ufE6zgn",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Rogue_Energy_CBD"] = {
 			["sparkWidth"] = 10,
@@ -9610,7 +9613,7 @@ WeakAurasSaved = {
 			["useglowColor"] = false,
 			["authorOptions"] = {
 			},
-			["useTooltip"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -9663,7 +9666,7 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(trigger)\n    return trigger[1] and (trigger[2] or trigger[3]);\nend\n\n\n\n\n\n\n\n\n\n",
 				["activeTriggerMode"] = 1,
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["useTooltip"] = false,
 			["conditions"] = {
 			},
 			["desaturate"] = false,
@@ -9841,24 +9844,6 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["stickyDuration"] = false,
-			["internalVersion"] = 9,
-			["cooldownTextEnabled"] = true,
-			["text1Containment"] = "INSIDE",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["displayIcon"] = 136145,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -9873,6 +9858,24 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Enabled"] = true,
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["stickyDuration"] = false,
+			["icon"] = true,
+			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["displayIcon"] = 136145,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -9927,11 +9930,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -9944,7 +9946,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["desaturate"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9960,17 +9962,18 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1FontFlags"] = "OUTLINE",
 			["id"] = "08 Explosive Corruption On You",
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = true,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "奥迪尔技能监视",
+			["text2Font"] = "Friz Quadrata TT",
 			["uid"] = "SdJwFdI9RlU",
 			["inverse"] = false,
-			["desaturate"] = true,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "奥迪尔技能监视",
 		},
 		["Static Pulse"] = {
 			["text2Point"] = "CENTER",
@@ -10029,14 +10032,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -10048,7 +10063,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1010",
@@ -10102,23 +10117,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -10131,10 +10134,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "AOE",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -10142,16 +10145,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Static Pulse",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "wSj6y4CH0O2",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 136050,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Tenderize"] = {
 			["text2Point"] = "CENTER",
@@ -10207,26 +10210,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -10238,8 +10229,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 132318,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -10293,10 +10283,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["parent"] = "大秘境技能监视",
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -10323,19 +10313,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Tenderize",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 			["uid"] = "9OKec5zMs0J",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Grievous Wound"] = {
 			["text2Point"] = "CENTER",
@@ -10417,8 +10420,7 @@ WeakAurasSaved = {
 				},
 			},
 			["text1FontFlags"] = "THICKOUTLINE",
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -10427,7 +10429,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOMRIGHT",
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
 			["text1Containment"] = "INSIDE",
@@ -10497,13 +10499,13 @@ WeakAurasSaved = {
 				},
 			},
 			["displayIcon"] = 458736,
-			["text2Font"] = "Friz Quadrata TT",
-			["parent"] = "大秘境词缀监视",
+			["selfPoint"] = "CENTER",
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["stickyDuration"] = false,
-			["useglowColor"] = false,
+			["internalVersion"] = 9,
+			["glow"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -10527,18 +10529,19 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["frameStrata"] = 1,
 			["id"] = "Grievous Wound",
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 0,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = false,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["icon"] = true,
+			["parent"] = "大秘境词缀监视",
 		},
 		["Flashing Daggers"] = {
 			["text2Point"] = "CENTER",
@@ -10599,14 +10602,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -10618,7 +10633,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -10673,23 +10688,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -10702,10 +10705,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -10713,16 +10716,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Flashing Daggers",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "Rzb2Rw18Uw)",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 236273,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Shocking Claw"] = {
 			["text2Point"] = "CENTER",
@@ -10781,14 +10784,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -10800,7 +10815,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -10854,23 +10869,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -10883,10 +10886,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -10894,16 +10897,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Shocking Claw",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "frUqRPggy5B",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 136050,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["07 Obliteration Beam"] = {
 			["text2Point"] = "CENTER",
@@ -10943,13 +10946,13 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "event",
 						["debuffType"] = "HARMFUL",
-						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["name"] = "Shockwave Stomp",
 						["event"] = "Combat Log",
+						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unitID, lineID, spellID = ...\n        if unitID == \"boss1\" then \n            if spellID == 272110 then\n                return true\n            end\n        end\n    end\nend",
+						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["use_spellId"] = false,
 						["spellIds"] = {
 						},
-						["name"] = "Shockwave Stomp",
-						["use_spellId"] = false,
-						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unitID, lineID, spellID = ...\n        if unitID == \"boss1\" then \n            if spellID == 272110 then\n                return true\n            end\n        end\n    end\nend",
 						["unevent"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
@@ -10967,6 +10970,8 @@ WeakAurasSaved = {
 			},
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["icon"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -10981,8 +10986,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["selfPoint"] = "CENTER",
 			["displayIcon"] = 1386551,
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -11350,13 +11353,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -11368,8 +11372,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136147,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -11392,15 +11395,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -11410,11 +11415,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -11423,10 +11426,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -11453,18 +11456,11 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Terrifying Roar",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
-			["uid"] = "E6iMSNGfZWK",
-			["inverse"] = false,
-			["text1Enabled"] = true,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -11479,6 +11475,13 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["uid"] = "E6iMSNGfZWK",
+			["inverse"] = false,
+			["icon"] = true,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["parent"] = "大秘境技能监视",
 		},
 		["Void Reaver - Inactive"] = {
 			["text2Point"] = "CENTER",
@@ -11548,13 +11551,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
 			},
-			["text1Enabled"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -11563,29 +11562,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownTextEnabled"] = true,
+			["cooldownEdge"] = false,
 			["desaturate"] = true,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 237561,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["glow"] = false,
+			["text1Enabled"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -11644,10 +11629,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["cooldownTextEnabled"] = true,
-			["xOffset"] = 66,
+			["internalVersion"] = 9,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -11674,20 +11663,34 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Void Reaver - Inactive",
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["xOffset"] = 66,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["useglowColor"] = false,
 		},
 		["痛苦无常"] = {
 			["grow"] = "RIGHT",
@@ -11733,20 +11736,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["radius"] = 200,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "LEFT",
 			["align"] = "CENTER",
 			["rotation"] = 0,
 			["load"] = {
@@ -11817,7 +11807,20 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["stagger"] = 0,
-			["selfPoint"] = "LEFT",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 		},
 		["整合DBM/BW副本技能预警进度条"] = {
 			["backdropColor"] = {
@@ -11831,21 +11834,21 @@ WeakAurasSaved = {
 				"进度条背景材质", -- [2]
 			},
 			["borderBackdrop"] = "Blizzard Tooltip",
-			["xOffset"] = 274.000793457031,
+			["authorOptions"] = {
+			},
 			["desc"] = "Made by: Bosmutus - Zul'jin(US)",
 			["border"] = false,
-			["yOffset"] = -153.999847412109,
+			["yOffset"] = 390.000122070313,
 			["regionType"] = "group",
 			["borderSize"] = 16,
-			["scale"] = 1,
+			["xOffset"] = 0.00067138671875,
 			["borderColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["authorOptions"] = {
-			},
+			["scale"] = 1,
 			["url"] = "https://wago.io/B1pfxTOtb/25",
 			["actions"] = {
 				["start"] = {
@@ -12015,14 +12018,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -12034,7 +12049,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -12086,23 +12101,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -12115,10 +12118,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -12126,16 +12129,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Terrifying Visage",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "Vbaffvlh13c",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 132111,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Poison Barrage Cone"] = {
 			["text2Point"] = "CENTER",
@@ -12193,13 +12196,25 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["glow"] = false,
+			["text1Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
+			["internalVersion"] = 9,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -12233,20 +12248,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownEdge"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -12297,10 +12299,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = true,
+			["parent"] = "大秘境技能监视",
 			["config"] = {
 			},
-			["internalVersion"] = 9,
+			["xOffset"] = 0,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -12308,8 +12310,9 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["parent"] = "大秘境技能监视",
-			["icon"] = true,
+			["authorOptions"] = {
+			},
+			["glow"] = false,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "On %n",
@@ -12322,18 +12325,18 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["xOffset"] = 0,
+			["desaturate"] = false,
 			["id"] = "Poison Barrage Cone",
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["icon"] = true,
 			["uid"] = "olgF78YeGWO",
 			["inverse"] = false,
-			["desaturate"] = false,
+			["text1Enabled"] = true,
 			["displayIcon"] = 1033905,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["Scabrous Bite"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -12397,9 +12400,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["text1Enabled"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -12408,10 +12412,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -12463,50 +12467,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["text1Enabled"] = true,
-			["text1"] = "降低治疗",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Scabrous Bite",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "降低治疗",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Scabrous Bite",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["icon"] = true,
 			["uid"] = "bVVh)XeLWQy",
 			["inverse"] = false,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["07 Essence Shear (Tank)"] = {
 			["text2Point"] = "CENTER",
@@ -12957,9 +12960,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["parent"] = "大秘境技能监视",
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 0,
+			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -12968,10 +12971,11 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -13023,8 +13027,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
@@ -13035,38 +13039,37 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["useglowColor"] = false,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Font"] = "默认",
-			["text2FontSize"] = 25,
-			["text1Enabled"] = true,
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Soulfeast",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Soulfeast",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["uid"] = "r6PVLbWECiE",
 			["inverse"] = false,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Swiftness Ward self buff"] = {
 			["text2Point"] = "CENTER",
@@ -13146,15 +13149,27 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
 			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -13165,7 +13180,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 965900,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -13218,23 +13233,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -13242,7 +13244,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -13261,19 +13263,20 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["id"] = "Swiftness Ward self buff",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["uid"] = "fIB65TFLNP4",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["icon"] = true,
 		},
 		["Undertow"] = {
 			["text2Point"] = "CENTER",
@@ -13337,10 +13340,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -13349,10 +13351,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -13404,49 +13406,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "击退",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Undertow",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "击退",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Undertow",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "OgIx6QVSzky",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Tectonic Smash"] = {
 			["text2Point"] = "CENTER",
@@ -13505,14 +13508,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -13524,7 +13539,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1010",
@@ -13578,23 +13593,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -13607,10 +13610,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "躲面前",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -13618,16 +13621,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Tectonic Smash",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "ySopHB6pQ07",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 136025,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Merciless Assault"] = {
 			["text2Point"] = "CENTER",
@@ -13685,25 +13688,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -13716,7 +13707,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -13767,10 +13758,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -13785,7 +13788,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "冲锋",
@@ -13793,18 +13796,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Merciless Assault",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "N)nFfeSWZ66",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 999952,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["08 Bursting Boil Cast"] = {
 			["text2Point"] = "CENTER",
@@ -14115,31 +14118,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = true,
+			["stickyDuration"] = false,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["icon"] = true,
+			["authorOptions"] = {
 			},
 			["glow"] = false,
-			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -14148,10 +14134,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["text2Font"] = "Arial Narrow",
+			["xOffset"] = 0,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -14205,35 +14191,29 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["internalVersion"] = 9,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["animations"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-				},
-			},
-			["width"] = 80,
-			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["icon"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["width"] = 80,
+			["alpha"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Font"] = "Arial Narrow",
+			["text1Font"] = "默认",
 			["text2FontSize"] = 25,
 			["frameStrata"] = 1,
 			["text1"] = "追踪",
@@ -14248,7 +14228,17 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "01 Fixate",
-			["text1Font"] = "默认",
+			["animations"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextEnabled"] = true,
@@ -14258,7 +14248,20 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Dust Cloud Self"] = {
 			["text2Point"] = "CENTER",
@@ -14323,14 +14326,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["selfPoint"] = "CENTER",
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = true,
+			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -14339,10 +14337,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["selfPoint"] = "CENTER",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -14394,45 +14392,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Enabled"] = true,
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 30,
+			["frameStrata"] = 1,
+			["text1"] = "未命中",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 30,
-			["icon"] = true,
-			["text1"] = "未命中",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
-			["parent"] = "大秘境技能监视",
 			["id"] = "Dust Cloud Self",
-			["text2Enabled"] = false,
-			["frameStrata"] = 1,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Containment"] = "INSIDE",
+			["glow"] = false,
 			["uid"] = "O1L7fEbw3W(",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
 		},
 		["08 Power Matrix "] = {
 			["text2Point"] = "CENTER",
@@ -14676,7 +14679,17 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Font"] = "默认",
+			["animations"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+				},
+			},
 			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["animation"] = {
@@ -14693,10 +14706,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["stickyDuration"] = false,
 			["desaturate"] = false,
-			["text2Font"] = "Arial Narrow",
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["xOffset"] = 0,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -14704,10 +14717,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["icon"] = true,
+			["glow"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -14761,38 +14774,29 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["icon"] = true,
+			["config"] = {
+			},
+			["authorOptions"] = {
+			},
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "默认",
+			["width"] = 80,
+			["frameStrata"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["config"] = {
-			},
-			["cooldownEdge"] = false,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
-			},
-			["width"] = 80,
-			["frameStrata"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["glow"] = true,
-			["animations"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-				},
 			},
 			["text2FontSize"] = 25,
 			["alpha"] = 1,
@@ -14808,18 +14812,17 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "01 Plasma Discharge",
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "RYbA923Ddgl",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text2Font"] = "Arial Narrow",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 		},
 		["奥迪尔技能监视"] = {
 			["grow"] = "LEFT",
@@ -15083,11 +15086,11 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["radius"] = 200,
-			["expanded"] = false,
+			["hybridSortMode"] = "descending",
 			["constantFactor"] = "RADIUS",
 			["selfPoint"] = "RIGHT",
 			["borderOffset"] = 16,
-			["hybridSortMode"] = "descending",
+			["expanded"] = false,
 			["background"] = "None",
 			["id"] = "奥迪尔技能监视",
 			["anchorPoint"] = "CENTER",
@@ -15162,14 +15165,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["internalVersion"] = 9,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -15180,7 +15195,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 237590,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -15232,23 +15247,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -15261,10 +15264,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "降低治疗",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -15272,17 +15275,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1Font"] = "默认",
 			["id"] = "Oiled Blade",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["uid"] = "Kz(iXI4uOcq",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Heavy Slash"] = {
 			["text2Point"] = "CENTER",
@@ -15340,25 +15343,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -15371,7 +15362,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -15422,10 +15413,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -15440,7 +15443,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲面前",
@@ -15448,18 +15451,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Heavy Slash",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "dBEaSc5KSXM",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132215,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Vile Expulsion"] = {
 			["text2Point"] = "CENTER",
@@ -15520,14 +15523,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -15539,7 +15554,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -15591,23 +15606,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -15620,10 +15623,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "吐息",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -15631,16 +15634,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Vile Expulsion",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "JpMGeQk9MmR",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1029009,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["战斗状态"] = {
 			["backdropColor"] = {
@@ -15831,15 +15834,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -15847,15 +15846,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -15907,21 +15901,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "你是目标",
 			["text2Color"] = {
 				1, -- [1]
@@ -15932,20 +15931,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Soulburn",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "HE1UWSP3(HU",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Charge"] = {
 			["text2Point"] = "CENTER",
@@ -16000,13 +16003,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["stickyDuration"] = false,
-			["text1Enabled"] = true,
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -16019,7 +16035,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["internalVersion"] = 9,
+			["glow"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -16042,7 +16058,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -16050,7 +16066,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -16060,8 +16076,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -16071,24 +16087,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -16101,10 +16103,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["text2Color"] = {
@@ -16117,16 +16119,17 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Charge",
-			["glow"] = true,
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "WTseyMmzRUp",
 			["inverse"] = false,
-			["text1Containment"] = "INSIDE",
+			["authorOptions"] = {
+			},
 			["displayIcon"] = 2011119,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["text2Font"] = "Friz Quadrata TT",
 		},
 		["Deadeye target 2"] = {
 			["text2Point"] = "CENTER",
@@ -16218,11 +16221,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["glow"] = false,
 			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["authorOptions"] = {
 			},
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -16230,10 +16233,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["icon"] = true,
+			["desaturate"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -16285,49 +16288,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
-			["stickyDuration"] = false,
+			["glow"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Font"] = "默认",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["useglowColor"] = false,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text2FontSize"] = 24,
+			["parent"] = "大秘境技能监视",
+			["text1"] = "你是目标",
+			["selfPoint"] = "CENTER",
+			["text2"] = "%p",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["text1Containment"] = "INSIDE",
-			["text1"] = "你是目标",
-			["selfPoint"] = "CENTER",
-			["text2"] = "%p",
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["frameStrata"] = 1,
 			["id"] = "Deadeye target 2",
-			["xOffset"] = 0,
-			["text2Enabled"] = false,
+			["frameStrata"] = 1,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "默认",
+			["text1Containment"] = "INSIDE",
 			["uid"] = "2JR8tq92B5c",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 		},
 		["Minor Swiftness Ward"] = {
 			["text2Point"] = "CENTER",
@@ -16388,14 +16391,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -16407,7 +16422,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -16459,23 +16474,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -16488,10 +16491,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "急速圈倒计时",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -16499,16 +16502,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Minor Swiftness Ward",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "Ngwr)ZyAf4n",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1589500,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Whispers of Power"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -16572,9 +16575,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -16583,10 +16587,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -16609,7 +16613,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -16617,7 +16621,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -16627,8 +16631,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -16638,50 +16642,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "+伤害",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Whispers of Power",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "+伤害",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Whispers of Power",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "3RYHWRezngo",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["08 Explosive Corruption"] = {
 			["text2Point"] = "CENTER",
@@ -16740,8 +16743,10 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["text2Font"] = "Arial Narrow",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -16756,8 +16761,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 9,
-			["selfPoint"] = "CENTER",
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -16972,25 +16975,6 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
-			["internalVersion"] = 9,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["icon"] = true,
-			["cooldownEdge"] = false,
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
-			["displayIcon"] = 136125,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -17005,6 +16989,24 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
+			["cooldownTextEnabled"] = true,
+			["parent"] = "大秘境技能监视",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["displayIcon"] = 136125,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["useglowColor"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -17058,10 +17060,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = true,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
-			["desaturate"] = false,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -17088,19 +17091,19 @@ WeakAurasSaved = {
 			["text1Enabled"] = true,
 			["zoom"] = 0.3,
 			["auto"] = true,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["id"] = "Immune Shield",
-			["parent"] = "大秘境技能监视",
+			["cooldownEdge"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["uid"] = "F90IWsQ4EId",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["glow"] = false,
+			["internalVersion"] = 9,
 		},
 		["Soul Barrier - Active"] = {
 			["text2Point"] = "CENTER",
@@ -17149,8 +17152,10 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["progressPrecision"] = 0,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -17166,15 +17171,8 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["progressPrecision"] = 0,
-			["cooldownTextEnabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Containment"] = "INSIDE",
+			["glow"] = true,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -17185,7 +17183,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 2065625,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["useglowColor"] = false,
+			["parent"] = "DH复仇监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -17244,10 +17242,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["authorOptions"] = {
-			},
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
+			["text1Containment"] = "INSIDE",
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -17256,7 +17253,7 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["frameStrata"] = 1,
-			["glow"] = true,
+			["useglowColor"] = false,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
@@ -17269,16 +17266,22 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["id"] = "Soul Barrier - Active",
-			["desaturate"] = false,
+			["cooldownTextEnabled"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["icon"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -17295,7 +17298,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["parent"] = "DH复仇监视",
+			["cooldownEdge"] = false,
 		},
 		["Blazing Azerite self"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -17361,9 +17364,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -17372,10 +17376,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -17427,50 +17431,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "增伤",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Blazing Azerite self",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "增伤",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Blazing Azerite self",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "LoGxexiB2WL",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Chemical Burn"] = {
 			["text2Point"] = "CENTER",
@@ -17529,15 +17532,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -17545,15 +17544,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -17605,21 +17599,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "DOT",
 			["text2Color"] = {
 				1, -- [1]
@@ -17630,20 +17629,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Chemical Burn",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "Jymu0htsnmr",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Cyclone Strike"] = {
 			["text2Point"] = "CENTER",
@@ -17704,14 +17707,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -17723,7 +17738,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1038, 1043",
@@ -17775,23 +17790,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -17804,10 +17807,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -17815,16 +17818,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Cyclone Strike",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "iDN65p4r21j",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 511543,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Sanguine healing"] = {
 			["text2Point"] = "CENTER",
@@ -17905,9 +17908,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["xOffset"] = 0,
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["stickyDuration"] = false,
+			["desaturate"] = true,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -17915,10 +17918,11 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["internalVersion"] = 9,
+			["authorOptions"] = {
+			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -17985,14 +17989,18 @@ WeakAurasSaved = {
 				},
 			},
 			["displayIcon"] = 136124,
-			["text1Containment"] = "OUTSIDE",
-			["authorOptions"] = {
-			},
+			["text2Font"] = "Friz Quadrata TT",
+			["xOffset"] = 0,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
-			["desaturate"] = true,
-			["parent"] = "大秘境词缀监视",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -18003,7 +18011,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
-			["useglowColor"] = false,
+			["text1Font"] = "Friz Quadrata TT",
 			["text1"] = "healing",
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
@@ -18014,20 +18022,15 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "THICKOUTLINE",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
+			["parent"] = "大秘境词缀监视",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["text1Containment"] = "OUTSIDE",
 		},
 		["02 Sanitizing Strike (Tank)"] = {
 			["text2Point"] = "CENTER",
@@ -18074,19 +18077,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
 			["authorOptions"] = {
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -18095,23 +18093,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownTextEnabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["icon"] = true,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -18165,12 +18150,32 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["width"] = 80,
+			["text2Enabled"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -18182,22 +18187,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["width"] = 80,
-			["text2Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
 			["text1Font"] = "默认",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["text2FontSize"] = 25,
 			["alpha"] = 1,
 			["text1"] = "坦克DOT",
@@ -18207,17 +18197,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "OUTLINE",
 			["id"] = "02 Sanitizing Strike (Tank)",
-			["text2Font"] = "Arial Narrow",
+			["icon"] = true,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["uid"] = "xenl4TFkDKY",
 			["inverse"] = false,
-			["glow"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 		},
 		["Rogue_Energy_Model"] = {
 			["textFlags"] = "None",
@@ -18538,9 +18541,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -18549,10 +18553,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -18604,50 +18608,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "降低治疗",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Plague",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "降低治疗",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Plague",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "oXZOObsGyYN",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Neurotoxin"] = {
 			["text2Point"] = "CENTER",
@@ -18713,15 +18716,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -18729,15 +18728,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -18760,7 +18754,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -18768,7 +18762,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -18778,8 +18772,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -18789,21 +18783,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "别动！",
 			["text2Color"] = {
 				1, -- [1]
@@ -18814,20 +18813,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Neurotoxin",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "cO5qbWrdbHq",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Soulrend"] = {
 			["text2Point"] = "CENTER",
@@ -18886,14 +18889,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -18905,7 +18920,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -18929,15 +18944,13 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
-						["HEALER"] = true,
-						["DAMAGER"] = true,
 					},
 				},
 				["faction"] = {
@@ -18949,34 +18962,24 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
+						["HEALER"] = true,
+						["DAMAGER"] = true,
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -18989,10 +18992,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "碎魂",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -19000,16 +19003,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Soulrend",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "OqkAGxEuiCQ",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1354410,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Savage Cleave 2"] = {
 			["text2Point"] = "CENTER",
@@ -19073,10 +19076,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -19085,10 +19087,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -19140,49 +19142,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "牛批DOT",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Savage Cleave 2",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "牛批DOT",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Savage Cleave 2",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "cEkFUSjsZNQ",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["术士资源监控"] = {
 			["backdropColor"] = {
@@ -19208,7 +19211,7 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["borderOffset"] = 5,
-			["expanded"] = false,
+			["expanded"] = true,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -19563,26 +19566,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -19594,8 +19585,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 628134,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1004",
@@ -19649,10 +19639,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -19679,19 +19669,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Barrle Through",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "Y1uEQquDgWH",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["02 Uldir Defensive Beam"] = {
 			["text2Point"] = "CENTER",
@@ -19752,7 +19755,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -19768,7 +19771,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["cooldownTextEnabled"] = true,
 			["displayIcon"] = 1698700,
 			["text1Containment"] = "INSIDE",
@@ -19950,13 +19953,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["text1Containment"] = "INSIDE",
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -19968,7 +19971,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -20022,11 +20025,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -20044,23 +20046,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["text1Font"] = "默认",
-			["text2FontSize"] = 24,
-			["frameStrata"] = 1,
-			["text1"] = "DOT",
-			["text2"] = "%p",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["id"] = "Lingering Dread",
-			["useglowColor"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
-			["uid"] = "KG8ujwGeuwh",
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -20075,10 +20060,28 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Font"] = "默认",
+			["text2FontSize"] = 24,
+			["frameStrata"] = 1,
+			["text1"] = "DOT",
+			["text2"] = "%p",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1FontFlags"] = "THICKOUTLINE",
+			["id"] = "Lingering Dread",
+			["parent"] = "大秘境技能监视",
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 9,
+			["uid"] = "KG8ujwGeuwh",
+			["inverse"] = false,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Fel Barrage - CD"] = {
 			["text2Point"] = "CENTER",
@@ -20131,27 +20134,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Enabled"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
-			["icon"] = true,
-			["desaturate"] = false,
+			["glow"] = false,
+			["text1Enabled"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -20176,7 +20166,12 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text1Containment"] = "INSIDE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -20238,9 +20233,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["useglowColor"] = false,
-			["glow"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 111.00012207031,
+			["cooldownEdge"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -20256,12 +20251,7 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Containment"] = "INSIDE",
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["cooldownTextEnabled"] = false,
@@ -20274,18 +20264,31 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "Fel Barrage - CD",
-			["text2Font"] = "Friz Quadrata TT",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["cooldownEdge"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 111.00012207031,
+			["authorOptions"] = {
+			},
 		},
 		["08 Reorgination Blast Buff"] = {
 			["text2Point"] = "CENTER",
@@ -20345,7 +20348,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -20362,7 +20365,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -20545,10 +20548,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -20557,10 +20559,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -20612,49 +20614,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "DOT/分散",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Dark Omen",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "DOT/分散",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Dark Omen",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "JowwIv8IiWT",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Jagged Nettles"] = {
 			["text2Point"] = "CENTER",
@@ -20711,8 +20714,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -20729,8 +20732,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -20742,7 +20746,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -20765,15 +20769,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -20783,11 +20789,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -20796,11 +20800,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -20818,7 +20821,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -20829,17 +20832,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Jagged Nettles",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "Ob0g(rAgg)X",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["08 Dark Young Energy"] = {
 			["text2Point"] = "CENTER",
@@ -20915,9 +20918,8 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -20932,6 +20934,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["selfPoint"] = "CENTER",
 			["xOffset"] = 0,
 			["displayIcon"] = 633004,
 			["text1Containment"] = "INSIDE",
@@ -21051,7 +21054,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 		},
 		["Co-Tank Debuffs (dynamic group!)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -21082,20 +21085,20 @@ WeakAurasSaved = {
 					["trigger"] = {
 						["custom_type"] = "stateupdate",
 						["type"] = "custom",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["unevent"] = "auto",
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["use_absorbMode"] = true,
 						["genericShowOn"] = "showOnActive",
-						["use_unit"] = true,
+						["names"] = {
+						},
 						["subeventSuffix"] = "_CAST_START",
 						["spellIds"] = {
 						},
 						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
 						["custom"] = "function(allstates, event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if (subEvent == \"SPELL_AURA_APPLIED\" or subEvent == \"SPELL_AURA_APPLIED_DOSE\" or subEvent == \"SPELL_AURA_REMOVED_DOSE\" or subEvent == \"SPELL_AURA_REFRESH\") \n        and aura_env.list[spellID] \n        and destGUID~=WeakAuras.myGUID \n        and UnitGroupRolesAssigned(destName)==\"TANK\" and UnitIsVisible(destName)\n        \n        then\n            local _, spellicon, stackcount, _, dur, expTime  = WA_GetUnitAura(destName, spellID, \"HARMFUL\")\n            \n            allstates[destGUID..spellID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = dur,\n                expirationTime = expTime,\n                autoHide = true,\n                name = strsplit(\"-\", WA_ClassColorName(destName)),\n                icon = spellicon,\n                stacks = stackcount,\n            } \n        end\n        if subEvent == \"SPELL_AURA_REMOVED\" and aura_env.list[spellID] then\n            if allstates[destGUID..spellID] then\n                allstates[destGUID..spellID].changed = true\n                allstates[destGUID..spellID].show = false\n            end\n            \n        end\n    end\n    return true\nend\n\n--by causese, thanks asakawa & rehok for surgery/help\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 						["check"] = "event",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["event"] = "Health",
 						["debuffType"] = "HELPFUL",
 					},
@@ -21106,7 +21109,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["cooldownEdge"] = false,
-			["text2Font"] = "默认",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -21247,7 +21250,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["text2Font"] = "默认",
 		},
 		["Yawning Gate"] = {
 			["text2Point"] = "CENTER",
@@ -21324,15 +21327,27 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
 			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -21343,7 +21358,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1022950,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -21397,23 +21412,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -21421,7 +21423,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -21440,19 +21442,20 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["id"] = "Yawning Gate",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["uid"] = "sja4xOvG5CJ",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["icon"] = true,
 		},
 		["04 Roiling Deceit"] = {
 			["text2Point"] = "CENTER",
@@ -21511,8 +21514,10 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["text2Font"] = "Arial Narrow",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -21527,8 +21532,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 9,
-			["selfPoint"] = "CENTER",
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -21711,9 +21714,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -21722,10 +21726,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -21777,50 +21781,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "你易伤",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Slicing Blast",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "你易伤",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Slicing Blast",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "J1gUo5LV)jM",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["05 Gestate"] = {
 			["text2Point"] = "CENTER",
@@ -22082,14 +22085,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -22101,7 +22116,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -22153,23 +22168,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -22182,10 +22185,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "转身！",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -22193,16 +22196,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Blinding Sand",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "F2Md9miQdEq",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 132284,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["08 Malignant Growth"] = {
 			["text2Point"] = "CENTER",
@@ -22690,26 +22693,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["xOffset"] = 0,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -22721,7 +22711,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -22744,15 +22734,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -22762,11 +22754,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -22775,10 +22765,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -22796,7 +22786,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -22807,18 +22798,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Absorbed in Darkness",
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["uid"] = "w8Cpb53kepE",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Numb Hands"] = {
 			["text2Point"] = "CENTER",
@@ -22877,15 +22880,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -22893,15 +22892,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -22924,7 +22918,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -22932,7 +22926,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -22942,8 +22936,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -22953,21 +22947,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "不能拿宝珠",
 			["text2Color"] = {
 				1, -- [1]
@@ -22978,20 +22977,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Numb Hands",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "lN0wXbx0RXV",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["08 Growing Corruption (Tank)"] = {
 			["text2Point"] = "CENTER",
@@ -23091,7 +23094,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["cooldownEdge"] = false,
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -23130,7 +23133,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["displayIcon"] = 633004,
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -23555,8 +23558,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -23573,8 +23576,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -23586,7 +23590,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -23609,15 +23613,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -23627,11 +23633,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -23640,11 +23644,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -23662,7 +23665,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -23673,17 +23676,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Death Lents",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "QTcqL2fpyxx",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Reinforcing Ward"] = {
 			["text2Point"] = "CENTER",
@@ -23772,31 +23775,13 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(t)\n    return t[1] and (t[2] or t[3])\nend",
 				["activeTriggerMode"] = 1,
 			},
-			["text1Containment"] = "INSIDE",
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
+			["xOffset"] = 0,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -23809,7 +23794,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -23861,10 +23846,28 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["internalVersion"] = 9,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -23891,19 +23894,19 @@ WeakAurasSaved = {
 			["desaturate"] = false,
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["glow"] = true,
 			["id"] = "Reinforcing Ward",
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["uid"] = "b04arIinTtI",
 			["inverse"] = false,
-			["glow"] = true,
+			["cooldownTextEnabled"] = true,
 			["displayIcon"] = 1589501,
 			["cooldown"] = true,
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 		},
 		["Darkness - Active"] = {
 			["text2Point"] = "CENTER",
@@ -23953,26 +23956,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
 			["icon"] = true,
-			["text2Font"] = "Friz Quadrata TT",
-			["text1Containment"] = "INSIDE",
+			["glow"] = true,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -23997,8 +23987,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -24056,14 +24045,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = false,
-			["desaturate"] = false,
+			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -24079,25 +24063,44 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["cooldownTextEnabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["id"] = "Darkness - Active",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["glow"] = true,
+			["xOffset"] = 66,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 66,
+			["internalVersion"] = 9,
 		},
 		["Savage Cleave"] = {
 			["text2Point"] = "CENTER",
@@ -24155,25 +24158,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -24186,7 +24177,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -24237,10 +24228,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -24255,7 +24258,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -24263,18 +24266,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Savage Cleave",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "8vOYIVMozgD",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132155,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Last Resort - Active"] = {
 			["text2Point"] = "CENTER",
@@ -24321,28 +24324,20 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
-			["internalVersion"] = 9,
+			["desaturate"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["parent"] = "DH复仇监视",
-			["desaturate"] = true,
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -24353,7 +24348,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1348655,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -24412,14 +24407,23 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["internalVersion"] = 9,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -24427,9 +24431,8 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["text1Enabled"] = false,
-			["authorOptions"] = {
-			},
+			["parent"] = "DH复仇监视",
+			["cooldownEdge"] = false,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
@@ -24442,7 +24445,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text2"] = "%p",
 			["auto"] = false,
-			["cooldownTextEnabled"] = false,
+			["glow"] = false,
 			["id"] = "Last Resort - Active",
 			["text1Color"] = {
 				1, -- [1]
@@ -24452,15 +24455,15 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["icon"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = false,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["icon"] = true,
+			["text1Enabled"] = false,
 		},
 		["Reinforcing Ward boss buff"] = {
 			["text2Point"] = "CENTER",
@@ -24538,15 +24541,27 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
 			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -24557,7 +24572,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1589501,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -24581,13 +24596,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["single"] = "TANK",
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -24600,34 +24614,22 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -24635,7 +24637,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -24654,19 +24656,20 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["id"] = "Reinforcing Ward boss buff",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["uid"] = ")NEjKTnQsgx",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["icon"] = true,
 		},
 		["Immolation Aura - Active"] = {
 			["text2Point"] = "CENTER",
@@ -24716,7 +24719,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -24734,10 +24737,9 @@ WeakAurasSaved = {
 				},
 			},
 			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["authorOptions"] = {
-			},
-			["desaturate"] = false,
+			["parent"] = "DH浩劫监视",
+			["xOffset"] = -22,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -24748,12 +24750,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -24812,9 +24809,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glow"] = true,
-			["text1Enabled"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -24830,22 +24828,27 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["selfPoint"] = "CENTER",
 			["text2"] = "%p",
 			["auto"] = true,
-			["parent"] = "DH浩劫监视",
+			["glow"] = true,
 			["id"] = "Immolation Aura - Active",
-			["icon"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["xOffset"] = -22,
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -24862,7 +24865,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 		},
 		["Imprison - CD"] = {
 			["text2Point"] = "CENTER",
@@ -24944,9 +24947,10 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
-			["parent"] = "DH浩劫监视",
-			["desaturate"] = false,
+			["icon"] = true,
+			["authorOptions"] = {
+			},
+			["stickyDuration"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["conditions"] = {
@@ -24966,7 +24970,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["selfPoint"] = "CENTER",
+			["useglowColor"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -25026,9 +25030,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownEdge"] = false,
-			["icon"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["desaturate"] = false,
+			["parent"] = "DH浩劫监视",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -25044,31 +25053,25 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["glow"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["id"] = "Imprison - CD",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["frameStrata"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["xOffset"] = -22,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = false,
+			["internalVersion"] = 9,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = -22,
+			["cooldownEdge"] = false,
 		},
 		["R_DS2"] = {
 			["sparkWidth"] = 10,
@@ -25460,25 +25463,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -25491,7 +25482,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -25542,10 +25533,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -25560,7 +25563,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -25568,18 +25571,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Lockdown",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "UZ2XrRczynL",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132309,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Wracking Pain"] = {
 			["text2Point"] = "CENTER",
@@ -25638,11 +25641,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Font"] = "默认",
-			["authorOptions"] = {
-			},
-			["glow"] = false,
-			["desaturate"] = false,
+			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -25650,15 +25652,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -25710,8 +25707,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["xOffset"] = 0,
+			["icon"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
@@ -25722,14 +25719,14 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["text1Enabled"] = true,
+			["text1Font"] = "默认",
 			["text1"] = "DOT",
 			["text2Color"] = {
 				1, -- [1]
@@ -25740,19 +25737,25 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["xOffset"] = 0,
+			["text2Enabled"] = false,
 			["id"] = "Wracking Pain",
-			["cooldownEdge"] = false,
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "1mLtumBiCVq",
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 		},
 		["大乱斗 攻速吸血"] = {
 			["glow"] = false,
@@ -25813,24 +25816,19 @@ WeakAurasSaved = {
 				},
 			},
 			["text1FontFlags"] = "THICKOUTLINE",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["desaturate"] = false,
-			["progressPrecision"] = 0,
-			["text1Point"] = "TOP",
+			["useglowColor"] = false,
+			["stickyDuration"] = true,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1Point"] = "TOP",
+			["text2Font"] = "默认",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text2Point"] = "BOTTOM",
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -25882,14 +25880,19 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["selfPoint"] = "CENTER",
-			["useTooltip"] = false,
-			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Containment"] = "OUTSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["stickyDuration"] = true,
-			["text1Containment"] = "OUTSIDE",
+			["parent"] = "命运骨骰组",
+			["xOffset"] = 135,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -25900,7 +25903,7 @@ WeakAurasSaved = {
 			["width"] = 40,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 13,
-			["text2Font"] = "默认",
+			["text2Point"] = "BOTTOM",
 			["text1"] = "%p",
 			["text1Enabled"] = true,
 			["zoom"] = 0,
@@ -25908,7 +25911,7 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["alpha"] = 1,
 			["id"] = "大乱斗 攻速吸血",
-			["icon"] = true,
+			["useTooltip"] = false,
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
 			["text1Color"] = {
@@ -25920,12 +25923,12 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "OUTSIDE",
 			["conditions"] = {
 			},
-			["xOffset"] = 135,
-			["parent"] = "命运骨骰组",
+			["progressPrecision"] = 0,
+			["authorOptions"] = {
+			},
 		},
 		["Creeping Rot"] = {
 			["text2Point"] = "CENTER",
@@ -25983,25 +25986,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -26014,7 +26005,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -26065,10 +26056,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -26083,7 +26086,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -26091,18 +26094,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Creeping Rot",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "gESd0ugJ849",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 236271,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["R_DS5"] = {
 			["sparkWidth"] = 10,
@@ -26493,8 +26496,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -26511,8 +26514,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -26524,7 +26528,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -26578,11 +26582,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -26600,7 +26603,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -26611,17 +26614,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Etch",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "oNeuyP5bRwN",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Empowerment"] = {
 			["text2Point"] = "CENTER",
@@ -26680,15 +26683,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -26696,15 +26695,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1038, 1043",
@@ -26756,21 +26750,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "你被强化了",
 			["text2Color"] = {
 				1, -- [1]
@@ -26781,20 +26780,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Empowerment",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "Iv(rEtqVkjz",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["DZ监视"] = {
 			["backdropColor"] = {
@@ -26837,7 +26840,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["internalVersion"] = 9,
+			["borderOffset"] = 5,
 			["url"] = "https://wago.io/SJLQKGjMM/18",
 			["actions"] = {
 				["start"] = {
@@ -26867,10 +26870,10 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["anchorPoint"] = "CENTER",
-			["borderOffset"] = 5,
 			["authorOptions"] = {
 			},
+			["internalVersion"] = 9,
+			["anchorPoint"] = "CENTER",
 			["selfPoint"] = "BOTTOMLEFT",
 			["id"] = "DZ监视",
 			["animation"] = {
@@ -27003,15 +27006,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -27019,15 +27018,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -27079,21 +27073,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "冰冻",
 			["text2Color"] = {
 				1, -- [1]
@@ -27104,20 +27103,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Iced Spritzer",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "4FSOtJgeDrt",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Sigil of Chains - CD"] = {
 			["text2Point"] = "CENTER",
@@ -27170,8 +27173,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -27180,30 +27184,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownTextEnabled"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -27262,14 +27256,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["glow"] = false,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -27282,7 +27271,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
@@ -27296,7 +27285,21 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Sigil of Chains - CD",
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
@@ -27374,13 +27377,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
+			["text2Font"] = "默认",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["desaturate"] = false,
-			["text1Containment"] = "INSIDE",
-			["cooldownTextEnabled"] = true,
+			["selfPoint"] = "CENTER",
+			["text1Enabled"] = true,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -27392,12 +27408,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "THICKOUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["useglowColor"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1004",
@@ -27451,23 +27462,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["authorOptions"] = {
 			},
 			["config"] = {
 			},
-			["xOffset"] = 0,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -27485,11 +27484,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "INSIDE",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 20,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "DOT",
 			["text2"] = "%c 掉落",
 			["alpha"] = 1,
@@ -27497,17 +27495,22 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Spit Gold",
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "默认",
+			["glow"] = false,
 			["uid"] = "Disyc)9oBwJ",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["xOffset"] = 0,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Consume Magic - CD"] = {
 			["text2Point"] = "CENTER",
@@ -27560,26 +27563,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Enabled"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
+			["glow"] = false,
+			["authorOptions"] = {
 			},
-			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -27605,7 +27596,12 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text1Containment"] = "INSIDE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -27667,9 +27663,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
-			["useglowColor"] = false,
-			["glow"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 111.00012207031,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -27685,12 +27681,7 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Containment"] = "INSIDE",
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["cooldownTextEnabled"] = false,
@@ -27703,18 +27694,30 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "Consume Magic - CD",
-			["text2Font"] = "Friz Quadrata TT",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Enabled"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 111.00012207031,
+			["cooldownEdge"] = false,
 		},
 		["Unending Darkness"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -27778,9 +27781,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -27789,10 +27793,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -27815,12 +27819,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -27833,78 +27837,76 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "你易伤",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Unending Darkness",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "你易伤",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Unending Darkness",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "PSAbGJCrbr1",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["图标技能"] = {
 			["outline"] = "OUTLINE",
 			["text2Point"] = "CENTER",
-			["progressPrecision"] = 4,
+			["font"] = "Friz Quadrata TT",
 			["text1FontSize"] = 12,
-			["xOffset"] = 100,
+			["cooldownTextEnabled"] = true,
 			["displayText"] = "%p",
 			["customText"] = "function()\n    if not aura_env.state then return end\n    local text = aura_env.state.name\n    text = strtrim(text) -- Trim\n    local inlineIconAdjust = string.len(string.match(text,\"|T.-|t\") or \"\")\n    if inlineIconAdjust > 0 then inlineIconAdjust = inlineIconAdjust - 2 end -- Make icons take 2 characters.\n    if (aura_env.textMaxLength or 0)>=5 and text:len()-inlineIconAdjust>aura_env.textMaxLength then\n        text = string.sub(text,1,aura_env.textMaxLength+inlineIconAdjust-2)..\"..\" -- Truncate\n    end\n    if aura_env.state.colorTable then\n        local t=aura_env.state.colorTable\n        text = string.format(\"\\124c%02x%02x%02x%02x%s\\124r\",255*(t[4] or 1),255*(t[1] or 0),255*(t[2] or 0),255*(t[3] or 0),text)\n    end\n    return text\nend",
-			["yOffset"] = 0,
+			["yOffset"] = 14,
 			["anchorPoint"] = "CENTER",
 			["glow"] = false,
 			["cooldownSwipe"] = true,
-			["authorOptions"] = {
-			},
-			["customTextUpdate"] = "event",
 			["cooldownEdge"] = false,
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/B1pfxTOtb/25",
 			["icon"] = true,
 			["triggers"] = {
 				{
@@ -27956,7 +27958,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "PT Sans Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -27985,17 +27987,8 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["zoom"] = 0,
 			["parent"] = "整合DBM/BW副本技能预警进度条",
-			["url"] = "https://wago.io/B1pfxTOtb/25",
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["font"] = "Friz Quadrata TT",
+			["xOffset"] = 100,
 			["actions"] = {
 				["start"] = {
 				},
@@ -28006,9 +27999,19 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "TOP",
+			["useglowColor"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 25,
-			["useglowColor"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -28060,34 +28063,28 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = true,
-			["text2Font"] = "PT Sans Narrow",
+			["text1Enabled"] = true,
+			["selfPoint"] = "CENTER",
 			["fontSize"] = 12,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Arial Narrow",
-			["selfPoint"] = "CENTER",
+			["zoom"] = 0,
 			["auto"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
 			["text1FontFlags"] = "OUTLINE",
-			["text1Point"] = "TOP",
-			["text2FontSize"] = 12,
-			["desaturate"] = false,
-			["text1"] = "%c",
-			["config"] = {
-			},
+			["regionType"] = "icon",
+			["desc"] = "Made by: Bosmutus - Zul'jin(US)",
 			["text1Containment"] = "OUTSIDE",
+			["text2FontSize"] = 12,
+			["progressPrecision"] = 4,
+			["text1"] = "%c",
+			["uid"] = "7L2xGe0RvVC",
+			["internalVersion"] = 9,
 			["text2"] = "%p",
 			["justify"] = "LEFT",
 			["width"] = 25,
 			["id"] = "图标技能",
-			["text2Enabled"] = true,
+			["frameStrata"] = 1,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["text1Color"] = {
@@ -28096,14 +28093,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["uid"] = "7L2xGe0RvVC",
+			["config"] = {
+			},
 			["inverse"] = false,
-			["desc"] = "Made by: Bosmutus - Zul'jin(US)",
-			["frameStrata"] = 1,
+			["desaturate"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["text1Enabled"] = true,
+			["text2Enabled"] = true,
 		},
 		["进度条背景材质"] = {
 			["textFlags"] = "None",
@@ -28112,7 +28115,7 @@ WeakAurasSaved = {
 			["authorOptions"] = {
 			},
 			["stacksFlags"] = "None",
-			["yOffset"] = 0,
+			["yOffset"] = 14.9999694824219,
 			["anchorPoint"] = "CENTER",
 			["borderColor"] = {
 				0, -- [1]
@@ -28267,7 +28270,7 @@ WeakAurasSaved = {
 			},
 			["backdropInFront"] = false,
 			["text"] = false,
-			["xOffset"] = 0,
+			["xOffset"] = 3,
 			["stickyDuration"] = false,
 			["discrete_rotation"] = 0,
 			["sparkWidth"] = 10,
@@ -28418,26 +28421,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["xOffset"] = 53,
-			["internalVersion"] = 9,
-			["desaturate"] = false,
+			["icon"] = true,
+			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -28448,7 +28438,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["useglowColor"] = false,
+			["parent"] = "DH复仇监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -28504,10 +28494,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["text1Enabled"] = false,
+			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -28516,7 +28510,7 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["frameStrata"] = 1,
-			["glow"] = true,
+			["useglowColor"] = false,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
@@ -28529,25 +28523,34 @@ WeakAurasSaved = {
 			["stickyDuration"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["id"] = "Demon Spikes - Active",
-			["text1Containment"] = "INSIDE",
+			["xOffset"] = 53,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["glow"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "DH复仇监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Aura of Dread"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -28614,9 +28617,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -28625,10 +28629,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -28680,50 +28684,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["xOffset"] = 0,
-			["text1"] = "移动",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Aura of Dread",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "移动",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Aura of Dread",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["uid"] = "bzttIsC4pzb",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Trample"] = {
 			["text2Point"] = "CENTER",
@@ -28781,25 +28784,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -28812,7 +28803,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -28863,10 +28854,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -28881,7 +28884,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -28889,18 +28892,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Trample",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "H(L6yGyD69G",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 1373907,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["04 Surging Darkness"] = {
 			["text2Point"] = "CENTER",
@@ -28935,13 +28938,13 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "event",
 						["debuffType"] = "HARMFUL",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["name"] = "腐败反刍",
 						["event"] = "Combat Log",
+						["custom"] = "function(event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 265530 and select(3, GetInstanceInfo()) ~= 16\n        then\n            return true\n        end\n    end\nend",
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["use_spellId"] = true,
 						["spellIds"] = {
 						},
-						["name"] = "腐败反刍",
-						["use_spellId"] = true,
-						["custom"] = "function(event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local timestamp, subEvent, hideCaster, sourceGUID, sourceName, sourceFlags, sourceRaidFlags, destGUID, destName, destFlags, destRaidFlags, spellID = ...\n        if subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 265530 and select(3, GetInstanceInfo()) ~= 16\n        then\n            return true\n        end\n    end\nend",
 						["unevent"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
@@ -29169,15 +29172,19 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = false,
 			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["cooldownTextEnabled"] = false,
-			["glow"] = false,
-			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -29188,7 +29195,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -29249,49 +29256,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
-			["text1Enabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
 			},
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["width"] = 50,
-			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Enabled"] = false,
 			["text1Containment"] = "INSIDE",
-			["text2FontSize"] = 24,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1"] = "%p",
-			["zoom"] = 0.3,
-			["text2Font"] = "Friz Quadrata TT",
-			["text2"] = "%p",
-			["auto"] = true,
-			["text1Font"] = "Friz Quadrata TT",
-			["id"] = "Disrupt - CD - Veng",
-			["stickyDuration"] = false,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -29307,6 +29274,42 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["width"] = 50,
+			["alpha"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Enabled"] = false,
+			["useglowColor"] = false,
+			["text2FontSize"] = 24,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1"] = "%p",
+			["zoom"] = 0.3,
+			["text2Font"] = "Friz Quadrata TT",
+			["text2"] = "%p",
+			["auto"] = true,
+			["text1Font"] = "Friz Quadrata TT",
+			["id"] = "Disrupt - CD - Veng",
+			["desaturate"] = false,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["glow"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["xOffset"] = 0,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -29323,7 +29326,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["icon"] = true,
 		},
 		["03 Thrashing Terror (Tank)"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -30043,7 +30046,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -30180,7 +30183,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Arial Narrow",
+			["text1Enabled"] = true,
 		},
 		["Sigil of Misery - CD"] = {
 			["text2Point"] = "CENTER",
@@ -30233,8 +30236,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -30243,30 +30247,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownTextEnabled"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -30326,14 +30320,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["glow"] = false,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -30346,7 +30335,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
@@ -30360,7 +30349,21 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Sigil of Misery - CD",
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
@@ -30479,9 +30482,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -30490,10 +30493,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -30545,19 +30548,19 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = true,
+			["icon"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Font"] = "默认",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = true,
 			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
@@ -30566,29 +30569,29 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["alpha"] = 1,
-			["text1FontFlags"] = "THICKOUTLINE",
+			["text2Enabled"] = false,
+			["cooldownEdge"] = false,
 			["text2FontSize"] = 24,
-			["authorOptions"] = {
-			},
+			["parent"] = "大秘境技能监视",
 			["text1"] = "别重叠",
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["zoom"] = 0.3,
 			["auto"] = true,
-			["frameStrata"] = 1,
+			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Deadeye target",
-			["xOffset"] = 0,
-			["text2Enabled"] = false,
+			["frameStrata"] = 1,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "默认",
+			["authorOptions"] = {
+			},
 			["uid"] = "u5KpUfwGmWf",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["glow"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["icon"] = true,
+			["desaturate"] = false,
 		},
 		["Fel Rush - CD - 0"] = {
 			["text2Point"] = "CENTER",
@@ -30664,8 +30667,24 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1FontFlags"] = "OUTLINE",
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["progressPrecision"] = 0,
+			["cooldownTextEnabled"] = false,
+			["parent"] = "DH浩劫监视",
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "CENTER",
+			["conditions"] = {
+			},
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 50,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -30681,22 +30700,6 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["progressPrecision"] = 0,
-			["internalVersion"] = 9,
-			["cooldownEdge"] = false,
-			["text1Containment"] = "INSIDE",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "CENTER",
-			["conditions"] = {
-			},
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 50,
-			["useglowColor"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -30756,10 +30759,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = true,
-			["authorOptions"] = {
-			},
-			["cooldownTextEnabled"] = false,
+			["text1Containment"] = "INSIDE",
+			["icon"] = true,
+			["cooldownEdge"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -30780,30 +30782,31 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["selfPoint"] = "CENTER",
-			["text1"] = "%p",
-			["zoom"] = 0.3,
-			["glow"] = false,
-			["text2"] = "%p",
-			["auto"] = true,
-			["text1Enabled"] = false,
-			["id"] = "Fel Rush - CD - 0",
-			["parent"] = "DH浩劫监视",
-			["alpha"] = 1,
-			["width"] = 50,
-			["stickyDuration"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1"] = "%p",
+			["zoom"] = 0.3,
+			["glow"] = false,
+			["text2"] = "%p",
+			["auto"] = true,
+			["desaturate"] = true,
+			["id"] = "Fel Rush - CD - 0",
+			["useglowColor"] = false,
+			["alpha"] = 1,
+			["width"] = 50,
+			["internalVersion"] = 9,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["displayIcon"] = 1247261,
 			["cooldown"] = true,
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 		},
 		["Soul Shard Bar"] = {
 			["overlays"] = {
@@ -31123,8 +31126,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -31133,30 +31137,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownTextEnabled"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -31215,14 +31209,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["glow"] = false,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -31235,7 +31224,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
@@ -31249,7 +31238,21 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Sigil of Silence - CD",
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
@@ -31333,25 +31336,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -31364,7 +31355,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -31415,10 +31406,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -31433,7 +31436,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲面前",
@@ -31441,18 +31444,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Echo Blade",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "bG7KzDtppfJ",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 303690,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["痛苦无常4"] = {
 			["glow"] = false,
@@ -31527,27 +31530,20 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["color"] = {
+			["parent"] = "痛苦无常",
+			["progressPrecision"] = 0,
+			["stickyDuration"] = false,
+			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["stickyDuration"] = false,
-			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
-			["parent"] = "痛苦无常",
+			["text2Point"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 54,
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -31599,14 +31595,16 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["desaturate"] = false,
 			["text1Containment"] = "INSIDE",
-			["text2Point"] = "CENTER",
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "伤害数字",
@@ -31627,7 +31625,12 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["internalVersion"] = 9,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "%p",
 			["alpha"] = 1,
 			["zoom"] = 0,
@@ -31639,7 +31642,7 @@ WeakAurasSaved = {
 			},
 			["frameStrata"] = 1,
 			["width"] = 55,
-			["desaturate"] = false,
+			["selfPoint"] = "CENTER",
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -31727,6 +31730,8 @@ WeakAurasSaved = {
 			},
 			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["progressPrecision"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -31742,10 +31747,9 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["internalVersion"] = 9,
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -31770,7 +31774,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -31829,9 +31833,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
-			["glow"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["xOffset"] = -22,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -31847,7 +31851,7 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["color"] = {
@@ -31858,20 +31862,19 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 			["id"] = "Immolation Aura - CD",
-			["cooldownTextEnabled"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["alpha"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["cooldownTextEnabled"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = -22,
+			["glow"] = false,
 		},
 		["08 Imperfect Physiology"] = {
 			["text2Point"] = "CENTER",
@@ -31930,7 +31933,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -31947,7 +31950,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -32120,24 +32123,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Containment"] = "INSIDE",
-			["internalVersion"] = 9,
+			["glow"] = false,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["stickyDuration"] = false,
-			["xOffset"] = 0,
-			["useglowColor"] = false,
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "TOP",
-			["displayIcon"] = 136125,
-			["text2FontFlags"] = "OUTLINE",
-			["height"] = 80,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -32152,6 +32140,22 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Containment"] = "INSIDE",
+			["authorOptions"] = {
+			},
+			["cooldownEdge"] = false,
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "TOP",
+			["displayIcon"] = 136125,
+			["text2FontFlags"] = "OUTLINE",
+			["height"] = 80,
+			["text2Font"] = "默认",
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -32175,16 +32179,13 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["single"] = "TANK",
+				["race"] = {
 					["multi"] = {
-						["HEALER"] = true,
-						["TANK"] = true,
 					},
 				},
 				["faction"] = {
@@ -32196,27 +32197,24 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["HEALER"] = true,
+						["TANK"] = true,
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["config"] = {
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -32232,7 +32230,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 25,
-			["text2Font"] = "默认",
+			["useglowColor"] = false,
 			["text1"] = "BOSS层数",
 			["zoom"] = 0.3,
 			["text2Color"] = {
@@ -32243,19 +32241,24 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%s%c",
 			["auto"] = true,
-			["icon"] = true,
+			["xOffset"] = 0,
 			["id"] = "Soul Harvest",
-			["text1Enabled"] = true,
+			["cooldownTextEnabled"] = true,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["uid"] = "62QNtlPwpdk",
 			["inverse"] = false,
-			["glow"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["selfPoint"] = "CENTER",
 		},
 		["Netherwalk - CD"] = {
 			["text2Point"] = "CENTER",
@@ -32328,32 +32331,13 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["text1FontFlags"] = "OUTLINE",
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["internalVersion"] = 9,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
+			["useglowColor"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -32364,7 +32348,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -32425,10 +32409,28 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
 			},
-			["desaturate"] = false,
+			["glow"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -32449,22 +32451,22 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["cooldownTextEnabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text1Enabled"] = false,
+			["stickyDuration"] = false,
 			["id"] = "Netherwalk - CD",
-			["parent"] = "DH浩劫监视",
+			["cooldownEdge"] = false,
 			["alpha"] = 1,
 			["width"] = 40,
-			["useglowColor"] = false,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["icon"] = true,
+			["parent"] = "DH浩劫监视",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -32481,7 +32483,8 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["authorOptions"] = {
+			},
 		},
 		["Electroshock"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -32545,9 +32548,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -32556,10 +32560,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -32611,50 +32615,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "吃层",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Electroshock",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "吃层",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Electroshock",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "uLewaDJwCka",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Dark Slash - Active"] = {
 			["text2Point"] = "CENTER",
@@ -32706,27 +32709,14 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["icon"] = true,
-			["desaturate"] = false,
+			["parent"] = "DH浩劫监视",
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -32737,7 +32727,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -32798,9 +32788,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glow"] = true,
-			["text1Enabled"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["xOffset"] = -66,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -32816,7 +32806,7 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["color"] = {
@@ -32827,17 +32817,30 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["parent"] = "DH浩劫监视",
+			["glow"] = true,
 			["id"] = "Dark Slash - Active",
-			["selfPoint"] = "CENTER",
+			["text2Font"] = "Friz Quadrata TT",
 			["alpha"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -32854,7 +32857,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["xOffset"] = -66,
+			["internalVersion"] = 9,
 		},
 		["Sanguine"] = {
 			["text2Point"] = "CENTER",
@@ -32935,8 +32938,8 @@ WeakAurasSaved = {
 				},
 			},
 			["text1FontFlags"] = "THICKOUTLINE",
+			["stickyDuration"] = false,
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -32944,8 +32947,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["authorOptions"] = {
-			},
+			["text2Font"] = "Friz Quadrata TT",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
 			["parent"] = "大秘境词缀监视",
@@ -33015,13 +33017,14 @@ WeakAurasSaved = {
 				},
 			},
 			["displayIcon"] = 136124,
-			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
+			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
-			["stickyDuration"] = false,
-			["useglowColor"] = false,
+			["authorOptions"] = {
+			},
+			["glow"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -33045,18 +33048,18 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["frameStrata"] = 1,
 			["id"] = "Sanguine",
-			["xOffset"] = 0,
+			["desaturate"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["xOffset"] = 0,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = false,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 		},
 		["Volatile Pods"] = {
 			["text2Point"] = "CENTER",
@@ -33117,14 +33120,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -33136,7 +33151,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1041, 1042",
@@ -33188,23 +33203,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -33217,10 +33220,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "躲孢子",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -33228,16 +33231,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Volatile Pods",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "vRGo5BCP1KJ",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1394887,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Fel Eruption - Active"] = {
 			["text2Point"] = "CENTER",
@@ -33289,27 +33292,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["authorOptions"] = {
-			},
-			["desaturate"] = false,
+			["xOffset"] = 111.00012207031,
+			["glow"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -33320,12 +33309,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -33388,9 +33372,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
-			["text1Enabled"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -33406,22 +33391,40 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["cooldownTextEnabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["xOffset"] = 111.00012207031,
+			["icon"] = true,
 			["id"] = "Fel Eruption - Active",
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["glow"] = true,
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -33438,7 +33441,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 		},
 		["Putrid Blood"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -33502,9 +33505,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -33513,10 +33517,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -33570,50 +33574,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Putrid Blood",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Putrid Blood",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "a4OJ9Q2CXnX",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Prepared - Active"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -33660,7 +33663,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -33683,7 +33686,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -33874,6 +33877,8 @@ WeakAurasSaved = {
 			},
 			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["progressPrecision"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -33889,11 +33894,8 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["authorOptions"] = {
-			},
-			["desaturate"] = false,
+			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -33904,7 +33906,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["xOffset"] = 105,
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -33964,9 +33966,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["internalVersion"] = 9,
-			["glow"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -33982,7 +33985,7 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["color"] = {
@@ -33993,16 +33996,16 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["id"] = "Disrupt - CD",
-			["cooldownTextEnabled"] = false,
+			["xOffset"] = 105,
 			["alpha"] = 1,
 			["width"] = 50,
-			["icon"] = true,
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["cooldownTextEnabled"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -34019,7 +34022,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 		},
 		["Lucre's Call"] = {
 			["text2Point"] = "CENTER",
@@ -34075,26 +34078,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -34106,8 +34097,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 135950,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1004",
@@ -34161,10 +34151,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -34191,19 +34181,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Lucre's Call",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "9xMk7nX6Yet",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Hindering Cut"] = {
 			["text2Point"] = "CENTER",
@@ -34260,13 +34263,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text1Containment"] = "INSIDE",
-			["icon"] = true,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -34278,7 +34294,8 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -34332,10 +34349,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -34348,8 +34365,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -34365,30 +34381,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Hindering Cut",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["stickyDuration"] = false,
 			["uid"] = "zM9)2qnvxEp",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["Pain Amount"] = {
 			["outline"] = "OUTLINE",
@@ -34787,7 +34790,6 @@ WeakAurasSaved = {
 			},
 			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -34802,6 +34804,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["selfPoint"] = "CENTER",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -34980,14 +34983,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = 1,
 			},
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["parent"] = "DH浩劫监视",
-			["text1Enabled"] = false,
-			["text1Containment"] = "INSIDE",
+			["xOffset"] = 105,
+			["authorOptions"] = {
+			},
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -35012,7 +35016,12 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -35070,53 +35079,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["xOffset"] = 105,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
-			["anchorFrameType"] = "SCREEN",
-			["text2Enabled"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["alpha"] = 1,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 24,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1"] = "%p",
-			["zoom"] = 0.3,
-			["glow"] = false,
-			["text2"] = "%p",
-			["auto"] = true,
-			["text1FontFlags"] = "OUTLINE",
-			["id"] = "Felblade - CD",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
-			["width"] = 50,
-			["icon"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["internalVersion"] = 9,
-			["displayIcon"] = 136235,
-			["cooldown"] = true,
+			["useglowColor"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -35131,6 +35094,46 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["internalVersion"] = 9,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Friz Quadrata TT",
+			["anchorFrameType"] = "SCREEN",
+			["text2Enabled"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["alpha"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1"] = "%p",
+			["zoom"] = 0.3,
+			["glow"] = false,
+			["text2"] = "%p",
+			["auto"] = true,
+			["text1FontFlags"] = "OUTLINE",
+			["id"] = "Felblade - CD",
+			["parent"] = "DH浩劫监视",
+			["frameStrata"] = 1,
+			["width"] = 50,
+			["text1Enabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["text1Containment"] = "INSIDE",
+			["displayIcon"] = 136235,
+			["cooldown"] = true,
+			["icon"] = true,
 		},
 		["Hangman's Noose"] = {
 			["text2Point"] = "CENTER",
@@ -35187,8 +35190,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -35205,8 +35208,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -35218,7 +35222,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -35241,15 +35245,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -35259,11 +35265,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -35272,11 +35276,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -35294,7 +35297,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -35305,17 +35308,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Hangman's Noose",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "I7FvgrWZIAX",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Choking Brine"] = {
 			["text2Point"] = "CENTER",
@@ -35379,10 +35382,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -35391,10 +35393,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -35446,49 +35448,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "DOT",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Choking Brine",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "DOT",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Choking Brine",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "NiVZ4belng4",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Burn Corruption"] = {
 			["text2Point"] = "CENTER",
@@ -35544,26 +35547,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -35575,8 +35566,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 892832,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -35630,10 +35620,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -35660,19 +35650,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Burn Corruption",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "i))blQeRyQ4",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Eye Beam - CD"] = {
 			["text2Point"] = "CENTER",
@@ -35731,14 +35734,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = 1,
 			},
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["parent"] = "DH浩劫监视",
-			["text1Enabled"] = false,
-			["text1Containment"] = "INSIDE",
+			["xOffset"] = 53,
+			["authorOptions"] = {
+			},
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -35763,7 +35767,12 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -35819,53 +35828,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["xOffset"] = 53,
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
-			["anchorFrameType"] = "SCREEN",
-			["text2Enabled"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["alpha"] = 1,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2FontSize"] = 24,
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1"] = "%p",
-			["zoom"] = 0.3,
-			["glow"] = false,
-			["text2"] = "%p",
-			["auto"] = true,
-			["text1FontFlags"] = "OUTLINE",
-			["id"] = "Eye Beam - CD",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
-			["width"] = 50,
-			["icon"] = true,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["internalVersion"] = 9,
-			["displayIcon"] = 136235,
-			["cooldown"] = true,
+			["useglowColor"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -35880,6 +35843,46 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["internalVersion"] = 9,
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Font"] = "Friz Quadrata TT",
+			["anchorFrameType"] = "SCREEN",
+			["text2Enabled"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
+			["alpha"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1"] = "%p",
+			["zoom"] = 0.3,
+			["glow"] = false,
+			["text2"] = "%p",
+			["auto"] = true,
+			["text1FontFlags"] = "OUTLINE",
+			["id"] = "Eye Beam - CD",
+			["parent"] = "DH浩劫监视",
+			["frameStrata"] = 1,
+			["width"] = 50,
+			["text1Enabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["text1Containment"] = "INSIDE",
+			["displayIcon"] = 136235,
+			["cooldown"] = true,
+			["icon"] = true,
 		},
 		["Pursuit"] = {
 			["text2Point"] = "CENTER",
@@ -35938,16 +35941,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorOptions"] = {
-			},
-			["glow"] = false,
-			["desaturate"] = false,
+			["xOffset"] = 0,
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -35955,15 +35952,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -36015,21 +36007,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
+			["icon"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["selfPoint"] = "CENTER",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "追踪",
 			["text2Color"] = {
 				1, -- [1]
@@ -36040,19 +36037,25 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text1Enabled"] = true,
+			["text2Enabled"] = false,
 			["id"] = "Pursuit",
-			["cooldownEdge"] = false,
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "BrkFPgEpVj6",
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 		},
 		["Heaving Blow"] = {
 			["text2Point"] = "CENTER",
@@ -36110,25 +36113,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -36141,7 +36132,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -36192,10 +36183,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -36210,7 +36213,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲头前",
@@ -36218,18 +36221,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Heaving Blow",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "RSOSY(jkpMG",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 460686,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Blur - CD"] = {
 			["text2Point"] = "CENTER",
@@ -36309,6 +36312,8 @@ WeakAurasSaved = {
 			},
 			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["progressPrecision"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -36324,10 +36329,9 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["internalVersion"] = 9,
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -36352,7 +36356,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -36414,9 +36418,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
-			["glow"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["xOffset"] = 22,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -36432,7 +36436,7 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["color"] = {
@@ -36443,20 +36447,19 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 			["id"] = "Blur - CD",
-			["cooldownTextEnabled"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["alpha"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["cooldownTextEnabled"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 22,
+			["glow"] = false,
 		},
 		["痛苦无常3"] = {
 			["glow"] = false,
@@ -36537,19 +36540,21 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Point"] = "CENTER",
+			["text1Containment"] = "INSIDE",
 			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
-			["parent"] = "痛苦无常",
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 54,
-			["progressPrecision"] = 0,
+			["text2Font"] = "Friz Quadrata TT",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -36602,7 +36607,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["text1Containment"] = "INSIDE",
+			["desaturate"] = false,
 			["authorOptions"] = {
 			},
 			["text2Containment"] = "INSIDE",
@@ -36613,7 +36618,7 @@ WeakAurasSaved = {
 				0, -- [3]
 				1, -- [4]
 			},
-			["desaturate"] = false,
+			["parent"] = "痛苦无常",
 			["internalVersion"] = 9,
 			["text2Color"] = {
 				1, -- [1]
@@ -36633,25 +36638,23 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "OUTLINE",
 			["id"] = "痛苦无常3",
-			["cooldownTextEnabled"] = true,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["frameStrata"] = 1,
 			["width"] = 55,
-			["selfPoint"] = "CENTER",
+			["cooldownTextEnabled"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["text2Point"] = "CENTER",
 		},
 		["Blood Mirror"] = {
 			["text2Point"] = "CENTER",
@@ -36733,15 +36736,27 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
 			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -36752,7 +36767,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1726347,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -36775,7 +36790,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -36783,7 +36798,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -36793,8 +36808,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -36804,23 +36819,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -36828,7 +36830,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -36847,19 +36849,20 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["id"] = "Blood Mirror",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["uid"] = "787IfCU)Kr4",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["icon"] = true,
 		},
 		["Dark Revelation"] = {
 			["text2Point"] = "CENTER",
@@ -36916,26 +36919,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -36947,7 +36937,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -37001,10 +36991,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -37022,7 +37012,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -37033,18 +37024,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Dark Revelation",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["uid"] = "EtqXYdyB3nn",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 		},
 		["Burning Brush"] = {
 			["text2Point"] = "CENTER",
@@ -37101,13 +37104,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["text1Containment"] = "INSIDE",
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -37119,7 +37122,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136125,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -37173,11 +37176,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -37195,23 +37197,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["text1Font"] = "默认",
-			["text2FontSize"] = 24,
-			["frameStrata"] = 1,
-			["text1"] = "AOE",
-			["text2"] = "%p",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["id"] = "Burning Brush",
-			["useglowColor"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
-			["uid"] = "k36Jng(Woho",
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -37226,10 +37211,28 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Font"] = "默认",
+			["text2FontSize"] = 24,
+			["frameStrata"] = 1,
+			["text1"] = "AOE",
+			["text2"] = "%p",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1FontFlags"] = "THICKOUTLINE",
+			["id"] = "Burning Brush",
+			["parent"] = "大秘境技能监视",
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 9,
+			["uid"] = "k36Jng(Woho",
+			["inverse"] = false,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Nemesis - Active"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -37506,32 +37509,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Containment"] = "INSIDE",
+			["glow"] = false,
+			["icon"] = true,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -37556,7 +37540,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["useglowColor"] = false,
+			["parent"] = "DH复仇监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -37615,10 +37599,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["authorOptions"] = {
-			},
-			["glow"] = false,
+			["internalVersion"] = 9,
+			["text1Containment"] = "INSIDE",
+			["text1Enabled"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -37627,7 +37610,7 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["frameStrata"] = 1,
-			["icon"] = true,
+			["useglowColor"] = false,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
@@ -37640,19 +37623,39 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["id"] = "Soul Barrier - CD",
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["text1Enabled"] = false,
+			["desaturate"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["parent"] = "DH复仇监视",
+			["cooldownEdge"] = false,
 		},
 		["骨骰数字"] = {
 			["outline"] = "OUTLINE",
@@ -37865,8 +37868,10 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -37881,8 +37886,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text2Font"] = "Arial Narrow",
-			["selfPoint"] = "CENTER",
 			["displayIcon"] = "298643",
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -38703,27 +38706,19 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["cooldownTextEnabled"] = false,
-			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -38735,7 +38730,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -38795,14 +38790,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = -105,
-			["glow"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
+			["cooldownTextEnabled"] = false,
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -38818,26 +38808,39 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%s",
 			["zoom"] = 0.3,
 			["icon"] = true,
 			["text2"] = "%p",
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
+			["xOffset"] = -105,
 			["id"] = "Fel Rush - CD - 1+",
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["alpha"] = 1,
 			["width"] = 50,
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["displayIcon"] = 1247261,
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["glow"] = false,
 		},
 		["Final Blast"] = {
 			["text2Point"] = "CENTER",
@@ -38895,25 +38898,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -38926,7 +38917,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -38977,10 +38968,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -38995,7 +38998,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "爆炸！",
@@ -39003,18 +39006,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Final Blast",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "5u2TyPvmqHD",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 133713,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Metamorphosis - Active - Veng"] = {
 			["text2Point"] = "CENTER",
@@ -39057,8 +39060,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Containment"] = "INSIDE",
-			["internalVersion"] = 9,
+			["authorOptions"] = {
+			},
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -39067,28 +39071,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = true,
-			["icon"] = true,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136210,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -39144,15 +39135,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
-			["text1Enabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["glow"] = true,
+			["useglowColor"] = false,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -39179,16 +39164,34 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["id"] = "Metamorphosis - Active - Veng",
-			["cooldownEdge"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "DH复仇监视",
+			["icon"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -39205,19 +39208,24 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = false,
-			["useglowColor"] = false,
+			["parent"] = "DH复仇监视",
 		},
 		["离开战斗"] = {
 			["outline"] = "OUTLINE",
 			["fontSize"] = 25,
-			["xOffset"] = -243.368347167969,
-			["parent"] = "战斗状态",
+			["authorOptions"] = {
+			},
+			["color"] = {
+				0.113725490196078, -- [1]
+				0.988235294117647, -- [2]
+				0.180392156862745, -- [3]
+				1, -- [4]
+			},
 			["displayText"] = "离开战斗",
 			["customText"] = "function()\n    local percent = (UnitPower(\"player\")/UnitPowerMax(\"player\"))*100\n    local base,casting = GetManaRegen()\n    local isCasting = UnitCastingInfo(\"player\")\n    if isCasting then\n        regen = casting\n    else \n        regen = base\n    end\n    local regenPercent = (regen/UnitPowerMax(\"player\"))*100\n    return (\"%.0f\"):format(percent)\nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 			["yOffset"] = -125,
 			["anchorPoint"] = "CENTER",
-			["authorOptions"] = {
-			},
+			["xOffset"] = -243.368347167969,
 			["regionType"] = "text",
 			["fixedWidth"] = 200,
 			["customTextUpdate"] = "update",
@@ -39265,12 +39273,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["color"] = {
-				0.113725490196078, -- [1]
-				0.988235294117647, -- [2]
-				0.180392156862745, -- [3]
-				1, -- [4]
-			},
+			["parent"] = "战斗状态",
 			["internalVersion"] = 9,
 			["justify"] = "LEFT",
 			["animation"] = {
@@ -39788,7 +39791,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["cooldownEdge"] = false,
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -39820,7 +39823,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["displayIcon"] = 514018,
 			["stickyDuration"] = false,
 			["glowColor"] = {
@@ -40021,21 +40024,20 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorOptions"] = {
-			},
-			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["desaturate"] = false,
+			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["actions"] = {
 				["start"] = {
@@ -40047,7 +40049,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 54,
-			["progressPrecision"] = 0,
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -40099,9 +40101,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["internalVersion"] = 9,
 			["xOffset"] = 0,
-			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -40110,8 +40112,9 @@ WeakAurasSaved = {
 				0, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
 			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -40137,11 +40140,11 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["useglowColor"] = false,
 		},
 		["08 Dark Purpose"] = {
 			["text2Point"] = "CENTER",
@@ -40421,9 +40424,10 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
-			["parent"] = "DH浩劫监视",
-			["desaturate"] = false,
+			["icon"] = true,
+			["authorOptions"] = {
+			},
+			["stickyDuration"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["conditions"] = {
@@ -40443,7 +40447,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["selfPoint"] = "CENTER",
+			["useglowColor"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -40504,9 +40508,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownEdge"] = false,
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
+			["desaturate"] = false,
+			["parent"] = "DH浩劫监视",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -40522,31 +40526,30 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["cooldownTextEnabled"] = false,
+			["glow"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["id"] = "Chaos Nova - CD",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["frameStrata"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
-			["config"] = {
-			},
-			["inverse"] = false,
-			["glow"] = false,
-			["displayIcon"] = 136235,
-			["cooldown"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["config"] = {
+			},
+			["inverse"] = false,
+			["internalVersion"] = 9,
+			["displayIcon"] = 136235,
+			["cooldown"] = true,
+			["cooldownEdge"] = false,
 		},
 		["Fury Amount"] = {
 			["outline"] = "OUTLINE",
@@ -41002,14 +41005,16 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["color"] = {
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = false,
-			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -41024,21 +41029,14 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["icon"] = true,
-			["internalVersion"] = 9,
-			["desaturate"] = true,
+			["text1Enabled"] = false,
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -41094,10 +41092,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
+			["xOffset"] = 53,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -41113,13 +41115,14 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
-			["parent"] = "DH复仇监视",
+			["authorOptions"] = {
+			},
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["glow"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["useglowColor"] = false,
 			["id"] = "Demon Spikes - CD - 0",
 			["text1Color"] = {
 				1, -- [1]
@@ -41129,15 +41132,15 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["stickyDuration"] = false,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["desaturate"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 53,
+			["parent"] = "DH复仇监视",
 		},
 		["Venomous Spit"] = {
 			["text2Point"] = "CENTER",
@@ -41196,15 +41199,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -41212,15 +41211,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -41272,21 +41266,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "DOT",
 			["text2Color"] = {
 				1, -- [1]
@@ -41297,20 +41296,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Venomous Spit",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "l8VZvlnqN5W",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Dark Slash - CD"] = {
 			["text2Point"] = "CENTER",
@@ -41405,25 +41408,11 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["internalVersion"] = 9,
-			["text1Enabled"] = false,
-			["stickyDuration"] = false,
+			["xOffset"] = -66,
+			["parent"] = "DH浩劫监视",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -41448,7 +41437,21 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text1Containment"] = "INSIDE",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -41509,10 +41512,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
-			["authorOptions"] = {
-			},
-			["xOffset"] = -66,
+			["stickyDuration"] = false,
+			["icon"] = true,
+			["text1Enabled"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -41533,7 +41535,7 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["color"] = {
@@ -41544,19 +41546,20 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 			["id"] = "Dark Slash - CD",
-			["parent"] = "DH浩劫监视",
+			["text1Containment"] = "INSIDE",
 			["alpha"] = 1,
 			["width"] = 40,
-			["desaturate"] = false,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 		},
 		["Withering Curse"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -41620,9 +41623,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -41631,10 +41635,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -41686,50 +41690,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "降低伤害",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Withering Curse",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "降低伤害",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Withering Curse",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "t5RuuSNto9x",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Burst"] = {
 			["text2Point"] = "CENTER",
@@ -41810,9 +41813,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["glow"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -41820,10 +41823,11 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOMRIGHT",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -41890,14 +41894,18 @@ WeakAurasSaved = {
 				},
 			},
 			["displayIcon"] = 458736,
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "默认",
-			["parent"] = "大秘境词缀监视",
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -41908,7 +41916,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
-			["useglowColor"] = false,
+			["text1Font"] = "默认",
 			["text1"] = "%s",
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
@@ -41919,20 +41927,15 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "THICKOUTLINE",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["selfPoint"] = "CENTER",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["parent"] = "大秘境词缀监视",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["icon"] = true,
 		},
 		["02 Endemic Virus"] = {
 			["text2Point"] = "CENTER",
@@ -41979,31 +41982,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = true,
+			["stickyDuration"] = false,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["icon"] = true,
+			["authorOptions"] = {
 			},
 			["glow"] = false,
-			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -42012,10 +41998,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["internalVersion"] = 9,
+			["xOffset"] = 0,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -42069,35 +42055,29 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["animations"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-				},
-			},
-			["width"] = 80,
-			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["icon"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["width"] = 80,
+			["alpha"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["internalVersion"] = 9,
+			["text1Font"] = "默认",
 			["text2FontSize"] = 25,
 			["frameStrata"] = 1,
 			["text1"] = "分散",
@@ -42112,7 +42092,17 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "02 Endemic Virus",
-			["text1Font"] = "默认",
+			["animations"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextEnabled"] = true,
@@ -42136,7 +42126,20 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Arc Dash"] = {
 			["text2Point"] = "CENTER",
@@ -42197,14 +42200,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -42216,7 +42231,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -42239,7 +42254,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -42247,7 +42262,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -42257,8 +42272,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -42268,23 +42283,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -42297,10 +42300,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -42308,16 +42311,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Arc Dash",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "JsBshXvzKLL",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1041234,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Broadside"] = {
 			["text2Point"] = "CENTER",
@@ -42375,25 +42378,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -42406,7 +42397,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -42457,10 +42448,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -42475,7 +42478,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲面前",
@@ -42483,18 +42486,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Broadside",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "UmfLxwrHi7P",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 252185,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["01 Cudgel of Gore"] = {
 			["text2Point"] = "CENTER",
@@ -42762,7 +42765,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "默认",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -42779,7 +42782,7 @@ WeakAurasSaved = {
 				},
 			},
 			["glow"] = false,
-			["text2Font"] = "默认",
+			["internalVersion"] = 9,
 			["displayIcon"] = 132368,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -42960,8 +42963,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -42978,8 +42981,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -42991,7 +42995,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -43014,15 +43018,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -43032,11 +43038,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -43045,11 +43049,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -43067,7 +43070,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -43078,17 +43081,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Putrid Waters",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "lk3n0OEk8dD",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Transfusion Trash"] = {
 			["text2Point"] = "CENTER",
@@ -43165,15 +43168,27 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
 			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["xOffset"] = 0,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -43184,7 +43199,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 135949,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["xOffset"] = 0,
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -43236,10 +43251,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -43247,7 +43262,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["parent"] = "大秘境技能监视",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -43266,32 +43281,20 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["id"] = "Transfusion Trash",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
 			["uid"] = "vG)q6rHzJMZ",
 			["inverse"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["强势连击 2连击点"] = {
 			["glow"] = false,
@@ -43357,14 +43360,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["desaturate"] = false,
 			["stickyDuration"] = true,
-			["text1Containment"] = "OUTSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "TOP",
-			["useTooltip"] = false,
+			["parent"] = "命运骨骰组",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text1Enabled"] = true,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -43417,7 +43421,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useglowColor"] = false,
-			["desaturate"] = false,
+			["cooldownTextEnabled"] = true,
 			["text2Point"] = "TOP",
 			["text2Containment"] = "OUTSIDE",
 			["glowType"] = "buttonOverlay",
@@ -43427,7 +43431,11 @@ WeakAurasSaved = {
 				0.968627450980392, -- [3]
 				0, -- [4]
 			},
-			["authorOptions"] = {
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "THICKOUTLINE",
@@ -43448,23 +43456,18 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "强势连击 2连击点",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Enabled"] = true,
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "默认",
+			["useTooltip"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["parent"] = "命运骨骰组",
+			["text2Font"] = "默认",
 			["conditions"] = {
 			},
+			["text1Containment"] = "OUTSIDE",
 			["icon"] = true,
-			["cooldownTextEnabled"] = true,
 		},
 		["Momentum - Active"] = {
 			["text2Point"] = "CENTER",
@@ -43513,14 +43516,9 @@ WeakAurasSaved = {
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["internalVersion"] = 9,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Containment"] = "INSIDE",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -43532,7 +43530,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -43591,10 +43589,28 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
-			["authorOptions"] = {
+			["xOffset"] = -105,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
 			},
-			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -43615,38 +43631,25 @@ WeakAurasSaved = {
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["xOffset"] = -105,
+			["glow"] = true,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = false,
-			["icon"] = true,
+			["stickyDuration"] = false,
 			["id"] = "Momentum - Active",
-			["parent"] = "DH浩劫监视",
+			["cooldownEdge"] = false,
 			["alpha"] = 1,
 			["width"] = 50,
-			["useglowColor"] = false,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = true,
+			["parent"] = "DH浩劫监视",
 			["displayIcon"] = 1029722,
 			["cooldown"] = true,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
+			["authorOptions"] = {
 			},
 		},
 		["Stinging Venom"] = {
@@ -43711,9 +43714,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["xOffset"] = 0,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["parent"] = "大秘境技能监视",
+			["cooldownEdge"] = false,
+			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -43722,10 +43725,11 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -43777,50 +43781,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["useglowColor"] = false,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["icon"] = true,
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Stinging Venom",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Stinging Venom",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["uid"] = "HFel9wyCAcp",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["xOffset"] = 0,
 		},
 		["Dessication"] = {
 			["text2Point"] = "CENTER",
@@ -43877,26 +43880,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["xOffset"] = 0,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -43908,7 +43898,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -43962,10 +43952,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -43983,7 +43973,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -43994,18 +43985,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Dessication",
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["uid"] = "y8XuiyG)UU7",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["05 Mutagenic Pathogen (Tank)"] = {
 			["text2Point"] = "CENTER",
@@ -44465,9 +44468,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -44476,10 +44480,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -44531,50 +44535,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "吸收治疗",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "taint of ghuun",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "吸收治疗",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "taint of ghuun",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "VjZPPLYl0ye",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["DH复仇监视"] = {
 			["backdropColor"] = {
@@ -44787,7 +44790,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -44805,9 +44808,9 @@ WeakAurasSaved = {
 				},
 			},
 			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["glow"] = true,
-			["text1Containment"] = "INSIDE",
+			["parent"] = "DH浩劫监视",
+			["internalVersion"] = 9,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -44832,12 +44835,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Containment"] = "INSIDE",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -44899,10 +44897,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
-			["authorOptions"] = {
-			},
-			["desaturate"] = false,
+			["cooldownEdge"] = false,
+			["xOffset"] = 22,
+			["glow"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -44918,25 +44915,31 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["selfPoint"] = "CENTER",
 			["text2"] = "%p",
 			["auto"] = true,
-			["parent"] = "DH浩劫监视",
+			["text2Font"] = "Friz Quadrata TT",
 			["id"] = "Blur - Active",
-			["icon"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["text1Enabled"] = false,
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 22,
+			["authorOptions"] = {
+			},
 		},
 		["Serrated Fangs"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -45000,9 +45003,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -45011,10 +45015,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -45037,12 +45041,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -45055,61 +45059,60 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Serrated Fangs",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Serrated Fangs",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "dGfIAP2rRZe",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Slam"] = {
 			["text2Point"] = "CENTER",
@@ -45171,26 +45174,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -45201,7 +45191,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 451165,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1162",
@@ -45255,10 +45245,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
-			["xOffset"] = 0,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -45272,7 +45276,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲面前",
@@ -45280,20 +45284,19 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["authorOptions"] = {
-			},
+			["parent"] = "大秘境技能监视",
 			["id"] = "Slam",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
 			["uid"] = "9HrGA41F5vz",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Savage Tempest"] = {
 			["text2Point"] = "CENTER",
@@ -45355,26 +45358,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -45385,7 +45375,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 236303,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1162",
@@ -45439,10 +45429,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
-			["xOffset"] = 0,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -45456,7 +45460,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "大风车倒计时",
@@ -45464,20 +45468,19 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["authorOptions"] = {
-			},
+			["parent"] = "大秘境技能监视",
 			["id"] = "Savage Tempest",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
 			["uid"] = "fqXoCicpxsI",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Cannon Barrage"] = {
 			["sparkWidth"] = 2,
@@ -45779,8 +45782,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -45797,8 +45800,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -45810,7 +45814,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -45864,11 +45868,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -45886,7 +45889,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -45897,17 +45900,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Cursed Slash",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "MU6u6)QoaVK",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["03 Malodorous Miasma"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -46182,8 +46185,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -46200,8 +46203,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -46213,7 +46217,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -46267,11 +46271,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -46289,7 +46292,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -46300,17 +46303,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Cover",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "HFfMB3BHNrl",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Thirst for Blood"] = {
 			["text2Point"] = "CENTER",
@@ -46370,14 +46373,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["internalVersion"] = 9,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -46388,7 +46403,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 252188,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -46440,23 +46455,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -46469,10 +46472,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "被追踪",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -46480,17 +46483,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1Font"] = "默认",
 			["id"] = "Thirst for Blood",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["uid"] = "OI)zyRH3AB1",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["07 Obliteration Blast"] = {
 			["text2Point"] = "CENTER",
@@ -46575,7 +46578,6 @@ WeakAurasSaved = {
 			},
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -46591,6 +46593,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["selfPoint"] = "CENTER",
 			["glow"] = false,
 			["displayIcon"] = 1022950,
 			["stickyDuration"] = false,
@@ -46779,10 +46782,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -46791,10 +46793,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -46846,49 +46848,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "分散",
-			["glow"] = false,
-			["text2"] = " ",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Void Seed",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "分散",
+			["glow"] = false,
+			["text2"] = " ",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Void Seed",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "qg4FLiO1LHs",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Fel Eruption - CD"] = {
 			["text2Point"] = "CENTER",
@@ -46988,31 +46991,23 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
-			["icon"] = true,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["parent"] = "DH浩劫监视",
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["conditions"] = {
@@ -47032,7 +47027,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -47095,15 +47090,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["authorOptions"] = {
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["xOffset"] = 111.00012207031,
+			["internalVersion"] = 9,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -47111,16 +47100,17 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["parent"] = "DH浩劫监视",
+			["icon"] = true,
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["text1Containment"] = "INSIDE",
+			["authorOptions"] = {
+			},
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["glow"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text1Enabled"] = false,
+			["useglowColor"] = false,
 			["id"] = "Fel Eruption - CD",
 			["text1Color"] = {
 				1, -- [1]
@@ -47130,14 +47120,27 @@ WeakAurasSaved = {
 			},
 			["frameStrata"] = 1,
 			["width"] = 40,
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 111.00012207031,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 		},
 		["痛苦无常5"] = {
 			["glow"] = false,
@@ -47212,27 +47215,20 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["internalVersion"] = 9,
-			["color"] = {
+			["cooldownTextEnabled"] = true,
+			["progressPrecision"] = 0,
+			["stickyDuration"] = false,
+			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["stickyDuration"] = false,
-			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
-			["cooldownTextEnabled"] = true,
+			["text2Point"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 54,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["parent"] = "痛苦无常",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -47284,14 +47280,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["desaturate"] = false,
 			["text1Containment"] = "INSIDE",
-			["text2Point"] = "CENTER",
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -47312,7 +47303,12 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["parent"] = "痛苦无常",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "%p",
 			["alpha"] = 1,
 			["zoom"] = 0,
@@ -47324,7 +47320,14 @@ WeakAurasSaved = {
 			},
 			["frameStrata"] = 1,
 			["width"] = 55,
-			["desaturate"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -47427,49 +47430,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = 2,
 			},
-			["desaturate"] = false,
-			["internalVersion"] = 9,
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "preset",
-					["duration_type"] = "seconds",
-					["preset"] = "fade",
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["duration"] = "2",
-					["alphaType"] = "alphaPulse",
-					["colorB"] = 1,
-					["colorG"] = 1,
-					["alphaFunc"] = "    function(progress, start, delta)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return start + (((math.sin(angle) + 1)/2) * delta)\n    end\n  ",
-					["use_translate"] = false,
-					["use_alpha"] = true,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["translateFunc"] = "function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
-					["scaley"] = 1,
-					["alpha"] = 0.65,
-					["colorA"] = 1,
-					["y"] = 0,
-					["x"] = 0,
-					["use_color"] = false,
-					["translateType"] = "straightTranslate",
-					["colorFunc"] = "",
-					["rotate"] = 0,
-					["colorType"] = "custom",
-					["scalex"] = 1,
-				},
-				["finish"] = {
-					["type"] = "preset",
-					["duration_type"] = "seconds",
-					["preset"] = "fade",
-				},
+			["authorOptions"] = {
 			},
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["parent"] = "DZ监视",
-			["cooldownEdge"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
+			["text2Point"] = "CENTER",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -47521,12 +47490,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 35,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -47584,10 +47548,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
-			},
-			["cooldownTextEnabled"] = true,
+			["parent"] = "DZ监视",
+			["icon"] = true,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Homespun",
@@ -47601,9 +47564,14 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["alpha"] = 1,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text2FontSize"] = 24,
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = " ",
 			["zoom"] = 0,
 			["text1Enabled"] = false,
@@ -47619,14 +47587,49 @@ WeakAurasSaved = {
 			},
 			["frameStrata"] = 2,
 			["width"] = 36,
-			["text2Point"] = "CENTER",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
 			["displayIcon"] = 132274,
 			["cooldown"] = true,
-			["icon"] = true,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["duration_type"] = "seconds",
+					["preset"] = "fade",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "2",
+					["alphaType"] = "alphaPulse",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return start + (((math.sin(angle) + 1)/2) * delta)\n    end\n  ",
+					["use_translate"] = false,
+					["use_alpha"] = true,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["translateFunc"] = "function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
+					["scaley"] = 1,
+					["alpha"] = 0.65,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 0,
+					["use_color"] = false,
+					["translateType"] = "straightTranslate",
+					["colorFunc"] = "",
+					["rotate"] = 0,
+					["colorType"] = "custom",
+					["scalex"] = 1,
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["duration_type"] = "seconds",
+					["preset"] = "fade",
+				},
+			},
 		},
 		["05 Lingering Affection"] = {
 			["text2Point"] = "CENTER",
@@ -47899,26 +47902,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["glow"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
+			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -47930,7 +47920,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -47981,10 +47971,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
-			["parent"] = "大秘境技能监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -47998,7 +48002,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "停止施法",
@@ -48006,19 +48010,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["id"] = "Thundering Crash",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "aH(z)tARzzf",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 839983,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Upheaval"] = {
 			["text2Point"] = "CENTER",
@@ -48078,14 +48081,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["internalVersion"] = 9,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -48096,7 +48111,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 252188,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -48148,23 +48163,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -48177,10 +48180,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "靠近孢子",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -48188,17 +48191,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1Font"] = "默认",
 			["id"] = "Upheaval",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["uid"] = "py5JP0Jzbbn",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["05 Plague Bomb"] = {
 			["text2Point"] = "CENTER",
@@ -48450,26 +48453,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -48481,7 +48471,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -48535,10 +48525,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -48556,7 +48546,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -48567,18 +48558,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Purification Beam",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["uid"] = "qE30o0woCAS",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 		},
 		["Channel Lightning"] = {
 			["text2Point"] = "CENTER",
@@ -48634,26 +48637,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -48665,8 +48656,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136014,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -48689,15 +48679,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -48707,11 +48699,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -48720,10 +48710,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -48750,19 +48740,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Channel Lightning",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "qP8jhlD2JY0",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Purification Beam cast"] = {
 			["text2Point"] = "CENTER",
@@ -48818,26 +48821,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -48849,8 +48840,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 892832,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1004",
@@ -48904,10 +48894,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -48934,19 +48924,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Purification Beam cast",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "1F6QnZGLRjF",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Blade Combo"] = {
 			["text2Point"] = "CENTER",
@@ -49002,26 +49005,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -49033,8 +49024,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1035036,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -49058,15 +49048,13 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["single"] = "TANK",
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["faction"] = {
@@ -49078,21 +49066,36 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -49119,19 +49122,19 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Blade Combo",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["parent"] = "大秘境技能监视",
 			["uid"] = "ALOaLaqMoA3",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 		},
 		["Gale Slash"] = {
 			["text2Point"] = "CENTER",
@@ -49188,13 +49191,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text1Containment"] = "INSIDE",
-			["icon"] = true,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -49206,7 +49222,8 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -49260,10 +49277,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -49276,8 +49293,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -49293,30 +49309,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Gale Slash",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["stickyDuration"] = false,
 			["uid"] = "GHDnu0yVEE0",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["命运骨骰1"] = {
 			["modelIsUnit"] = false,
@@ -49653,26 +49656,25 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["authorOptions"] = {
-			},
-			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["desaturate"] = false,
+			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["internalVersion"] = 9,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 54,
-			["progressPrecision"] = 0,
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -49724,14 +49726,15 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["parent"] = "痛苦无常",
 			["xOffset"] = 0,
-			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "伤害数字",
-			["parent"] = "痛苦无常",
 			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -49769,11 +49772,11 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["useglowColor"] = false,
 		},
 		["Deadeye Shot"] = {
 			["text2Point"] = "CENTER",
@@ -49827,13 +49830,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["xOffset"] = 0,
-			["text2Font"] = "Friz Quadrata TT",
+			["icon"] = true,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["internalVersion"] = 9,
-			["parent"] = "大秘境技能监视",
+			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -49845,20 +49849,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 132222,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownEdge"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -49909,11 +49900,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -49921,8 +49911,21 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "击退",
@@ -49945,14 +49948,14 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["glow"] = true,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "pLF2ObKTLnD",
 			["inverse"] = false,
-			["icon"] = true,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["glow"] = true,
 		},
 		["Unstable Runic Mark"] = {
 			["text2Point"] = "CENTER",
@@ -50010,13 +50013,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["text1Containment"] = "INSIDE",
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -50028,7 +50031,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136125,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -50082,11 +50085,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -50104,23 +50106,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["text1Font"] = "默认",
-			["text2FontSize"] = 24,
-			["frameStrata"] = 1,
-			["text1"] = "分散",
-			["text2"] = "%p",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["id"] = "Unstable Runic Mark",
-			["useglowColor"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
-			["uid"] = "NFeS2cDsh)W",
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -50135,10 +50120,28 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Font"] = "默认",
+			["text2FontSize"] = 24,
+			["frameStrata"] = 1,
+			["text1"] = "分散",
+			["text2"] = "%p",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1FontFlags"] = "THICKOUTLINE",
+			["id"] = "Unstable Runic Mark",
+			["parent"] = "大秘境技能监视",
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 9,
+			["uid"] = "NFeS2cDsh)W",
+			["inverse"] = false,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Electrified Scales"] = {
 			["text2Point"] = "CENTER",
@@ -50199,14 +50202,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -50218,7 +50233,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -50241,7 +50256,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -50249,7 +50264,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -50259,8 +50274,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -50270,23 +50285,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -50299,10 +50302,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "即将反弹",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -50310,16 +50313,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Electrified Scales",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "9mgZwbnYMRC",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 136051,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Throw Glaive - CD"] = {
 			["text2Point"] = "CENTER",
@@ -50344,7 +50347,7 @@ WeakAurasSaved = {
 			["useglowColor"] = false,
 			["authorOptions"] = {
 			},
-			["useTooltip"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -50394,7 +50397,7 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(trigger)\n    return trigger[1] and (trigger[2] or trigger[3]);\nend\n\n\n\n\n\n\n\n\n\n",
 				["activeTriggerMode"] = 1,
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["useTooltip"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -50537,11 +50540,11 @@ WeakAurasSaved = {
 			["customText"] = "",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
 			["cooldownSwipe"] = true,
-			["glow"] = false,
-			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid1/188",
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound_path"] = "",
@@ -50581,22 +50584,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["internalVersion"] = 9,
-			["displayIcon"] = 1392546,
-			["xOffset"] = 0,
-			["desaturate"] = true,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Point"] = "BOTTOM",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -50610,6 +50600,24 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 					["type"] = "none",
 				},
+			},
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["displayIcon"] = 1392546,
+			["selfPoint"] = "CENTER",
+			["text1Containment"] = "INSIDE",
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "BOTTOM",
+			["authorOptions"] = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
@@ -50668,35 +50676,16 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["width"] = 80,
 			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["text1Font"] = "默认",
-			["text1Containment"] = "INSIDE",
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
-			["cooldownTextEnabled"] = true,
-			["icon"] = true,
-			["text2FontSize"] = 25,
-			["zoom"] = 0.3,
-			["text1"] = "DOT",
-			["text1Enabled"] = true,
+			["stickyDuration"] = false,
+			["desaturate"] = true,
 			["text1FontFlags"] = "OUTLINE",
-			["text2"] = "%s%c",
-			["auto"] = false,
+			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -50708,23 +50697,37 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["id"] = "05 Plague Bomb Dot",
-			["alpha"] = 1,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
-			["uid"] = "zRvLUF6ds(z",
-			["inverse"] = false,
-			["useTooltip"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["color"] = {
+			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text2FontSize"] = 25,
+			["zoom"] = 0.3,
+			["text1"] = "DOT",
+			["text1Enabled"] = true,
+			["xOffset"] = 0,
+			["text2"] = "%s%c",
+			["auto"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["id"] = "05 Plague Bomb Dot",
+			["text2Enabled"] = false,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["useTooltip"] = false,
+			["uid"] = "zRvLUF6ds(z",
+			["inverse"] = false,
+			["internalVersion"] = 9,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["cooldownTextEnabled"] = true,
 		},
 		["05 Liquefy"] = {
 			["text2Point"] = "CENTER",
@@ -50983,14 +50986,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -51002,7 +51017,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1041, 1042",
@@ -51054,23 +51069,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -51083,10 +51086,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "躲头前",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -51094,16 +51097,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Indigestion",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "mjBoqyWCCi(",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1394887,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Transfusion"] = {
 			["text2Point"] = "CENTER",
@@ -51175,15 +51178,27 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
-			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
 			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -51194,7 +51209,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 135949,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -51246,23 +51261,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -51270,7 +51272,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -51289,19 +51291,20 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.3,
 			["auto"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["id"] = "Transfusion",
-			["desaturate"] = false,
+			["authorOptions"] = {
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["text1Enabled"] = true,
 			["uid"] = "aj4iJz4Al9T",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["icon"] = true,
 		},
 		["Horning Missiles"] = {
 			["text2Point"] = "CENTER",
@@ -51360,15 +51363,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -51376,15 +51375,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -51436,21 +51430,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "DOT",
 			["text2Color"] = {
 				1, -- [1]
@@ -51461,20 +51460,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Horning Missiles",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "Bq5(Pb)C6GL",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["R_DS1"] = {
 			["sparkWidth"] = 10,
@@ -52068,25 +52071,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -52099,7 +52090,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1162",
@@ -52150,10 +52141,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -52168,7 +52171,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲面前",
@@ -52176,18 +52179,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Crushing Slam",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "CYumXyxWCjK",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 136025,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Cinderflame"] = {
 			["text2Point"] = "CENTER",
@@ -52248,14 +52251,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -52267,7 +52282,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -52322,23 +52337,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -52351,10 +52354,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快搬桶",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -52362,16 +52365,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Cinderflame",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "9DV3X7rdLQb",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 524795,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Iron Gaze"] = {
 			["text2Point"] = "CENTER",
@@ -52428,8 +52431,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -52446,8 +52449,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -52459,7 +52463,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -52513,11 +52517,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -52535,7 +52538,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -52546,17 +52549,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Iron Gaze",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "(rtESP4XQRa",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Reinforcing Ward self buff"] = {
 			["text2Point"] = "CENTER",
@@ -52615,26 +52618,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -52646,8 +52637,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1589501,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -52700,10 +52690,23 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -52730,19 +52733,19 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Reinforcing Ward self buff",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["parent"] = "大秘境技能监视",
 			["uid"] = "aElP(TY15y9",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 		},
 		["Blade Dance - CD"] = {
 			["text2Point"] = "CENTER",
@@ -52824,9 +52827,10 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
-			["parent"] = "DH浩劫监视",
-			["desaturate"] = false,
+			["icon"] = true,
+			["authorOptions"] = {
+			},
+			["stickyDuration"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["conditions"] = {
@@ -52846,7 +52850,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["selfPoint"] = "CENTER",
+			["useglowColor"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -52909,9 +52913,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownEdge"] = false,
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
+			["desaturate"] = false,
+			["parent"] = "DH浩劫监视",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -52927,31 +52931,30 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["cooldownTextEnabled"] = false,
+			["glow"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["id"] = "Blade Dance - CD",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["frameStrata"] = 1,
 			["width"] = 50,
-			["authorOptions"] = {
-			},
-			["config"] = {
-			},
-			["inverse"] = false,
-			["glow"] = false,
-			["displayIcon"] = 1305149,
-			["cooldown"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["config"] = {
+			},
+			["inverse"] = false,
+			["internalVersion"] = 9,
+			["displayIcon"] = 1305149,
+			["cooldown"] = true,
+			["cooldownEdge"] = false,
 		},
 		["大秘境词缀监视"] = {
 			["grow"] = "LEFT",
@@ -53085,16 +53088,16 @@ WeakAurasSaved = {
 			["id"] = "大秘境词缀监视",
 			["rotation"] = 0,
 			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
+			["width"] = 711.99981689453,
 			["selfPoint"] = "RIGHT",
 			["config"] = {
 			},
-			["url"] = "https://wago.io/4k2jlNx2G/5",
+			["backgroundInset"] = 0,
 			["internalVersion"] = 9,
 			["conditions"] = {
 			},
-			["width"] = 711.99981689453,
-			["backgroundInset"] = 0,
+			["anchorFrameType"] = "SCREEN",
+			["url"] = "https://wago.io/4k2jlNx2G/5",
 		},
 		["灵魂碎片4"] = {
 			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
@@ -53291,25 +53294,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -53322,7 +53313,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -53373,10 +53364,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -53391,7 +53394,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "吐息",
@@ -53399,18 +53402,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Rotten Bile",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "GZsBIG0xamh",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132104,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Big Red Rocket"] = {
 			["text2Point"] = "CENTER",
@@ -53469,15 +53472,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -53485,15 +53484,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -53545,21 +53539,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "DOT",
 			["text2Color"] = {
 				1, -- [1]
@@ -53570,20 +53569,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Big Red Rocket",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "BKTCeWlNSHj",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["埋藏的宝藏 EN回复"] = {
 			["glow"] = false,
@@ -53649,14 +53652,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["stickyDuration"] = true,
 			["text1Containment"] = "OUTSIDE",
-			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "TOP",
-			["text2Font"] = "默认",
+			["parent"] = "命运骨骰组",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text1Enabled"] = true,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -53709,7 +53713,7 @@ WeakAurasSaved = {
 				},
 			},
 			["text2Point"] = "BOTTOM",
-			["stickyDuration"] = true,
+			["icon"] = true,
 			["useglowColor"] = false,
 			["text2Containment"] = "OUTSIDE",
 			["glowType"] = "buttonOverlay",
@@ -53719,7 +53723,11 @@ WeakAurasSaved = {
 				0.968627450980392, -- [3]
 				0, -- [4]
 			},
-			["authorOptions"] = {
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "THICKOUTLINE",
@@ -53740,23 +53748,18 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "埋藏的宝藏 EN回复",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Enabled"] = true,
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["parent"] = "命运骨骰组",
+			["cooldownTextEnabled"] = true,
 			["conditions"] = {
 			},
+			["desaturate"] = false,
 			["useTooltip"] = false,
-			["icon"] = true,
 		},
 		["Ancient Mindbender"] = {
 			["text2Point"] = "CENTER",
@@ -53820,10 +53823,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -53832,10 +53834,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -53858,12 +53860,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -53876,60 +53878,61 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "撞宝珠",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Ancient Mindbender",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "撞宝珠",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Ancient Mindbender",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "TPoRxYhPDJc",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Decaying Spores"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -53993,9 +53996,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -54004,10 +54008,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -54059,50 +54063,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Decaying Spores",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Decaying Spores",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "kmv6WUPK4Co",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Duelist Dash"] = {
 			["text2Point"] = "CENTER",
@@ -54160,25 +54163,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -54191,7 +54182,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -54242,10 +54233,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["desaturate"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -54260,7 +54263,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -54268,18 +54271,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["xOffset"] = 0,
 			["id"] = "Duelist Dash",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "zRogN0n8Jk(",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132337,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["08 High Energy"] = {
 			["text2Point"] = "CENTER",
@@ -54364,7 +54367,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "默认",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -54527,7 +54530,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "默认",
+			["internalVersion"] = 9,
 		},
 		["Sundering Blow"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -54591,9 +54594,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -54602,10 +54606,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -54628,7 +54632,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -54636,7 +54640,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -54646,8 +54650,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -54657,50 +54661,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "降低护甲",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Sundering Blow",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "降低护甲",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Sundering Blow",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "rXSsN8dT)zV",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Metamorphosis - CD - Veng"] = {
 			["text2Point"] = "CENTER",
@@ -54773,8 +54776,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["text1Containment"] = "INSIDE",
-			["internalVersion"] = 9,
+			["authorOptions"] = {
+			},
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -54783,28 +54787,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136210,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["glow"] = false,
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -54860,15 +54851,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
-			["text1Enabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["useglowColor"] = false,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -54895,16 +54880,34 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["id"] = "Metamorphosis - CD - Veng",
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 22,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -54921,7 +54924,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 22,
 		},
 		["Incendiary Rounds"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -54985,9 +54988,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -54996,10 +55000,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -55051,50 +55055,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Incendiary Rounds",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Incendiary Rounds",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "kaOkpx7UQ6D",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Decaying Touch"] = {
 			["text2Point"] = "CENTER",
@@ -55151,26 +55154,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -55182,7 +55172,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -55236,10 +55226,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -55257,7 +55247,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -55268,18 +55259,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Decaying Touch",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["uid"] = "UY6389nJq4d",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 		},
 		["03 Add spawn (Heroic)"] = {
 			["text2Point"] = "CENTER",
@@ -55324,13 +55327,13 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "event",
 						["debuffType"] = "HARMFUL",
-						["events"] = "CHAT_MSG_RAID_BOSS_EMOTE",
+						["name"] = "诱惑精华",
 						["event"] = "Combat Log",
+						["custom"] = "function(a, msg)\n    if msg then\n        if not msg:find(\"spell:262291\") then\n            return true\n        end\n    end\nend",
+						["events"] = "CHAT_MSG_RAID_BOSS_EMOTE",
+						["use_spellId"] = true,
 						["spellIds"] = {
 						},
-						["name"] = "诱惑精华",
-						["use_spellId"] = true,
-						["custom"] = "function(a, msg)\n    if msg then\n        if not msg:find(\"spell:262291\") then\n            return true\n        end\n    end\nend",
 						["unevent"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
@@ -55545,25 +55548,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["icon"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -55576,7 +55567,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -55627,10 +55618,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -55645,7 +55648,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "躲面前",
@@ -55653,18 +55656,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Slobber Knocker",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "JQXH3dZtMlT",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 132364,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["01 Coalesced Blood Spawn"] = {
 			["text2Point"] = "CENTER",
@@ -55725,7 +55728,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -55741,7 +55744,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["parent"] = "奥迪尔技能监视",
 			["displayIcon"] = 1392547,
 			["text1Containment"] = "INSIDE",
@@ -56254,10 +56257,10 @@ WeakAurasSaved = {
 				},
 				["main"] = {
 					["colorR"] = 1,
-					["duration_type"] = "seconds",
-					["use_color"] = false,
-					["x"] = 0,
 					["scaley"] = 1,
+					["scalex"] = 1,
+					["x"] = 0,
+					["duration_type"] = "seconds",
 					["alpha"] = 0,
 					["colorB"] = 0,
 					["y"] = 0,
@@ -56266,7 +56269,7 @@ WeakAurasSaved = {
 					["colorA"] = 1,
 					["colorFunc"] = "function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n    local angle = (progress * 2 * math.pi) - (math.pi / 2)\n    local newProgress = ((math.sin(angle) + 1)/2);\n    return WeakAuras.GetHSVTransition(newProgress, r1, g1, b1, a1, r2, g2, b2, a2)\nend\n\n\n",
 					["rotate"] = 0,
-					["scalex"] = 1,
+					["use_color"] = false,
 					["type"] = "none",
 				},
 				["finish"] = {
@@ -56672,7 +56675,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -56689,7 +56692,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -57442,9 +57445,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -57453,10 +57457,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -57508,50 +57512,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "出去",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Slicing Hurricane",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "出去",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Slicing Hurricane",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "LqAa8icsI1r",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Frenzied Charge"] = {
 			["text2Point"] = "CENTER",
@@ -57609,25 +57612,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -57640,7 +57631,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -57691,10 +57682,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -57709,7 +57712,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "冲锋",
@@ -57717,18 +57720,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
 			["id"] = "Frenzied Charge",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "o4B)))icTJb",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 791593,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Poison Barrage"] = {
 			["text2Point"] = "CENTER",
@@ -57785,26 +57788,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["xOffset"] = 0,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -57816,7 +57806,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -57839,15 +57829,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -57857,11 +57849,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -57870,10 +57860,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -57891,7 +57881,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -57902,18 +57893,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Poison Barrage",
-			["useglowColor"] = false,
+			["xOffset"] = 0,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["internalVersion"] = 9,
 			["uid"] = "FCnve0ZM)Z2",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Jagged Nettles cast"] = {
 			["text2Point"] = "CENTER",
@@ -57973,26 +57976,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["stickyDuration"] = false,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -58004,7 +57994,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -58055,10 +58045,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
-			["parent"] = "大秘境技能监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -58072,7 +58076,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "防御",
@@ -58080,19 +58084,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["id"] = "Jagged Nettles cast",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Containment"] = "INSIDE",
+			["useglowColor"] = false,
 			["uid"] = "5xQEbZI0eUP",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 959837,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Runic Mark"] = {
 			["text2Point"] = "CENTER",
@@ -58149,8 +58152,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -58167,8 +58170,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -58180,7 +58184,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -58234,11 +58238,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -58256,7 +58259,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -58267,17 +58270,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Runic Mark",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "zUkHxtxbYou",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["骷髅黑帆 双击"] = {
 			["glow"] = false,
@@ -58343,14 +58346,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = true,
-			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "TOP",
-			["text2Font"] = "默认",
+			["parent"] = "命运骨骰组",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 39.9999885559082,
-			["text1Enabled"] = true,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -58403,12 +58407,16 @@ WeakAurasSaved = {
 				},
 			},
 			["text2Point"] = "TOP",
-			["text1Containment"] = "OUTSIDE",
+			["icon"] = true,
 			["useglowColor"] = false,
 			["text2Containment"] = "OUTSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["authorOptions"] = {
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "THICKOUTLINE",
@@ -58434,23 +58442,18 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "骷髅黑帆 双击",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Enabled"] = true,
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["parent"] = "命运骨骰组",
+			["cooldownTextEnabled"] = true,
 			["conditions"] = {
 			},
+			["desaturate"] = false,
 			["useTooltip"] = false,
-			["icon"] = true,
 		},
 		["01 Sanguine Static"] = {
 			["text2Point"] = "CENTER",
@@ -58516,10 +58519,10 @@ WeakAurasSaved = {
 				},
 				["main"] = {
 					["colorR"] = 0.80392156862745,
-					["duration_type"] = "seconds",
-					["use_color"] = false,
-					["x"] = 0,
 					["scaley"] = 1,
+					["scalex"] = 1,
+					["x"] = 0,
+					["duration_type"] = "seconds",
 					["alpha"] = 0,
 					["colorB"] = 0.78039215686275,
 					["y"] = 0,
@@ -58528,7 +58531,7 @@ WeakAurasSaved = {
 					["colorA"] = 1,
 					["colorFunc"] = "",
 					["rotate"] = 0,
-					["scalex"] = 1,
+					["use_color"] = false,
 					["type"] = "none",
 				},
 				["finish"] = {
@@ -58722,14 +58725,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -58741,7 +58756,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -58793,23 +58808,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -58822,10 +58825,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "鸟冲锋倒计时",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -58833,16 +58836,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Dive Bomb",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "Eibv1MHUNix",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1029584,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["08 Dark Bargain"] = {
 			["text2Point"] = "CENTER",
@@ -58897,7 +58900,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -59040,7 +59043,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 		},
 		["Vol'zith Adds left"] = {
 			["outline"] = "OUTLINE",
@@ -59241,14 +59244,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -59260,7 +59275,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -59312,23 +59327,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -59341,10 +59344,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -59352,16 +59355,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Abyssal Reach",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "Vnga(vnM(XU",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 537022,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Surging Rush"] = {
 			["text2Point"] = "CENTER",
@@ -59422,14 +59425,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -59441,7 +59456,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -59493,23 +59508,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -59522,10 +59525,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -59533,16 +59536,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Surging Rush",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "udKsqytul(R",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 237590,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Poisoning Strike"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -59606,9 +59609,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["text1Enabled"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -59617,10 +59621,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -59672,50 +59676,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["text1Enabled"] = true,
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Poisoning Strike",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Poisoning Strike",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["icon"] = true,
 			["uid"] = "fRpWjbAsyL1",
 			["inverse"] = false,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Tentacle Slam"] = {
 			["text2Point"] = "CENTER",
@@ -59781,25 +59784,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["stickyDuration"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["text1Containment"] = "INSIDE",
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -59811,7 +59802,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 537022,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -59865,10 +59856,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["stickyDuration"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -59883,7 +59886,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "触手",
@@ -59891,19 +59894,19 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["text1Containment"] = "INSIDE",
+			["xOffset"] = 0,
 			["id"] = "Tentacle Slam",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 			["uid"] = "A)aF5)vaEAb",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Lightning Shield"] = {
 			["text2Point"] = "CENTER",
@@ -59996,10 +59999,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["glow"] = false,
-			["stickyDuration"] = false,
 			["cooldownTextEnabled"] = true,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -60007,10 +60011,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["text1Containment"] = "INSIDE",
+			["desaturate"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["xOffset"] = 0,
+			["icon"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -60062,50 +60066,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
+			["text1Enabled"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Font"] = "默认",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["useglowColor"] = false,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
+			["xOffset"] = 0,
+			["text2FontSize"] = 24,
+			["parent"] = "大秘境技能监视",
+			["text1"] = "反弹",
+			["selfPoint"] = "CENTER",
+			["text2"] = "%p",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["authorOptions"] = {
-			},
-			["text1"] = "反弹",
-			["selfPoint"] = "CENTER",
-			["text2"] = "%p",
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["frameStrata"] = 1,
 			["id"] = "Lightning Shield",
-			["icon"] = true,
-			["text2Enabled"] = false,
+			["frameStrata"] = 1,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "默认",
+			["stickyDuration"] = false,
 			["uid"] = "KlsCZ8HCAqg",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 		},
 		["精准定位 减CD"] = {
 			["glow"] = false,
@@ -60174,14 +60177,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["text1Containment"] = "OUTSIDE",
 			["stickyDuration"] = true,
-			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "TOP",
-			["text2Point"] = "TOP",
+			["cooldownTextEnabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text1Enabled"] = true,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -60234,7 +60238,7 @@ WeakAurasSaved = {
 				},
 			},
 			["useTooltip"] = false,
-			["text1Containment"] = "OUTSIDE",
+			["icon"] = true,
 			["useglowColor"] = false,
 			["text2Containment"] = "OUTSIDE",
 			["glowType"] = "buttonOverlay",
@@ -60244,7 +60248,11 @@ WeakAurasSaved = {
 				0.968627450980392, -- [3]
 				0, -- [4]
 			},
-			["authorOptions"] = {
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["selfPoint"] = "CENTER",
 			["text1FontFlags"] = "THICKOUTLINE",
@@ -60265,23 +60273,18 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "精准定位 减CD",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Enabled"] = true,
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "命运骨骰组",
+			["text2Point"] = "TOP",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["parent"] = "命运骨骰组",
 			["conditions"] = {
 			},
+			["desaturate"] = false,
 			["text2Font"] = "默认",
-			["icon"] = true,
 		},
 		["06 Nazmani Bloodhexer Spawn"] = {
 			["text2Point"] = "CENTER",
@@ -60873,9 +60876,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Enabled"] = true,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["parent"] = "大秘境技能监视",
+			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -60884,10 +60887,11 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -60939,8 +60943,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
@@ -60951,38 +60955,37 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["useglowColor"] = false,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Font"] = "默认",
-			["text2FontSize"] = 25,
-			["xOffset"] = 0,
-			["text1"] = "被减速",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Embalming Fluid",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "被减速",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Embalming Fluid",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 			["uid"] = "G8MinnL75QU",
 			["inverse"] = false,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["text1Enabled"] = true,
 		},
 		["Dust Cloud Enemy"] = {
 			["text2Point"] = "CENTER",
@@ -61047,14 +61050,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["cooldownEdge"] = false,
+			["selfPoint"] = "CENTER",
 			["desaturate"] = true,
 			["glowColor"] = {
 				1, -- [1]
@@ -61063,10 +61061,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -61089,12 +61087,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -61107,56 +61105,61 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["parent"] = "大秘境技能监视",
-			["selfPoint"] = "CENTER",
+			["text1Containment"] = "INSIDE",
+			["xOffset"] = 0,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 30,
+			["frameStrata"] = 1,
+			["text1"] = "没视野",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 30,
-			["useglowColor"] = false,
-			["text1"] = "没视野",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
-			["xOffset"] = 0,
 			["id"] = "Dust Cloud Enemy",
-			["text2Enabled"] = false,
-			["frameStrata"] = 1,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Containment"] = "INSIDE",
+			["glow"] = false,
 			["uid"] = "EAB1yyLMO)q",
 			["inverse"] = false,
-			["icon"] = true,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["authorOptions"] = {
-			},
+			["icon"] = true,
 		},
 		["Rogue_Energy_T"] = {
 			["textFlags"] = "OUTLINE",
@@ -61521,6 +61524,8 @@ WeakAurasSaved = {
 			},
 			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["progressPrecision"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -61535,10 +61540,8 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["progressPrecision"] = 0,
-			["internalVersion"] = 9,
-			["text2Font"] = "Friz Quadrata TT",
-			["stickyDuration"] = false,
+			["icon"] = true,
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -61563,8 +61566,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -61622,14 +61624,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["glow"] = false,
-			["desaturate"] = false,
+			["cooldownEdge"] = false,
+			["xOffset"] = 66,
+			["text2Font"] = "Friz Quadrata TT",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -61645,25 +61642,31 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["text1Containment"] = "INSIDE",
 			["text2"] = "%p",
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["id"] = "Darkness - CD",
-			["cooldownTextEnabled"] = false,
+			["authorOptions"] = {
+			},
 			["alpha"] = 1,
 			["width"] = 40,
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["xOffset"] = 66,
+			["glow"] = false,
 		},
 		["Lingering Nausea"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -61727,9 +61730,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -61738,10 +61742,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -61795,50 +61799,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT%c",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Lingering Nausea",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT%c",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Lingering Nausea",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "zT3wBMah95j",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["06 Pool of Darkness"] = {
 			["text2Point"] = "CENTER",
@@ -62102,9 +62105,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -62113,10 +62117,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -62139,12 +62143,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -62157,61 +62161,60 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Itchy Bite",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Itchy Bite",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "D0aW9qIe)dk",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Necrotic Rot Tank"] = {
 			["text2Point"] = "CENTER",
@@ -62293,9 +62296,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["stickyDuration"] = false,
+			["internalVersion"] = 9,
 			["text1Containment"] = "INSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -62303,11 +62306,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOMRIGHT",
-			["authorOptions"] = {
-			},
+			["parent"] = "大秘境词缀监视",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text2Font"] = "Friz Quadrata TT",
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -62375,18 +62377,19 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["internalVersion"] = 9,
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "默认",
-			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["authorOptions"] = {
+			},
+			["text1Font"] = "默认",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -62395,9 +62398,9 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["width"] = 80,
-			["text2Enabled"] = false,
-			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
+			["text2FontSize"] = 24,
+			["alpha"] = 1,
 			["text1"] = "%s",
 			["glow"] = false,
 			["zoom"] = 0.3,
@@ -62406,16 +62409,16 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["id"] = "Necrotic Rot Tank",
 			["text1FontFlags"] = "THICKOUTLINE",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境词缀监视",
+			["selfPoint"] = "CENTER",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["stickyDuration"] = false,
 			["displayIcon"] = 458736,
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 		},
 		["Metamorphosis - Active"] = {
 			["text2Point"] = "CENTER",
@@ -62465,7 +62468,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -62474,15 +62477,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
-			["xOffset"] = 0,
-			["stickyDuration"] = false,
+			["icon"] = true,
+			["cooldownEdge"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["text1Containment"] = "INSIDE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -62538,10 +62546,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
-			["parent"] = "DH浩劫监视",
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["text1Enabled"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -62549,12 +62556,7 @@ WeakAurasSaved = {
 			["text2Enabled"] = false,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -62562,22 +62564,36 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["frameStrata"] = 1,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = true,
 			["id"] = "Metamorphosis - Active",
-			["cooldownEdge"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["alpha"] = 1,
 			["width"] = 50,
-			["desaturate"] = false,
+			["internalVersion"] = 9,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["glow"] = true,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -62594,20 +62610,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["parent"] = "DH浩劫监视",
 		},
 		["04 Shatter (Tank)"] = {
 			["text2Point"] = "CENTER",
@@ -62658,19 +62661,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
 			["authorOptions"] = {
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -62679,23 +62677,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownTextEnabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["icon"] = true,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -62749,12 +62734,32 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["width"] = 80,
+			["text2Enabled"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -62766,22 +62771,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["width"] = 80,
-			["text2Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
 			["text1Font"] = "默认",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["text2FontSize"] = 25,
 			["alpha"] = 1,
 			["text1"] = "坦克DOT",
@@ -62791,17 +62781,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "OUTLINE",
 			["id"] = "04 Shatter (Tank)",
-			["text2Font"] = "Arial Narrow",
+			["icon"] = true,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["uid"] = "7h7HC5ggcNg",
 			["inverse"] = false,
-			["glow"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 		},
 		["Slippery Ruds"] = {
 			["text2Point"] = "CENTER",
@@ -62862,14 +62865,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["internalVersion"] = 9,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -62880,7 +62895,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 237590,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -62932,23 +62947,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -62961,10 +62964,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "别跳",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -62972,17 +62975,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1Font"] = "默认",
 			["id"] = "Slippery Ruds",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["uid"] = "1yyAT1ZNOUA",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Massive Chomp"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -63046,9 +63049,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -63057,10 +63061,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -63112,50 +63116,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 30,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "HP上限降低",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Massive Chomp",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 30,
 			["text2Enabled"] = true,
+			["text1"] = "HP上限降低",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Massive Chomp",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "GsB0G(2z8er",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["05 Bursting Lesions"] = {
 			["text2Point"] = "CENTER",
@@ -63164,89 +63167,21 @@ WeakAurasSaved = {
 			["customText"] = "",
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["cooldownSwipe"] = true,
-			["glow"] = false,
+			["cooldownEdge"] = false,
 			["customTextUpdate"] = "update",
 			["url"] = "https://wago.io/bfaraid1/188",
-			["actions"] = {
-				["start"] = {
-					["sound_path"] = "",
-					["sound"] = " custom",
-					["do_sound"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["type"] = "aura",
-						["spellId"] = "",
-						["unevent"] = "timed",
-						["debuffType"] = "HARMFUL",
-						["event"] = "Combat Log",
-						["subeventPrefix"] = "SPELL",
-						["spellIds"] = {
-							274990, -- [1]
-						},
-						["use_spellId"] = false,
-						["name"] = "Plague Bomb",
-						["use_specific_unit"] = false,
-						["subeventSuffix"] = "_CAST_SUCCESS",
-						["names"] = {
-							"破裂损伤", -- [1]
-						},
-						["unit"] = "player",
-						["buffShowOn"] = "showOnActive",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Arial Narrow",
+			["icon"] = true,
+			["useglowColor"] = false,
+			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["scalex"] = 1,
-					["alphaType"] = "straight",
-					["colorB"] = 0.9843137254902,
-					["colorG"] = 0.7921568627451,
-					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
-					["use_alpha"] = false,
-					["type"] = "none",
-					["scaley"] = 1,
-					["alpha"] = 0,
-					["x"] = 0,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["use_color"] = false,
-					["preset"] = "alphaPulse",
-					["colorFunc"] = "",
-					["rotate"] = 0,
-					["colorA"] = 1,
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["xOffset"] = 0,
 			["displayIcon"] = 132100,
-			["useTooltip"] = false,
-			["stickyDuration"] = false,
+			["glow"] = false,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -63254,7 +63189,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["authorOptions"] = {
+			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
 			["config"] = {
@@ -63314,35 +63250,51 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownEdge"] = false,
+			["text2Font"] = "Arial Narrow",
 			["width"] = 80,
 			["frameStrata"] = 1,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "默认",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["useglowColor"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["scalex"] = 1,
+					["alphaType"] = "straight",
+					["colorB"] = 0.9843137254902,
+					["colorG"] = 0.7921568627451,
+					["alphaFunc"] = "    function(progress, start, delta)\n      return start + (progress * delta)\n    end\n  ",
+					["use_alpha"] = false,
+					["type"] = "none",
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["x"] = 0,
+					["y"] = 0,
+					["colorType"] = "custom",
+					["use_color"] = false,
+					["preset"] = "alphaPulse",
+					["colorFunc"] = "",
+					["rotate"] = 0,
+					["colorA"] = 1,
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["regionType"] = "icon",
-			["selfPoint"] = "CENTER",
-			["text1Enabled"] = true,
-			["text2FontSize"] = 25,
-			["text2"] = "%s%c",
-			["text1"] = "分散",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["text1FontFlags"] = "OUTLINE",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -63354,23 +63306,74 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["text1Font"] = "默认",
+			["text2FontSize"] = 25,
+			["text2"] = "%s%c",
+			["text1"] = "分散",
+			["desaturate"] = false,
+			["useTooltip"] = false,
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["id"] = "05 Bursting Lesions",
-			["alpha"] = 1,
 			["text2Enabled"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
-			["uid"] = "22HjjitIDFM",
-			["inverse"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["uid"] = "22HjjitIDFM",
+			["inverse"] = false,
+			["actions"] = {
+				["start"] = {
+					["sound_path"] = "",
+					["sound"] = " custom",
+					["do_sound"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["icon"] = true,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura",
+						["spellId"] = "",
+						["unevent"] = "timed",
+						["debuffType"] = "HARMFUL",
+						["event"] = "Combat Log",
+						["subeventPrefix"] = "SPELL",
+						["spellIds"] = {
+							274990, -- [1]
+						},
+						["use_spellId"] = false,
+						["name"] = "Plague Bomb",
+						["use_specific_unit"] = false,
+						["subeventSuffix"] = "_CAST_SUCCESS",
+						["names"] = {
+							"破裂损伤", -- [1]
+						},
+						["unit"] = "player",
+						["buffShowOn"] = "showOnActive",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
 		},
 		["Void Reaver - Active"] = {
 			["text2Point"] = "CENTER",
@@ -63423,26 +63426,39 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
-			["internalVersion"] = 9,
+			["glow"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorOptions"] = {
-			},
-			["cooldownTextEnabled"] = false,
-			["desaturate"] = false,
+			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 237561,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["icon"] = true,
+			["useglowColor"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -63501,23 +63517,15 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glow"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["authorOptions"] = {
 			},
-			["text1Containment"] = "INSIDE",
+			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -63544,25 +63552,20 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["id"] = "Void Reaver - Active",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "DH复仇监视",
+			["cooldownTextEnabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["internalVersion"] = 9,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["parent"] = "DH复仇监视",
 		},
 		["08 Bursting Boil"] = {
 			["text2Point"] = "CENTER",
@@ -63819,14 +63822,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -63838,7 +63853,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1010",
@@ -63892,23 +63907,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -63921,10 +63924,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "AOE倒计时",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -63932,16 +63935,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Resonant Pulse",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "ZHg48VQZHES",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 451165,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["06 Engorged Burst"] = {
 			["text2Point"] = "CENTER",
@@ -63996,7 +63999,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -64013,7 +64016,7 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextEnabled"] = true,
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["displayIcon"] = "Void Lash",
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -64196,10 +64199,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -64208,10 +64210,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -64234,12 +64236,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -64252,60 +64254,61 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "DOT/束缚",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Hooked Snare",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "DOT/束缚",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Hooked Snare",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "lu512ubKDtR",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Pryhicc Blast"] = {
 			["text2Point"] = "CENTER",
@@ -64363,25 +64366,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -64394,7 +64385,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -64445,10 +64436,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -64463,7 +64466,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "爆炸",
@@ -64471,18 +64474,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Pryhicc Blast",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "4RB3MZZ60T0",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 134732,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["03 Rotting Regurgitation"] = {
 			["text2Point"] = "CENTER",
@@ -64954,14 +64957,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -64973,7 +64988,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -65025,23 +65040,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -65054,10 +65057,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "吐息",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -65065,16 +65068,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Noxious Breath Trash",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "8hFe8bJktK7",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 136182,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Severing Axe"] = {
 			["text2Point"] = "CENTER",
@@ -65131,8 +65134,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -65149,8 +65152,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -65162,7 +65166,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -65185,15 +65189,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -65203,11 +65209,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -65216,11 +65220,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -65238,7 +65241,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -65249,17 +65252,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Severing Axe",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "rDT9N61Tzz2",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["暗鲨涌动 暴击"] = {
 			["glow"] = false,
@@ -65320,11 +65323,16 @@ WeakAurasSaved = {
 				},
 			},
 			["text1FontFlags"] = "THICKOUTLINE",
-			["icon"] = true,
-			["desaturate"] = false,
-			["progressPrecision"] = 0,
-			["text1Point"] = "TOP",
+			["useglowColor"] = false,
+			["stickyDuration"] = true,
 			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Point"] = "TOP",
+			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
@@ -65332,7 +65340,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text2Point"] = "BOTTOM",
+			["text2Font"] = "默认",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -65384,9 +65392,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["icon"] = true,
 			["selfPoint"] = "CENTER",
-			["useTooltip"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 90,
 			["text2Containment"] = "OUTSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -65395,8 +65403,8 @@ WeakAurasSaved = {
 				0.968627450980392, -- [3]
 				0, -- [4]
 			},
-			["text2Font"] = "默认",
-			["text1Containment"] = "OUTSIDE",
+			["parent"] = "命运骨骰组",
+			["desaturate"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -65407,12 +65415,7 @@ WeakAurasSaved = {
 			["width"] = 40,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 13,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text2Point"] = "BOTTOM",
 			["text1"] = "%p",
 			["text1Enabled"] = true,
 			["zoom"] = 0,
@@ -65420,19 +65423,19 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["alpha"] = 1,
 			["id"] = "暗鲨涌动 暴击",
-			["stickyDuration"] = true,
+			["useTooltip"] = false,
 			["text2Enabled"] = true,
 			["anchorFrameType"] = "SCREEN",
 			["text1Font"] = "默认",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "OUTSIDE",
 			["conditions"] = {
 			},
-			["xOffset"] = 90,
-			["parent"] = "命运骨骰组",
+			["progressPrecision"] = 0,
+			["authorOptions"] = {
+			},
 		},
 		["Pain Bar"] = {
 			["textFlags"] = "OUTLINE",
@@ -65737,8 +65740,10 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["text2Font"] = "Arial Narrow",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -65753,8 +65758,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 9,
-			["selfPoint"] = "CENTER",
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -65919,19 +65922,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["text2Font"] = "默认",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
 			["authorOptions"] = {
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -65940,23 +65938,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownTextEnabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["icon"] = true,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -66012,12 +65997,32 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["width"] = 80,
+			["text2Enabled"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -66029,22 +66034,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["width"] = 80,
-			["text2Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
 			["text1Font"] = "默认",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["text2FontSize"] = 25,
 			["alpha"] = 1,
 			["text1"] = "分散",
@@ -66054,17 +66044,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "OUTLINE",
 			["id"] = "01 Hardened Arteries",
-			["text2Font"] = "默认",
+			["icon"] = true,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["uid"] = "4NtFXgF76GX",
 			["inverse"] = false,
-			["glow"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 		},
 		["Sea Spout"] = {
 			["text2Point"] = "CENTER",
@@ -66125,14 +66128,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -66144,7 +66159,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -66167,7 +66182,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -66175,7 +66190,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -66185,8 +66200,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -66196,23 +66211,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -66225,10 +66228,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -66236,16 +66239,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Sea Spout",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "GOSlvJhlPgT",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 132852,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Blind Rage"] = {
 			["text2Point"] = "CENTER",
@@ -66306,14 +66309,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["internalVersion"] = 9,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -66324,7 +66339,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 237590,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -66376,23 +66391,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -66405,10 +66408,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "被追踪",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -66416,17 +66419,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1Font"] = "默认",
 			["id"] = "Blind Rage",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["uid"] = "8DQ)oOS6Ccs",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Whirling Slam"] = {
 			["text2Point"] = "CENTER",
@@ -66484,25 +66487,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -66515,7 +66506,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -66566,10 +66557,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -66584,7 +66587,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "AOE",
@@ -66592,18 +66595,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Whirling Slam",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "8QU8fqm0FLk",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 236312,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Virulent Pathogen"] = {
 			["text2Point"] = "CENTER",
@@ -66660,8 +66663,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -66678,8 +66681,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -66691,7 +66695,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -66745,11 +66749,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -66767,7 +66770,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -66778,17 +66781,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Virulent Pathogen",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "U9bTtfN5nX0",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Sanguine Feast"] = {
 			["text2Point"] = "CENTER",
@@ -66849,14 +66852,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -66868,7 +66883,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -66920,23 +66935,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -66949,10 +66952,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "远离BOSS",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -66960,16 +66963,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Sanguine Feast",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "7W92Id4)v0L",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1394887,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Rat Traps"] = {
 			["text2Point"] = "CENTER",
@@ -67030,14 +67033,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -67063,7 +67078,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -67115,23 +67130,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -67144,10 +67147,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "陷阱倒计时",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -67155,16 +67158,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Rat Traps",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "(DhyFaWUXSe",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1467588,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["Swiftness Ward"] = {
 			["text2Point"] = "CENTER",
@@ -67225,14 +67228,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -67244,7 +67259,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -67296,23 +67311,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -67325,10 +67328,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "急速圈倒计时",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -67336,16 +67339,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Swiftness Ward",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "k6s0NmnDgqG",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1589500,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["04 High Energy"] = {
 			["text2Point"] = "CENTER",
@@ -67406,7 +67409,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Arial Narrow",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -67547,7 +67550,7 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 		},
 		["Consume Magic - CD - Veng"] = {
 			["text2Point"] = "CENTER",
@@ -67600,8 +67603,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
-			["text1Enabled"] = false,
+			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -67610,15 +67613,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = false,
-			["useglowColor"] = false,
-			["desaturate"] = false,
+			["xOffset"] = -110,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -67678,10 +67686,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
-			["xOffset"] = -110,
-			["cooldownEdge"] = false,
+			["icon"] = true,
+			["glow"] = false,
+			["cooldownTextEnabled"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -67697,31 +67704,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["text2Font"] = "Friz Quadrata TT",
-			["text1"] = "%p",
-			["zoom"] = 0.3,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2"] = "%p",
-			["auto"] = true,
-			["icon"] = true,
-			["id"] = "Consume Magic - CD - Veng",
-			["text1Containment"] = "INSIDE",
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -67737,6 +67719,26 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1"] = "%p",
+			["zoom"] = 0.3,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2"] = "%p",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Consume Magic - CD - Veng",
+			["useglowColor"] = false,
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["stickyDuration"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -67753,7 +67755,8 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = false,
+			["authorOptions"] = {
+			},
 		},
 		["灵魂碎片1"] = {
 			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
@@ -68087,19 +68090,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
 			},
 			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
-			["stickyDuration"] = false,
+			["xOffset"] = -105,
+			["parent"] = "DH复仇监视",
+			["desaturate"] = true,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -68110,7 +68109,12 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["useglowColor"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -68168,10 +68172,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
+			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["xOffset"] = -105,
-			["parent"] = "DH复仇监视",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -68198,33 +68214,20 @@ WeakAurasSaved = {
 			["icon"] = true,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["id"] = "Infernal Strike - CD - 0",
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["desaturate"] = true,
+			["stickyDuration"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["text1Containment"] = "INSIDE",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Thorned Barrage"] = {
 			["text2Point"] = "CENTER",
@@ -68281,26 +68284,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["icon"] = true,
+			["useglowColor"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -68312,7 +68302,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -68366,10 +68356,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -68387,7 +68377,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -68398,18 +68389,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Thorned Barrage",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["uid"] = "pkVsl5ruMgH",
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["parent"] = "大秘境技能监视",
 		},
 		["Demon Spikes - CD - 1+"] = {
 			["text2Point"] = "CENTER",
@@ -68489,9 +68492,16 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["icon"] = true,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -68506,21 +68516,14 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 9,
-			["cooldownTextEnabled"] = false,
-			["desaturate"] = false,
+			["text1Enabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "BOTTOMRIGHT",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -68576,10 +68579,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
+			["icon"] = true,
+			["internalVersion"] = 9,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -68595,13 +68602,14 @@ WeakAurasSaved = {
 			},
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
-			["parent"] = "DH复仇监视",
+			["authorOptions"] = {
+			},
 			["text1"] = "%s",
 			["zoom"] = 0.3,
 			["glow"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["useglowColor"] = false,
 			["id"] = "Demon Spikes - CD - 1+",
 			["text1Color"] = {
 				1, -- [1]
@@ -68611,20 +68619,15 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["stickyDuration"] = false,
+			["cooldownTextEnabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["useglowColor"] = false,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["parent"] = "DH复仇监视",
 		},
 		["Fracture - CD - 1+"] = {
 			["text2Point"] = "CENTER",
@@ -68680,8 +68683,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
-			["text1Enabled"] = true,
+			["xOffset"] = -53,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -68690,30 +68693,22 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["text1Containment"] = "INSIDE",
+			["stickyDuration"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "BOTTOMRIGHT",
 			["conditions"] = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["xOffset"] = -53,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -68774,9 +68769,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = false,
-			["internalVersion"] = 9,
-			["cooldownEdge"] = false,
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -68792,7 +68787,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text2FontSize"] = 24,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["text1"] = "%s",
 			["zoom"] = 0.3,
 			["text2Color"] = {
@@ -68803,25 +68798,33 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["id"] = "Fracture - CD - 1+",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["glow"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = false,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = false,
 		},
 		["05 Parasite Spawn"] = {
 			["text2Point"] = "CENTER",
@@ -69101,14 +69104,13 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(t)\n    return t[2]\nend",
 				["activeTriggerMode"] = 2,
 			},
-			["parent"] = "大秘境技能监视",
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Enabled"] = true,
+			["glow"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -69172,7 +69174,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["internalVersion"] = 9,
+			["cooldownEdge"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -69225,10 +69227,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glow"] = false,
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["cooldownEdge"] = false,
+			["xOffset"] = 0,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -69241,7 +69243,7 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["useglowColor"] = false,
+			["parent"] = "大秘境技能监视",
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -69255,7 +69257,8 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["zoom"] = 0.3,
 			["auto"] = true,
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["id"] = "Carve Flesh",
 			["text1Font"] = "默认",
 			["text2Enabled"] = false,
@@ -69533,26 +69536,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -69564,8 +69555,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1029585,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -69588,15 +69578,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -69606,11 +69598,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -69619,10 +69609,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -69649,19 +69639,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Serpentine Gust",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "jzmbXD22W)H",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Rotting Wounds"] = {
 			["text2Point"] = "CENTER",
@@ -69718,13 +69721,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text1Containment"] = "INSIDE",
-			["icon"] = true,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -69736,7 +69752,8 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -69759,15 +69776,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -69777,11 +69796,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -69790,10 +69807,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -69806,8 +69823,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -69823,30 +69839,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Rotting Wounds",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["stickyDuration"] = false,
 			["uid"] = "AhhR1AOTwp8",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["Fiery Brand - CD"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -70692,10 +70695,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["icon"] = true,
-			["authorOptions"] = {
-			},
-			["text2Font"] = "Friz Quadrata TT",
+			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -70704,10 +70706,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -70730,7 +70732,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -70738,7 +70740,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -70748,8 +70750,8 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -70759,49 +70761,50 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["useglowColor"] = false,
+			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
-			["text1"] = "窒息中",
-			["glow"] = false,
-			["zoom"] = 0.3,
-			["text2"] = " ",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Touch of the Drowned",
+			["regionType"] = "icon",
 			["text2Enabled"] = false,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 24,
 			["alpha"] = 1,
+			["text1"] = "窒息中",
+			["glow"] = false,
+			["zoom"] = 0.3,
+			["text2"] = " ",
+			["auto"] = true,
+			["desaturate"] = false,
+			["id"] = "Touch of the Drowned",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["internalVersion"] = 9,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "NzGhgZhTBiS",
 			["inverse"] = false,
-			["cooldownTextEnabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["icon"] = true,
 		},
 		["Crashing Tide"] = {
 			["text2Point"] = "CENTER",
@@ -70861,13 +70864,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -70879,8 +70883,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1385912,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -70934,10 +70937,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -70964,18 +70967,11 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Crashing Tide",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
-			["uid"] = "FKfnplgamn2",
-			["inverse"] = false,
-			["text1Enabled"] = true,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -70990,6 +70986,13 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["uid"] = "FKfnplgamn2",
+			["inverse"] = false,
+			["icon"] = true,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["parent"] = "大秘境技能监视",
 		},
 		["Infected Wound"] = {
 			["text2Point"] = "CENTER",
@@ -71053,9 +71056,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["text1Enabled"] = true,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -71064,10 +71068,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -71119,50 +71123,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["xOffset"] = 0,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["text1Enabled"] = true,
-			["text1"] = "降低治疗",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["text2"] = "%s%c",
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Infected Wound",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "降低治疗",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["text2"] = "%s%c",
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Infected Wound",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["icon"] = true,
 			["uid"] = "h7njTmWBVa5",
 			["inverse"] = false,
-			["icon"] = true,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["Ravaging Leap"] = {
 			["text2Point"] = "CENTER",
@@ -71219,13 +71222,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["text1Containment"] = "INSIDE",
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -71237,7 +71240,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -71291,11 +71294,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -71313,23 +71315,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["text1Font"] = "默认",
-			["text2FontSize"] = 24,
-			["frameStrata"] = 1,
-			["text1"] = "DOT",
-			["text2"] = "%p",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["id"] = "Ravaging Leap",
-			["useglowColor"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
-			["uid"] = "ewtv0sMWnwS",
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -71344,10 +71329,28 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Font"] = "默认",
+			["text2FontSize"] = 24,
+			["frameStrata"] = 1,
+			["text1"] = "DOT",
+			["text2"] = "%p",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1FontFlags"] = "THICKOUTLINE",
+			["id"] = "Ravaging Leap",
+			["parent"] = "大秘境技能监视",
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 9,
+			["uid"] = "ewtv0sMWnwS",
+			["inverse"] = false,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["06 Corrupted Blood"] = {
 			["text2Point"] = "CENTER",
@@ -71595,8 +71598,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -71613,8 +71616,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -71626,7 +71630,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -71680,11 +71684,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -71702,7 +71705,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -71713,17 +71716,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Sighted Artillery",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "sN5c8BChITS",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Stealth_A"] = {
 			["glow"] = false,
@@ -71824,8 +71827,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["internalVersion"] = 9,
-			["xOffset"] = -94,
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["conditions"] = {
@@ -71887,8 +71890,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = true,
-			["useglowColor"] = false,
+			["icon"] = true,
+			["cooldownEdge"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -71903,9 +71906,9 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["alpha"] = 1,
-			["desaturate"] = false,
+			["xOffset"] = -94,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["text2Point"] = "CENTER",
 			["text1"] = " ",
 			["zoom"] = 0,
 			["text1Containment"] = "INSIDE",
@@ -71918,18 +71921,18 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "Stealth_A",
-			["icon"] = true,
+			["stickyDuration"] = false,
 			["frameStrata"] = 3,
 			["width"] = 38,
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = true,
-			["text2Point"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["displayIcon"] = "Interface\\Icons\\ability_stealth",
 			["cooldown"] = true,
-			["text1Enabled"] = false,
+			["cooldownTextEnabled"] = true,
 		},
 		["02 Clinging Corruption"] = {
 			["text2Point"] = "CENTER",
@@ -71976,19 +71979,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["text2Font"] = "默认",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
 			["authorOptions"] = {
 			},
-			["xOffset"] = 0,
+			["internalVersion"] = 9,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -71997,23 +71995,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownTextEnabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["icon"] = true,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -72067,12 +72052,32 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["config"] = {
 			},
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["width"] = 80,
+			["text2Enabled"] = true,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["regionType"] = "icon",
 			["animations"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -72084,22 +72089,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["width"] = 80,
-			["text2Enabled"] = true,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["regionType"] = "icon",
 			["text1Font"] = "默认",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["text2FontSize"] = 25,
 			["alpha"] = 1,
 			["text1"] = "小怪OOT",
@@ -72109,17 +72099,30 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "OUTLINE",
 			["id"] = "02 Clinging Corruption",
-			["text2Font"] = "默认",
+			["icon"] = true,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["uid"] = "gjarKh0TgYl",
 			["inverse"] = false,
-			["glow"] = false,
+			["cooldownEdge"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useglowColor"] = false,
 		},
 		["Warding Candles"] = {
 			["text2Point"] = "CENTER",
@@ -72175,13 +72178,13 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["text1Containment"] = "INSIDE",
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
+			["useglowColor"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -72193,7 +72196,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136125,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -72247,11 +72250,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -72269,23 +72271,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
-			["text1Font"] = "默认",
-			["text2FontSize"] = 24,
-			["frameStrata"] = 1,
-			["text1"] = "移动小怪",
-			["text2"] = "%p",
-			["cooldownTextEnabled"] = true,
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["id"] = "Warding Candles",
-			["useglowColor"] = false,
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
-			["uid"] = "euXmcPKvXjN",
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -72300,10 +72285,28 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text1Font"] = "默认",
+			["text2FontSize"] = 24,
+			["frameStrata"] = 1,
+			["text1"] = "移动小怪",
+			["text2"] = "%p",
+			["cooldownTextEnabled"] = true,
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1FontFlags"] = "THICKOUTLINE",
+			["id"] = "Warding Candles",
+			["parent"] = "大秘境技能监视",
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["internalVersion"] = 9,
+			["uid"] = "euXmcPKvXjN",
+			["inverse"] = false,
+			["authorOptions"] = {
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = false,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Maddening Gaze"] = {
 			["text2Point"] = "CENTER",
@@ -72361,25 +72364,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -72392,7 +72383,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -72443,10 +72434,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -72461,7 +72464,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲",
@@ -72469,18 +72472,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Maddening Gaze",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "Z(0y0ZzSI1p",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 136214,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["灵魂碎片2"] = {
 			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
@@ -72705,10 +72708,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["glow"] = false,
 			["cooldownTextEnabled"] = true,
-			["cooldownEdge"] = false,
-			["desaturate"] = false,
+			["text1Enabled"] = true,
+			["glow"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -72716,10 +72719,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["icon"] = true,
+			["desaturate"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -72771,46 +72774,46 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
-			["stickyDuration"] = false,
+			["cooldownEdge"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
+			["text1Font"] = "默认",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0, -- [4]
 			},
-			["useglowColor"] = false,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["alpha"] = 1,
+			["text2Enabled"] = false,
+			["text1Containment"] = "INSIDE",
+			["text2FontSize"] = 24,
+			["parent"] = "大秘境技能监视",
+			["text1"] = "击退",
+			["selfPoint"] = "CENTER",
+			["text2"] = "%p",
+			["zoom"] = 0.3,
+			["auto"] = true,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 24,
+			["id"] = "Explosive Burst",
+			["frameStrata"] = 1,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
 			["authorOptions"] = {
 			},
-			["text1"] = "击退",
-			["selfPoint"] = "CENTER",
-			["text2"] = "%p",
-			["zoom"] = 0.3,
-			["auto"] = true,
-			["frameStrata"] = 1,
-			["id"] = "Explosive Burst",
-			["text2Font"] = "Friz Quadrata TT",
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["text1Font"] = "默认",
 			["uid"] = "iy96Ot(404K",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["useglowColor"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -72857,7 +72860,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["cooldown"] = true,
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 		},
 		["Widowmaker Toxin"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -72921,9 +72924,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -72932,10 +72936,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -72987,50 +72991,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "DOT",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Widowmaker Toxin",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "DOT",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Widowmaker Toxin",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "Y3atuMVfkYR",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["命运骨骰组"] = {
 			["backdropColor"] = {
@@ -73220,31 +73223,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Enabled"] = true,
+			["stickyDuration"] = false,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["icon"] = true,
+			["authorOptions"] = {
 			},
 			["glow"] = false,
-			["xOffset"] = 0,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
@@ -73253,10 +73239,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["text2Font"] = "Arial Narrow",
+			["xOffset"] = 0,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["stickyDuration"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -73310,35 +73296,29 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["internalVersion"] = 9,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["animations"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-				},
-			},
-			["width"] = 80,
-			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["icon"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["width"] = 80,
+			["alpha"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Font"] = "Arial Narrow",
+			["text1Font"] = "默认",
 			["text2FontSize"] = 25,
 			["frameStrata"] = 1,
 			["text1"] = "DPS提高",
@@ -73353,7 +73333,17 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["id"] = "02 Depleted Energy",
-			["text1Font"] = "默认",
+			["animations"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+				},
+			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["cooldownTextEnabled"] = true,
@@ -73363,7 +73353,20 @@ WeakAurasSaved = {
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["Azerite Heartseeker"] = {
 			["text2Point"] = "CENTER",
@@ -73426,15 +73429,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -73442,15 +73441,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -73502,21 +73496,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "降低治疗",
 			["text2Color"] = {
 				1, -- [1]
@@ -73527,20 +73526,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Azerite Heartseeker",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "E5LC2mmzvsS",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Deadly_Poison"] = {
 			["glow"] = false,
@@ -73639,49 +73642,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = 2,
 			},
-			["desaturate"] = false,
-			["internalVersion"] = 9,
-			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "preset",
-					["duration_type"] = "seconds",
-					["preset"] = "fade",
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["duration"] = "2",
-					["alphaType"] = "alphaPulse",
-					["colorB"] = 1,
-					["colorG"] = 1,
-					["alphaFunc"] = "    function(progress, start, delta)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return start + (((math.sin(angle) + 1)/2) * delta)\n    end\n  ",
-					["use_translate"] = false,
-					["use_alpha"] = true,
-					["type"] = "none",
-					["duration_type"] = "seconds",
-					["translateFunc"] = "function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
-					["scaley"] = 1,
-					["alpha"] = 0.65,
-					["colorA"] = 1,
-					["y"] = 0,
-					["x"] = 0,
-					["use_color"] = false,
-					["translateType"] = "straightTranslate",
-					["colorFunc"] = "",
-					["rotate"] = 0,
-					["colorType"] = "custom",
-					["scalex"] = 1,
-				},
-				["finish"] = {
-					["type"] = "preset",
-					["duration_type"] = "seconds",
-					["preset"] = "fade",
-				},
+			["authorOptions"] = {
 			},
+			["text2Font"] = "Friz Quadrata TT",
+			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["parent"] = "DZ监视",
-			["cooldownEdge"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
+			["text2Point"] = "CENTER",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -73733,12 +73702,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 35,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["internalVersion"] = 9,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -73796,10 +73760,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
-			},
-			["cooldownTextEnabled"] = true,
+			["parent"] = "DZ监视",
+			["icon"] = true,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Homespun",
@@ -73813,9 +73776,14 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["alpha"] = 1,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["text2FontSize"] = 24,
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = " ",
 			["zoom"] = 0,
 			["text1Enabled"] = false,
@@ -73831,14 +73799,49 @@ WeakAurasSaved = {
 			},
 			["frameStrata"] = 2,
 			["width"] = 36,
-			["text2Point"] = "CENTER",
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
 			["displayIcon"] = "Interface\\Icons\\ability_rogue_dualweild",
 			["cooldown"] = true,
-			["icon"] = true,
+			["animation"] = {
+				["start"] = {
+					["type"] = "preset",
+					["duration_type"] = "seconds",
+					["preset"] = "fade",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration"] = "2",
+					["alphaType"] = "alphaPulse",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "    function(progress, start, delta)\n      local angle = (progress * 2 * math.pi) - (math.pi / 2)\n      return start + (((math.sin(angle) + 1)/2) * delta)\n    end\n  ",
+					["use_translate"] = false,
+					["use_alpha"] = true,
+					["type"] = "none",
+					["duration_type"] = "seconds",
+					["translateFunc"] = "function(progress, startX, startY, deltaX, deltaY)\n      return startX + (progress * deltaX), startY + (progress * deltaY)\n    end\n  ",
+					["scaley"] = 1,
+					["alpha"] = 0.65,
+					["colorA"] = 1,
+					["y"] = 0,
+					["x"] = 0,
+					["use_color"] = false,
+					["translateType"] = "straightTranslate",
+					["colorFunc"] = "",
+					["rotate"] = 0,
+					["colorType"] = "custom",
+					["scalex"] = 1,
+				},
+				["finish"] = {
+					["type"] = "preset",
+					["duration_type"] = "seconds",
+					["preset"] = "fade",
+				},
+			},
 		},
 		["Tidal Surge"] = {
 			["text2Point"] = "CENTER",
@@ -73894,13 +73897,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -73912,8 +73916,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 237590,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -73967,10 +73970,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -73997,18 +74000,11 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Tidal Surge",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
-			["uid"] = "3WWM7JZWPHH",
-			["inverse"] = false,
-			["text1Enabled"] = true,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -74023,6 +74019,13 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["uid"] = "3WWM7JZWPHH",
+			["inverse"] = false,
+			["icon"] = true,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["parent"] = "大秘境技能监视",
 		},
 		["Debilitating Shout"] = {
 			["text2Point"] = "CENTER",
@@ -74081,15 +74084,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -74097,15 +74096,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -74128,12 +74122,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -74146,32 +74140,37 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = "-50%伤害",
 			["text2Color"] = {
 				1, -- [1]
@@ -74182,20 +74181,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Debilitating Shout",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "7jHYjRX)S)b",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Shattered Defenses"] = {
 			["text2Point"] = "CENTER",
@@ -74252,8 +74255,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -74270,8 +74273,9 @@ WeakAurasSaved = {
 				},
 			},
 			["stickyDuration"] = false,
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
+			["useglowColor"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -74283,7 +74287,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1162",
@@ -74337,11 +74341,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -74359,7 +74362,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 0,
+			["parent"] = "大秘境技能监视",
 			["text1Font"] = "默认",
 			["text2FontSize"] = 24,
 			["frameStrata"] = 1,
@@ -74370,17 +74373,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Shattered Defenses",
-			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["internalVersion"] = 9,
 			["uid"] = "CruPDCcbSxG",
 			["inverse"] = false,
-			["parent"] = "大秘境技能监视",
+			["text1Enabled"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 9,
+			["icon"] = true,
 		},
 		["Throw Glaive - CD - 0 - Master of the Glaive"] = {
 			["text2Point"] = "CENTER",
@@ -74634,13 +74637,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["xOffset"] = 0,
-			["text2Font"] = "Friz Quadrata TT",
+			["icon"] = true,
+			["text1Enabled"] = true,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["internalVersion"] = 9,
-			["parent"] = "大秘境技能监视",
+			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -74652,20 +74656,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1033905,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownEdge"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -74716,11 +74707,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["config"] = {
 			},
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -74728,8 +74718,21 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["useglowColor"] = false,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "你是目标",
@@ -74752,14 +74755,14 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["glow"] = true,
+			["cooldownTextEnabled"] = true,
 			["uid"] = "2oIBxvmFsPf",
 			["inverse"] = false,
-			["icon"] = true,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["glow"] = true,
 		},
 		["离开战斗状态"] = {
 			["outline"] = "OUTLINE",
@@ -74999,15 +75002,11 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["xOffset"] = 0,
+			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["glow"] = false,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -75015,15 +75014,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["cooldownTextEnabled"] = true,
+			["text1Enabled"] = true,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -75075,21 +75069,26 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["width"] = 80,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["text2Enabled"] = false,
-			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["cooldownTextEnabled"] = true,
 			["text2FontSize"] = 24,
-			["icon"] = true,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1"] = " ",
 			["text2Color"] = {
 				1, -- [1]
@@ -75100,20 +75099,24 @@ WeakAurasSaved = {
 			["zoom"] = 0.3,
 			["text2"] = "%p",
 			["auto"] = true,
-			["useglowColor"] = false,
+			["text2Enabled"] = false,
 			["id"] = "Conduction",
-			["authorOptions"] = {
-			},
-			["frameStrata"] = 1,
+			["glow"] = false,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["uid"] = "knIgn(3f59)",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 		},
 		["Rotten Expulsion"] = {
 			["text2Point"] = "CENTER",
@@ -75169,26 +75172,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["parent"] = "大秘境技能监视",
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -75200,8 +75191,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 132098,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["use_size"] = true,
 				["zoneId"] = "1015, 1016, 1017, 1018, 1019, 1029",
@@ -75255,10 +75245,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["parent"] = "大秘境技能监视",
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -75285,19 +75275,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Rotten Expulsion",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 			["uid"] = "UlVCbI8sZIV",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["icon"] = true,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 		},
 		["R_CP2"] = {
 			["sparkWidth"] = 10,
@@ -75698,9 +75701,9 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["xOffset"] = 0,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["stickyDuration"] = false,
+			["text1Containment"] = "OUTSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -75708,10 +75711,26 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "BOTTOM",
-			["selfPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["actions"] = {
+				["start"] = {
+					["message"] = "",
+					["do_sound"] = false,
+					["do_message"] = false,
+					["glow_frame"] = "WeakAuras:Artillery",
+					["message_type"] = "SAY",
+					["glow_action"] = "show",
+					["sound"] = "Interface\\AddOns\\Prat-3.0\\Sounds\\Link.ogg",
+					["do_glow"] = false,
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -75778,14 +75797,18 @@ WeakAurasSaved = {
 				},
 			},
 			["displayIcon"] = 458736,
-			["text1Containment"] = "OUTSIDE",
-			["authorOptions"] = {
-			},
+			["text2Font"] = "Friz Quadrata TT",
+			["xOffset"] = 0,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
-			["text1Font"] = "Friz Quadrata TT",
-			["parent"] = "大秘境词缀监视",
-			["internalVersion"] = 9,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["glow"] = false,
+			["useglowColor"] = false,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -75796,7 +75819,7 @@ WeakAurasSaved = {
 			["width"] = 80,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
-			["useglowColor"] = false,
+			["text1Font"] = "Friz Quadrata TT",
 			["text1"] = "Spread",
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
@@ -75807,35 +75830,15 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "THICKOUTLINE",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["selfPoint"] = "CENTER",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["actions"] = {
-				["start"] = {
-					["message"] = "",
-					["do_sound"] = false,
-					["do_message"] = false,
-					["glow_frame"] = "WeakAuras:Artillery",
-					["message_type"] = "SAY",
-					["glow_action"] = "show",
-					["sound"] = "Interface\\AddOns\\Prat-3.0\\Sounds\\Link.ogg",
-					["do_glow"] = false,
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["parent"] = "大秘境词缀监视",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["internalVersion"] = 9,
 		},
 		["04 Eye Beams"] = {
 			["text2Point"] = "CENTER",
@@ -75870,13 +75873,13 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "event",
 						["debuffType"] = "HARMFUL",
-						["events"] = "CHAT_MSG_RAID_BOSS_EMOTE",
+						["name"] = "腐败反刍",
 						["event"] = "Combat Log",
+						["custom"] = "function(a, msg)\n    if msg then\n        if msg:find(\"spell:264382\") then\n            return true\n        end\n    end\nend\n\n\n\n\n\n",
+						["events"] = "CHAT_MSG_RAID_BOSS_EMOTE",
+						["use_spellId"] = true,
 						["spellIds"] = {
 						},
-						["name"] = "腐败反刍",
-						["use_spellId"] = true,
-						["custom"] = "function(a, msg)\n    if msg then\n        if msg:find(\"spell:264382\") then\n            return true\n        end\n    end\nend\n\n\n\n\n\n",
 						["unevent"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
@@ -76092,29 +76095,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
-			["internalVersion"] = 9,
+			["icon"] = true,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["cooldownTextEnabled"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["text1Containment"] = "INSIDE",
+			["parent"] = "DH复仇监视",
+			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -76125,7 +76113,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 1097742,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["useglowColor"] = false,
+			["glow"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -76186,9 +76174,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
-			["icon"] = true,
-			["parent"] = "DH复仇监视",
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
+			["desaturate"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -76202,7 +76191,7 @@ WeakAurasSaved = {
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
 			["text2Enabled"] = false,
-			["text1Enabled"] = false,
+			["useglowColor"] = false,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
@@ -76217,18 +76206,32 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "Friz Quadrata TT",
 			["id"] = "Spirit Bomb - Unavailable",
-			["stickyDuration"] = false,
+			["cooldownTextEnabled"] = true,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["config"] = {
 			},
 			["inverse"] = false,
-			["desaturate"] = true,
+			["internalVersion"] = 9,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["xOffset"] = 0,
 		},
 		["Vile Bombardment"] = {
 			["text2Point"] = "CENTER",
@@ -76289,14 +76292,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -76308,7 +76323,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["zoneId"] = "936",
 				["use_size"] = true,
@@ -76329,7 +76344,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -76337,7 +76352,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zoneId"] = true,
+				["use_zone"] = false,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -76346,8 +76361,8 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
-				["role"] = {
+				["use_zoneId"] = true,
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -76361,23 +76376,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -76390,10 +76393,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "轰炸倒计时",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -76401,16 +76404,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Vile Bombardment",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "ZVZfUS(8bdk",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 1500941,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["06 Dark Revelation"] = {
 			["text2Point"] = "CENTER",
@@ -76469,8 +76472,10 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text2Font"] = "Arial Narrow",
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
+			["selfPoint"] = "CENTER",
+			["text2Font"] = "Arial Narrow",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -76485,8 +76490,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 9,
-			["selfPoint"] = "CENTER",
 			["displayIcon"] = 841383,
 			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
@@ -76663,25 +76666,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["stickyDuration"] = false,
+			["authorOptions"] = {
 			},
-			["glow"] = false,
+			["xOffset"] = 0,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -76694,7 +76685,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["parent"] = "大秘境技能监视",
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -76745,10 +76736,22 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
@@ -76763,7 +76766,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "快躲！",
@@ -76771,18 +76774,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["stickyDuration"] = false,
+			["icon"] = true,
 			["id"] = "Force Cannon",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["uid"] = "UKrqCaXXZ34",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 236201,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Cross Ignition"] = {
 			["text2Point"] = "CENTER",
@@ -76843,14 +76846,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
 			},
-			["icon"] = true,
-			["useglowColor"] = false,
 			["stickyDuration"] = false,
+			["internalVersion"] = 9,
+			["xOffset"] = 0,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -76862,7 +76877,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownTextEnabled"] = true,
+			["glow"] = false,
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -76883,17 +76898,15 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
-					["multi"] = {
-						["HEALER"] = true,
-						["DAMAGER"] = true,
-					},
-				},
+				["use_zoneId"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["race"] = {
+					["multi"] = {
+					},
+				},
 				["faction"] = {
 					["multi"] = {
 					},
@@ -76906,34 +76919,24 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["use_zone"] = false,
+				["role"] = {
 					["multi"] = {
+						["HEALER"] = true,
+						["DAMAGER"] = true,
 					},
 				},
-				["use_zoneId"] = true,
 				["size"] = {
 					["single"] = "party",
 					["multi"] = {
 					},
 				},
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["authorOptions"] = {
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -76946,10 +76949,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["regionType"] = "icon",
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["frameStrata"] = 1,
 			["text2FontSize"] = 24,
-			["glow"] = false,
+			["cooldownTextEnabled"] = true,
 			["text1"] = "快躲",
 			["text2"] = "%p",
 			["desaturate"] = false,
@@ -76957,16 +76960,16 @@ WeakAurasSaved = {
 			["auto"] = false,
 			["text1Font"] = "默认",
 			["id"] = "Cross Ignition",
-			["text1Containment"] = "INSIDE",
+			["parent"] = "大秘境技能监视",
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 0,
+			["icon"] = true,
 			["uid"] = "uSGG8h7Uuj(",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["cooldownEdge"] = false,
 			["displayIcon"] = 460952,
 			["cooldown"] = true,
-			["parent"] = "大秘境技能监视",
+			["selfPoint"] = "CENTER",
 		},
 		["大秘境技能监视"] = {
 			["grow"] = "LEFT",
@@ -77673,8 +77676,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -77683,30 +77687,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownTextEnabled"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -77765,14 +77759,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["glow"] = false,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -77785,7 +77774,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
@@ -77799,7 +77788,21 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Felblade - CD - Veng",
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
@@ -78483,13 +78486,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["stickyDuration"] = false,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -78501,8 +78505,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 132306,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -78525,15 +78528,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -78543,11 +78548,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -78556,10 +78559,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
-			["icon"] = true,
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -78586,18 +78589,11 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Clear the Deck",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
-			["uid"] = "elgYfsVQgQq",
-			["inverse"] = false,
-			["text1Enabled"] = true,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -78612,6 +78608,13 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["uid"] = "elgYfsVQgQq",
+			["inverse"] = false,
+			["icon"] = true,
+			["conditions"] = {
+			},
+			["cooldown"] = true,
+			["parent"] = "大秘境技能监视",
 		},
 		["Infest"] = {
 			["text2Point"] = "CENTER",
@@ -78670,13 +78673,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text1Containment"] = "INSIDE",
-			["icon"] = true,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -78688,7 +78704,8 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -78711,15 +78728,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
+					["single"] = "TANK",
 					["multi"] = {
+						["TANK"] = true,
 					},
 				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_zone"] = false,
+				["use_zoneId"] = true,
 				["pvptalent"] = {
 					["multi"] = {
 					},
@@ -78729,11 +78748,9 @@ WeakAurasSaved = {
 					},
 				},
 				["use_size"] = true,
-				["use_zoneId"] = true,
-				["role"] = {
-					["single"] = "TANK",
+				["use_zone"] = false,
+				["race"] = {
 					["multi"] = {
-						["TANK"] = true,
 					},
 				},
 				["size"] = {
@@ -78742,10 +78759,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -78758,8 +78775,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -78775,30 +78791,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Infest",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["stickyDuration"] = false,
 			["uid"] = "JADiVX3jAyG",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["06 Bloodthirsty Crawg Spawn"] = {
 			["text2Point"] = "CENTER",
@@ -79033,13 +79036,13 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["custom_type"] = "event",
 						["debuffType"] = "HARMFUL",
-						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["name"] = "Shockwave Stomp",
 						["event"] = "Combat Log",
+						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unitID, lineID, spellID = ...\n        if unitID == \"boss1\" then \n            if spellID == 266913 then\n                return true\n            end\n        end\n    end\nend",
+						["events"] = "UNIT_SPELLCAST_SUCCEEDED",
+						["use_spellId"] = false,
 						["spellIds"] = {
 						},
-						["name"] = "Shockwave Stomp",
-						["use_spellId"] = false,
-						["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unitID, lineID, spellID = ...\n        if unitID == \"boss1\" then \n            if spellID == 266913 then\n                return true\n            end\n        end\n    end\nend",
 						["unevent"] = "timed",
 						["subeventSuffix"] = "_CAST_START",
 						["unit"] = "player",
@@ -79055,7 +79058,7 @@ WeakAurasSaved = {
 			},
 			["authorOptions"] = {
 			},
-			["text1Enabled"] = true,
+			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -79071,7 +79074,7 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["xOffset"] = 0,
 			["displayIcon"] = 236195,
 			["desaturate"] = false,
@@ -79413,14 +79416,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["text2Font"] = "Friz Quadrata TT",
-			["text1Enabled"] = true,
-			["stickyDuration"] = false,
+			["glow"] = false,
+			["parent"] = "DH复仇监视",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -79431,7 +79435,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["useglowColor"] = false,
+			["icon"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -79489,10 +79493,27 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
+			["text2Font"] = "Friz Quadrata TT",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["glow"] = false,
-			["parent"] = "DH复仇监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -79519,38 +79540,20 @@ WeakAurasSaved = {
 			["xOffset"] = -105,
 			["text2"] = "%p",
 			["auto"] = true,
-			["text1Containment"] = "INSIDE",
+			["text1Enabled"] = true,
 			["id"] = "Infernal Strike - CD - 1+",
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["desaturate"] = false,
+			["stickyDuration"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["text1Containment"] = "INSIDE",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["cooldownEdge"] = false,
 		},
 		["Explode Totem"] = {
 			["text2Point"] = "CENTER",
@@ -79608,26 +79611,13 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Enabled"] = true,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["desaturate"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
-			["glow"] = false,
-			["stickyDuration"] = false,
+			["parent"] = "大秘境技能监视",
+			["icon"] = true,
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -79639,7 +79629,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -79690,10 +79680,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["authorOptions"] = {
+			},
 			["config"] = {
 			},
-			["parent"] = "大秘境技能监视",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -79707,7 +79711,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["text1Containment"] = "INSIDE",
+			["internalVersion"] = 9,
 			["text2FontSize"] = 24,
 			["alpha"] = 1,
 			["text1"] = "爆炸",
@@ -79715,19 +79719,18 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["id"] = "Explode Totem",
-			["text2Font"] = "Friz Quadrata TT",
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["icon"] = true,
+			["useglowColor"] = false,
 			["uid"] = "glRGJ6oQWDa",
 			["inverse"] = false,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
 			["displayIcon"] = 459026,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 		},
 		["Sigil of Flame - CD"] = {
 			["text2Point"] = "CENTER",
@@ -79780,8 +79783,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
-			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -79790,30 +79794,20 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownTextEnabled"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
+			["cooldownEdge"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["stickyDuration"] = false,
+			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -79873,14 +79867,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
-			["cooldownEdge"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["glow"] = false,
+			["internalVersion"] = 9,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Color"] = {
@@ -79893,7 +79882,7 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["icon"] = true,
+			["cooldownTextEnabled"] = false,
 			["alpha"] = 1,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
@@ -79907,7 +79896,21 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = true,
-			["glow"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Sigil of Flame - CD",
 			["text1Font"] = "Friz Quadrata TT",
 			["text2Enabled"] = false,
@@ -79986,15 +79989,19 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["authorOptions"] = {
-			},
+			["text1Enabled"] = false,
 			["internalVersion"] = 9,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["cooldownTextEnabled"] = false,
-			["glow"] = false,
-			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -80005,7 +80012,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["useglowColor"] = false,
+			["cooldownTextEnabled"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -80066,49 +80073,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
-			["text1Enabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
 			},
-			["text2Containment"] = "INSIDE",
-			["glowType"] = "buttonOverlay",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["width"] = 50,
-			["alpha"] = 1,
-			["text1FontFlags"] = "OUTLINE",
-			["regionType"] = "icon",
-			["text2Enabled"] = false,
 			["text1Containment"] = "INSIDE",
-			["text2FontSize"] = 24,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1"] = "%p",
-			["zoom"] = 0.3,
-			["text2Font"] = "Friz Quadrata TT",
-			["text2"] = "%p",
-			["auto"] = true,
-			["text1Font"] = "Friz Quadrata TT",
-			["id"] = "Fel Devestation - CD",
-			["stickyDuration"] = false,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["cooldownEdge"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -80124,6 +80091,42 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["text2Containment"] = "INSIDE",
+			["glowType"] = "buttonOverlay",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["width"] = 50,
+			["alpha"] = 1,
+			["text1FontFlags"] = "OUTLINE",
+			["regionType"] = "icon",
+			["text2Enabled"] = false,
+			["useglowColor"] = false,
+			["text2FontSize"] = 24,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1"] = "%p",
+			["zoom"] = 0.3,
+			["text2Font"] = "Friz Quadrata TT",
+			["text2"] = "%p",
+			["auto"] = true,
+			["text1Font"] = "Friz Quadrata TT",
+			["id"] = "Fel Devestation - CD",
+			["desaturate"] = false,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["glow"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["xOffset"] = 0,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -80140,7 +80143,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["xOffset"] = 0,
+			["icon"] = true,
 		},
 		["Netherwalk - Active"] = {
 			["text2Point"] = "CENTER",
@@ -80190,27 +80193,14 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["duration_type"] = "seconds",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["useglowColor"] = false,
-			["icon"] = true,
-			["desaturate"] = false,
+			["parent"] = "DH浩劫监视",
+			["authorOptions"] = {
+			},
+			["text1Containment"] = "INSIDE",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -80221,7 +80211,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -80282,9 +80272,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glow"] = true,
-			["text1Enabled"] = false,
-			["text1Containment"] = "INSIDE",
+			["cooldownEdge"] = false,
+			["xOffset"] = 22,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -80300,7 +80290,7 @@ WeakAurasSaved = {
 			},
 			["text2Enabled"] = false,
 			["text2FontSize"] = 24,
-			["cooldownEdge"] = false,
+			["stickyDuration"] = false,
 			["text1"] = "%p",
 			["zoom"] = 0.3,
 			["color"] = {
@@ -80311,17 +80301,30 @@ WeakAurasSaved = {
 			},
 			["text2"] = "%p",
 			["auto"] = true,
-			["parent"] = "DH浩劫监视",
+			["glow"] = true,
 			["id"] = "Netherwalk - Active",
-			["selfPoint"] = "CENTER",
+			["text2Font"] = "Friz Quadrata TT",
 			["alpha"] = 1,
 			["width"] = 40,
-			["authorOptions"] = {
-			},
+			["useglowColor"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["duration_type"] = "seconds",
+				},
+			},
 			["conditions"] = {
 				{
 					["check"] = {
@@ -80338,7 +80341,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["xOffset"] = 22,
+			["internalVersion"] = 9,
 		},
 		["大秘境技能监视2"] = {
 			["grow"] = "DOWN",
@@ -80346,8 +80349,8 @@ WeakAurasSaved = {
 				"Cannon Barrage", -- [1]
 				"Vol'zith Adds left", -- [2]
 			},
-			["xOffset"] = 10.4999389648438,
-			["yOffset"] = 421.999938964844,
+			["xOffset"] = 0,
+			["yOffset"] = 327.999877929688,
 			["anchorPoint"] = "CENTER",
 			["space"] = 2,
 			["background"] = "None",
@@ -80378,7 +80381,20 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["backgroundInset"] = 0,
-			["selfPoint"] = "TOP",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["align"] = "CENTER",
 			["stagger"] = 0,
 			["load"] = {
@@ -80401,7 +80417,7 @@ WeakAurasSaved = {
 			["border"] = "None",
 			["regionType"] = "dynamicgroup",
 			["sort"] = "none",
-			["expanded"] = false,
+			["expanded"] = true,
 			["constantFactor"] = "RADIUS",
 			["borderOffset"] = 16,
 			["id"] = "大秘境技能监视2",
@@ -80410,20 +80426,7 @@ WeakAurasSaved = {
 			["radius"] = 200,
 			["config"] = {
 			},
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "TOP",
 			["authorOptions"] = {
 			},
 			["conditions"] = {
@@ -80681,8 +80684,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["text1Containment"] = "INSIDE",
-			["text1Enabled"] = false,
+			["authorOptions"] = {
+			},
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -80704,9 +80708,9 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["glow"] = true,
-			["icon"] = true,
-			["desaturate"] = false,
+			["cooldownTextEnabled"] = false,
+			["cooldownEdge"] = false,
+			["text1Containment"] = "INSIDE",
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["conditions"] = {
@@ -80726,7 +80730,7 @@ WeakAurasSaved = {
 			},
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["internalVersion"] = 9,
+			["text1Enabled"] = false,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -80782,15 +80786,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
-			},
-			["cooldownTextEnabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["glow"] = true,
+			["useglowColor"] = false,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -80817,19 +80815,24 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["text2"] = "%p",
 			["auto"] = true,
-			["text2Font"] = "Friz Quadrata TT",
+			["desaturate"] = false,
 			["id"] = "Immolation Aura - Active - Veng",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["xOffset"] = 105,
+			["icon"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["displayIcon"] = 136235,
 			["cooldown"] = true,
-			["useglowColor"] = false,
+			["xOffset"] = 105,
 		},
 		["Suppression Slam"] = {
 			["text2Point"] = "CENTER",
@@ -80885,26 +80888,14 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["icon"] = true,
+			["authorOptions"] = {
+			},
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["glow"] = false,
-			["internalVersion"] = 9,
+			["useglowColor"] = false,
+			["cooldownEdge"] = false,
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -80916,8 +80907,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 132154,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -80971,10 +80961,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["config"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -81001,19 +80991,32 @@ WeakAurasSaved = {
 			["cooldownTextEnabled"] = true,
 			["text2"] = "%p",
 			["auto"] = false,
-			["xOffset"] = 0,
+			["text1Enabled"] = true,
 			["id"] = "Suppression Slam",
-			["cooldownEdge"] = false,
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "大秘境技能监视",
+			["desaturate"] = false,
 			["uid"] = "pfMD1pVtAR0",
 			["inverse"] = false,
-			["text1Enabled"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["parent"] = "大秘境技能监视",
 		},
 		["Immolation Aura - CD - Veng"] = {
 			["text2Point"] = "CENTER",
@@ -81098,19 +81101,15 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["stickyDuration"] = false,
-			["internalVersion"] = 9,
+			["text1Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["progressPrecision"] = 0,
-			["cooldownTextEnabled"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["glow"] = false,
+			["authorOptions"] = {
 			},
-			["text1Containment"] = "INSIDE",
+			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -81121,7 +81120,7 @@ WeakAurasSaved = {
 			["displayIcon"] = 136235,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 50,
-			["cooldownEdge"] = false,
+			["icon"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -81177,10 +81176,9 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["glow"] = false,
-			["authorOptions"] = {
-			},
-			["useglowColor"] = false,
+			["internalVersion"] = 9,
+			["stickyDuration"] = false,
+			["xOffset"] = 105,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -81188,8 +81186,13 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["text1FontFlags"] = "OUTLINE",
 			["regionType"] = "icon",
-			["text1Enabled"] = false,
-			["desaturate"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["cooldownEdge"] = false,
 			["text2FontSize"] = 24,
 			["text2Color"] = {
 				1, -- [1]
@@ -81202,20 +81205,6 @@ WeakAurasSaved = {
 			["frameStrata"] = 1,
 			["text2"] = "%p",
 			["auto"] = true,
-			["xOffset"] = 105,
-			["id"] = "Immolation Aura - CD - Veng",
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text2Enabled"] = false,
-			["anchorFrameType"] = "SCREEN",
-			["text2Font"] = "Friz Quadrata TT",
-			["config"] = {
-			},
-			["inverse"] = false,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -81230,6 +81219,20 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["id"] = "Immolation Aura - CD - Veng",
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text2Enabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextEnabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["useglowColor"] = false,
 			["conditions"] = {
 				{
 					["check"] = {
@@ -81246,7 +81249,7 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = true,
-			["icon"] = true,
+			["text1Enabled"] = false,
 		},
 		["Fixate"] = {
 			["text2Point"] = "CENTER",
@@ -81304,13 +81307,26 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["cooldownEdge"] = false,
-			["text1Enabled"] = true,
+			["glow"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
-			["selfPoint"] = "CENTER",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["text1Containment"] = "INSIDE",
-			["icon"] = true,
-			["internalVersion"] = 9,
+			["text1Enabled"] = true,
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -81322,7 +81338,8 @@ WeakAurasSaved = {
 			["displayIcon"] = 463569,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["glow"] = false,
+			["authorOptions"] = {
+			},
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -81376,10 +81393,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
-			["useglowColor"] = false,
+			["icon"] = true,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
@@ -81392,8 +81409,7 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
+			["xOffset"] = 0,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -81409,30 +81425,17 @@ WeakAurasSaved = {
 			["auto"] = true,
 			["text1FontFlags"] = "THICKOUTLINE",
 			["id"] = "Fixate",
-			["parent"] = "大秘境技能监视",
+			["internalVersion"] = 9,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["stickyDuration"] = false,
 			["uid"] = "I4sSBe)sdPL",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["useglowColor"] = false,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["Heart Attack"] = {
 			["text2Point"] = "BOTTOMRIGHT",
@@ -81496,9 +81499,10 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["useglowColor"] = false,
-			["text2Font"] = "默认",
-			["selfPoint"] = "CENTER",
+			["cooldownEdge"] = false,
+			["authorOptions"] = {
+			},
+			["parent"] = "大秘境技能监视",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -81507,10 +81511,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["text1Point"] = "TOP",
-			["stickyDuration"] = false,
+			["glow"] = false,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 80,
-			["cooldownEdge"] = false,
+			["text1Enabled"] = true,
 			["load"] = {
 				["talent2"] = {
 					["multi"] = {
@@ -81562,50 +81566,49 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["authorOptions"] = {
-			},
+			["icon"] = true,
+			["text2Font"] = "默认",
 			["config"] = {
 			},
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "默认",
-			["icon"] = true,
-			["width"] = 80,
-			["text1FontFlags"] = "THICKOUTLINE",
-			["regionType"] = "icon",
-			["alpha"] = 1,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2FontSize"] = 25,
-			["parent"] = "大秘境技能监视",
-			["text1"] = "你易伤",
-			["cooldownTextEnabled"] = true,
-			["text2"] = "%s%c",
-			["zoom"] = 0.3,
-			["auto"] = true,
+			["width"] = 80,
 			["text2Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["id"] = "Heart Attack",
+			["regionType"] = "icon",
 			["frameStrata"] = 1,
+			["stickyDuration"] = false,
+			["text2FontSize"] = 25,
 			["text2Enabled"] = true,
+			["text1"] = "你易伤",
+			["cooldownTextEnabled"] = true,
+			["text2"] = "%s%c",
+			["zoom"] = 0.3,
+			["auto"] = true,
+			["text1Containment"] = "INSIDE",
+			["id"] = "Heart Attack",
+			["text1FontFlags"] = "THICKOUTLINE",
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["text1Enabled"] = true,
+			["xOffset"] = 0,
 			["uid"] = "Q92(z9b6Xx1",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["useglowColor"] = false,
 		},
 		["06 Crusher Spawn"] = {
 			["text2Point"] = "CENTER",
@@ -81846,13 +81849,9 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["authorOptions"] = {
 			},
-			["internalVersion"] = 9,
+			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["glowColor"] = {
@@ -81861,29 +81860,15 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["icon"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["cooldownTextEnabled"] = true,
+			["cooldownEdge"] = false,
 			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
 			["displayIcon"] = 1348655,
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 40,
-			["glow"] = false,
+			["internalVersion"] = 9,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -81942,10 +81927,14 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["authorOptions"] = {
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
-			["cooldownTextEnabled"] = true,
-			["xOffset"] = 66,
+			["icon"] = true,
+			["stickyDuration"] = false,
 			["text2Containment"] = "INSIDE",
 			["glowType"] = "buttonOverlay",
 			["text1Font"] = "Friz Quadrata TT",
@@ -81972,20 +81961,34 @@ WeakAurasSaved = {
 			["text1Enabled"] = false,
 			["text2"] = "%p",
 			["auto"] = false,
-			["text2Font"] = "Friz Quadrata TT",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["id"] = "Last Resort - Inactive",
-			["cooldownEdge"] = false,
+			["glow"] = false,
 			["text2Enabled"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["useglowColor"] = false,
+			["text1Containment"] = "INSIDE",
 			["config"] = {
 			},
 			["inverse"] = false,
-			["stickyDuration"] = false,
+			["xOffset"] = 66,
 			["conditions"] = {
 			},
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["useglowColor"] = false,
 		},
 		["Fiery Brand - Active"] = {
 			["text2Point"] = "BOTTOMRIGHT",
