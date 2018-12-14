@@ -1,6 +1,6 @@
 
 TellMeWhenDB = {
-	["Version"] = 85506,
+	["Version"] = 85603,
 	["profileKeys"] = {
 		["遇术您疯 - 夏维安"] = "遇术您疯 - 夏维安",
 		["術士一号 - 夏维安"] = "術士一号 - 夏维安",
@@ -3394,38 +3394,40 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["Enabled"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "BUFFSTACKS",
+											["Checked"] = true,
+											["Operator"] = ">",
+											["Name"] = "264173",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
 						}, -- [8]
 						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
-							["Name"] = "264057",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
-								},
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1S4sG5uOrLWM", -- [1]
+								"TMW:icon:1S4sG5uQNTXf", -- [2]
 							},
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Alpha"] = 0.5,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
-							["RangeCheck"] = true,
-							["ManaCheck"] = true,
-							["Conditions"] = {
-								{
-									["Type"] = "TALENTLEARNED",
-									["Name"] = "灵魂打击",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Enabled"] = true,
 						}, -- [9]
 						{
 							["ShowTimer"] = true,
@@ -7128,10 +7130,10 @@ TellMeWhenDB = {
 					["EnabledProfiles"] = {
 						["沙雕默默 - 迅捷微风"] = false,
 						["丿丶指尖旋律 - 迅捷微风"] = false,
-						["究极奥义 - 迅捷微风"] = false,
 						["上帝的圣光 - 迅捷微风"] = false,
-						["戰丿魂 - 迅捷微风"] = false,
 						["瞎子炳 - 迅捷微风"] = false,
+						["戰丿魂 - 迅捷微风"] = false,
+						["究极奥义 - 迅捷微风"] = false,
 						["丿丶埃辛诺斯 - 迅捷微风"] = false,
 					},
 					["Name"] = "技能冷却",
@@ -11833,21 +11835,38 @@ TellMeWhenDB = {
 							},
 						}, -- [25]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "icd",
+							["Name"] = "虚空传送门: 15",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
+									["Alpha"] = 0,
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["Enabled"] = true,
 						}, -- [26]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "icd",
+							["ShowTimerText"] = true,
+							["Name"] = "魔典：恶魔卫士: 15",
+							["GUID"] = "TMW:icon:1S4s_ZKddDWq",
+							["Enabled"] = true,
 							["States"] = {
 								{
+									["Alpha"] = 0,
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
@@ -11856,15 +11875,18 @@ TellMeWhenDB = {
 						}, -- [27]
 						{
 							["ShowTimer"] = true,
-							["Type"] = "buff",
+							["Type"] = "icd",
 							["ShowTimerText"] = true,
-							["Name"] = "229206",
-							["OnlyMine"] = true,
+							["Name"] = "召唤恶魔暴君: 15",
+							["GUID"] = "TMW:icon:1S4t3ETN6lTY",
 							["Enabled"] = true,
 							["States"] = {
 								{
+									["Alpha"] = 0,
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
@@ -11872,6 +11894,12 @@ TellMeWhenDB = {
 							},
 						}, -- [28]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
+							["Name"] = "229206",
+							["OnlyMine"] = true,
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11955,15 +11983,31 @@ TellMeWhenDB = {
 							},
 						}, -- [35]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "267217",
+							["ShowTimerText"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "TALENTLEARNED",
+									["Name"] = "虚空传送门",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["ManaCheck"] = true,
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["RangeCheck"] = true,
+							["Enabled"] = true,
 						}, -- [36]
 						{
 							["ShowTimer"] = true,
@@ -11995,9 +12039,11 @@ TellMeWhenDB = {
 						}, -- [37]
 						{
 							["ShowTimer"] = true,
-							["Type"] = "item",
-							["Name"] = "142117",
+							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
+							["Name"] = "265187",
+							["GUID"] = "TMW:icon:1QABE_V=YXGn",
+							["ManaCheck"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -12013,11 +12059,9 @@ TellMeWhenDB = {
 						}, -- [38]
 						{
 							["ShowTimer"] = true,
-							["Type"] = "cooldown",
+							["Type"] = "item",
+							["Name"] = "142117",
 							["ShowTimerText"] = true,
-							["Name"] = "265187",
-							["GUID"] = "TMW:icon:1QABE_V=YXGn",
-							["ManaCheck"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -13044,6 +13088,7 @@ TellMeWhenDB = {
 							["OnlyMine"] = true,
 							["Type"] = "buff",
 							["Name"] = "205146",
+							["ShowTimerText"] = true,
 							["Events"] = {
 								{
 									["Type"] = "Animations",
@@ -13084,7 +13129,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
 						}, -- [21]
 						{
 							["ShowTimer"] = true,
@@ -13093,7 +13137,7 @@ TellMeWhenDB = {
 							["OnlyMine"] = true,
 							["Type"] = "buff",
 							["ShowTimerText"] = true,
-							["Name"] = "603",
+							["Name"] = "265412",
 							["GUID"] = "TMW:icon:1RLJxuVau0b6",
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -13224,26 +13268,72 @@ TellMeWhenDB = {
 							},
 						}, -- [25]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "264057",
+							["GUID"] = "TMW:icon:1S4sG5uOrLWM",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["RangeCheck"] = true,
+							["FakeHidden"] = true,
+							["ManaCheck"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "TALENTLEARNED",
+									["Name"] = "灵魂打击",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
 						}, -- [26]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["ManaCheck"] = true,
+							["Name"] = "264119",
+							["Conditions"] = {
+								{
+									["Type"] = "TALENTLEARNED",
+									["Name"] = "召唤邪犬",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1S4sG5uQNTXf",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
+								},
+							},
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Alpha"] = 0.5,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
 							},
+							["RangeCheck"] = true,
+							["FakeHidden"] = true,
 						}, -- [27]
 						{
 							["States"] = {
@@ -14758,7 +14848,7 @@ TellMeWhenDB = {
 				}, -- [15]
 			},
 			["NumGroups"] = 15,
-			["Version"] = 85506,
+			["Version"] = 85603,
 			["Locked"] = true,
 		},
 		["術士一号 - 夏维安"] = {
@@ -14872,7 +14962,6 @@ TellMeWhenDB = {
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
 			["Locked"] = true,
-			["Version"] = 85506,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1RLnUbXbuYkE",
@@ -15063,10 +15152,10 @@ TellMeWhenDB = {
 						{
 							["ManaCheck"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "13877",
-							["FakeHidden"] = true,
 							["GUID"] = "TMW:icon:1RLnUKoBPrqE",
+							["FakeHidden"] = true,
 							["ShowTimerText"] = true,
+							["Name"] = "13877",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
@@ -15199,6 +15288,24 @@ TellMeWhenDB = {
 						{
 							["GUID"] = "TMW:icon:1RLnUKoRKPNT",
 							["ShowTimer"] = true,
+							["Enabled"] = true,
+							["Name"] = "195627",
+							["FakeHidden"] = true,
+							["OnlyMine"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
+								},
+							},
+							["Type"] = "buff",
+							["Conditions"] = {
+								{
+									["Name"] = "快速拔枪",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -15213,24 +15320,6 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["Enabled"] = true,
-							["FakeHidden"] = true,
-							["OnlyMine"] = true,
-							["Name"] = "195627",
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
-								},
-							},
-							["Type"] = "buff",
-							["Conditions"] = {
-								{
-									["Name"] = "快速拔枪",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -15661,10 +15750,10 @@ TellMeWhenDB = {
 						{
 							["GUID"] = "TMW:icon:1RRuPNHLFWCb",
 							["ShowTimer"] = true,
-							["Name"] = "212283",
-							["FakeHidden"] = true,
 							["ManaCheck"] = true,
+							["FakeHidden"] = true,
 							["ShowTimerText"] = true,
+							["Name"] = "212283",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
@@ -21631,6 +21720,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
+							["OnlyInBags"] = true,
 							["Events"] = {
 								{
 									["OnConditionConditions"] = {
@@ -21660,7 +21750,6 @@ TellMeWhenDB = {
 								["n"] = 2,
 							},
 							["ShowTimerText"] = true,
-							["OnlyInBags"] = true,
 							["Type"] = "item",
 							["Name"] = "159617",
 							["OnlyEquipped"] = true,
@@ -22105,6 +22194,7 @@ TellMeWhenDB = {
 				}, -- [9]
 			},
 			["NumGroups"] = 9,
+			["Version"] = 85506,
 		},
 	},
 }
