@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 4500,
 	["lastSanitation"] = 3,
+	["session"] = 4501,
 	["errors"] = {
 		{
 			["message"] = "[string \"--[[ Error in 'Inner Demons & Portal' ]] re...\"]:92: attempt to perform arithmetic on field 'lastDreadstalkerTime' (a nil value)",
@@ -11,5 +11,11 @@ BugGrabberDB = {
 			["session"] = 4500,
 			["counter"] = 4,
 		}, -- [1]
+		{
+			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
+			["time"] = "2018/12/14 17:57:55",
+			["session"] = 4501,
+			["counter"] = 4,
+		}, -- [2]
 	},
 }
