@@ -1,7 +1,15 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 4511,
+	["session"] = 4513,
 	["errors"] = {
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'MainMenuBar:SetPoint()'。",
+			["time"] = "2018/12/18 13:02:07",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `SetPoint'\nInterface\\FrameXML\\UIParent.lua:2981: in function `UIParentManageFramePositions'\nInterface\\FrameXML\\UIParent.lua:2357: in function <Interface\\FrameXML\\UIParent.lua:2344>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:3153: in function <Interface\\FrameXML\\UIParent.lua:3151>\n[C]: in function `UIParent_ManageFramePositions'\nInterface\\FrameXML\\BuffFrame.lua:332: in function `BuffFrame_UpdateAllBuffAnchors'\nInterface\\FrameXML\\BuffFrame.lua:104: in function `BuffFrame_Update'\nInterface\\FrameXML\\BuffFrame.lua:49: in function <Interface\\FrameXML\\BuffFrame.lua:45>",
+			["session"] = 4513,
+			["counter"] = 1,
+		}, -- [1]
 	},
 }
