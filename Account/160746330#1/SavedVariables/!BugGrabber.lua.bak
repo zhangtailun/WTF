@@ -1,7 +1,75 @@
 
 BugGrabberDB = {
-	["session"] = 4516,
+	["session"] = 4526,
 	["lastSanitation"] = 3,
 	["errors"] = {
+		{
+			["message"] = "Interface\\AddOns\\ElvUI\\Modules\\blizzard\\vehicle.lua:22: Usage: GetVehicleUIIndicator(indicatorID)",
+			["time"] = "2018/12/20 20:14:55",
+			["locals"] = "(*temporary) = nil\n",
+			["stack"] = "[C]: ?\nInterface\\AddOns\\ElvUI\\Modules\\blizzard\\vehicle.lua:22: in function <Interface\\AddOns\\ElvUI\\Modules\\blizzard\\vehicle.lua:20>\n[C]: in function `VehicleSeatIndicator_SetUpVehicle'\nInterface\\AddOns\\ElvUI\\Modules\\blizzard\\vehicle.lua:35: in function `UpdateVehicleFrame'\nInterface\\AddOns\\ElvUI_Config\\General-综合.lua:220: in function <Interface\\AddOns\\ElvUI_Config\\General.lua:220>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:841: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:829>\n[C]: ?\n...terface\\AddOns\\Masque\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <...terface\\AddOns\\Masque\\Libs\\AceGUI-3.0\\AceGUI-3.0.lua:69>\n...terface\\AddOns\\Masque\\Libs\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...sque\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-Slider.lua:69: in function <...sque\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Slider.lua:60>\n[C]: in function `SetValue'\n...sque\\Libs\\AceGUI-3.0-36\\widgets\\AceGUIWidget-Slider.lua:111: in function <...sque\\Libs\\AceGUI-3.0\\widgets\\AceGUIWidget-Slider.lua:99>",
+			["session"] = 4522,
+			["counter"] = 2,
+		}, -- [1]
+		{
+			["message"] = "Error loading Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\LibStub\\LibStub.lua",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [2]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\CallbackHandler-1.0-7\\CallbackHandler-1.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [3]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceAddon-3.0-12\\AceAddon-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [4]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceEvent-3.0-4\\AceEvent-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [5]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceTimer-3.0-17\\AceTimer-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [6]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceHook-3.0-8\\AceHook-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [7]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceDB-3.0-26\\AceDB-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [8]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceDBOptions-3.0-15\\AceDBOptions-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [9]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceLocale-3.0-6\\AceLocale-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [10]
+		{
+			["message"] = "Couldn't open Interface\\AddOns\\AddOnSkins\\Libs\\Ace3\\AceConsole-3.0-7\\AceConsole-3.0.xml",
+			["session"] = 4526,
+			["time"] = "2018/12/20 20:16:42",
+			["counter"] = 4,
+		}, -- [11]
 	},
 }
