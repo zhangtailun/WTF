@@ -100,7 +100,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barfont"] = "Action Man",
+					["x"] = 0,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -110,7 +110,23 @@ SkadaDB = {
 						["r"] = 0,
 					},
 					["barspacing"] = 2,
-					["name"] = "当前",
+					["title"] = {
+						["fontsize"] = 15,
+						["font"] = "Action Man",
+						["borderthickness"] = 0,
+						["fontflags"] = "OUTLINE",
+						["height"] = 21,
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["b"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["r"] = 0.00784313725490196,
+						},
+						["texture"] = "WildstarTexture",
+					},
 					["background"] = {
 						["color"] = {
 							["a"] = 0.310000002384186,
@@ -120,29 +136,13 @@ SkadaDB = {
 						["height"] = 221.000015258789,
 					},
 					["y"] = 49.4997634887695,
-					["classicons"] = false,
-					["barslocked"] = true,
+					["barfont"] = "Action Man",
+					["name"] = "当前",
 					["barwidth"] = 228,
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "伤害",
-					["title"] = {
-						["fontsize"] = 15,
-						["font"] = "Action Man",
-						["borderthickness"] = 0,
-						["height"] = 21,
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["b"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["r"] = 0.00784313725490196,
-						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontflags"] = "OUTLINE",
-						["texture"] = "WildstarTexture",
-					},
-					["x"] = 0,
+					["barslocked"] = true,
+					["classicons"] = false,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -274,30 +274,7 @@ SkadaDB = {
 			["hidedisables"] = false,
 		},
 		["遇术您疯 - 夏维安"] = {
-			["report"] = {
-				["number"] = 4,
-				["channel"] = "party",
-				["target"] = "冷沁沁",
-				["mode"] = "打断",
-				["set"] = "total",
-			},
-			["columns"] = {
-				["伤害法术详情_Percent"] = true,
-				["Overhealing spells_Percent"] = true,
-				["伤害法术列表_Percent"] = true,
-				["伤害_Percent"] = true,
-				["总计 治疗法术列表_Percent"] = false,
-				["伤害_Damage"] = true,
-				["伤害_DPS"] = true,
-				["GTFO 法术_Percent"] = true,
-				["治疗_Percent"] = false,
-			},
 			["showself"] = false,
-			["versions"] = {
-				["1.6.7"] = true,
-				["1.6.3"] = true,
-				["1.6.4"] = true,
-			},
 			["modeclicks"] = {
 				["减益效果持续时间"] = 1,
 				["怒气获取"] = 1,
@@ -319,50 +296,49 @@ SkadaDB = {
 				["能量获取"] = 6,
 				["总计治疗"] = 2,
 			},
-			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["classicons"] = false,
 					["barheight"] = 21,
-					["bartexture"] = "ElvUI Norm",
-					["barbgcolor"] = {
-						["a"] = 0.400000035762787,
-						["b"] = 0,
-						["g"] = 0,
-						["r"] = 0,
-					},
-					["barspacing"] = 2,
+					["classicons"] = false,
 					["barslocked"] = true,
-					["background"] = {
-						["color"] = {
-							["a"] = 0.310000002384186,
-						},
-						["bordertexture"] = "Blizzard Chat Bubble",
-						["borderthickness"] = 0,
-						["height"] = 161.000198364258,
-					},
 					["y"] = 44.4996566772461,
 					["barfont"] = "默认",
 					["title"] = {
-						["fontsize"] = 15,
-						["font"] = "默认",
-						["borderthickness"] = 0,
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["b"] = 0.00784313725490196,
 							["g"] = 0.00784313725490196,
 							["r"] = 0.00784313725490196,
 						},
-						["fontflags"] = "OUTLINE",
 						["bordercolor"] = {
 							["a"] = 0,
 						},
+						["font"] = "默认",
+						["fontsize"] = 15,
 						["height"] = 21,
+						["fontflags"] = "OUTLINE",
+						["borderthickness"] = 0,
 						["texture"] = "ElvUI Norm",
 					},
-					["barwidth"] = 404.999694824219,
+					["barbgcolor"] = {
+						["a"] = 0.400000035762787,
+						["b"] = 0,
+						["g"] = 0,
+						["r"] = 0,
+					},
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "伤害",
+					["bartexture"] = "ElvUI Norm",
+					["barwidth"] = 404.999694824219,
+					["barspacing"] = 2,
+					["background"] = {
+						["color"] = {
+							["a"] = 0.310000002384186,
+						},
+						["borderthickness"] = 0,
+						["height"] = 161.000198364258,
+						["bordertexture"] = "Blizzard Chat Bubble",
+					},
 					["name"] = "当前",
 					["x"] = 0,
 				}, -- [1]
@@ -493,7 +469,31 @@ SkadaDB = {
 				["minimapPos"] = 177.137544635055,
 				["hide"] = true,
 			},
+			["report"] = {
+				["number"] = 4,
+				["channel"] = "party",
+				["target"] = "冷沁沁",
+				["mode"] = "打断",
+				["set"] = "total",
+			},
+			["columns"] = {
+				["伤害法术详情_Percent"] = true,
+				["Overhealing spells_Percent"] = true,
+				["伤害法术列表_Percent"] = true,
+				["伤害_Percent"] = true,
+				["总计 治疗法术列表_Percent"] = false,
+				["伤害_Damage"] = true,
+				["伤害_DPS"] = true,
+				["GTFO 法术_Percent"] = true,
+				["治疗_Percent"] = false,
+			},
+			["versions"] = {
+				["1.6.7"] = true,
+				["1.6.3"] = true,
+				["1.6.4"] = true,
+			},
 			["hidedisables"] = false,
+			["setstokeep"] = 20,
 		},
 		["沙雕默默 - 夏维安"] = {
 			["report"] = {
@@ -543,7 +543,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["classicons"] = false,
+					["barfont"] = "默认",
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -553,27 +553,11 @@ SkadaDB = {
 						["r"] = 0,
 					},
 					["barspacing"] = 2,
-					["barslocked"] = true,
+					["name"] = "当前",
 					["mode"] = "伤害",
 					["y"] = 44.4996795654297,
-					["x"] = 0,
-					["title"] = {
-						["fontsize"] = 15,
-						["font"] = "默认",
-						["borderthickness"] = 0,
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["b"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["r"] = 0.00784313725490196,
-						},
-						["fontflags"] = "OUTLINE",
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["height"] = 21,
-						["texture"] = "ElvUI Norm",
-					},
+					["classicons"] = false,
+					["barslocked"] = true,
 					["point"] = "BOTTOMRIGHT",
 					["barwidth"] = 404.999694824219,
 					["background"] = {
@@ -584,8 +568,24 @@ SkadaDB = {
 						["borderthickness"] = 0,
 						["height"] = 161.000198364258,
 					},
-					["name"] = "当前",
-					["barfont"] = "默认",
+					["title"] = {
+						["fontsize"] = 15,
+						["font"] = "默认",
+						["borderthickness"] = 0,
+						["height"] = 21,
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["b"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["r"] = 0.00784313725490196,
+						},
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["fontflags"] = "OUTLINE",
+						["texture"] = "ElvUI Norm",
+					},
+					["x"] = 0,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -717,7 +717,29 @@ SkadaDB = {
 			["hidedisables"] = false,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["report"] = {
+				["number"] = 3,
+				["mode"] = "伤害",
+				["target"] = "冷沁沁",
+				["channel"] = "party",
+			},
+			["columns"] = {
+				["伤害法术详情_Percent"] = true,
+				["Overhealing spells_Percent"] = true,
+				["伤害法术列表_Percent"] = true,
+				["伤害_Percent"] = true,
+				["总计 治疗法术列表_Percent"] = false,
+				["伤害_Damage"] = true,
+				["治疗_Percent"] = false,
+				["GTFO 法术_Percent"] = true,
+				["伤害_DPS"] = true,
+			},
 			["showself"] = false,
+			["versions"] = {
+				["1.6.4"] = true,
+				["1.6.3"] = true,
+				["1.6.7"] = true,
+			},
 			["modeclicks"] = {
 				["减益效果持续时间"] = 1,
 				["怒气获取"] = 1,
@@ -739,34 +761,39 @@ SkadaDB = {
 				["驱散"] = 9,
 				["受到伤害"] = 22,
 			},
+			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barheight"] = 21,
-					["classicons"] = false,
-					["barslocked"] = true,
-					["y"] = 44.4996566772461,
 					["x"] = 0,
-					["name"] = "当前",
+					["barheight"] = 21,
+					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
 						["a"] = 0.400000035762787,
 						["r"] = 0,
 						["g"] = 0,
 						["b"] = 0,
 					},
-					["point"] = "BOTTOMRIGHT",
-					["mode"] = "伤害",
-					["bartexture"] = "ElvUI Norm",
-					["barwidth"] = 404.999694824219,
 					["barspacing"] = 2,
+					["name"] = "当前",
 					["background"] = {
 						["color"] = {
 							["a"] = 0.310000002384186,
 						},
+						["bordertexture"] = "Blizzard Chat Bubble",
 						["borderthickness"] = 0,
 						["height"] = 161.000198364258,
-						["bordertexture"] = "Blizzard Chat Bubble",
 					},
+					["y"] = 44.4996566772461,
+					["classicons"] = false,
+					["barslocked"] = true,
+					["barwidth"] = 404.999694824219,
+					["point"] = "BOTTOMRIGHT",
+					["mode"] = "伤害",
 					["title"] = {
+						["fontflags"] = "OUTLINE",
+						["font"] = "默认",
+						["borderthickness"] = 0,
+						["height"] = 21,
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["r"] = 0.00784313725490196,
@@ -776,11 +803,7 @@ SkadaDB = {
 						["bordercolor"] = {
 							["a"] = 0,
 						},
-						["font"] = "默认",
 						["fontsize"] = 15,
-						["height"] = 21,
-						["fontflags"] = "OUTLINE",
-						["borderthickness"] = 0,
 						["texture"] = "ElvUI Norm",
 					},
 					["barfont"] = "默认",
@@ -912,30 +935,7 @@ SkadaDB = {
 				["minimapPos"] = 177.137544635055,
 				["hide"] = true,
 			},
-			["report"] = {
-				["number"] = 3,
-				["channel"] = "party",
-				["target"] = "冷沁沁",
-				["mode"] = "伤害",
-			},
-			["columns"] = {
-				["伤害法术详情_Percent"] = true,
-				["Overhealing spells_Percent"] = true,
-				["伤害法术列表_Percent"] = true,
-				["伤害_Percent"] = true,
-				["总计 治疗法术列表_Percent"] = false,
-				["伤害_Damage"] = true,
-				["治疗_Percent"] = false,
-				["GTFO 法术_Percent"] = true,
-				["伤害_DPS"] = true,
-			},
-			["versions"] = {
-				["1.6.4"] = true,
-				["1.6.3"] = true,
-				["1.6.7"] = true,
-			},
 			["hidedisables"] = false,
-			["setstokeep"] = 20,
 		},
 		["上帝的圣光 - 迅捷微风"] = {
 			["report"] = {
@@ -985,7 +985,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["classicons"] = false,
+					["barfont"] = "Action Man",
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -995,7 +995,7 @@ SkadaDB = {
 						["b"] = 0,
 					},
 					["barspacing"] = 2,
-					["barslocked"] = true,
+					["name"] = "当前",
 					["background"] = {
 						["color"] = {
 							["a"] = 0.310000002384186,
@@ -1005,29 +1005,29 @@ SkadaDB = {
 						["height"] = 221.000015258789,
 					},
 					["y"] = 49.4997749328613,
-					["x"] = 0,
+					["classicons"] = false,
+					["barslocked"] = true,
+					["barwidth"] = 228,
+					["point"] = "BOTTOMRIGHT",
+					["mode"] = "伤害",
 					["title"] = {
 						["borderthickness"] = 0,
 						["font"] = "Action Man",
 						["fontsize"] = 15,
+						["height"] = 21,
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["r"] = 0.00784313725490196,
 							["g"] = 0.00784313725490196,
 							["b"] = 0.00784313725490196,
 						},
-						["fontflags"] = "OUTLINE",
 						["bordercolor"] = {
 							["a"] = 0,
 						},
-						["height"] = 21,
+						["fontflags"] = "OUTLINE",
 						["texture"] = "WildstarTexture",
 					},
-					["barwidth"] = 228,
-					["point"] = "BOTTOMRIGHT",
-					["mode"] = "伤害",
-					["name"] = "当前",
-					["barfont"] = "Action Man",
+					["x"] = 0,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -1206,7 +1206,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barfont"] = "Action Man",
+					["x"] = 0,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -1216,27 +1216,27 @@ SkadaDB = {
 						["b"] = 0,
 					},
 					["barspacing"] = 2,
+					["name"] = "当前",
+					["mode"] = "伤害",
+					["y"] = 49.4997596740723,
+					["barfont"] = "Action Man",
 					["title"] = {
 						["borderthickness"] = 0,
 						["font"] = "默认",
 						["fontsize"] = 15,
+						["fontflags"] = "OUTLINE",
 						["height"] = 21,
+						["bordercolor"] = {
+							["a"] = 0,
+						},
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["r"] = 0.00784313725490196,
 							["g"] = 0.00784313725490196,
 							["b"] = 0.00784313725490196,
 						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontflags"] = "OUTLINE",
 						["texture"] = "ElvUI Norm",
 					},
-					["mode"] = "伤害",
-					["y"] = 49.4997596740723,
-					["classicons"] = false,
-					["barslocked"] = true,
 					["point"] = "BOTTOMRIGHT",
 					["barwidth"] = 228,
 					["background"] = {
@@ -1247,8 +1247,8 @@ SkadaDB = {
 						["borderthickness"] = 0,
 						["height"] = 221.000015258789,
 					},
-					["name"] = "当前",
-					["x"] = 0,
+					["barslocked"] = true,
+					["classicons"] = false,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -1427,7 +1427,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["x"] = 0,
+					["classicons"] = false,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -1437,27 +1437,27 @@ SkadaDB = {
 						["r"] = 0,
 					},
 					["barspacing"] = 2,
+					["barslocked"] = true,
+					["mode"] = "伤害",
+					["y"] = 49.4997634887695,
+					["x"] = 0,
 					["title"] = {
 						["fontsize"] = 15,
 						["font"] = "Action Man",
 						["borderthickness"] = 0,
-						["height"] = 21,
-						["fontflags"] = "OUTLINE",
-						["bordercolor"] = {
-							["a"] = 0,
-						},
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["b"] = 0.00784313725490196,
 							["g"] = 0.00784313725490196,
 							["r"] = 0.00784313725490196,
 						},
+						["height"] = 21,
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["fontflags"] = "OUTLINE",
 						["texture"] = "WildstarTexture",
 					},
-					["mode"] = "伤害",
-					["y"] = 49.4997634887695,
-					["barfont"] = "Action Man",
-					["name"] = "当前",
 					["point"] = "BOTTOMRIGHT",
 					["barwidth"] = 228,
 					["background"] = {
@@ -1468,8 +1468,8 @@ SkadaDB = {
 						["borderthickness"] = 0,
 						["height"] = 221.000015258789,
 					},
-					["barslocked"] = true,
-					["classicons"] = false,
+					["name"] = "当前",
+					["barfont"] = "Action Man",
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -1881,7 +1881,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["x"] = 0,
+					["barfont"] = "Action Man",
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barwidth"] = 228,
@@ -1896,28 +1896,28 @@ SkadaDB = {
 						},
 					},
 					["y"] = 49.4997749328613,
-					["classicons"] = false,
+					["x"] = 0,
 					["title"] = {
 						["fontsize"] = 15,
 						["font"] = "Action Man",
 						["borderthickness"] = 0,
+						["fontflags"] = "OUTLINE",
 						["height"] = 21,
+						["bordercolor"] = {
+							["a"] = 0,
+						},
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["r"] = 0.00784313725490196,
 							["g"] = 0.00784313725490196,
 							["b"] = 0.00784313725490196,
 						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontflags"] = "OUTLINE",
 						["texture"] = "WildstarTexture",
 					},
 					["point"] = "BOTTOMRIGHT",
 					["barslocked"] = true,
 					["mode"] = "伤害",
-					["barfont"] = "Action Man",
+					["classicons"] = false,
 					["barbgcolor"] = {
 						["a"] = 0.400000035762787,
 						["r"] = 0,
