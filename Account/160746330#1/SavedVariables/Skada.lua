@@ -100,7 +100,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["x"] = 0,
+					["classicons"] = false,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -110,23 +110,7 @@ SkadaDB = {
 						["r"] = 0,
 					},
 					["barspacing"] = 2,
-					["title"] = {
-						["fontsize"] = 15,
-						["font"] = "Action Man",
-						["borderthickness"] = 0,
-						["fontflags"] = "OUTLINE",
-						["height"] = 21,
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["b"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["r"] = 0.00784313725490196,
-						},
-						["texture"] = "WildstarTexture",
-					},
+					["barslocked"] = true,
 					["background"] = {
 						["color"] = {
 							["a"] = 0.310000002384186,
@@ -136,13 +120,29 @@ SkadaDB = {
 						["height"] = 221.000015258789,
 					},
 					["y"] = 49.4997634887695,
-					["barfont"] = "Action Man",
-					["name"] = "当前",
+					["x"] = 0,
+					["title"] = {
+						["fontsize"] = 15,
+						["font"] = "Action Man",
+						["borderthickness"] = 0,
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["b"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["r"] = 0.00784313725490196,
+						},
+						["fontflags"] = "OUTLINE",
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["height"] = 21,
+						["texture"] = "WildstarTexture",
+					},
 					["barwidth"] = 228,
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "伤害",
-					["barslocked"] = true,
-					["classicons"] = false,
+					["name"] = "当前",
+					["barfont"] = "Action Man",
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -314,10 +314,10 @@ SkadaDB = {
 							["a"] = 0,
 						},
 						["font"] = "默认",
-						["fontsize"] = 15,
+						["borderthickness"] = 0,
 						["height"] = 21,
 						["fontflags"] = "OUTLINE",
-						["borderthickness"] = 0,
+						["fontsize"] = 15,
 						["texture"] = "ElvUI Norm",
 					},
 					["barbgcolor"] = {
@@ -543,7 +543,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barfont"] = "默认",
+					["x"] = 0,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -553,11 +553,27 @@ SkadaDB = {
 						["r"] = 0,
 					},
 					["barspacing"] = 2,
-					["name"] = "当前",
+					["title"] = {
+						["fontsize"] = 15,
+						["font"] = "默认",
+						["borderthickness"] = 0,
+						["fontflags"] = "OUTLINE",
+						["height"] = 21,
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["b"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["r"] = 0.00784313725490196,
+						},
+						["texture"] = "ElvUI Norm",
+					},
 					["mode"] = "伤害",
 					["y"] = 44.4996795654297,
-					["classicons"] = false,
-					["barslocked"] = true,
+					["barfont"] = "默认",
+					["name"] = "当前",
 					["point"] = "BOTTOMRIGHT",
 					["barwidth"] = 404.999694824219,
 					["background"] = {
@@ -568,24 +584,8 @@ SkadaDB = {
 						["borderthickness"] = 0,
 						["height"] = 161.000198364258,
 					},
-					["title"] = {
-						["fontsize"] = 15,
-						["font"] = "默认",
-						["borderthickness"] = 0,
-						["height"] = 21,
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["b"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["r"] = 0.00784313725490196,
-						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontflags"] = "OUTLINE",
-						["texture"] = "ElvUI Norm",
-					},
-					["x"] = 0,
+					["barslocked"] = true,
+					["classicons"] = false,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -792,7 +792,7 @@ SkadaDB = {
 					["title"] = {
 						["fontflags"] = "OUTLINE",
 						["font"] = "默认",
-						["borderthickness"] = 0,
+						["fontsize"] = 15,
 						["height"] = 21,
 						["color"] = {
 							["a"] = 0.110000014305115,
@@ -803,7 +803,7 @@ SkadaDB = {
 						["bordercolor"] = {
 							["a"] = 0,
 						},
-						["fontsize"] = 15,
+						["borderthickness"] = 0,
 						["texture"] = "ElvUI Norm",
 					},
 					["barfont"] = "默认",
@@ -985,7 +985,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barfont"] = "Action Man",
+					["x"] = 0,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -995,7 +995,23 @@ SkadaDB = {
 						["b"] = 0,
 					},
 					["barspacing"] = 2,
-					["name"] = "当前",
+					["title"] = {
+						["borderthickness"] = 0,
+						["font"] = "Action Man",
+						["fontsize"] = 15,
+						["fontflags"] = "OUTLINE",
+						["height"] = 21,
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["r"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["b"] = 0.00784313725490196,
+						},
+						["texture"] = "WildstarTexture",
+					},
 					["background"] = {
 						["color"] = {
 							["a"] = 0.310000002384186,
@@ -1005,29 +1021,13 @@ SkadaDB = {
 						["height"] = 221.000015258789,
 					},
 					["y"] = 49.4997749328613,
-					["classicons"] = false,
-					["barslocked"] = true,
+					["barfont"] = "Action Man",
+					["name"] = "当前",
 					["barwidth"] = 228,
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "伤害",
-					["title"] = {
-						["borderthickness"] = 0,
-						["font"] = "Action Man",
-						["fontsize"] = 15,
-						["height"] = 21,
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["r"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["b"] = 0.00784313725490196,
-						},
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontflags"] = "OUTLINE",
-						["texture"] = "WildstarTexture",
-					},
-					["x"] = 0,
+					["barslocked"] = true,
+					["classicons"] = false,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -1206,7 +1206,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["x"] = 0,
+					["classicons"] = false,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -1216,27 +1216,11 @@ SkadaDB = {
 						["b"] = 0,
 					},
 					["barspacing"] = 2,
-					["name"] = "当前",
+					["barslocked"] = true,
 					["mode"] = "伤害",
 					["y"] = 49.4997596740723,
-					["barfont"] = "Action Man",
-					["title"] = {
-						["borderthickness"] = 0,
-						["font"] = "默认",
-						["fontsize"] = 15,
-						["fontflags"] = "OUTLINE",
-						["height"] = 21,
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["r"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["b"] = 0.00784313725490196,
-						},
-						["texture"] = "ElvUI Norm",
-					},
+					["x"] = 0,
+					["name"] = "当前",
 					["point"] = "BOTTOMRIGHT",
 					["barwidth"] = 228,
 					["background"] = {
@@ -1247,8 +1231,24 @@ SkadaDB = {
 						["borderthickness"] = 0,
 						["height"] = 221.000015258789,
 					},
-					["barslocked"] = true,
-					["classicons"] = false,
+					["title"] = {
+						["borderthickness"] = 0,
+						["font"] = "默认",
+						["fontsize"] = 15,
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["r"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["b"] = 0.00784313725490196,
+						},
+						["fontflags"] = "OUTLINE",
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["height"] = 21,
+						["texture"] = "ElvUI Norm",
+					},
+					["barfont"] = "Action Man",
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -1427,7 +1427,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["classicons"] = false,
+					["barfont"] = "Action Man",
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barbgcolor"] = {
@@ -1437,27 +1437,11 @@ SkadaDB = {
 						["r"] = 0,
 					},
 					["barspacing"] = 2,
-					["barslocked"] = true,
+					["name"] = "当前",
 					["mode"] = "伤害",
 					["y"] = 49.4997634887695,
-					["x"] = 0,
-					["title"] = {
-						["fontsize"] = 15,
-						["font"] = "Action Man",
-						["borderthickness"] = 0,
-						["color"] = {
-							["a"] = 0.110000014305115,
-							["b"] = 0.00784313725490196,
-							["g"] = 0.00784313725490196,
-							["r"] = 0.00784313725490196,
-						},
-						["height"] = 21,
-						["bordercolor"] = {
-							["a"] = 0,
-						},
-						["fontflags"] = "OUTLINE",
-						["texture"] = "WildstarTexture",
-					},
+					["classicons"] = false,
+					["barslocked"] = true,
 					["point"] = "BOTTOMRIGHT",
 					["barwidth"] = 228,
 					["background"] = {
@@ -1468,8 +1452,24 @@ SkadaDB = {
 						["borderthickness"] = 0,
 						["height"] = 221.000015258789,
 					},
-					["name"] = "当前",
-					["barfont"] = "Action Man",
+					["title"] = {
+						["fontsize"] = 15,
+						["font"] = "Action Man",
+						["borderthickness"] = 0,
+						["fontflags"] = "OUTLINE",
+						["color"] = {
+							["a"] = 0.110000014305115,
+							["b"] = 0.00784313725490196,
+							["g"] = 0.00784313725490196,
+							["r"] = 0.00784313725490196,
+						},
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["height"] = 21,
+						["texture"] = "WildstarTexture",
+					},
+					["x"] = 0,
 				}, -- [1]
 				{
 					["titleset"] = true,
@@ -1881,7 +1881,7 @@ SkadaDB = {
 			["setstokeep"] = 20,
 			["windows"] = {
 				{
-					["barfont"] = "Action Man",
+					["classicons"] = false,
 					["barheight"] = 21,
 					["bartexture"] = "ElvUI Norm",
 					["barwidth"] = 228,
@@ -1896,28 +1896,28 @@ SkadaDB = {
 						},
 					},
 					["y"] = 49.4997749328613,
-					["x"] = 0,
+					["barfont"] = "Action Man",
 					["title"] = {
 						["fontsize"] = 15,
 						["font"] = "Action Man",
 						["borderthickness"] = 0,
-						["fontflags"] = "OUTLINE",
-						["height"] = 21,
-						["bordercolor"] = {
-							["a"] = 0,
-						},
 						["color"] = {
 							["a"] = 0.110000014305115,
 							["r"] = 0.00784313725490196,
 							["g"] = 0.00784313725490196,
 							["b"] = 0.00784313725490196,
 						},
+						["fontflags"] = "OUTLINE",
+						["bordercolor"] = {
+							["a"] = 0,
+						},
+						["height"] = 21,
 						["texture"] = "WildstarTexture",
 					},
 					["point"] = "BOTTOMRIGHT",
 					["barslocked"] = true,
 					["mode"] = "伤害",
-					["classicons"] = false,
+					["x"] = 0,
 					["barbgcolor"] = {
 						["a"] = 0.400000035762787,
 						["r"] = 0,
