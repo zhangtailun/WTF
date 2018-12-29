@@ -1,5 +1,7 @@
 
 SkadaPerCharDB = {
+	["sets"] = {
+	},
 	["total"] = {
 		["healingabsorbed"] = 0,
 		["dispells"] = 0,
@@ -18,18 +20,19 @@ SkadaPerCharDB = {
 		},
 		["mobtaken"] = 0,
 		["healing"] = 0,
-		["overhealing"] = 0,
+		["shielding"] = 0,
 		["mobs"] = {
 		},
 		["alertDamage"] = 0,
-		["starttime"] = 1545999824,
+		["starttime"] = 1546067032,
 		["name"] = "总计",
 		["alertCount"] = 0,
-		["shielding"] = 0,
+		["overhealing"] = 0,
 		["mobhdone"] = 0,
-		["last_action"] = 1545999824,
+		["last_action"] = 1546067032,
 		["mobdone"] = 0,
 	},
-	["sets"] = {
+	["cached_specs"] = {
+		["Player-917-02BF6261"] = 260,
 	},
 }
