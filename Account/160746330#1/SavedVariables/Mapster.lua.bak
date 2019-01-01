@@ -8,10 +8,10 @@ MapsterDB = {
 		["FogClear"] = {
 			["profiles"] = {
 				["Default"] = {
-					["colorR"] = 0.419607843137255,
-					["version"] = 2,
 					["colorB"] = 0.419607843137255,
 					["colorG"] = 0.419607843137255,
+					["colorR"] = 0.419607843137255,
+					["version"] = 2,
 				},
 			},
 		},

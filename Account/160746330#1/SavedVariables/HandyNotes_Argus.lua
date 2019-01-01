@@ -29,7 +29,7 @@ HandyNotesArgusDB = {
 			["rare_aw"] = false,
 			["sfll_ma"] = false,
 			["pet_ma"] = false,
-			["icon_scale_rares"] = 1.2,
+			["rare_ma"] = false,
 			["treasure_aw"] = false,
 			["pet_kr"] = false,
 			["icon_alpha_treasures"] = 0.58,
@@ -41,7 +41,7 @@ HandyNotesArgusDB = {
 			["sfll_kr"] = false,
 			["treasure_kr"] = false,
 			["rare_kr"] = false,
-			["rare_ma"] = false,
+			["icon_scale_rares"] = 1.2,
 		},
 	},
 }
