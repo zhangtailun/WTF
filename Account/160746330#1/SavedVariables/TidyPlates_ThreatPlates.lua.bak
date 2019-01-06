@@ -22,10 +22,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["遇术您疯 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["沙雕默默 - 夏维安"] = {
 			["welcome"] = true,
@@ -35,10 +35,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["global"] = {
