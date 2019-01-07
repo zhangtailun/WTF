@@ -1,13 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 4588,
 	["lastSanitation"] = 3,
+	["session"] = 4591,
 	["errors"] = {
-		{
-			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["time"] = "2019/01/07 13:28:36",
-			["session"] = 4588,
-			["counter"] = 4,
-		}, -- [1]
 	},
 }
