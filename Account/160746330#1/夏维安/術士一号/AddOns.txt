@@ -44,7 +44,7 @@ RCLootCouncil: disabled
 ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
 SharedMedia: enabled
-Skada: enabled
+Skada: disabled
 SubSpec: enabled
 TellMeWhen: enabled
 TellMeWhen_Options: enabled
@@ -55,7 +55,7 @@ WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 WorldFlightMap: enabled
 !WorldFlightMapLoader: enabled
-SkadaFormat: enabled
+SkadaFormat: disabled
 AddOnSkins: enabled
 ElvUI_Microbar: enabled
 ElvUI_CustomTweaks: enabled

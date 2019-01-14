@@ -53,8 +53,8 @@ DBM_AllSavedOptions = {
 		["RangeFrameY"] = 31.1328392028809,
 		["EnableModels"] = true,
 		["DontShowSpecialWarnings"] = false,
-		["EventSoundTurle"] = "None",
 		["FakeBWVersion"] = false,
+		["EventSoundTurle"] = "None",
 		["ShowMinimapButton"] = false,
 		["ShowGuildMessages"] = true,
 		["StripServerName"] = true,
@@ -118,12 +118,12 @@ DBM_AllSavedOptions = {
 		},
 		["RangeFramePoint"] = "RIGHT",
 		["DontShowPTText"] = false,
+		["RLReadyCheckSound"] = true,
 		["SpecialWarningFlashCol5"] = {
 			0.2, -- [1]
 			1, -- [2]
 			1, -- [3]
 		},
-		["RLReadyCheckSound"] = true,
 		["SWarnClassColor"] = true,
 		["DontShowSpecialWarningText"] = false,
 		["HPFrameMaxEntries"] = 5,

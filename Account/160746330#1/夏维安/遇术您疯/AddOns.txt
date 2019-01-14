@@ -107,7 +107,7 @@ Recount: disabled
 RepairHelper: enabled
 SellerHelper: enabled
 SexyMap: enabled
-Skada: enabled
+Skada: disabled
 SpellTimer: enabled
 TUnitFrame: enabled
 TargetCharms: enabled
@@ -219,7 +219,7 @@ WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 !WorldFlightMapLoader: enabled
-SkadaFormat: enabled
+SkadaFormat: disabled
 AddOnSkins: enabled
 ElvUI_Microbar: enabled
 ElvUI_CustomTweaks: enabled
