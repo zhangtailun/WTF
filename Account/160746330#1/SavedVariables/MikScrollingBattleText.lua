@@ -348,10 +348,10 @@ MSBTProfiles_SavedVars = {
 				["PET_OUTGOING_SPELL_DAMAGE_SHIELD_CRIT"] = {
 					["disabled"] = true,
 				},
-				["OUTGOING_DAMAGE"] = {
+				["PET_OUTGOING_SPELL_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
-				["PET_OUTGOING_SPELL_DAMAGE_CRIT"] = {
+				["OUTGOING_DAMAGE"] = {
 					["disabled"] = true,
 				},
 				["PET_INCOMING_MISS"] = {
@@ -486,16 +486,8 @@ MSBTProfiles_SavedVars = {
 			},
 			["alwaysShowQuestItems"] = false,
 			["scrollAreas"] = {
-				["Static"] = {
-					["disabled"] = true,
-				},
 				["Notification"] = {
 					["disabled"] = true,
-				},
-				["Outgoing"] = {
-					["offsetY"] = -83,
-					["disabled"] = true,
-					["offsetX"] = 181,
 				},
 				["Incoming"] = {
 					["scrollHeight"] = 180,
@@ -503,6 +495,14 @@ MSBTProfiles_SavedVars = {
 					["behavior"] = "MSBT_NORMAL",
 					["offsetY"] = -76,
 					["animationStyle"] = "Straight",
+				},
+				["Outgoing"] = {
+					["offsetY"] = -83,
+					["disabled"] = true,
+					["offsetX"] = 181,
+				},
+				["Static"] = {
+					["disabled"] = true,
 				},
 			},
 			["enableBlizzardHealing"] = false,
