@@ -8,10 +8,10 @@ MapsterDB = {
 		["FogClear"] = {
 			["profiles"] = {
 				["Default"] = {
-					["colorB"] = 0.419607843137255,
-					["colorG"] = 0.419607843137255,
 					["colorR"] = 0.419607843137255,
+					["colorG"] = 0.419607843137255,
 					["version"] = 2,
+					["colorB"] = 0.419607843137255,
 				},
 			},
 		},
@@ -33,12 +33,12 @@ MapsterDB = {
 		["Biebering - 迅捷微风"] = "Default",
 		["Sumshushi - 迅捷微风"] = "Default",
 		["大墓地灬叹息 - 迅捷微风"] = "Default",
-		["戰丿魂 - 迅捷微风"] = "Default",
+		["贝尔塔伦 - 迅捷微风"] = "Default",
 		["術士一号 - 夏维安"] = "Default",
 		["第三个号的框 - 迅捷微风"] = "Default",
 		["丿丶风行者 - 迅捷微风"] = "Default",
 		["究极奥义 - 迅捷微风"] = "Default",
-		["贝尔塔伦 - 迅捷微风"] = "Default",
+		["戰丿魂 - 迅捷微风"] = "Default",
 		["成年白野猪 - 迅捷微风"] = "Default",
 		["沙雕默默 - 迅捷微风"] = "Default",
 	},

@@ -1,5 +1,7 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+	},
 	["encounter_spells"] = {
 		[269231] = {
 			["school"] = 1,
@@ -75,20 +77,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "提扎拉",
 		},
-		[268591] = {
+		[268589] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "达萨大王",
-		},
-		[266237] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "征服者阿卡阿里",
 		},
 		[266206] = {
 			["school"] = 1,
@@ -99,19 +93,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "屠夫库拉",
 		},
-		[268587] = {
+		[266237] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "达萨大王",
+			["source"] = "征服者阿卡阿里",
 		},
-		[269230] = {
+		[266231] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "莱班",
+			["source"] = "屠夫库拉",
+		},
+		[267308] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "智者扎纳扎尔",
 		},
 		[268586] = {
 			["school"] = 1,
@@ -142,23 +148,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "征服者阿卡阿里",
 		},
-		[267308] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "智者扎纳扎尔",
-		},
-		[266231] = {
+		[269230] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "屠夫库拉",
+			["source"] = "莱班",
+		},
+		[268587] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "达萨大王",
 		},
 		[268936] = {
 			["school"] = 1,
@@ -168,20 +170,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "达萨大王",
 		},
-		[268589] = {
+		[268591] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "达萨大王",
 		},
-	},
-	["emotes"] = {
-		{
-			["boss"] = "达萨大王",
-		}, -- [1]
-		{
-			["boss"] = "部族议会",
-		}, -- [2]
 	},
 }
