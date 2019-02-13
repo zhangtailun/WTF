@@ -6,15 +6,11 @@ VER 3 0100000000000059 "末日降临" "INV_Misc_QuestionMark"
 #showtooltip 末日降临
 /cast [target=mouseover,nomodifier,exists] 末日降临;末日降临
 END
-VER 3 0100000000000064 "毁灭爆发" "135727"
-/cast 狂暴
-/cast 黑暗灵魂：动荡
-/use 怨火柳枝
-END
 VER 3 010000000000005F "毁灭爆发" "INV_MISC_QUESTIONMARK"
 /cast 狂暴
 /cast 黑暗灵魂：动荡
 /use 炎法师的引线
+/use 怨火柳枝
 END
 VER 3 010000000000005A "浩劫" "INV_Misc_QuestionMark"
 #showtooltip 浩劫
