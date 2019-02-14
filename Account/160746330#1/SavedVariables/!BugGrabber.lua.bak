@@ -1,13 +1,21 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 4671,
+	["session"] = 4679,
 	["errors"] = {
 		{
-			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["time"] = "2019/02/10 14:00:42",
-			["session"] = 4671,
-			["counter"] = 4,
+			["message"] = "Interface\\AddOns\\Auctionator\\Auctionator-8.1.0.lua:5053: bad argument #1 to 'strlen' (string expected, got nil)",
+			["time"] = "2019/02/14 10:33:38",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"string expected, got nil\"\n",
+			["stack"] = "[C]: in function `strlen'\nInterface\\AddOns\\Auctionator\\Auctionator-8.1.0.lua:5053: in function `Atr_Item_Autocomplete'\n[string \"*:OnCharComposition\"]:1: in function <[string \"*:OnCharComposition\"]:1>",
+			["session"] = 4678,
+			["counter"] = 1,
 		}, -- [1]
+		{
+			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
+			["time"] = "2019/02/14 09:26:05",
+			["session"] = 4679,
+			["counter"] = 20,
+		}, -- [2]
 	},
 }
