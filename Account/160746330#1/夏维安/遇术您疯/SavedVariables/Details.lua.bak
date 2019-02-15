@@ -9,7 +9,7 @@ _detalhes_database = {
 	},
 	["last_version"] = "v8.1.0.6891",
 	["character_data"] = {
-		["logons"] = 45,
+		["logons"] = 47,
 	},
 	["tabela_instancias"] = {
 	},
@@ -117,14 +117,30 @@ _detalhes_database = {
 		}, -- [3]
 	},
 	["cached_talents"] = {
+		["Player-852-04F5749C"] = {
+		},
+		["Player-2133-0A3054F8"] = {
+		},
+		["Player-1670-0251FD17"] = {
+		},
+		["Player-830-0185790E"] = {
+		},
+		["Player-1515-03F9B435"] = {
+		},
 		["Player-1943-063134E2"] = {
 			19285, -- [1]
 			23143, -- [2]
 			22038, -- [3]
-			23144, -- [4]
-			23155, -- [5]
-			23148, -- [6]
-			19291, -- [7]
+			23155, -- [4]
+			23144, -- [5]
+			19291, -- [6]
+			23148, -- [7]
+		},
+		["Player-940-0409466E"] = {
+		},
+		["Player-797-036B46CC"] = {
+		},
+		["Player-940-042CF5C1"] = {
 		},
 	},
 	["last_instance_id"] = 1594,
@@ -142,8 +158,8 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["animate"] = false,
 			["showamount"] = false,
+			["animate"] = false,
 			["useplayercolor"] = false,
 			["useclasscolors"] = false,
 			["author"] = "Details! Team",
@@ -222,7 +238,7 @@ _detalhes_database = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -230,12 +246,18 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
 			["use_spark"] = true,
+			["y"] = 0,
 			["x"] = 3.05175781250e-05,
 			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -247,29 +269,23 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["y"] = 0,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
 	},
-	["nick_tag_cache"] = {
-		["nextreset"] = 1550192719,
-		["last_version"] = 11,
-	},
-	["on_death_menu"] = true,
 	["last_encounter"] = "圣光勇士",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["last_day"] = "14",
-	["combat_counter"] = 828,
+	["nick_tag_cache"] = {
+		["nextreset"] = 1551489049,
+		["last_version"] = 11,
+	},
+	["on_death_menu"] = true,
+	["last_day"] = "15",
+	["combat_counter"] = 832,
 	["combat_id"] = 0,
 	["savedStyles"] = {
 	},
@@ -430,6 +446,5 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-1943-063134E2"] = 267,
-		["Player-1517-03EF62D5"] = 253,
 	},
 }

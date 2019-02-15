@@ -1,14 +1,8 @@
 
 BugGrabberDB = {
-	["session"] = 4680,
 	["lastSanitation"] = 3,
+	["session"] = 4683,
 	["errors"] = {
-		{
-			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["session"] = 4680,
-			["time"] = "2019/02/14 09:26:05",
-			["counter"] = 24,
-		}, -- [1]
 		{
 			["message"] = "Interface\\AddOns\\Auctionator\\Auctionator-8.1.0.lua:5053: bad argument #1 to 'strlen' (string expected, got nil)",
 			["time"] = "2019/02/14 10:33:38",
@@ -16,15 +10,7 @@ BugGrabberDB = {
 			["stack"] = "[C]: in function `strlen'\nInterface\\AddOns\\Auctionator\\Auctionator-8.1.0.lua:5053: in function `Atr_Item_Autocomplete'\n[string \"*:OnCharComposition\"]:1: in function <[string \"*:OnCharComposition\"]:1>",
 			["session"] = 4680,
 			["counter"] = 2,
-		}, -- [2]
-		{
-			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'MainMenuBar:ClearAllPoints()'。",
-			["time"] = "2019/02/14 13:22:46",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\MainMenuBar.lua:43: in function `SetPositionForStatusBars'\nInterface\\FrameXML\\MainMenuBar.lua:122: in function <Interface\\FrameXML\\MainMenuBar.lua:65>",
-			["session"] = 4680,
-			["counter"] = 1,
-		}, -- [3]
+		}, -- [1]
 		{
 			["message"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: attempt to compare nil with number",
 			["time"] = "2019/02/14 13:19:00",
@@ -32,6 +18,28 @@ BugGrabberDB = {
 			["stack"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: in function <...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1399>",
 			["session"] = 4680,
 			["counter"] = 9,
+		}, -- [2]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'MainMenuBar:ClearAllPoints()'。",
+			["time"] = "2019/02/14 13:22:46",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\MainMenuBar.lua:43: in function `SetPositionForStatusBars'\nInterface\\FrameXML\\MainMenuBar.lua:122: in function <Interface\\FrameXML\\MainMenuBar.lua:65>",
+			["session"] = 4682,
+			["counter"] = 2,
+		}, -- [3]
+		{
+			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
+			["time"] = "2019/02/14 09:26:05",
+			["session"] = 4683,
+			["counter"] = 36,
 		}, -- [4]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'CompactPartyFrameMember1:Show()'。",
+			["time"] = "2019/02/15 13:16:28",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\CompactUnitFrame.lua:356: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:289: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:57: in function <Interface\\FrameXML\\CompactUnitFrame.lua:54>",
+			["session"] = 4683,
+			["counter"] = 1,
+		}, -- [5]
 	},
 }
