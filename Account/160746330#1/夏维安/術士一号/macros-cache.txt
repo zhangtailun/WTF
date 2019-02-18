@@ -15,10 +15,20 @@ VER 3 0100000000000017 "恶魔卡碎片" "132317"
 /petpassive
 /petassist
 END
+VER 3 0100000000000023 "末日降临" "INV_Misc_QuestionMark"
+#showtooltip 末日降临
+/cast [target=mouseover,nomodifier,exists] 末日降临;末日降临
+END
 VER 3 0100000000000018 "毁灭卡碎片" "132317"
 /stopcasting
 /stopcasting
 /cast 烧尽
+END
+VER 3 0100000000000024 "毁灭爆发" "135727"
+/cast 狂暴
+/cast 黑暗灵魂：动荡
+/use 炎法师的引线
+/use 怨火柳枝
 END
 VER 3 0100000000000019 "浩劫" "INV_Misc_QuestionMark"
 #showtooltip 浩劫
@@ -39,7 +49,17 @@ VER 3 010000000000001B "痛苦无常" "INV_Misc_QuestionMark"
 #showtooltip 痛苦无常
 /cast [target=mouseover,nomodifier,exists] 痛苦无常;痛苦无常
 END
+VER 3 0100000000000025 "痛苦爆发" "135727"
+/cast 狂暴
+/cast 黑暗灵魂：哀难
+/use 炎法师的引线
+END
 VER 3 010000000000001C "腐蚀术" "INV_Misc_QuestionMark"
 #showtooltip 腐蚀术
 /cast [target=mouseover,nomodifier,exists] 腐蚀术;腐蚀术
+END
+VER 3 0100000000000026 "黑眼" "INV_Misc_QuestionMark"
+#showtooltip 召唤黑眼
+/use 怨火柳枝
+/cast 召唤黑眼
 END
