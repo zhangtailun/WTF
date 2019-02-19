@@ -3,6 +3,7 @@ ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		"/tmw", -- [1]
 		"/myslot", -- [2]
+		"/console WorldTextScale 3", -- [3]
 	},
 	["ChatHistoryLog"] = {
 		{

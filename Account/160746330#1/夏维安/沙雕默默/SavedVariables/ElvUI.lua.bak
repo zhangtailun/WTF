@@ -5,6 +5,7 @@ ElvCharacterDB = {
 		"/wa", -- [2]
 		"/s .wa", -- [3]
 		"/dbm", -- [4]
+		"/console WorldTextScale 3", -- [5]
 	},
 	["ChatHistoryLog"] = {
 		{
