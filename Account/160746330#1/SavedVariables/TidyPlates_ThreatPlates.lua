@@ -7,19 +7,19 @@ ThreatPlatesDB = {
 			},
 			["welcome"] = true,
 		},
-		["戰丿魂 - 迅捷微风"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = true,
-			},
-		},
 		["上帝的圣光 - 迅捷微风"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
+			["welcome"] = true,
+		},
+		["戰丿魂 - 迅捷微风"] = {
+			["spec"] = {
+				[3] = true,
+			},
+			["welcome"] = true,
 		},
 		["遇术您疯 - 夏维安"] = {
 			["welcome"] = true,
@@ -28,11 +28,11 @@ ThreatPlatesDB = {
 			},
 		},
 		["沙雕默默 - 夏维安"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
 			["welcome"] = true,
@@ -41,18 +41,18 @@ ThreatPlatesDB = {
 			},
 		},
 	},
+	["profileKeys"] = {
+		["術士一号 - 夏维安"] = "Default",
+		["上帝的圣光 - 迅捷微风"] = "Default",
+		["戰丿魂 - 迅捷微风"] = "Default",
+		["遇术您疯 - 夏维安"] = "Default",
+		["沙雕默默 - 夏维安"] = "Default",
+		["丿丶埃辛诺斯 - 迅捷微风"] = "Default",
+	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
 		["DefaultsVersion"] = "CLASSIC",
 		["version"] = "9.1.2",
-	},
-	["profileKeys"] = {
-		["術士一号 - 夏维安"] = "Default",
-		["戰丿魂 - 迅捷微风"] = "Default",
-		["上帝的圣光 - 迅捷微风"] = "Default",
-		["遇术您疯 - 夏维安"] = "Default",
-		["沙雕默默 - 夏维安"] = "Default",
-		["丿丶埃辛诺斯 - 迅捷微风"] = "Default",
 	},
 	["profiles"] = {
 		["遇术您疯 - 夏维安"] = {
@@ -84,7 +84,7 @@ ThreatPlatesDB = {
 					},
 					["水元素"] = {
 					},
-					["巫妖王"] = {
+					["幽灵狼"] = {
 					},
 					["食尸鬼苦工"] = {
 					},
@@ -100,47 +100,47 @@ ThreatPlatesDB = {
 					},
 					["亢奋的追随者"] = {
 					},
+					["被标记的不朽守护者"] = {
+					},
+					["燃烧的炼狱火"] = {
+					},
 					["暴怒的灵魂"] = {
-					},
-					["毒牙坑道蛇"] = {
-					},
-					["奥妮克希亚雏龙"] = {
 					},
 					["黑锋石像鬼"] = {
 					},
 					["运河蟹"] = {
 					},
-					["缠网"] = {
+					["畸形的狂热者"] = {
 					},
 					["蹒跚的血僵尸"] = {
 					},
 					["燃烧的余烬"] = {
 					},
-					["燃烧的炼狱火"] = {
+					["毒牙坑道蛇"] = {
 					},
 					["亡者军团食尸鬼"] = {
 					},
 					["暗影魔"] = {
 					},
-					["畸形的狂热者"] = {
+					["缠网"] = {
 					},
 					["毒蛇"] = {
 					},
 					["达尔纳文"] = {
 					},
-					["不稳定的软泥怪"] = {
+					["被复活的狂热者"] = {
 					},
 					["毒气之云"] = {
 					},
-					["被复活的狂热者"] = {
+					["不稳定的软泥怪"] = {
 					},
 					["树人"] = {
 					},
 					["瓦格里暗影戒卫者"] = {
 					},
-					["被标记的不朽守护者"] = {
+					["奥妮克希亚雏龙"] = {
 					},
-					["幽灵狼"] = {
+					["巫妖王"] = {
 					},
 				},
 				[40] = {
@@ -183,9 +183,9 @@ ThreatPlatesDB = {
 				},
 				[70] = {
 				},
-				[65] = {
+				[79] = {
 				},
-				[67] = {
+				[77] = {
 				},
 				[75] = {
 				},
@@ -203,9 +203,9 @@ ThreatPlatesDB = {
 				},
 				[71] = {
 				},
-				[37] = {
-				},
 				[73] = {
+				},
+				[37] = {
 				},
 				[45] = {
 				},
@@ -215,9 +215,9 @@ ThreatPlatesDB = {
 				},
 				[74] = {
 				},
-				[77] = {
+				[67] = {
 				},
-				[79] = {
+				[65] = {
 				},
 			},
 		},
@@ -473,19 +473,19 @@ ThreatPlatesDB = {
 			["threat"] = {
 				["tank"] = {
 					["scale"] = {
-						["MEDIUM"] = 1,
 						["OFFTANK"] = 1,
+						["MEDIUM"] = 1,
 						["HIGH"] = 1,
 					},
-				},
-				["art"] = {
-					["ON"] = false,
 				},
 				["dps"] = {
 					["scale"] = {
 						["MEDIUM"] = 1,
 						["LOW"] = 1,
 					},
+				},
+				["art"] = {
+					["ON"] = false,
 				},
 			},
 			["text"] = {
@@ -499,9 +499,9 @@ ThreatPlatesDB = {
 					["b"] = 0.0313725490196078,
 				},
 				["ColorGroupQuest"] = {
-					["b"] = 0.0313725490196078,
-					["g"] = 0.937254901960784,
 					["r"] = 1,
+					["g"] = 0.937254901960784,
+					["b"] = 0.0313725490196078,
 				},
 				["HideInCombatAttacked"] = false,
 				["y"] = 0,
@@ -509,8 +509,8 @@ ThreatPlatesDB = {
 				["x_hv"] = -70,
 				["HideInInstance"] = false,
 				["ModeHPBar"] = false,
-				["ShowInHeadlineView"] = true,
 				["ON"] = true,
+				["ShowInHeadlineView"] = true,
 			},
 			["cache"] = {
 			},
@@ -567,22 +567,23 @@ ThreatPlatesDB = {
 					["ShowAbsorbs"] = false,
 					["texture"] = "Blizzard Raid Bar",
 				},
-				["castbar"] = {
-					["backdrop"] = "ElvUI Norm",
-					["texture"] = "ElvUI Norm",
+				["healthborder"] = {
+					["texture"] = "TP_Border_Thin",
 				},
 				["threatborder"] = {
 					["show"] = false,
 				},
-				["healthborder"] = {
-					["texture"] = "TP_Border_Thin",
+				["castbar"] = {
+					["backdrop"] = "ElvUI Norm",
+					["texture"] = "ElvUI Norm",
 				},
 				["name"] = {
 					["size"] = 12,
 				},
-				["castnostop"] = {
-					["ShowOverlay"] = false,
-					["ShowInterruptShield"] = true,
+				["raidicon"] = {
+					["scale"] = 30,
+					["y"] = 0,
+					["x"] = -80,
 				},
 				["customtext"] = {
 					["y"] = 0,
@@ -596,10 +597,9 @@ ThreatPlatesDB = {
 				["castborder"] = {
 					["texture"] = "TP_Castbar_Border_Thin",
 				},
-				["raidicon"] = {
-					["scale"] = 30,
-					["y"] = 0,
-					["x"] = -80,
+				["castnostop"] = {
+					["ShowInterruptShield"] = true,
+					["ShowOverlay"] = false,
 				},
 			},
 			["targetWidget"] = {
@@ -645,7 +645,7 @@ ThreatPlatesDB = {
 					},
 					["水元素"] = {
 					},
-					["巫妖王"] = {
+					["幽灵狼"] = {
 					},
 					["食尸鬼苦工"] = {
 					},
@@ -661,47 +661,47 @@ ThreatPlatesDB = {
 					},
 					["亢奋的追随者"] = {
 					},
+					["被标记的不朽守护者"] = {
+					},
+					["燃烧的炼狱火"] = {
+					},
 					["暴怒的灵魂"] = {
-					},
-					["毒牙坑道蛇"] = {
-					},
-					["奥妮克希亚雏龙"] = {
 					},
 					["黑锋石像鬼"] = {
 					},
 					["运河蟹"] = {
 					},
-					["缠网"] = {
+					["畸形的狂热者"] = {
 					},
 					["蹒跚的血僵尸"] = {
 					},
 					["燃烧的余烬"] = {
 					},
-					["燃烧的炼狱火"] = {
+					["毒牙坑道蛇"] = {
 					},
 					["亡者军团食尸鬼"] = {
 					},
 					["暗影魔"] = {
 					},
-					["畸形的狂热者"] = {
+					["缠网"] = {
 					},
 					["毒蛇"] = {
 					},
 					["达尔纳文"] = {
 					},
-					["不稳定的软泥怪"] = {
+					["被复活的狂热者"] = {
 					},
 					["毒气之云"] = {
 					},
-					["被复活的狂热者"] = {
+					["不稳定的软泥怪"] = {
 					},
 					["树人"] = {
 					},
 					["瓦格里暗影戒卫者"] = {
 					},
-					["被标记的不朽守护者"] = {
+					["奥妮克希亚雏龙"] = {
 					},
-					["幽灵狼"] = {
+					["巫妖王"] = {
 					},
 				},
 				[40] = {
@@ -744,9 +744,9 @@ ThreatPlatesDB = {
 				},
 				[70] = {
 				},
-				[65] = {
+				[79] = {
 				},
-				[67] = {
+				[77] = {
 				},
 				[75] = {
 				},
@@ -764,9 +764,9 @@ ThreatPlatesDB = {
 				},
 				[71] = {
 				},
-				[37] = {
-				},
 				[73] = {
+				},
+				[37] = {
 				},
 				[45] = {
 				},
@@ -776,9 +776,9 @@ ThreatPlatesDB = {
 				},
 				[74] = {
 				},
-				[77] = {
+				[67] = {
 				},
-				[79] = {
+				[65] = {
 				},
 			},
 		},
