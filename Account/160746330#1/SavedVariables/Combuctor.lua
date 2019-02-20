@@ -16,6 +16,14 @@ Combuctor_Sets = {
 	},
 	["inscribeColor"] = {
 	},
+	["leatherColor"] = {
+	},
+	["tackleColor"] = {
+	},
+	["herbColor"] = {
+	},
+	["normalColor"] = {
+	},
 	["global"] = {
 		["inventory"] = {
 			["rules"] = {
@@ -45,11 +53,11 @@ Combuctor_Sets = {
 				"contain/all", -- [24]
 				"misc/all", -- [25]
 			},
-			["color"] = {
-			},
+			["height"] = 390,
 			["hiddenBags"] = {
 			},
-			["height"] = 390,
+			["color"] = {
+			},
 			["borderColor"] = {
 			},
 			["hiddenRules"] = {
@@ -158,13 +166,5 @@ Combuctor_Sets = {
 			["borderColor"] = {
 			},
 		},
-	},
-	["normalColor"] = {
-	},
-	["herbColor"] = {
-	},
-	["tackleColor"] = {
-	},
-	["leatherColor"] = {
 	},
 }

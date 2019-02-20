@@ -1,11 +1,4 @@
 Version: 1
-Frame: TellMeWhen_Group3
-FrameLevel: 10
-Anchor: LEFT
-X: 145
-Y: 29
-W: 30
-H: 30
 Frame: ColorPickerFrame
 FrameLevel: 25
 Anchor: CENTER

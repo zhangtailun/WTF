@@ -1,6 +1,12 @@
 
 ThreatPlatesDB = {
 	["char"] = {
+		["丿指尖丶旋律 - 加尔"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
 		["術士一号 - 夏维安"] = {
 			["welcome"] = true,
 			["spec"] = {
@@ -15,6 +21,12 @@ ThreatPlatesDB = {
 			},
 			["welcome"] = true,
 		},
+		["遇术您疯 - 加尔"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
 		["戰丿魂 - 迅捷微风"] = {
 			["spec"] = {
 				[3] = true,
@@ -28,22 +40,24 @@ ThreatPlatesDB = {
 			},
 		},
 		["沙雕默默 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {
+		["丿指尖丶旋律 - 加尔"] = "Default",
 		["術士一号 - 夏维安"] = "Default",
 		["上帝的圣光 - 迅捷微风"] = "Default",
+		["遇术您疯 - 加尔"] = "Default",
 		["戰丿魂 - 迅捷微风"] = "Default",
 		["遇术您疯 - 夏维安"] = "Default",
 		["沙雕默默 - 夏维安"] = "Default",
