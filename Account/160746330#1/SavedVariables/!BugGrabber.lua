@@ -1,15 +1,15 @@
 
 BugGrabberDB = {
-	["session"] = 4772,
+	["session"] = 4778,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'CompactPartyFrameMember1:Show()'。",
-			["time"] = "2019/02/20 14:24:42",
+			["message"] = "Interface\\AddOns\\WeakAuras\\AuraEnvironment.lua:45: Usage: local className, classFilename, classID = UnitClass(unit)",
+			["time"] = "2019/02/20 17:37:01",
 			["locals"] = "InCombatSkipped",
-			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\CompactUnitFrame.lua:356: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:289: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:118: in function <Interface\\FrameXML\\CompactUnitFrame.lua:54>",
-			["session"] = 4772,
-			["counter"] = 1,
+			["stack"] = "Interface\\AddOns\\WeakAuras\\AuraEnvironment.lua:45: in function `WA_ClassColorName'\n[string \"--[[ Error in 'Poison Barrage Cone' ]] retu...\"]:10: in function <[string \"--[[ Error in 'Poison Barrage Cone' ]] retu...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:517: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>",
+			["session"] = 4778,
+			["counter"] = 4,
 		}, -- [1]
 	},
 }

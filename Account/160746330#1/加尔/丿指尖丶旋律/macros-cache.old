@@ -1,0 +1,44 @@
+VER 3 0100000000000058 "吸取灵魂" "INV_Misc_QuestionMark"
+#showtooltip 吸取灵魂
+/cast [target=mouseover,nomodifier,exists] 吸取灵魂;吸取灵魂
+END
+VER 3 0100000000000059 "末日降临" "INV_Misc_QuestionMark"
+#showtooltip 末日降临
+/cast [target=mouseover,nomodifier,exists] 末日降临;末日降临
+END
+VER 3 010000000000005F "毁灭爆发" "INV_MISC_QUESTIONMARK"
+/cast 狂暴
+/cast 黑暗灵魂：动荡
+/use 炎法师的引线
+/use 怨火柳枝
+END
+VER 3 010000000000005A "浩劫" "INV_Misc_QuestionMark"
+#showtooltip 浩劫
+/cast [target=focus,exists]浩劫;[target=mouseover,exists]浩劫;浩劫
+END
+VER 3 010000000000005B "生命虹吸" "INV_Misc_QuestionMark"
+#showtooltip 生命虹吸
+/cast [target=mouseover,nomodifier,exists] 生命虹吸;生命虹吸
+END
+VER 3 010000000000005C "痛楚" "INV_Misc_QuestionMark"
+#showtooltip 痛楚
+/cast [target=mouseover,nomodifier,exists] 痛楚;痛楚
+END
+VER 3 010000000000005D "痛苦无常" "INV_Misc_QuestionMark"
+#showtooltip 痛苦无常
+/cast [target=mouseover,nomodifier,exists] 痛苦无常;痛苦无常
+END
+VER 3 0100000000000060 "痛苦爆发" "INV_MISC_QUESTIONMARK"
+/cast 狂暴
+/cast 黑暗灵魂：哀难
+/use 炎法师的引线
+END
+VER 3 010000000000005E "腐蚀术" "INV_Misc_QuestionMark"
+#showtooltip 腐蚀术
+/cast [target=mouseover,nomodifier,exists] 腐蚀术;腐蚀术
+END
+VER 3 0100000000000063 "黑眼" "INV_MISC_QUESTIONMARK"
+#showtooltip 召唤黑眼
+/use 怨火柳枝
+/cast 召唤黑眼
+END
