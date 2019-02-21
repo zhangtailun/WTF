@@ -14,25 +14,21 @@ _detalhes_database = {
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.007026,
 							["damage_from"] = {
+								["环境伤害 (高处坠落)"] = true,
 							},
 							["targets"] = {
 								["团队副本训练假人"] = 3778,
 							},
-							["delay"] = 1550649014,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3778.007026,
-							["nome"] = "丿指尖丶旋律",
-							["dps_started"] = true,
-							["total"] = 3778.007026,
-							["damage_taken"] = 0.007026,
-							["spec"] = 267,
-							["timeMachine"] = 1,
 							["spells"] = {
 								["_ActorTable"] = {
 									[157736] = {
@@ -53,30 +49,35 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["last_dps"] = 3718.51085256331,
-							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550649014,
+							["dps_started"] = true,
+							["total"] = 3778.007026,
 							["on_hold"] = true,
+							["last_event"] = 1550649014,
+							["nome"] = "丿指尖丶旋律",
+							["spec"] = 267,
+							["grupo"] = true,
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 3718.51085256331,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 216990.007026,
 							["start_time"] = 1550649013,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire"] = {
-							},
+							["delay"] = 1550649014,
+							["timeMachine"] = 1,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -98,89 +99,89 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 267,
+							["grupo"] = true,
 							["buff_uptime"] = 6,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550649014,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 275429,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 275429,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550649014,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -201,29 +202,136 @@ _detalhes_database = {
 				["enemy"] = "团队副本训练假人",
 				["combat_counter"] = 43,
 				["totals"] = {
-					3777.947486, -- [1]
+					3777.89605400026, -- [1]
 					0, -- [2]
 					{
 						1, -- [1]
-						[0] = -1.014439,
+						[0] = -1.035881,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
+					["丿指尖丶旋律"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							40461, -- [3]
+							1550706628.191, -- [4]
+							186499, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							3, -- [2]
+							35343, -- [3]
+							1550706630.459, -- [4]
+							155159, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							3, -- [2]
+							73034, -- [3]
+							1550706632.877, -- [4]
+							90112, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [3]
+						{
+							true, -- [1]
+							3, -- [2]
+							68152, -- [3]
+							1550706900.596, -- [4]
+							158808, -- [5]
+							"环境伤害 (高处坠落)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 5,
+					},
 				},
 				["frags_need_refresh"] = false,
 				["__call"] = {
@@ -233,10 +341,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 2326.007026,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -244,7 +349,10 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 2326.007026,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542835.642,
@@ -264,18 +372,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 542834.626,
@@ -296,19 +404,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 25529,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 25529.003099,
-							["friendlyfire_total"] = 0,
+							["spec"] = 267,
 							["dps_started"] = false,
 							["total"] = 25529.003099,
-							["damage_taken"] = 0.003099,
+							["on_hold"] = false,
+							["last_event"] = 1550649010,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[348] = {
@@ -329,16 +440,16 @@ _detalhes_database = {
 										["c_max"] = 8412,
 										["id"] = 348,
 										["r_dmg"] = 0,
-										["c_min"] = 8412,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 8412,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 									[157736] = {
 										["c_amt"] = 1,
@@ -358,32 +469,29 @@ _detalhes_database = {
 										["c_max"] = 4679,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 4679,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 4679,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["last_dps"] = 4388.68886012365,
 							["end_time"] = 1550649013,
-							["colocacao"] = 1,
-							["last_event"] = 1550649010,
-							["on_hold"] = false,
+							["last_dps"] = 4388.68886012365,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003099,
 							["start_time"] = 1550648996,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire"] = {
-							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -405,89 +513,89 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 267,
+							["grupo"] = true,
 							["buff_uptime"] = 32,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550649002,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 4,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 275429,
-										["uptime"] = 4,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 275429,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550649002,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -515,21 +623,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -541,10 +649,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 13412.003099,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -552,18 +657,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 13412.003099,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542823.727,
-				["TotalElapsedCombatTime"] = 542823.727,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542823.727,
 				["combat_id"] = 15,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 542823.727,
+				["CombatEndedAt"] = 542823.727,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:50:02",
+				["data_inicio"] = "15:49:56",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					25529, -- [1]
 					0, -- [2]
@@ -571,23 +682,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:49:56",
 				["start_time"] = 542817.91,
 				["TimeData"] = {
 				},
@@ -606,19 +714,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 2675,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["total"] = 2675.007367,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2675.007367,
-							["on_hold"] = false,
+							["spec"] = 267,
 							["dps_started"] = false,
 							["end_time"] = 1550648874,
-							["damage_taken"] = 0.007367,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648873,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[157736] = {
@@ -639,32 +750,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["last_dps"] = 26750.07367,
 							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550648873,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 26750.07367,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648873,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 2675.007367,
+							["delay"] = 0,
+							["damage_taken"] = 0.007367,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -695,100 +803,100 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1550648873,
 										["uptime"] = 0,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 6,
+							["pets"] = {
+							},
 							["classe"] = "WARLOCK",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[271711] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 271711,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 271711,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 275429,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 275429,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["last_event"] = 1550648874,
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
-							["pets"] = {
-							},
-							["serial"] = "Player-1944-06624493",
+							["spec"] = 267,
+							["grupo"] = true,
 							["debuff_uptime_targets"] = {
 							},
+							["last_event"] = 1550648874,
+							["nome"] = "丿指尖丶旋律",
+							["buff_uptime"] = 6,
+							["serial"] = "Player-1944-06624493",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -816,21 +924,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -842,10 +950,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 2675.007367,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -853,7 +958,10 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 2675.007367,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542696.127,
@@ -873,18 +981,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 542695.126,
@@ -905,50 +1013,52 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 36729,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["total"] = 36729.007007,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 36729.007007,
-							["on_hold"] = false,
+							["spec"] = 267,
 							["dps_started"] = false,
 							["end_time"] = 1550648873,
-							["damage_taken"] = 0.007007,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648871,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
-									[271686] = {
+									[348] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 0,
+										["n_max"] = 4096,
 										["targets"] = {
-											["团队副本训练假人"] = 0,
+											["团队副本训练假人"] = 4096,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
+										["n_dmg"] = 4096,
+										["n_min"] = 4096,
 										["g_dmg"] = 0,
 										["counter"] = 1,
-										["total"] = 0,
+										["total"] = 4096,
 										["c_max"] = 0,
-										["c_min"] = 0,
-										["id"] = 271686,
+										["id"] = 348,
 										["r_dmg"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["PARRY"] = 1,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["spellschool"] = 8,
+										["n_amt"] = 1,
 										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 									[271685] = {
 										["c_amt"] = 0,
@@ -968,16 +1078,46 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 271685,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+									[271686] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["团队副本训练假人"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["a_amt"] = 0,
+										["id"] = 271686,
+										["r_dmg"] = 0,
 										["spellschool"] = 8,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[157736] = {
 										["c_amt"] = 0,
@@ -997,61 +1137,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 7,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
-									},
-									[348] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4096,
-										["targets"] = {
-											["团队副本训练假人"] = 4096,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4096,
-										["n_min"] = 4096,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 4096,
-										["c_max"] = 0,
-										["id"] = 348,
-										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["last_dps"] = 6289.21352850562,
 							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550648871,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 6289.21352850562,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648855,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 36729.007007,
+							["delay"] = 0,
+							["damage_taken"] = 0.007007,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1073,111 +1181,111 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 267,
+							["grupo"] = true,
 							["buff_uptime"] = 45,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648861,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
+										["uptime"] = 6,
 										["id"] = 288981,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[275429] = {
-										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 2,
-										["id"] = 275429,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[271711] = {
 										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 271711,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
 									},
 									[60234] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 60234,
-										["uptime"] = 3,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 60234,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275429] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 275429,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[271711] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 271711,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[268887] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648861,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1206,21 +1314,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -1232,10 +1340,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 21371.007007,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -1243,18 +1348,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 21371.007007,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542682.974,
-				["TotalElapsedCombatTime"] = 5.84000000008382,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542682.974,
 				["combat_id"] = 13,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 5.84000000008382,
+				["CombatEndedAt"] = 542682.974,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:47:42",
+				["data_inicio"] = "15:47:36",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					36729, -- [1]
 					0, -- [2]
@@ -1262,23 +1373,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:47:36",
 				["start_time"] = 542677.134,
 				["TimeData"] = {
 				},
@@ -1297,19 +1405,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 1693,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["total"] = 1693.008907,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1693.008907,
-							["on_hold"] = false,
+							["spec"] = 267,
 							["dps_started"] = false,
 							["end_time"] = 1550648852,
-							["damage_taken"] = 0.008907,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648851,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[157736] = {
@@ -1330,32 +1441,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["last_dps"] = 16930.08907,
 							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550648851,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 16930.08907,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648851,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 1693.008907,
+							["delay"] = 0,
+							["damage_taken"] = 0.008907,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1386,100 +1494,100 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1550648851,
 										["uptime"] = 0,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 6,
+							["pets"] = {
+							},
 							["classe"] = "WARLOCK",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
+										["uptime"] = 1,
 										["id"] = 288981,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[108366] = {
-										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
+										["counter"] = 0,
 									},
 									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 275429,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 275429,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[268887] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["last_event"] = 1550648852,
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
-							["pets"] = {
-							},
-							["serial"] = "Player-1944-06624493",
+							["spec"] = 267,
+							["grupo"] = true,
 							["debuff_uptime_targets"] = {
 							},
+							["last_event"] = 1550648852,
+							["nome"] = "丿指尖丶旋律",
+							["buff_uptime"] = 6,
+							["serial"] = "Player-1944-06624493",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1506,21 +1614,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -1532,10 +1640,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 1693.008907,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -1543,7 +1648,10 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 1693.008907,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542673.765,
@@ -1563,18 +1671,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 542672.763,
@@ -1595,19 +1703,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 24187,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 24187.004385,
-							["friendlyfire_total"] = 0,
+							["spec"] = 267,
 							["dps_started"] = false,
 							["total"] = 24187.004385,
-							["damage_taken"] = 0.004385,
+							["on_hold"] = false,
+							["last_event"] = 1550648849,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[348] = {
@@ -1628,16 +1739,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 348,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 									[157736] = {
 										["c_amt"] = 1,
@@ -1657,32 +1768,29 @@ _detalhes_database = {
 										["c_max"] = 5130,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 5130,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5130,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 6,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["last_dps"] = 4107.14966626924,
 							["end_time"] = 1550648851,
-							["colocacao"] = 1,
-							["last_event"] = 1550648849,
-							["on_hold"] = false,
+							["last_dps"] = 4107.14966626924,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004385,
 							["start_time"] = 1550648833,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire"] = {
-							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1704,100 +1812,100 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 267,
+							["grupo"] = true,
 							["buff_uptime"] = 36,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648839,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
+										["uptime"] = 6,
 										["id"] = 288981,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 2,
-										["refreshamt"] = 1,
-										["id"] = 275429,
-										["uptime"] = 4,
-										["targets"] = {
-										},
-										["appliedamt"] = 2,
-									},
-									[271711] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 271711,
-										["uptime"] = 2,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[108366] = {
-										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 6,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 268887,
-										["uptime"] = 6,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 268887,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[271711] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 271711,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275429] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 4,
+										["id"] = 275429,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648839,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -1825,21 +1933,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -1851,10 +1959,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 9257.004385,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -1862,18 +1967,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 9257.004385,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542660.648,
-				["TotalElapsedCombatTime"] = 542660.648,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542660.648,
 				["combat_id"] = 11,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 542660.648,
+				["CombatEndedAt"] = 542660.648,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:47:19",
+				["data_inicio"] = "15:47:13",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					24187, -- [1]
 					0, -- [2]
@@ -1881,23 +1992,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:47:13",
 				["start_time"] = 542654.759,
 				["TimeData"] = {
 				},
@@ -1916,21 +2024,15 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 9175,
 							},
-							["delay"] = 1550648823,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["last_event"] = 1550648823,
+							["colocacao"] = 1,
+							["total"] = 9175.003602,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9175.003602,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["end_time"] = 1550648833,
-							["damage_taken"] = 0.003602,
-							["spec"] = 267,
-							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[157736] = {
@@ -1951,30 +2053,36 @@ _detalhes_database = {
 										["c_max"] = 5279,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 3896,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 3896,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["last_dps"] = 9021.63579357642,
-							["classe"] = "WARLOCK",
-							["colocacao"] = 1,
-							["tipo"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1550648833,
 							["friendlyfire"] = {
 							},
+							["tipo"] = 1,
+							["nome"] = "丿指尖丶旋律",
+							["spec"] = 267,
+							["grupo"] = true,
+							["classe"] = "WARLOCK",
+							["last_dps"] = 9021.63579357642,
+							["custom"] = 0,
+							["last_event"] = 1550648823,
+							["on_hold"] = false,
 							["start_time"] = 1550648830,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 9175.003602,
+							["delay"] = 1550648823,
+							["damage_taken"] = 0.003602,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -1996,100 +2104,100 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 267,
+							["grupo"] = true,
 							["buff_uptime"] = 7,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648822,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
+										["uptime"] = 1,
 										["id"] = 288981,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 275429,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[271711] = {
-										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 271711,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[108366] = {
 										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[271711] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 271711,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275429] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 275429,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648822,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2117,21 +2225,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -2143,10 +2251,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 5279.003602,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -2154,7 +2259,10 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 5279.003602,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542644.007,
@@ -2174,18 +2282,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 542642.99,
@@ -2206,19 +2314,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 20957,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 20957.005002,
-							["friendlyfire_total"] = 0,
+							["spec"] = 267,
 							["dps_started"] = false,
 							["total"] = 20957.005002,
-							["damage_taken"] = 0.005002,
+							["on_hold"] = false,
+							["last_event"] = 1550648819,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[348] = {
@@ -2239,16 +2350,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 348,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 									[157736] = {
 										["c_amt"] = 1,
@@ -2268,32 +2379,29 @@ _detalhes_database = {
 										["c_max"] = 4808,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["c_min"] = 4808,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 4808,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["last_dps"] = 3941.5093101083,
 							["end_time"] = 1550648821,
-							["colocacao"] = 1,
-							["last_event"] = 1550648819,
-							["on_hold"] = false,
+							["last_dps"] = 3941.5093101083,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005002,
 							["start_time"] = 1550648805,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire"] = {
-							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -2315,111 +2423,111 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 267,
+							["grupo"] = true,
 							["buff_uptime"] = 24,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648810,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
-										["refreshamt"] = 0,
+										["uptime"] = 5,
 										["id"] = 288981,
-										["uptime"] = 5,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[275429] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 275429,
-										["uptime"] = 3,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
 										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 1,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[271711] = {
-										["counter"] = 0,
 										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 271711,
-										["uptime"] = 0,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
-									},
-									[108366] = {
 										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 5,
-										["targets"] = {
-										},
-										["appliedamt"] = 1,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[271711] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 271711,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[270661] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275429] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 3,
+										["id"] = 275429,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648810,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2447,21 +2555,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -2473,10 +2581,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 8773.005002,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -2484,18 +2589,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 8773.005002,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542632.108,
-				["TotalElapsedCombatTime"] = 542632.108,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542632.108,
 				["combat_id"] = 9,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 542632.108,
+				["CombatEndedAt"] = 542632.108,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:46:51",
+				["data_inicio"] = "15:46:45",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					20957, -- [1]
 					0, -- [2]
@@ -2503,23 +2614,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:46:45",
 				["start_time"] = 542626.791,
 				["TimeData"] = {
 				},
@@ -2538,19 +2646,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 10855,
 							},
-							["delay"] = 1550648704,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["total"] = 10855.00389,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 10855.00389,
-							["on_hold"] = false,
+							["spec"] = 265,
 							["dps_started"] = false,
 							["end_time"] = 1550648805,
-							["damage_taken"] = 0.00389,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648704,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[233490] = {
@@ -2571,32 +2682,29 @@ _detalhes_database = {
 										["c_max"] = 5427,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 5427,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5427,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
 							["grupo"] = true,
-							["last_dps"] = 6347.95549136636,
 							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550648704,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 6347.95549136636,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648800,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 10855.00389,
+							["delay"] = 1550648704,
+							["damage_taken"] = 0.00389,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -2618,78 +2726,78 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 265,
+							["grupo"] = true,
 							["buff_uptime"] = 10,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648702,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 1,
-										["id"] = 268887,
-										["uptime"] = 2,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 268887,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648702,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2718,21 +2826,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -2744,10 +2852,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 8141.00389,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -2755,18 +2860,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 8141.00389,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542524.026,
-				["TotalElapsedCombatTime"] = 542524.026,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542524.026,
 				["combat_id"] = 8,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 542524.026,
+				["CombatEndedAt"] = 542524.026,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:45:03",
+				["data_inicio"] = "15:45:01",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					10855, -- [1]
 					0, -- [2]
@@ -2774,23 +2885,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:45:01",
 				["start_time"] = 542522.316,
 				["TimeData"] = {
 				},
@@ -2809,19 +2917,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 17322,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["total"] = 17322.007175,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 17322.007175,
-							["on_hold"] = false,
+							["spec"] = 265,
 							["dps_started"] = false,
 							["end_time"] = 1550648700,
-							["damage_taken"] = 0.007175,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648699,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[980] = {
@@ -2842,16 +2953,16 @@ _detalhes_database = {
 										["c_max"] = 2723,
 										["id"] = 980,
 										["r_dmg"] = 0,
-										["c_min"] = 1633,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1633,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 									[233490] = {
 										["c_amt"] = 0,
@@ -2871,32 +2982,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
 							["grupo"] = true,
-							["last_dps"] = 17287.4323107488,
 							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550648699,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 17287.4323107488,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648688,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 17322.007175,
+							["delay"] = 0,
+							["damage_taken"] = 0.007175,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -2911,7 +3019,7 @@ _detalhes_database = {
 					["combatId"] = 7,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
+							["received"] = 1.008684,
 							["resource"] = 0.008684,
 							["targets"] = {
 								["丿指尖丶旋律"] = 1,
@@ -2920,7 +3028,7 @@ _detalhes_database = {
 							},
 							["powertype"] = 0,
 							["classe"] = "WARLOCK",
-							["alternatepower"] = 0.008684,
+							["total"] = 1.008684,
 							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -2936,12 +3044,12 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["received"] = 1.008684,
+							["flag_original"] = 1297,
 							["last_event"] = 1550648695,
-							["total"] = 1.008684,
-							["tipo"] = 3,
-							["serial"] = "Player-1944-06624493",
+							["alternatepower"] = 0.008684,
 							["spec"] = 265,
+							["serial"] = "Player-1944-06624493",
+							["tipo"] = 3,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -2951,78 +3059,78 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 265,
+							["grupo"] = true,
 							["buff_uptime"] = 5,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648689,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648689,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3050,21 +3158,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 1,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -3076,10 +3184,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 1633.007175,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -3087,7 +3192,10 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 1633.007175,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542510.765,
@@ -3107,18 +3215,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 1,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
 				["start_time"] = 542509.763,
@@ -3139,19 +3247,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 18868,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 18868.005073,
-							["friendlyfire_total"] = 0,
+							["spec"] = 265,
 							["dps_started"] = false,
 							["total"] = 18868.005073,
-							["damage_taken"] = 0.005073,
+							["on_hold"] = false,
+							["last_event"] = 1550648686,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[233490] = {
@@ -3172,16 +3283,16 @@ _detalhes_database = {
 										["c_max"] = 5427,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 5427,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5427,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 4,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 									[980] = {
 										["c_amt"] = 1,
@@ -3201,32 +3312,29 @@ _detalhes_database = {
 										["c_max"] = 1361,
 										["id"] = 980,
 										["r_dmg"] = 0,
-										["c_min"] = 1361,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 1361,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
 							["grupo"] = true,
-							["last_dps"] = 3746.62531229149,
 							["end_time"] = 1550648688,
-							["colocacao"] = 1,
-							["last_event"] = 1550648686,
-							["on_hold"] = false,
+							["last_dps"] = 3746.62531229149,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005073,
 							["start_time"] = 1550648671,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire"] = {
-							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -3241,7 +3349,7 @@ _detalhes_database = {
 					["combatId"] = 6,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 1297,
+							["received"] = 1.008189,
 							["resource"] = 0.008189,
 							["targets"] = {
 								["丿指尖丶旋律"] = 1,
@@ -3250,7 +3358,7 @@ _detalhes_database = {
 							},
 							["powertype"] = 0,
 							["classe"] = "WARLOCK",
-							["alternatepower"] = 0.008189,
+							["total"] = 1.008189,
 							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -3266,12 +3374,12 @@ _detalhes_database = {
 								["tipo"] = 7,
 							},
 							["grupo"] = true,
-							["received"] = 1.008189,
+							["flag_original"] = 1297,
 							["last_event"] = 1550648688,
-							["total"] = 1.008189,
-							["tipo"] = 3,
-							["serial"] = "Player-1944-06624493",
+							["alternatepower"] = 0.008189,
 							["spec"] = 265,
+							["serial"] = "Player-1944-06624493",
+							["tipo"] = 3,
 						}, -- [1]
 					},
 				}, -- [3]
@@ -3281,89 +3389,89 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 265,
+							["grupo"] = true,
 							["buff_uptime"] = 29,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648676,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 4,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648676,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3392,21 +3500,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 1,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -3418,10 +3526,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 8141.005073,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -3429,18 +3534,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 8141.005073,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542497.587,
-				["TotalElapsedCombatTime"] = 5.18699999991804,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542507.791,
 				["combat_id"] = 6,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 5.18699999991804,
+				["CombatEndedAt"] = 542507.791,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:44:36",
+				["data_inicio"] = "15:44:31",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					18868, -- [1]
 					0, -- [2]
@@ -3448,23 +3559,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 1,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:44:31",
 				["start_time"] = 542492.551,
 				["TimeData"] = {
 				},
@@ -3483,19 +3591,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 13567,
 							},
-							["delay"] = 1550648657,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["total"] = 13567.003265,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 13567.003265,
-							["on_hold"] = false,
+							["spec"] = 265,
 							["dps_started"] = false,
 							["end_time"] = 1550648671,
-							["damage_taken"] = 0.003265,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648657,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[233490] = {
@@ -3516,32 +3627,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
 							["grupo"] = true,
-							["last_dps"] = 2681.75593298627,
 							["friendlyfire_total"] = 0,
-							["colocacao"] = 1,
-							["last_event"] = 1550648657,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 2681.75593298627,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648663,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 13567.003265,
+							["delay"] = 1550648657,
+							["damage_taken"] = 0.003265,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -3563,89 +3671,89 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 265,
+							["grupo"] = true,
 							["buff_uptime"] = 26,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648655,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 5,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648655,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3674,21 +3782,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -3700,10 +3808,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 8140.003265,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -3711,18 +3816,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 8140.003265,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542477.162,
-				["TotalElapsedCombatTime"] = 5.05900000000838,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542477.162,
 				["combat_id"] = 5,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 5.05900000000838,
+				["CombatEndedAt"] = 542477.162,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:44:16",
+				["data_inicio"] = "15:44:11",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					13567, -- [1]
 					0, -- [2]
@@ -3730,23 +3841,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:44:11",
 				["start_time"] = 542472.103,
 				["TimeData"] = {
 				},
@@ -3765,19 +3873,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 5427,
 							},
-							["delay"] = 1550648640,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 5427.004098,
-							["friendlyfire_total"] = 0,
+							["spec"] = 265,
 							["dps_started"] = false,
 							["total"] = 5427.004098,
-							["damage_taken"] = 0.004098,
+							["on_hold"] = false,
+							["last_event"] = 1550648640,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[233490] = {
@@ -3798,32 +3909,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
 							["grupo"] = true,
-							["last_dps"] = 17620.1431775624,
 							["end_time"] = 1550648650,
-							["colocacao"] = 1,
-							["last_event"] = 1550648640,
-							["on_hold"] = false,
+							["last_dps"] = 17620.1431775624,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004098,
 							["start_time"] = 1550648648,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire"] = {
-							},
+							["delay"] = 1550648640,
+							["friendlyfire_total"] = 0,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -3845,78 +3953,78 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
-							["grupo"] = true,
-							["pets"] = {
-							},
 							["buff_uptime_targets"] = {
 							},
+							["spec"] = 265,
+							["grupo"] = true,
 							["buff_uptime"] = 0,
-							["classe"] = "WARLOCK",
+							["nome"] = "丿指尖丶旋律",
+							["pets"] = {
+							},
 							["tipo"] = 4,
+							["last_event"] = 1550648639,
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 0,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 0,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["last_event"] = 1550648639,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 					},
 				}, -- [4]
@@ -3944,21 +4052,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -3970,10 +4078,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 2713.004098,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -3981,18 +4086,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 2713.004098,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542460.904,
-				["TotalElapsedCombatTime"] = 542460.904,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542460.904,
 				["combat_id"] = 4,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 542460.904,
+				["CombatEndedAt"] = 542460.904,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:43:59",
+				["data_inicio"] = "15:43:59",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					5427, -- [1]
 					0, -- [2]
@@ -4000,23 +4111,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:43:59",
 				["start_time"] = 542460.596,
 				["TimeData"] = {
 				},
@@ -4035,19 +4143,22 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 29849,
 							},
-							["delay"] = 0,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 							},
-							["custom"] = 0,
-							["tipo"] = 1,
+							["colocacao"] = 1,
+							["friendlyfire_total"] = 0,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 29849.002785,
-							["on_hold"] = false,
+							["spec"] = 265,
 							["dps_started"] = false,
 							["total"] = 29849.002785,
-							["damage_taken"] = 0.002785,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1550648637,
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[233490] = {
@@ -4068,32 +4179,29 @@ _detalhes_database = {
 										["c_max"] = 5427,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 5427,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5427,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 5,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
 							["grupo"] = true,
-							["last_dps"] = 4270.24360300998,
 							["end_time"] = 1550648639,
-							["colocacao"] = 1,
-							["last_event"] = 1550648637,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 4270.24360300998,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
 							["start_time"] = 1550648620,
-							["serial"] = "Player-1944-06624493",
-							["friendlyfire_total"] = 0,
+							["delay"] = 0,
+							["damage_taken"] = 0.002785,
 						}, -- [1]
 					},
 				}, -- [1]
@@ -4124,89 +4232,89 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1550648627,
 										["uptime"] = 0,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
-							["buff_uptime"] = 32,
+							["pets"] = {
+							},
 							["classe"] = "WARLOCK",
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 7,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 7,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 7,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 4,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 7,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
 							},
 							["debuff_uptime"] = 0,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 265,
-							["grupo"] = true,
-							["last_event"] = 1550648627,
-							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
-							["pets"] = {
-							},
-							["serial"] = "Player-1944-06624493",
+							["spec"] = 265,
+							["grupo"] = true,
 							["debuff_uptime_targets"] = {
 							},
+							["last_event"] = 1550648627,
+							["nome"] = "丿指尖丶旋律",
+							["buff_uptime"] = 32,
+							["serial"] = "Player-1944-06624493",
+							["tipo"] = 4,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -4235,21 +4343,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -4261,10 +4369,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 18995.002785,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -4272,18 +4377,24 @@ _detalhes_database = {
 						{
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 18995.002785,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542448.691,
-				["TotalElapsedCombatTime"] = 6.98999999999069,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542448.691,
 				["combat_id"] = 3,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 6.98999999999069,
+				["CombatEndedAt"] = 542448.691,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:43:47",
+				["data_inicio"] = "15:43:40",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					29849, -- [1]
 					0, -- [2]
@@ -4291,23 +4402,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:43:40",
 				["start_time"] = 542441.701,
 				["TimeData"] = {
 				},
@@ -4326,22 +4434,16 @@ _detalhes_database = {
 							["targets"] = {
 								["团队副本训练假人"] = 58198,
 							},
-							["delay"] = 1550648576,
+							["serial"] = "Player-1944-06624493",
 							["pets"] = {
 								"鲁尔祖布 <丿指尖丶旋律>", -- [1]
 							},
-							["custom"] = 0,
-							["last_event"] = 1550648576,
+							["colocacao"] = 1,
+							["total"] = 58198.001061,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 48848.001061,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["end_time"] = 1550648620,
-							["damage_taken"] = 0.001061,
-							["spec"] = 265,
-							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
 									[233490] = {
@@ -4362,30 +4464,36 @@ _detalhes_database = {
 										["c_max"] = 5428,
 										["id"] = 233490,
 										["r_dmg"] = 0,
-										["c_min"] = 5427,
-										["r_amt"] = 0,
+										["spellschool"] = 32,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 5427,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 12,
-										["a_dmg"] = 0,
-										["spellschool"] = 32,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["last_dps"] = 6667.20140458984,
-							["classe"] = "WARLOCK",
-							["colocacao"] = 1,
-							["tipo"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1550648620,
 							["friendlyfire"] = {
 							},
+							["tipo"] = 1,
+							["nome"] = "丿指尖丶旋律",
+							["spec"] = 265,
+							["grupo"] = true,
+							["classe"] = "WARLOCK",
+							["last_dps"] = 6667.20140458984,
+							["custom"] = 0,
+							["last_event"] = 1550648576,
+							["on_hold"] = false,
 							["start_time"] = 1550648610,
-							["serial"] = "Player-1944-06624493",
-							["total"] = 58198.001061,
+							["delay"] = 1550648576,
+							["damage_taken"] = 0.001061,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -4397,15 +4505,15 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["damage_taken"] = 0.007816,
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9350.007816,
-							["last_event"] = 1550648572,
+							["classe"] = "PET",
 							["dps_started"] = false,
 							["total"] = 9350.007816,
-							["delay"] = 0,
+							["serial"] = "Pet-0-3916-1642-189-416-070271F087",
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
 							["spells"] = {
@@ -4428,30 +4536,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 3110,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
 							["end_time"] = 1550648576,
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
+							["last_event"] = 1550648572,
+							["damage_taken"] = 0.007816,
 							["start_time"] = 1550648570,
-							["serial"] = "Pet-0-3916-1642-189-416-070271F087",
-							["classe"] = "PET",
+							["delay"] = 0,
+							["friendlyfire"] = {
+							},
 						}, -- [2]
 					},
 				}, -- [1]
@@ -4466,7 +4574,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARLOCK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.007967,
 							["total_without_pet"] = 1462.007967,
 							["total"] = 1462.007967,
@@ -4485,7 +4593,9 @@ _detalhes_database = {
 							["healing_taken"] = 1462.007967,
 							["fight_component"] = true,
 							["end_time"] = 1550648576,
-							["heal_enemy_amt"] = 0,
+							["healing_from"] = {
+								["丿指尖丶旋律"] = true,
+							},
 							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -4508,28 +4618,26 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_healed"] = 0,
-										["c_min"] = 0,
-										["totaldenied"] = 0,
-										["n_amt"] = 1,
-										["n_curado"] = 1462,
 										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 1462,
+										["n_amt"] = 1,
+										["m_healed"] = 0,
+										["totaldenied"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["丿指尖丶旋律"] = true,
-							},
-							["tipo"] = 2,
-							["custom"] = 0,
-							["last_event"] = 1550648575,
-							["totaldenied"] = 0.007967,
-							["start_time"] = 1550648575,
-							["delay"] = 0,
 							["spec"] = 265,
+							["classe"] = "WARLOCK",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["start_time"] = 1550648575,
+							["totaldenied"] = 0.007967,
+							["delay"] = 0,
+							["last_event"] = 1550648575,
 						}, -- [1]
 					},
 				}, -- [2]
@@ -4548,26 +4656,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[233497] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 233497,
-										["uptime"] = 7,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 7,
+										["id"] = 233497,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[233496] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 0,
-										["refreshamt"] = 0,
-										["id"] = 233496,
-										["uptime"] = 7,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 0,
+										["uptime"] = 7,
+										["id"] = 233496,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[233490] = {
 										["activedamt"] = -1,
@@ -4576,10 +4684,10 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1550648574,
 										["uptime"] = 0,
-										["counter"] = 0,
+										["appliedamt"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["appliedamt"] = 0,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
@@ -4589,70 +4697,70 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 17619,
-										["uptime"] = 9,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 17619,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[186406] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 186406,
-										["uptime"] = 9,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 186406,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[288981] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 288981,
-										["uptime"] = 9,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 288981,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[270661] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 270661,
-										["uptime"] = 4,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 270661,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[108366] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 108366,
-										["uptime"] = 9,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 9,
+										["id"] = 108366,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 									[268887] = {
-										["counter"] = 0,
-										["actived"] = false,
-										["activedamt"] = 1,
-										["refreshamt"] = 0,
-										["id"] = 268887,
-										["uptime"] = 1,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["appliedamt"] = 1,
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 268887,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
 									},
 								},
 								["tipo"] = 9,
@@ -4666,15 +4774,15 @@ _detalhes_database = {
 							["spell_cast"] = {
 								[30108] = 2,
 							},
+							["debuff_uptime_targets"] = {
+							},
 							["tipo"] = 4,
-							["last_event"] = 1550648576,
 							["nome"] = "丿指尖丶旋律",
 							["pets"] = {
 								"鲁尔祖布 <丿指尖丶旋律>", -- [1]
 							},
 							["serial"] = "Player-1944-06624493",
-							["debuff_uptime_targets"] = {
-							},
+							["last_event"] = 1550648576,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -4682,13 +4790,13 @@ _detalhes_database = {
 							["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
 							["pets"] = {
 							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["serial"] = "Pet-0-3916-1642-189-416-070271F087",
 							["spell_cast"] = {
 								[3110] = 2,
 							},
-							["classe"] = "PET",
-							["last_event"] = 0,
-							["serial"] = "Pet-0-3916-1642-189-416-070271F087",
-							["tipo"] = 4,
 						}, -- [2]
 					},
 				}, -- [4]
@@ -4717,21 +4825,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
-					["voidzone_damage"] = 0,
 					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -4743,10 +4851,7 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 55485.001061,
-						}, -- [1]
+					["damage_section"] = {
 					},
 					["heal_section"] = {
 					},
@@ -4755,18 +4860,24 @@ _detalhes_database = {
 							["丿指尖丶旋律"] = 1462.007967,
 						}, -- [1]
 					},
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 55485.001061,
+						}, -- [1]
 					},
 				},
 				["end_time"] = 542397.655,
-				["TotalElapsedCombatTime"] = 8.72900000005029,
-				["instance_type"] = "none",
-				["CombatEndedAt"] = 542397.655,
 				["combat_id"] = 2,
+				["instance_type"] = "none",
+				["TotalElapsedCombatTime"] = 8.72900000005029,
+				["CombatEndedAt"] = 542397.655,
 				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "15:42:56",
+				["data_inicio"] = "15:42:48",
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					48848, -- [1]
 					1462, -- [2]
@@ -4774,23 +4885,20 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[6] = 0,
 						[3] = 0,
+						[6] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["dead"] = 0,
-						["cc_break"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
 					}, -- [4]
 				},
-				["CombatSkillCache"] = {
-				},
-				["data_inicio"] = "15:42:48",
 				["start_time"] = 542388.926,
 				["TimeData"] = {
 				},
@@ -4817,12 +4925,30 @@ _detalhes_database = {
 								"鲁尔祖布 <丿指尖丶旋律>", -- [1]
 								"龙眠联军天爪龙 <丿指尖丶旋律>", -- [2]
 							},
-							["total"] = 2684899.007896,
-							["friendlyfire_total"] = 0,
+							["end_time"] = 1550643900,
+							["damage_taken"] = 89543.007896,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 2579509.007896,
+							["on_hold"] = false,
+							["delay"] = 1550643863,
+							["dps_started"] = false,
+							["total"] = 2684899.007896,
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 31513.2690277503,
+							["boss_fight_component"] = true,
+							["spec"] = 267,
+							["grupo"] = true,
+							["last_event"] = 1550643900,
+							["custom"] = 0,
+							["nome"] = "丿指尖丶旋律",
+							["colocacao"] = 1,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1550643864,
+							["serial"] = "Player-1944-06624493",
 							["spells"] = {
 								["_ActorTable"] = {
 									[17962] = {
@@ -4844,16 +4970,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 17962,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[348] = {
 										["c_amt"] = 2,
@@ -4875,16 +5001,16 @@ _detalhes_database = {
 										["c_max"] = 118890,
 										["id"] = 348,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 63400,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 4,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[157736] = {
 										["c_amt"] = 1,
@@ -4904,16 +5030,16 @@ _detalhes_database = {
 										["c_max"] = 1,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 1,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 7,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[265931] = {
 										["c_amt"] = 0,
@@ -4933,16 +5059,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 265931,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 4,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[29722] = {
 										["c_amt"] = 0,
@@ -4962,38 +5088,20 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 29722,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["serial"] = "Player-1944-06624493",
-							["dps_started"] = false,
-							["end_time"] = 1550643900,
-							["friendlyfire"] = {
-							},
-							["tipo"] = 1,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
-							["grupo"] = true,
-							["colocacao"] = 1,
-							["boss_fight_component"] = true,
-							["damage_taken"] = 89543.007896,
-							["custom"] = 0,
-							["last_event"] = 1550643900,
-							["last_dps"] = 31513.2690277503,
-							["start_time"] = 1550643864,
-							["delay"] = 1550643863,
-							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
@@ -5006,16 +5114,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["boss_fight_component"] = true,
+							["last_event"] = 1550643856,
 							["classe"] = "PET",
-							["tipo"] = 1,
-							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 105389.007033,
-							["serial"] = "Pet-0-3927-616-10661-416-010271F087",
+							["delay"] = 1550643856,
 							["dps_started"] = false,
 							["total"] = 105389.007033,
-							["damage_taken"] = 2.007033,
+							["on_hold"] = false,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
 							["spells"] = {
@@ -5038,30 +5146,30 @@ _detalhes_database = {
 										["c_max"] = 105381,
 										["id"] = 3110,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 1,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 7,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["end_time"] = 1550643900,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1550643856,
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 2.007033,
 							["start_time"] = 1550643875,
-							["delay"] = 1550643856,
-							["boss_fight_component"] = true,
+							["serial"] = "Pet-0-3927-616-10661-416-010271F087",
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = -2147483648,
@@ -5077,11 +5185,11 @@ _detalhes_database = {
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 89381.006619,
-							["damage_taken"] = 0.006619,
+							["on_hold"] = false,
 							["dps_started"] = false,
 							["end_time"] = 1550648567,
-							["last_event"] = 1550648508,
-							["delay"] = 1550648508,
+							["total"] = 89381.006619,
+							["serial"] = "",
 							["nome"] = "环境伤害 (高处坠落)",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5103,30 +5211,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 3,
 										["r_dmg"] = 0,
-										["c_min"] = 0,
-										["r_amt"] = 0,
+										["spellschool"] = 3,
+										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["a_dmg"] = 0,
-										["spellschool"] = 3,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["classe"] = "UNKNOW",
 							["friendlyfire"] = {
 							},
+							["tipo"] = 1,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
+							["last_event"] = 1550648508,
+							["damage_taken"] = 0.006619,
 							["start_time"] = 1550648559,
-							["serial"] = "",
-							["total"] = 89381.006619,
+							["delay"] = 1550648508,
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -5140,21 +5248,20 @@ _detalhes_database = {
 								["鲁尔祖布 <丿指尖丶旋律>"] = 2,
 								["丿指尖丶旋律"] = 162,
 							},
-							["friendlyfire"] = {
-							},
+							["friendlyfire_total"] = 0,
 							["pets"] = {
 							},
 							["boss"] = true,
-							["total"] = 164.001668,
+							["on_hold"] = false,
 							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 164.001668,
-							["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
+							["delay"] = 1550643829,
 							["dps_started"] = false,
-							["end_time"] = 1550643900,
+							["total"] = 164.001668,
 							["monster"] = true,
-							["on_hold"] = false,
+							["damage_taken"] = 2193519.001668,
 							["nome"] = "玛里苟斯",
 							["spells"] = {
 								["_ActorTable"] = {
@@ -5176,16 +5283,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 88,
+										["r_amt"] = 0,
+										["a_amt"] = 3,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 4,
-										["a_amt"] = 3,
-										["r_amt"] = 0,
+										["a_dmg"] = 88,
+										["spellschool"] = 1,
 									}, -- [1]
 									[61693] = {
 										["c_amt"] = 0,
@@ -5206,28 +5313,29 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 61693,
 										["r_dmg"] = 0,
-										["a_dmg"] = 42,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 1,
+										["m_amt"] = 0,
 										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["m_amt"] = 0,
-										["r_amt"] = 0,
+										["a_amt"] = 1,
+										["a_dmg"] = 42,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["last_event"] = 1550643829,
-							["last_dps"] = 0,
-							["boss_fight_component"] = true,
-							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 2193519.001668,
+							["boss_fight_component"] = true,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1550643829,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1550643893,
-							["delay"] = 1550643829,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
+							["end_time"] = 1550643900,
 						}, -- [4]
 						{
 							["flag_original"] = 4369,
@@ -5239,16 +5347,16 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
+							["boss_fight_component"] = true,
+							["last_event"] = 1550643900,
 							["classe"] = "PET",
-							["tipo"] = 1,
-							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1.004577,
-							["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+							["delay"] = 0,
 							["dps_started"] = false,
 							["total"] = 1.004577,
-							["damage_taken"] = 0.004577,
+							["on_hold"] = false,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 							["spells"] = {
@@ -5271,30 +5379,30 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 56091,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_amt"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
 										["c_min"] = 0,
+										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
-										["a_amt"] = 0,
-										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 								},
 								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
 							["end_time"] = 1550643900,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1550643900,
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
+							["damage_taken"] = 0.004577,
 							["start_time"] = 1550643900,
-							["delay"] = 0,
-							["boss_fight_component"] = true,
+							["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+							["friendlyfire_total"] = 0,
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
@@ -5306,33 +5414,33 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["dps_started"] = false,
-							["nome"] = "永恒子嗣",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008494,
-							["serial"] = "Creature-0-3927-616-10661-30249-0001ECF28B",
-							["monster"] = true,
+							["delay"] = 0,
+							["dps_started"] = false,
 							["total"] = 0.008494,
-							["damage_taken"] = 253600.008494,
 							["on_hold"] = false,
-							["boss_fight_component"] = true,
+							["friendlyfire"] = {
+							},
+							["nome"] = "永恒子嗣",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["end_time"] = 1550643900,
-							["last_dps"] = 0,
-							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["end_time"] = 1550643900,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 253600.008494,
 							["start_time"] = 1550643900,
-							["delay"] = 0,
-							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3927-616-10661-30249-0001ECF28B",
+							["monster"] = true,
 						}, -- [6]
 						{
 							["flag_original"] = 2632,
@@ -5344,33 +5452,33 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["dps_started"] = false,
-							["nome"] = "魔枢领主",
+							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002759,
-							["serial"] = "Creature-0-3927-616-10661-30245-0000ECF28B",
-							["monster"] = true,
+							["delay"] = 0,
+							["dps_started"] = false,
 							["total"] = 0.002759,
-							["damage_taken"] = 237780.002759,
 							["on_hold"] = false,
-							["boss_fight_component"] = true,
+							["friendlyfire"] = {
+							},
+							["nome"] = "魔枢领主",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 2,
 							},
-							["tipo"] = 1,
-							["end_time"] = 1550643900,
-							["last_dps"] = 0,
-							["custom"] = 0,
 							["last_event"] = 0,
-							["friendlyfire"] = {
-							},
+							["last_dps"] = 0,
+							["end_time"] = 1550643900,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 237780.002759,
 							["start_time"] = 1550643900,
-							["delay"] = 0,
-							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3927-616-10661-30245-0000ECF28B",
+							["monster"] = true,
 						}, -- [7]
 					},
 				}, -- [1]
@@ -5380,15 +5488,16 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["丿指尖丶旋律"] = true,
+							["targets_overheal"] = {
+								["鲁尔祖布 <丿指尖丶旋律>"] = 332,
+								["丿指尖丶旋律"] = 3169,
 							},
 							["pets"] = {
 								"鲁尔祖布 <丿指尖丶旋律>", -- [1]
 								"龙眠联军天爪龙 <丿指尖丶旋律>", -- [2]
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "WARLOCK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 61617.00261,
 							["total_without_pet"] = 96.00261,
 							["total"] = 96.00261,
@@ -5405,10 +5514,11 @@ _detalhes_database = {
 							["totalover_without_pet"] = 0.00261,
 							["healing_taken"] = 96.00261,
 							["end_time"] = 1550643900,
-							["boss_fight_component"] = true,
-							["targets_overheal"] = {
-								["鲁尔祖布 <丿指尖丶旋律>"] = 332,
-								["丿指尖丶旋律"] = 3169,
+							["targets_absorbs"] = {
+								["丿指尖丶旋律"] = 37,
+							},
+							["healing_from"] = {
+								["丿指尖丶旋律"] = true,
 							},
 							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
@@ -5433,12 +5543,41 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 59,
-										["n_amt"] = 2,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 59,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+									[77220] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 7,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 2,
+										["targets"] = {
+											["丿指尖丶旋律"] = 7,
+										},
+										["n_min"] = 1,
+										["counter"] = 5,
+										["overheal"] = 0,
+										["total"] = 7,
+										["c_max"] = 0,
+										["id"] = 77220,
+										["targets_absorbs"] = {
+											["丿指尖丶旋律"] = 7,
+										},
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 5,
+										["n_curado"] = 7,
+										["m_healed"] = 0,
+										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
 									[108366] = {
@@ -5464,42 +5603,13 @@ _detalhes_database = {
 											["丿指尖丶旋律"] = 30,
 										},
 										["c_curado"] = 0,
-										["c_min"] = 0,
-										["m_crit"] = 0,
-										["m_healed"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 30,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["c_min"] = 0,
 										["n_amt"] = 3,
-										["totaldenied"] = 0,
-										["is_shield"] = true,
-										["absorbed"] = 0,
-									},
-									[77220] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 7,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2,
-										["targets"] = {
-											["丿指尖丶旋律"] = 7,
-										},
-										["n_min"] = 1,
-										["counter"] = 5,
-										["overheal"] = 0,
-										["total"] = 7,
-										["c_max"] = 0,
-										["id"] = 77220,
-										["targets_absorbs"] = {
-											["丿指尖丶旋律"] = 7,
-										},
-										["c_curado"] = 0,
-										["c_min"] = 0,
-										["m_crit"] = 0,
+										["n_curado"] = 30,
 										["m_healed"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 7,
-										["n_amt"] = 5,
-										["totaldenied"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -5507,25 +5617,23 @@ _detalhes_database = {
 								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["last_event"] = 1550643899,
-							["start_time"] = 1550643891,
-							["custom"] = 0,
 							["tipo"] = 2,
-							["heal_enemy_amt"] = 0,
 							["totaldenied"] = 0.00261,
+							["custom"] = 0,
+							["last_event"] = 1550643899,
+							["classe"] = "WARLOCK",
+							["start_time"] = 1550643891,
 							["delay"] = 1550643878,
-							["targets_absorbs"] = {
-								["丿指尖丶旋律"] = 37,
-							},
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
-							["targets_overheal"] = {
+							["healing_from"] = {
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "PET",
 							["totalover"] = 0.006715,
 							["total_without_pet"] = 0.006715,
 							["total"] = 0.006715,
@@ -5543,31 +5651,32 @@ _detalhes_database = {
 							["healing_taken"] = 0.006715,
 							["end_time"] = 1550643900,
 							["ownerName"] = "丿指尖丶旋律",
-							["boss_fight_component"] = true,
+							["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 3,
 							},
-							["start_time"] = 1550643900,
-							["healing_from"] = {
+							["totaldenied"] = 0.006715,
+							["targets_overheal"] = {
 							},
-							["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
+							["last_event"] = 0,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["classe"] = "PET",
-							["totaldenied"] = 0.006715,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1550643900,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["boss_fight_component"] = true,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
-							["healing_from"] = {
+							["targets_overheal"] = {
+								["龙眠联军天爪龙 <丿指尖丶旋律>"] = 58116,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["heal_enemy_amt"] = 0,
+							["classe"] = "PET",
 							["totalover"] = 58116.002759,
 							["total_without_pet"] = 0.002759,
 							["total"] = 0.002759,
@@ -5585,7 +5694,7 @@ _detalhes_database = {
 							["healing_taken"] = 0.002759,
 							["end_time"] = 1550643900,
 							["ownerName"] = "丿指尖丶旋律",
-							["boss_fight_component"] = true,
+							["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 							["spells"] = {
 								["_ActorTable"] = {
 									[57090] = {
@@ -5608,28 +5717,27 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["m_amt"] = 0,
-										["c_min"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 3,
-										["m_healed"] = 0,
 										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 0,
+										["c_min"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 								["tipo"] = 3,
 							},
-							["start_time"] = 1550643897,
-							["targets_overheal"] = {
-								["龙眠联军天爪龙 <丿指尖丶旋律>"] = 58116,
+							["totaldenied"] = 0.002759,
+							["healing_from"] = {
 							},
-							["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
+							["last_event"] = 1550643899,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["classe"] = "PET",
-							["totaldenied"] = 0.002759,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1550643897,
 							["delay"] = 0,
-							["last_event"] = 1550643899,
+							["boss_fight_component"] = true,
 						}, -- [3]
 					},
 				}, -- [2]
@@ -5651,20 +5759,20 @@ _detalhes_database = {
 							["nome"] = "丿指尖丶旋律",
 							["spec"] = 267,
 							["grupo"] = true,
-							["boss_fight_component"] = true,
-							["last_event"] = 0,
+							["flag_original"] = 1300,
 							["tipo"] = 3,
-							["alternatepower"] = 0.003277,
+							["last_event"] = 0,
 							["spells"] = {
 								["_ActorTable"] = {
 								},
 								["tipo"] = 7,
 							},
+							["alternatepower"] = 0.003277,
 							["serial"] = "Player-1944-06624493",
-							["flag_original"] = 1300,
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
-							["received"] = 4.003046,
+							["flag_original"] = 4369,
 							["resource"] = 0.003046,
 							["targets"] = {
 								["龙眠联军天爪龙 <丿指尖丶旋律>"] = 4,
@@ -5673,9 +5781,9 @@ _detalhes_database = {
 							},
 							["powertype"] = 0,
 							["classe"] = "PET",
-							["total"] = 4.003046,
+							["alternatepower"] = 0.003046,
 							["ownerName"] = "丿指尖丶旋律",
-							["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
+							["boss_fight_component"] = true,
 							["spells"] = {
 								["_ActorTable"] = {
 									[57090] = {
@@ -5697,10 +5805,10 @@ _detalhes_database = {
 								},
 								["tipo"] = 7,
 							},
-							["flag_original"] = 4369,
+							["received"] = 4.003046,
 							["last_event"] = 1550643899,
-							["alternatepower"] = 0.003046,
-							["boss_fight_component"] = true,
+							["total"] = 4.003046,
+							["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 							["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
 							["tipo"] = 3,
 						}, -- [2]
@@ -5715,26 +5823,26 @@ _detalhes_database = {
 							["debuff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[157736] = {
-										["appliedamt"] = 6,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 157736,
+										["uptime"] = 18,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 18,
-										["id"] = 157736,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 6,
 									},
 									[265931] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 265931,
+										["uptime"] = 6,
 										["targets"] = {
 										},
-										["activedamt"] = 0,
-										["uptime"] = 6,
-										["id"] = 265931,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 2,
 									},
 								},
 								["tipo"] = 9,
@@ -5744,92 +5852,92 @@ _detalhes_database = {
 							["buff_uptime_spells"] = {
 								["_ActorTable"] = {
 									[17619] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 17619,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 17619,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[186406] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186406,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 186406,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[288981] = {
-										["appliedamt"] = 1,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288981,
+										["uptime"] = 77,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 288981,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[266030] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
-										["uptime"] = 8,
+										["refreshamt"] = 0,
 										["id"] = 266030,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268887] = {
-										["appliedamt"] = 1,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["activedamt"] = 1,
-										["uptime"] = 54,
-										["id"] = 268887,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[270661] = {
 										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 77,
-										["id"] = 270661,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[108366] = {
-										["appliedamt"] = 1,
-										["targets"] = {
-										},
-										["activedamt"] = 1,
-										["uptime"] = 50,
-										["id"] = 108366,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[117828] = {
-										["appliedamt"] = 2,
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 117828,
+										["uptime"] = 20,
 										["targets"] = {
 										},
-										["activedamt"] = 2,
-										["uptime"] = 20,
-										["id"] = 117828,
-										["refreshamt"] = 0,
-										["actived"] = false,
+										["appliedamt"] = 2,
+									},
+									[270661] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 270661,
+										["uptime"] = 77,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 108366,
+										["uptime"] = 50,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 268887,
+										["uptime"] = 54,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
 								["tipo"] = 9,
@@ -5844,47 +5952,47 @@ _detalhes_database = {
 								[17962] = 2,
 								[29722] = 1,
 							},
-							["boss_fight_component"] = true,
-							["last_event"] = 1550643900,
+							["debuff_uptime_targets"] = {
+							},
 							["tipo"] = 4,
-							["nome"] = "丿指尖丶旋律",
+							["last_event"] = 1550643900,
 							["pets"] = {
 								"鲁尔祖布 <丿指尖丶旋律>", -- [1]
 								"龙眠联军天爪龙 <丿指尖丶旋律>", -- [2]
 							},
+							["nome"] = "丿指尖丶旋律",
 							["serial"] = "Player-1944-06624493",
-							["debuff_uptime_targets"] = {
-							},
+							["boss_fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["tipo"] = 4,
+							["last_event"] = 0,
 							["nome"] = "玛里苟斯",
 							["pets"] = {
 							},
-							["boss_fight_component"] = true,
+							["classe"] = "UNKNOW",
 							["spell_cast"] = {
 								[61693] = 1,
 							},
-							["last_event"] = 0,
+							["tipo"] = 4,
 							["monster"] = true,
 							["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
-							["classe"] = "UNKNOW",
+							["boss_fight_component"] = true,
 						}, -- [2]
 						{
 							["flag_original"] = 4369,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
-							["tipo"] = 4,
+							["classe"] = "PET",
 							["spell_cast"] = {
 								[3110] = 9,
 							},
-							["boss_fight_component"] = true,
-							["last_event"] = 0,
-							["classe"] = "PET",
-							["serial"] = "Pet-0-3927-616-10661-416-010271F087",
 							["pets"] = {
 							},
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Pet-0-3927-616-10661-416-010271F087",
+							["boss_fight_component"] = true,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -5900,38 +6008,38 @@ _detalhes_database = {
 							["monster"] = true,
 							["debuff_uptime"] = 14,
 							["spellschool"] = 1,
+							["boss_fight_component"] = true,
 							["debuff_uptime_targets"] = {
 								["丿指尖丶旋律"] = {
 									["uptime"] = 14,
-									["appliedamt"] = 0,
+									["refreshamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
-									["refreshamt"] = 0,
+									["appliedamt"] = 0,
 								},
 							},
-							["boss_fight_component"] = true,
-							["nome"] = "奥术过载",
+							["last_event"] = 1550643879,
 							["tipo"] = 4,
 							["damage_twin"] = "[*] 奥术过载",
-							["damage_spellid"] = 56438,
 							["serial"] = "",
-							["last_event"] = 1550643879,
+							["damage_spellid"] = 56438,
+							["nome"] = "奥术过载",
 						}, -- [4]
 						{
 							["flag_original"] = 4369,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
-							["tipo"] = 4,
+							["classe"] = "PET",
 							["spell_cast"] = {
 								[57090] = 3,
 								[56091] = 1,
 							},
-							["boss_fight_component"] = true,
-							["last_event"] = 0,
-							["classe"] = "PET",
-							["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
 							["pets"] = {
 							},
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+							["boss_fight_component"] = true,
 						}, -- [5]
 					},
 				}, -- [4]
@@ -5950,7 +6058,7 @@ _detalhes_database = {
 				},
 				["alternate_power"] = {
 				},
-				["data_fim"] = "14:25:00",
+				["frags_need_refresh"] = true,
 				["enemy"] = "玛里苟斯",
 				["combat_counter"] = 27,
 				["playing_solo"] = true,
@@ -5961,21 +6069,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 3.97832600000003,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["totals_grupo"] = {
 					2579509, -- [1]
@@ -5984,18 +6092,18 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["cooldowns_defensive"] = 0,
-						["dispell"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
 						["interrupt"] = 0,
 						["debuff_uptime"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
 				["CombatEndedAt"] = 537749.27,
@@ -6006,7 +6114,10 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
-					["damage_section"] = {
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 2684899.007896,
+						}, -- [1]
 					},
 					["heal_section"] = {
 					},
@@ -6015,44 +6126,10 @@ _detalhes_database = {
 							["丿指尖丶旋律"] = 96.00261,
 						}, -- [1]
 					},
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 2684899.007896,
-						}, -- [1]
+					["damage_section"] = {
 					},
 				},
 				["end_time"] = 537721.659,
-				["TotalElapsedCombatTime"] = 4.26300000003539,
-				["instance_type"] = "raid",
-				["contra"] = "玛里苟斯",
-				["combat_id"] = 1,
-				["hasSaved"] = true,
-				["frags"] = {
-					["魔枢领主"] = 2,
-					["永恒子嗣"] = 4,
-					["玛里苟斯"] = 1,
-				},
-				["is_boss"] = {
-					["bossimage"] = 1385753,
-					["diff_string"] = "10人",
-					["index"] = 1,
-					["zone"] = "永恒之眼",
-					["encounter"] = "玛里苟斯",
-					["mapid"] = 616,
-					["try_number"] = 1,
-					["name"] = "玛里苟斯",
-					["diff"] = 3,
-					["id"] = 1094,
-					["ej_instance_id"] = 756,
-					["killed"] = true,
-				},
-				["data_inicio"] = "14:23:43",
-				["CombatSkillCache"] = {
-				},
-				["frags_need_refresh"] = true,
-				["start_time"] = 537636.46,
-				["TimeData"] = {
-				},
 				["player_last_events"] = {
 					["丿指尖丶旋律"] = {
 						{
@@ -6142,10 +6219,41 @@ _detalhes_database = {
 						["n"] = 3,
 					},
 				},
+				["instance_type"] = "raid",
+				["TimeData"] = {
+				},
+				["combat_id"] = 1,
+				["hasSaved"] = true,
+				["frags"] = {
+					["魔枢领主"] = 2,
+					["永恒子嗣"] = 4,
+					["玛里苟斯"] = 1,
+				},
+				["data_fim"] = "14:25:00",
+				["data_inicio"] = "14:23:43",
+				["CombatSkillCache"] = {
+				},
+				["is_boss"] = {
+					["bossimage"] = 1385753,
+					["diff_string"] = "10人",
+					["index"] = 1,
+					["zone"] = "永恒之眼",
+					["encounter"] = "玛里苟斯",
+					["mapid"] = 616,
+					["try_number"] = 1,
+					["name"] = "玛里苟斯",
+					["diff"] = 3,
+					["ej_instance_id"] = 756,
+					["id"] = 1094,
+					["killed"] = true,
+				},
+				["start_time"] = 537636.46,
+				["contra"] = "玛里苟斯",
+				["TotalElapsedCombatTime"] = 4.26300000003539,
 			}, -- [16]
 		},
 	},
-	["last_version"] = "v8.1.0.6891",
+	["last_version"] = "v8.1.0.6902",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -6181,17 +6289,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
+			["enabled"] = true,
 			["animate"] = false,
-			["showamount"] = false,
 			["useplayercolor"] = false,
-			["useclasscolors"] = false,
 			["author"] = "Details! Team",
+			["useclasscolors"] = false,
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["enabled"] = true,
+			["showamount"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -6206,13 +6314,13 @@ _detalhes_database = {
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
-			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
+			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -6225,11 +6333,11 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -6256,17 +6364,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "CENTER",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["y"] = 0,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -6274,12 +6377,13 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
-			["x"] = 3.05175781250e-05,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -6287,16 +6391,21 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 1.525878906250e-05,
 				["x"] = 6.1035156250e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["y"] = 0,
-			["author"] = "Details! Team",
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["font_size"] = 10,
+			["x"] = 3.05175781250e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
+	["last_day"] = "21",
 	["cached_talents"] = {
 		["Player-1944-06624493"] = {
 			19285, -- [1]
@@ -6314,20 +6423,84 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["last_encounter"] = "玛里苟斯",
-	["last_day"] = "20",
-	["benchmark_db"] = {
-		["frame"] = {
-		},
+	["character_data"] = {
+		["logons"] = 14,
 	},
-	["last_realversion"] = 135,
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[4] = 2,
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -372.524124145508,
+					["x"] = 682.541015625,
+					["w"] = 409.007934570313,
+					["h"] = 158.998077392578,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = true,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+				[2] = 1,
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -213.524291992188,
+					["x"] = 682.541015625,
+					["w"] = 409.007934570313,
+					["h"] = 119.001586914063,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
 	["combat_id"] = 16,
 	["savedStyles"] = {
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["combat_counter"] = 44,
+	["force_font_outline"] = "",
+	["combat_counter"] = 45,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -6346,26 +6519,26 @@ _detalhes_database = {
 					},
 					["targets"] = {
 						["玛里苟斯"] = 2193519,
-						["魔枢领主"] = 237780,
-						["团队副本训练假人"] = 168034,
 						["永恒子嗣"] = 253600,
+						["团队副本训练假人"] = 168034,
+						["魔枢领主"] = 237780,
 					},
 					["pets"] = {
 						"鲁尔祖布 <丿指尖丶旋律>", -- [1]
 						"龙眠联军天爪龙 <丿指尖丶旋律>", -- [2]
 					},
-					["on_hold"] = false,
-					["last_event"] = 0,
+					["classe"] = "WARLOCK",
+					["tipo"] = 1,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 2738193.089713,
-					["serial"] = "Player-1944-06624493",
+					["delay"] = 0,
 					["dps_started"] = false,
 					["total"] = 2852933.089713,
-					["end_time"] = 1550643901,
 					["friendlyfire"] = {
 					},
+					["last_dps"] = 0,
 					["nome"] = "丿指尖丶旋律",
 					["spec"] = 267,
 					["grupo"] = true,
@@ -6390,15 +6563,15 @@ _detalhes_database = {
 								["c_max"] = 5279,
 								["id"] = 157736,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 19,
-								["m_amt"] = 0,
-								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							},
 							[265931] = {
 								["c_amt"] = 0,
@@ -6418,15 +6591,15 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 265931,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 4,
-								["m_amt"] = 0,
-								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							},
 							[980] = {
 								["c_amt"] = 1,
@@ -6446,15 +6619,15 @@ _detalhes_database = {
 								["c_max"] = 1633,
 								["id"] = 980,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
+								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["r_amt"] = 0,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
 							},
 							[271685] = {
 								["c_amt"] = 0,
@@ -6474,10 +6647,127 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 271685,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
+								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
 								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[17962] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1170080,
+								["targets"] = {
+									["玛里苟斯"] = 1170080,
+									["永恒子嗣"] = 63400,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1233480,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 1233480,
+								["c_max"] = 0,
+								["id"] = 17962,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[271686] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["团队副本训练假人"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 271686,
+								["r_dmg"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[348] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 190702,
+								["g_amt"] = 0,
+								["n_max"] = 414275,
+								["targets"] = {
+									["玛里苟斯"] = 414275,
+									["永恒子嗣"] = 190200,
+									["团队副本训练假人"] = 20713,
+									["魔枢领主"] = 237780,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 672266,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 862968,
+								["c_max"] = 118890,
+								["id"] = 348,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[29722] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["玛里苟斯"] = 1,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 1,
+								["c_max"] = 0,
+								["id"] = 29722,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
@@ -6502,130 +6792,13 @@ _detalhes_database = {
 								["c_max"] = 5428,
 								["id"] = 233490,
 								["r_dmg"] = 0,
-								["c_min"] = 0,
+								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["r_amt"] = 0,
-								["m_amt"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 22,
-								["a_amt"] = 0,
-								["a_dmg"] = 0,
-							},
-							[29722] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 1,
-								["targets"] = {
-									["玛里苟斯"] = 1,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 1,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 1,
-								["total"] = 1,
-								["c_max"] = 0,
-								["id"] = 29722,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 1,
-								["m_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[348] = {
-								["c_amt"] = 3,
-								["b_amt"] = 0,
-								["c_dmg"] = 190702,
-								["g_amt"] = 0,
-								["n_max"] = 414275,
-								["targets"] = {
-									["玛里苟斯"] = 414275,
-									["魔枢领主"] = 237780,
-									["团队副本训练假人"] = 20713,
-									["永恒子嗣"] = 190200,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 672266,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 10,
-								["total"] = 862968,
-								["c_max"] = 118890,
-								["id"] = 348,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 7,
-								["m_amt"] = 0,
-								["r_amt"] = 0,
-							},
-							[271686] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["团队副本训练假人"] = 0,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 1,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 271686,
-								["r_dmg"] = 0,
-								["c_min"] = 0,
-								["r_amt"] = 0,
-								["m_crit"] = 0,
-								["PARRY"] = 1,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["a_dmg"] = 0,
-								["a_amt"] = 0,
-							},
-							[17962] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 1170080,
-								["targets"] = {
-									["玛里苟斯"] = 1170080,
-									["永恒子嗣"] = 63400,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 1233480,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 2,
-								["total"] = 1233480,
-								["c_max"] = 0,
-								["id"] = 17962,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 2,
 								["m_amt"] = 0,
 								["r_amt"] = 0,
 							},
@@ -6634,11 +6807,11 @@ _detalhes_database = {
 					},
 					["damage_taken"] = 162.089713,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1550643806,
-					["delay"] = 0,
-					["classe"] = "WARLOCK",
+					["serial"] = "Player-1944-06624493",
+					["end_time"] = 1550643901,
 				}, -- [1]
 				{
 					["flag_original"] = 4369,
@@ -6650,15 +6823,15 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 1.013505,
-					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.013505,
 					["dps_started"] = false,
 					["total"] = 1.013505,
-					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+					["delay"] = 0,
 					["ownerName"] = "丿指尖丶旋律",
 					["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 					["spells"] = {
@@ -6681,29 +6854,29 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 56091,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["r_amt"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
-								["m_amt"] = 0,
-								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							},
 						},
 						["tipo"] = 2,
 					},
 					["friendlyfire"] = {
 					},
-					["last_event"] = 0,
+					["tipo"] = 1,
 					["end_time"] = 1550643901,
 					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1550643898,
-					["delay"] = 0,
-					["damage_taken"] = 0.013505,
+					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+					["friendlyfire_total"] = 0,
 				}, -- [2]
 				{
 					["flag_original"] = 2632,
@@ -6714,33 +6887,33 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["total"] = 0.008412,
+					["boss_fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.008412,
-					["delay"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3927-616-10661-30249-0001ECF28B",
+					["monster"] = true,
 					["end_time"] = 1550646899,
-					["nome"] = "永恒子嗣",
 					["damage_taken"] = 0.008412,
-					["boss_fight_component"] = true,
+					["friendlyfire"] = {
+					},
+					["nome"] = "永恒子嗣",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["tipo"] = 1,
-					["friendlyfire_total"] = 0,
-					["on_hold"] = false,
-					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
 					["start_time"] = 1550646896,
-					["serial"] = "Creature-0-3927-616-10661-30249-0001ECF28B",
-					["total"] = 0.008412,
+					["delay"] = 0,
+					["dps_started"] = false,
 				}, -- [3]
 				{
 					["flag_original"] = 2632,
@@ -6751,33 +6924,33 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["last_dps"] = 0,
-					["monster"] = true,
+					["total"] = 0.001776,
+					["boss_fight_component"] = true,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.001776,
-					["delay"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3927-616-10661-30245-0000ECF28B",
+					["monster"] = true,
 					["end_time"] = 1550646899,
-					["nome"] = "魔枢领主",
 					["damage_taken"] = 0.001776,
-					["boss_fight_component"] = true,
+					["friendlyfire"] = {
+					},
+					["nome"] = "魔枢领主",
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 2,
 					},
-					["tipo"] = 1,
-					["friendlyfire_total"] = 0,
-					["on_hold"] = false,
-					["custom"] = 0,
 					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
 					["start_time"] = 1550646896,
-					["serial"] = "Creature-0-3927-616-10661-30245-0000ECF28B",
-					["total"] = 0.001776,
+					["delay"] = 0,
+					["dps_started"] = false,
 				}, -- [4]
 				{
 					["flag_original"] = 68168,
@@ -6788,23 +6961,22 @@ _detalhes_database = {
 						["鲁尔祖布 <丿指尖丶旋律>"] = 0,
 						["丿指尖丶旋律"] = 0,
 					},
+					["damage_taken"] = 0.005904,
 					["pets"] = {
 					},
 					["boss"] = true,
+					["dps_started"] = false,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.005904,
-					["boss_fight_component"] = true,
-					["end_time"] = 1550650564,
+					["delay"] = 0,
 					["monster"] = true,
-					["total"] = 0.005904,
-					["classe"] = "UNKNOW",
-					["friendlyfire"] = {
-					},
+					["end_time"] = 1550650564,
 					["nome"] = "玛里苟斯",
+					["last_dps"] = 0,
+					["boss_fight_component"] = true,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -6824,15 +6996,15 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["c_min"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["r_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							}, -- [1]
 							[61693] = {
 								["c_amt"] = 0,
@@ -6853,28 +7025,29 @@ _detalhes_database = {
 								["c_max"] = 0,
 								["id"] = 61693,
 								["r_dmg"] = 0,
-								["a_dmg"] = 0,
+								["c_min"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
+								["r_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["dps_started"] = false,
-					["last_event"] = 0,
-					["on_hold"] = false,
-					["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
-					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["classe"] = "UNKNOW",
+					["on_hold"] = false,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1550650561,
-					["delay"] = 0,
-					["damage_taken"] = 0.005904,
+					["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
+					["total"] = 0.005904,
 				}, -- [5]
 			},
 		}, -- [1]
@@ -6883,9 +7056,8 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["targets_overheal"] = {
-						["鲁尔祖布 <丿指尖丶旋律>"] = 0,
-						["丿指尖丶旋律"] = 0,
+					["healing_from"] = {
+						["丿指尖丶旋律"] = true,
 					},
 					["pets"] = {
 						"鲁尔祖布 <丿指尖丶旋律>", -- [1]
@@ -6912,9 +7084,7 @@ _detalhes_database = {
 					["healing_taken"] = 1558.015299,
 					["fight_component"] = true,
 					["end_time"] = 1550643901,
-					["healing_from"] = {
-						["丿指尖丶旋律"] = true,
-					},
+					["classe"] = "WARLOCK",
 					["nome"] = "丿指尖丶旋律",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -6942,40 +7112,12 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
+								["totaldenied"] = 0,
 								["m_amt"] = 0,
-								["c_min"] = 0,
-								["n_curado"] = 30,
+								["m_healed"] = 0,
 								["n_amt"] = 3,
-								["m_healed"] = 0,
-								["totaldenied"] = 0,
-								["absorbed"] = 0,
-							},
-							[77220] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 7,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 2,
-								["targets"] = {
-									["丿指尖丶旋律"] = 7,
-								},
-								["n_min"] = 0,
-								["counter"] = 5,
-								["overheal"] = 0,
-								["total"] = 7,
-								["c_max"] = 0,
-								["id"] = 77220,
-								["targets_absorbs"] = {
-									["丿指尖丶旋律"] = 7,
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["m_amt"] = 0,
+								["n_curado"] = 30,
 								["c_min"] = 0,
-								["n_curado"] = 7,
-								["n_amt"] = 5,
-								["m_healed"] = 0,
-								["totaldenied"] = 0,
 								["absorbed"] = 0,
 							},
 							[270661] = {
@@ -6998,55 +7140,86 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["n_curado"] = 1521,
-								["n_amt"] = 3,
-								["m_healed"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 3,
+								["n_curado"] = 1521,
+								["c_min"] = 0,
+								["absorbed"] = 0,
+							},
+							[77220] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 7,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 2,
+								["targets"] = {
+									["丿指尖丶旋律"] = 7,
+								},
+								["n_min"] = 0,
+								["counter"] = 5,
+								["overheal"] = 0,
+								["total"] = 7,
+								["c_max"] = 0,
+								["id"] = 77220,
+								["targets_absorbs"] = {
+									["丿指尖丶旋律"] = 7,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 5,
+								["n_curado"] = 7,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["classe"] = "WARLOCK",
-					["tipo"] = 2,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["start_time"] = 1550643888,
-					["totaldenied"] = 0.015299,
-					["delay"] = 0,
+					["targets_overheal"] = {
+						["鲁尔祖布 <丿指尖丶旋律>"] = 0,
+						["丿指尖丶旋律"] = 0,
+					},
 					["spec"] = 267,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["totaldenied"] = 0.015299,
+					["start_time"] = 1550643888,
+					["delay"] = 0,
+					["last_event"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 4369,
 					["totalabsorb"] = 0.00951,
 					["last_hps"] = 0,
-					["targets_overheal"] = {
-						["龙眠联军天爪龙 <丿指尖丶旋律>"] = 0,
+					["healing_from"] = {
 					},
 					["targets"] = {
 					},
-					["tipo"] = 2,
+					["totaldenied"] = 0.00951,
 					["pets"] = {
 					},
-					["totalover_without_pet"] = 0.00951,
-					["healing_from"] = {
+					["iniciar_hps"] = false,
+					["targets_overheal"] = {
+						["龙眠联军天爪龙 <丿指尖丶旋律>"] = 0,
 					},
 					["healing_taken"] = 0.00951,
 					["totalover"] = 58116.00951,
 					["total_without_pet"] = 0.00951,
-					["iniciar_hps"] = false,
+					["totalover_without_pet"] = 0.00951,
 					["classe"] = "PET",
-					["end_time"] = 1550643901,
-					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+					["total"] = 0.00951,
+					["delay"] = 0,
 					["ownerName"] = "丿指尖丶旋律",
 					["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 					["targets_absorbs"] = {
 					},
 					["heal_enemy_amt"] = 0,
-					["total"] = 0.00951,
+					["end_time"] = 1550643901,
 					["heal_enemy"] = {
 					},
 					["spells"] = {
@@ -7071,23 +7244,23 @@ _detalhes_database = {
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
-								["m_amt"] = 0,
-								["c_min"] = 0,
-								["n_curado"] = 0,
-								["n_amt"] = 3,
-								["m_healed"] = 0,
 								["totaldenied"] = 0,
+								["m_amt"] = 0,
+								["m_healed"] = 0,
+								["n_amt"] = 3,
+								["n_curado"] = 0,
+								["c_min"] = 0,
 								["absorbed"] = 0,
 							},
 						},
 						["tipo"] = 3,
 					},
 					["custom"] = 0,
-					["last_event"] = 0,
+					["tipo"] = 2,
 					["on_hold"] = false,
 					["start_time"] = 1550643895,
-					["delay"] = 0,
-					["totaldenied"] = 0.00951,
+					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+					["last_event"] = 0,
 				}, -- [2]
 				{
 					["flag_original"] = 4369,
@@ -7105,13 +7278,12 @@ _detalhes_database = {
 					["classe"] = "PET",
 					["totalover"] = 0.004875,
 					["total_without_pet"] = 0.004875,
-					["healing_taken"] = 0.004875,
+					["tipo"] = 2,
 					["iniciar_hps"] = false,
 					["heal_enemy_amt"] = 0,
 					["end_time"] = 1550646899,
-					["delay"] = 0,
-					["targets_absorbs"] = {
-					},
+					["serial"] = "Pet-0-3927-616-10661-416-010271F087",
+					["healing_taken"] = 0.004875,
 					["boss_fight_component"] = true,
 					["spells"] = {
 						["_ActorTable"] = {
@@ -7119,16 +7291,17 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["total"] = 0.004875,
-					["last_event"] = 0,
+					["totaldenied"] = 0.004875,
 					["heal_enemy"] = {
 					},
 					["nome"] = "鲁尔祖布 <丿指尖丶旋律>",
 					["custom"] = 0,
-					["tipo"] = 2,
+					["last_event"] = 0,
 					["on_hold"] = false,
 					["start_time"] = 1550646896,
-					["serial"] = "Pet-0-3927-616-10661-416-010271F087",
-					["totaldenied"] = 0.004875,
+					["delay"] = 0,
+					["targets_absorbs"] = {
+					},
 				}, -- [3]
 			},
 		}, -- [2]
@@ -7136,8 +7309,8 @@ _detalhes_database = {
 			["tipo"] = 7,
 			["_ActorTable"] = {
 				{
-					["received"] = 0.009769,
-					["resource"] = 0.033196,
+					["flag_original"] = 1300,
+					["resource"] = 0.053346,
 					["targets"] = {
 						["丿指尖丶旋律"] = 0,
 					},
@@ -7146,7 +7319,7 @@ _detalhes_database = {
 					},
 					["powertype"] = 0,
 					["classe"] = "WARLOCK",
-					["total"] = 4.009769,
+					["alternatepower"] = 0.009769,
 					["nome"] = "丿指尖丶旋律",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -7162,16 +7335,16 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["flag_original"] = 1300,
+					["received"] = 0.009769,
 					["tipo"] = 3,
-					["alternatepower"] = 0.009769,
-					["last_event"] = 0,
-					["serial"] = "Player-1944-06624493",
+					["total"] = 4.009769,
 					["spec"] = 267,
+					["serial"] = "Player-1944-06624493",
+					["last_event"] = 0,
 				}, -- [1]
 				{
-					["received"] = 4.007743,
-					["resource"] = 0.013835,
+					["flag_original"] = 4369,
+					["resource"] = 0.016881,
 					["targets"] = {
 						["龙眠联军天爪龙 <丿指尖丶旋律>"] = 0,
 					},
@@ -7179,7 +7352,7 @@ _detalhes_database = {
 					},
 					["powertype"] = 0,
 					["classe"] = "PET",
-					["total"] = 4.007743,
+					["alternatepower"] = 0.007743,
 					["ownerName"] = "丿指尖丶旋律",
 					["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 					["spells"] = {
@@ -7204,8 +7377,8 @@ _detalhes_database = {
 						["tipo"] = 7,
 					},
 					["tipo"] = 3,
-					["flag_original"] = 4369,
-					["alternatepower"] = 0.007743,
+					["received"] = 4.007743,
+					["total"] = 4.007743,
 					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
 					["last_event"] = 0,
 				}, -- [2]
@@ -7219,56 +7392,56 @@ _detalhes_database = {
 					["debuff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[233496] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 1,
 								["id"] = 233496,
 								["uptime"] = 7,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 							[157736] = {
-								["refreshamt"] = 0,
+								["actived_at"] = 3101297724,
 								["counter"] = 0,
 								["activedamt"] = -2,
-								["uptime"] = 18,
-								["id"] = 157736,
 								["appliedamt"] = 6,
-								["targets"] = {
-								},
-								["actived_at"] = 3101297724,
-							},
-							[233497] = {
-								["counter"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 233497,
-								["uptime"] = 7,
+								["id"] = 157736,
+								["uptime"] = 18,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
+							},
+							[233490] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 0,
+								["activedamt"] = -2,
+								["uptime"] = 0,
+								["id"] = 233490,
+								["actived_at"] = 3101297201,
+								["targets"] = {
+								},
+								["counter"] = 0,
 							},
 							[265931] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 0,
 								["appliedamt"] = 2,
 								["id"] = 265931,
 								["uptime"] = 6,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
-							[233490] = {
-								["counter"] = 0,
-								["appliedamt"] = 0,
-								["activedamt"] = -2,
-								["actived_at"] = 3101297201,
-								["id"] = 233490,
-								["uptime"] = 0,
+							[233497] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 233497,
+								["uptime"] = 7,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 						},
 						["tipo"] = 9,
@@ -7281,111 +7454,111 @@ _detalhes_database = {
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
 							[275429] = {
-								["counter"] = 0,
+								["refreshamt"] = 6,
 								["activedamt"] = 9,
 								["appliedamt"] = 9,
 								["id"] = 275429,
 								["uptime"] = 21,
 								["targets"] = {
 								},
-								["refreshamt"] = 6,
+								["counter"] = 0,
 							},
 							[60234] = {
-								["counter"] = 0,
+								["refreshamt"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 60234,
 								["uptime"] = 3,
 								["targets"] = {
 								},
-								["refreshamt"] = 0,
+								["counter"] = 0,
 							},
 							[117828] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 2,
 								["appliedamt"] = 2,
 								["id"] = 117828,
 								["uptime"] = 20,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[17619] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 16,
 								["appliedamt"] = 16,
 								["id"] = 17619,
 								["uptime"] = 133,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[268887] = {
-								["refreshamt"] = 4,
+								["counter"] = 0,
 								["activedamt"] = 12,
 								["appliedamt"] = 12,
 								["id"] = 268887,
 								["uptime"] = 82,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 4,
 							},
 							[108366] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 16,
 								["appliedamt"] = 16,
 								["id"] = 108366,
 								["uptime"] = 106,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[266030] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 266030,
 								["uptime"] = 8,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
 							[186406] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 16,
 								["appliedamt"] = 16,
 								["id"] = 186406,
 								["uptime"] = 133,
 								["targets"] = {
 								},
-								["counter"] = 0,
-							},
-							[270661] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 270661,
-								["uptime"] = 96,
+							},
+							[271711] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 5,
+								["appliedamt"] = 5,
+								["id"] = 271711,
+								["uptime"] = 10,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 							[288981] = {
-								["refreshamt"] = 0,
+								["counter"] = 0,
 								["activedamt"] = 16,
 								["appliedamt"] = 16,
 								["id"] = 288981,
 								["uptime"] = 133,
 								["targets"] = {
 								},
-								["counter"] = 0,
+								["refreshamt"] = 0,
 							},
-							[271711] = {
+							[270661] = {
 								["counter"] = 0,
-								["activedamt"] = 5,
-								["appliedamt"] = 5,
-								["id"] = 271711,
-								["uptime"] = 10,
+								["activedamt"] = 8,
+								["appliedamt"] = 8,
+								["id"] = 270661,
+								["uptime"] = 96,
 								["targets"] = {
 								},
 								["refreshamt"] = 0,
@@ -7394,23 +7567,23 @@ _detalhes_database = {
 						["tipo"] = 9,
 					},
 					["debuff_uptime"] = 38,
-					["buff_uptime_targets"] = {
-					},
+					["nome"] = "丿指尖丶旋律",
 					["spec"] = 267,
 					["grupo"] = true,
 					["spell_cast"] = {
-						[29722] = 1,
-						[30108] = 2,
-						[17962] = 2,
 						[348] = 6,
+						[30108] = 2,
+						[29722] = 1,
+						[17962] = 2,
 					},
-					["buff_uptime"] = 745,
-					["tipo"] = 4,
-					["nome"] = "丿指尖丶旋律",
-					["last_event"] = 0,
-					["serial"] = "Player-1944-06624493",
 					["debuff_uptime_targets"] = {
 					},
+					["tipo"] = 4,
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 745,
+					["serial"] = "Player-1944-06624493",
+					["last_event"] = 0,
 				}, -- [1]
 				{
 					["flag_original"] = 4369,
@@ -7418,29 +7591,29 @@ _detalhes_database = {
 					["nome"] = "龙眠联军天爪龙 <丿指尖丶旋律>",
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[57090] = 3,
 						[56091] = 1,
 					},
-					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+					["last_event"] = 0,
 					["classe"] = "PET",
+					["serial"] = "Vehicle-0-3927-616-10661-30161-00006CF2A9",
+					["tipo"] = 4,
 				}, -- [2]
 				{
 					["monster"] = true,
-					["last_event"] = 0,
+					["tipo"] = 4,
 					["nome"] = "玛里苟斯",
 					["pets"] = {
 					},
-					["classe"] = "UNKNOW",
-					["flag_original"] = 68168,
-					["tipo"] = 4,
-					["boss_fight_component"] = true,
-					["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
 					["spell_cast"] = {
 						[61693] = 0,
 					},
+					["flag_original"] = 68168,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["serial"] = "Creature-0-3927-616-10661-28859-00006CF261",
+					["classe"] = "UNKNOW",
 				}, -- [3]
 				{
 					["flag_original"] = 2632,
@@ -7456,15 +7629,15 @@ _detalhes_database = {
 					["monster"] = true,
 					["debuff_uptime"] = 0,
 					["spellschool"] = 1,
-					["nome"] = "奥术过载",
 					["debuff_uptime_targets"] = {
 					},
-					["last_event"] = 0,
+					["nome"] = "奥术过载",
+					["boss_fight_component"] = true,
 					["tipo"] = 4,
 					["damage_twin"] = "[*] 奥术过载",
-					["serial"] = "",
 					["damage_spellid"] = 56438,
-					["boss_fight_component"] = true,
+					["serial"] = "",
+					["last_event"] = 0,
 				}, -- [4]
 			},
 		}, -- [4]
@@ -7487,21 +7660,21 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 8.006323,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
 				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -7513,18 +7686,38 @@ _detalhes_database = {
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage_section"] = {
+			["damage"] = {
 			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage"] = {
+			["damage_section"] = {
 			},
 		},
 		["end_time"] = 542835.642,
-		["overall_refreshed"] = true,
 		["data_inicio"] = "14:23:43",
+		["totals_grupo"] = {
+			2852933.081638, -- [1]
+			1558.010577, -- [2]
+			{
+				0, -- [1]
+				[0] = 4.003277,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
 		["hasSaved"] = true,
 		["frags"] = {
 		},
@@ -7635,106 +7828,21 @@ _detalhes_database = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["totals_grupo"] = {
-			2852933.081638, -- [1]
-			1558.010577, -- [2]
-			{
-				0, -- [1]
-				[0] = 4.003277,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
+		["overall_refreshed"] = true,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 135,
+	["benchmark_db"] = {
+		["frame"] = {
 		},
-	},
-	["force_font_outline"] = "",
-	["local_instances_config"] = {
-		{
-			["segment"] = 0,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = true,
-			["is_open"] = true,
-			["isLocked"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["snap"] = {
-				[4] = 2,
-			},
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -372.524124145508,
-					["x"] = 682.541015625,
-					["w"] = 409.007934570313,
-					["h"] = 158.998077392578,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [1]
-		{
-			["segment"] = 0,
-			["sub_attribute"] = 1,
-			["horizontalSnap"] = false,
-			["verticalSnap"] = true,
-			["is_open"] = true,
-			["isLocked"] = true,
-			["sub_atributo_last"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-				1, -- [5]
-			},
-			["snap"] = {
-				[2] = 1,
-			},
-			["mode"] = 2,
-			["attribute"] = 1,
-			["pos"] = {
-				["normal"] = {
-					["y"] = -213.524291992188,
-					["x"] = 682.541015625,
-					["w"] = 409.007934570313,
-					["h"] = 119.001586914063,
-				},
-				["solo"] = {
-					["y"] = 2,
-					["x"] = 1,
-					["w"] = 300,
-					["h"] = 200,
-				},
-			},
-		}, -- [2]
-	},
-	["character_data"] = {
-		["logons"] = 13,
 	},
 	["announce_cooldowns"] = {
-		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -7747,8 +7855,7 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1944-065B1A27"] = 260,
 		["Player-1944-06624493"] = 267,
-		["Player-1944-065CF57E"] = 72,
+		["Player-1514-036CBD64"] = 73,
 	},
 }

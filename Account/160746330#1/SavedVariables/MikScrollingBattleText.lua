@@ -355,7 +355,7 @@ MSBTProfiles_SavedVars = {
 				["OUTGOING_SPELL_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
-				["PET_OUTGOING_SPELL_DAMAGE_CRIT"] = {
+				["OUTGOING_DAMAGE"] = {
 					["disabled"] = true,
 				},
 				["PET_INCOMING_MISS"] = {
@@ -421,7 +421,7 @@ MSBTProfiles_SavedVars = {
 				["PET_OUTGOING_SPELL_BLOCK"] = {
 					["disabled"] = true,
 				},
-				["OUTGOING_DAMAGE"] = {
+				["PET_OUTGOING_SPELL_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
 				["PET_OUTGOING_SPELL_DODGE"] = {
@@ -511,9 +511,6 @@ MSBTProfiles_SavedVars = {
 				["MSBT_TRIGGER_EXECUTE"] = false,
 			},
 			["scrollAreas"] = {
-				["Notification"] = {
-					["disabled"] = true,
-				},
 				["Incoming"] = {
 					["scrollHeight"] = 180,
 					["offsetX"] = 181,
@@ -521,12 +518,15 @@ MSBTProfiles_SavedVars = {
 					["offsetY"] = -76,
 					["animationStyle"] = "Straight",
 				},
+				["Static"] = {
+					["disabled"] = true,
+				},
 				["Outgoing"] = {
 					["offsetY"] = -83,
 					["disabled"] = true,
 					["offsetX"] = 181,
 				},
-				["Static"] = {
+				["Notification"] = {
 					["disabled"] = true,
 				},
 			},
