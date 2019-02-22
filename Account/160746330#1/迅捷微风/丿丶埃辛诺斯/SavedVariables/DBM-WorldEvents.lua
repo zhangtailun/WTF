@@ -1,7 +1,7 @@
 
 DBMWorldEvents_SavedStats = {
 	["d288"] = {
-		["normalPulls"] = 4,
+		["normalPulls"] = 6,
 		["challengeKills"] = 0,
 		["challengeBestRank"] = 0,
 		["mythicKills"] = 0,
@@ -9,16 +9,16 @@ DBMWorldEvents_SavedStats = {
 		["heroic25Pulls"] = 0,
 		["lfr25Pulls"] = 0,
 		["normal25Pulls"] = 0,
-		["normalLastTime"] = 74.1359999999986,
-		["normalKills"] = 4,
+		["normalLastTime"] = 25.3239999999059,
+		["normalKills"] = 6,
 		["mythicPulls"] = 0,
-		["heroic25Kills"] = 0,
+		["normalBestTime"] = 25.3239999999059,
 		["heroicKills"] = 0,
 		["timewalkerPulls"] = 0,
 		["normal25Kills"] = 0,
 		["heroicPulls"] = 0,
 		["timewalkerKills"] = 0,
-		["normalBestTime"] = 29.5990000000456,
+		["heroic25Kills"] = 0,
 		["challengePulls"] = 0,
 	},
 	["PlantsVsZombies"] = {
