@@ -42,6 +42,7 @@ DBM_AllSavedOptions = {
 			1, -- [2]
 			0, -- [3]
 		},
+		["ShowPizzaMessage"] = true,
 		["DontShowReminders"] = false,
 		["WorldBossAlert"] = false,
 		["HUDSize3"] = 5,
@@ -54,7 +55,7 @@ DBM_AllSavedOptions = {
 		["EnableModels"] = true,
 		["SpamBlockBossWhispers"] = true,
 		["DontShowSpecialWarnings"] = false,
-		["FilterTrashWarnings2"] = true,
+		["FilterSayAndYell"] = false,
 		["EventSoundMusic"] = "None",
 		["ShowMinimapButton"] = false,
 		["EventSoundTurle"] = "None",
@@ -64,7 +65,7 @@ DBM_AllSavedOptions = {
 		["ForumsMessageShown"] = 16096,
 		["DontShowTargetAnnouncements"] = true,
 		["HUDTexture3"] = "highlight",
-		["FilterSayAndYell"] = false,
+		["FilterTrashWarnings2"] = true,
 		["SpecialWarningSound2"] = "Sound\\Creature\\AlgalonTheObserver\\UR_Algalon_BHole01.ogg",
 		["SpecialWarningFontCol"] = {
 			1, -- [1]
@@ -88,13 +89,12 @@ DBM_AllSavedOptions = {
 		["ShowCountdownText"] = false,
 		["SpecialWarningDuration"] = 4,
 		["EventEngageMusic"] = "None",
-		["PTCountThreshold"] = 5,
-		["HideQuestTooltips"] = true,
 		["ShowRespawn"] = true,
+		["HideQuestTooltips"] = true,
+		["PTCountThreshold"] = 5,
 		["HideTooltips"] = false,
 		["EventEngageSound"] = "",
 		["RangeFrameSound2"] = "none",
-		["ShowPizzaMessage"] = true,
 		["WarningFont"] = "Fonts\\ARKai_T.ttf",
 		["SpecialWarningSound5"] = "Sound\\Creature\\Loathstare\\Loa_Naxx_Aggro02.ogg",
 		["SpecialWarningSound3"] = "Interface\\AddOns\\DBM-Core\\sounds\\AirHorn.ogg",

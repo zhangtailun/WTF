@@ -2,10 +2,10 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["丿指尖丶旋律 - 加尔"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["術士一号 - 夏维安"] = {
 			["spec"] = {
@@ -47,10 +47,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {
@@ -501,6 +501,9 @@ ThreatPlatesDB = {
 				["art"] = {
 					["ON"] = false,
 				},
+			},
+			["CVarsBackup"] = {
+				["showQuestTrackingTooltips"] = "0",
 			},
 			["text"] = {
 				["full"] = true,

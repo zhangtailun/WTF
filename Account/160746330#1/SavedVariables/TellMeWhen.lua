@@ -107,559 +107,6 @@ TellMeWhenDB = {
 			},
 		},
 		["NumGroups"] = 1,
-		["AuraCache"] = {
-			[167898] = 2,
-			[1022] = 2,
-			[228128] = 2,
-			[270070] = 2,
-			[60229] = 2,
-			[255366] = 1,
-			[264957] = 1,
-			[70779] = 2,
-			[257413] = 2,
-			[223143] = 2,
-			[272121] = 2,
-			[45524] = 2,
-			[113746] = 2,
-			[279028] = 2,
-			[257415] = 2,
-			[66] = 2,
-			[255625] = 1,
-			[281843] = 2,
-			[48018] = 2,
-			[276217] = 1,
-			[261764] = 2,
-			[68607] = 1,
-			[271103] = 2,
-			[156779] = 2,
-			[279033] = 2,
-			[272128] = 2,
-			[269571] = 2,
-			[231843] = 2,
-			[161640] = 1,
-			[271107] = 2,
-			[17] = 2,
-			[194249] = 2,
-			[289523] = 2,
-			[288756] = 2,
-			[270598] = 1,
-			[289524] = 2,
-			[246807] = 2,
-			[81141] = 2,
-			[289526] = 2,
-			[261769] = 2,
-			[272903] = 2,
-			[262929] = 1,
-			[273415] = 2,
-			[257422] = 2,
-			[193357] = 2,
-			[5487] = 2,
-			[8936] = 2,
-			[267537] = 2,
-			[268816] = 2,
-			[257424] = 2,
-			[248473] = 2,
-			[289277] = 2,
-			[123981] = 2,
-			[289534] = 2,
-			[280583] = 2,
-			[188501] = 2,
-			[267797] = 2,
-			[194384] = 2,
-			[256148] = 2,
-			[256404] = 1,
-			[212799] = 2,
-			[205766] = 2,
-			[60233] = 2,
-			[262942] = 2,
-			[278543] = 2,
-			[108446] = 2,
-			[260881] = 2,
-			[55342] = 2,
-			[34914] = 2,
-			[260242] = 2,
-			[3355] = 2,
-			[202188] = 2,
-			[288777] = 2,
-			[24858] = 2,
-			[268062] = 2,
-			[589] = 2,
-			[68934] = 1,
-			[279572] = 2,
-			[253595] = 2,
-			[6770] = 2,
-			[60234] = 2,
-			[273947] = 2,
-			[221883] = 2,
-			[185311] = 2,
-			[3409] = 2,
-			[287504] = 2,
-			[26297] = 2,
-			[143625] = 2,
-			[268836] = 2,
-			[56814] = 2,
-			[267560] = 2,
-			[235313] = 2,
-			[121557] = 2,
-			[252321] = 2,
-			[285976] = 2,
-			[45242] = 2,
-			[279584] = 2,
-			[288024] = 2,
-			[266030] = 2,
-			[285979] = 2,
-			[137619] = 2,
-			[283167] = 2,
-			[115804] = 2,
-			[285981] = 2,
-			[210126] = 2,
-			[289308] = 2,
-			[285472] = 2,
-			[206930] = 2,
-			[263224] = 1,
-			[192225] = 2,
-			[285475] = 2,
-			[228287] = 2,
-			[191587] = 2,
-			[268854] = 2,
-			[278317] = 2,
-			[255909] = 2,
-			[214222] = 2,
-			[179057] = 2,
-			[11327] = 2,
-			[52437] = 2,
-			[248622] = 2,
-			[25771] = 2,
-			[267325] = 2,
-			[208086] = 2,
-			[267326] = 2,
-			[267327] = 2,
-			[273977] = 2,
-			[267329] = 2,
-			[287790] = 2,
-			[53365] = 2,
-			[287280] = 2,
-			[210391] = 2,
-			[23214] = 2,
-			[12654] = 2,
-			[1330] = 2,
-			[192106] = 2,
-			[43519] = 1,
-			[245686] = 2,
-			[193641] = 2,
-			[259241] = 1,
-			[259753] = 1,
-			[209754] = 2,
-			[268873] = 2,
-			[190446] = 2,
-			[45182] = 2,
-			[13877] = 2,
-			[190831] = 2,
-			[280385] = 2,
-			[206432] = 2,
-			[64044] = 2,
-			[68946] = 1,
-			[195181] = 2,
-			[281413] = 2,
-			[262232] = 2,
-			[68947] = 1,
-			[270674] = 2,
-			[252215] = 1,
-			[204262] = 2,
-			[44544] = 2,
-			[254901] = 1,
-			[188534] = 2,
-			[41635] = 2,
-			[214621] = 2,
-			[703] = 2,
-			[268887] = 2,
-			[273747] = 1,
-			[2818] = 2,
-			[280653] = 2,
-			[202602] = 2,
-			[280398] = 2,
-			[267611] = 2,
-			[288839] = 2,
-			[267612] = 2,
-			[288841] = 2,
-			[210660] = 2,
-			[288330] = 2,
-			[251836] = 2,
-			[288075] = 2,
-			[217694] = 2,
-			[213858] = 2,
-			[251837] = 2,
-			[114282] = 2,
-			[17877] = 2,
-			[288333] = 2,
-			[31224] = 2,
-			[34827] = 1,
-			[251838] = 2,
-			[246851] = 2,
-			[271711] = 2,
-			[268899] = 2,
-			[251839] = 2,
-			[194679] = 2,
-			[210152] = 2,
-			[1459] = 2,
-			[13750] = 2,
-			[36554] = 2,
-			[215652] = 2,
-			[278878] = 2,
-			[268904] = 2,
-			[279902] = 2,
-			[268905] = 2,
-			[288343] = 2,
-			[188033] = 2,
-			[108211] = 2,
-			[1490] = 2,
-			[188290] = 2,
-			[288091] = 2,
-			[188035] = 2,
-			[255937] = 2,
-			[32216] = 2,
-			[199545] = 2,
-			[178702] = 1,
-			[236502] = 2,
-			[185736] = 2,
-			[118699] = 2,
-			[278124] = 2,
-			[198013] = 2,
-			[193538] = 2,
-			[199804] = 2,
-			[256453] = 2,
-			[258883] = 2,
-			[231390] = 2,
-			[166302] = 1,
-			[774] = 2,
-			[61684] = 2,
-			[280177] = 2,
-			[280433] = 2,
-			[12472] = 2,
-			[119085] = 2,
-			[5225] = 2,
-			[176151] = 2,
-			[154796] = 2,
-			[34767] = 2,
-			[194310] = 2,
-			[186254] = 2,
-			[217200] = 2,
-			[5277] = 2,
-			[196741] = 2,
-			[284277] = 2,
-			[157228] = 2,
-			[68704] = 1,
-			[288882] = 2,
-			[101568] = 2,
-			[256460] = 2,
-			[273794] = 2,
-			[167971] = 1,
-			[1604] = 1,
-			[278911] = 2,
-			[68641] = 1,
-			[278145] = 2,
-			[19574] = 2,
-			[281216] = 2,
-			[286587] = 2,
-			[270987] = 1,
-			[197003] = 2,
-			[280709] = 2,
-			[236645] = 2,
-			[270992] = 1,
-			[70242] = 2,
-			[57723] = 2,
-			[278155] = 2,
-			[280713] = 2,
-			[113656] = 2,
-			[273298] = 2,
-			[268439] = 2,
-			[115191] = 2,
-			[70243] = 2,
-			[245855] = 2,
-			[275857] = 2,
-			[280205] = 2,
-			[255446] = 1,
-			[277904] = 2,
-			[268953] = 2,
-			[134477] = 2,
-			[268954] = 2,
-			[268955] = 2,
-			[70244] = 2,
-			[264352] = 2,
-			[57724] = 2,
-			[268956] = 2,
-			[281744] = 2,
-			[202636] = 2,
-			[11426] = 2,
-			[233582] = 2,
-			[279956] = 2,
-			[203277] = 2,
-			[102342] = 2,
-			[2383] = 2,
-			[853] = 2,
-			[289423] = 2,
-			[77535] = 2,
-			[281240] = 2,
-			[1715] = 2,
-			[203407] = 2,
-			[288146] = 2,
-			[1719] = 2,
-			[259161] = 2,
-			[268967] = 1,
-			[260057] = 1,
-			[268970] = 2,
-			[51460] = 2,
-			[43308] = 2,
-			[274598] = 2,
-			[203539] = 2,
-			[279715] = 2,
-			[194844] = 2,
-			[279204] = 2,
-			[288156] = 2,
-			[288158] = 2,
-			[260062] = 1,
-			[232698] = 2,
-			[210320] = 2,
-			[197277] = 2,
-			[256739] = 2,
-			[118779] = 2,
-			[184362] = 2,
-			[1784] = 2,
-			[269239] = 2,
-			[198813] = 2,
-			[290467] = 2,
-			[119611] = 2,
-			[68589] = 1,
-			[290468] = 2,
-			[271543] = 2,
-			[48265] = 2,
-			[271544] = 2,
-			[193316] = 2,
-			[228354] = 2,
-			[278962] = 2,
-			[164545] = 2,
-			[65081] = 2,
-			[275006] = 2,
-			[243955] = 2,
-			[287916] = 2,
-			[191212] = 2,
-			[206662] = 2,
-			[262115] = 2,
-			[198817] = 2,
-			[5246] = 2,
-			[272790] = 2,
-			[112042] = 2,
-			[164547] = 2,
-			[196608] = 2,
-			[242551] = 2,
-			[260070] = 1,
-			[257410] = 2,
-			[1833] = 2,
-			[290372] = 2,
-			[2645] = 2,
-			[275765] = 2,
-			[208772] = 2,
-			[183218] = 2,
-			[228358] = 2,
-			[201787] = 2,
-			[223499] = 2,
-			[203849] = 2,
-			[199203] = 2,
-			[212653] = 2,
-			[275540] = 2,
-			[277181] = 2,
-			[260072] = 1,
-			[7384] = 2,
-			[117952] = 2,
-			[1850] = 2,
-			[204213] = 2,
-			[3408] = 2,
-			[286342] = 2,
-			[34828] = 1,
-			[46924] = 2,
-			[199844] = 2,
-			[54149] = 2,
-			[3714] = 2,
-			[281178] = 2,
-			[48107] = 2,
-			[66906] = 2,
-			[267330] = 2,
-			[219788] = 2,
-			[259454] = 2,
-			[16870] = 2,
-			[286393] = 2,
-			[274373] = 2,
-			[71087] = 2,
-			[118038] = 2,
-			[259455] = 2,
-			[259519] = 1,
-			[12024] = 1,
-			[165961] = 2,
-			[227723] = 2,
-			[277179] = 2,
-			[205473] = 2,
-			[45181] = 2,
-			[258925] = 2,
-			[195627] = 2,
-			[268848] = 2,
-			[120360] = 2,
-			[768] = 2,
-			[256455] = 2,
-			[264689] = 2,
-			[126389] = 2,
-			[22812] = 2,
-			[73326] = 2,
-			[254474] = 2,
-			[277959] = 2,
-			[289362] = 2,
-			[280009] = 1,
-			[48108] = 2,
-			[84963] = 2,
-			[80354] = 2,
-			[199721] = 2,
-			[256456] = 2,
-			[5116] = 2,
-			[132951] = 2,
-			[261613] = 1,
-			[138927] = 2,
-			[270594] = 1,
-			[164812] = 2,
-			[203814] = 2,
-			[280776] = 2,
-			[273871] = 1,
-			[546] = 2,
-			[280409] = 2,
-			[33763] = 2,
-			[72968] = 2,
-			[256459] = 2,
-			[117828] = 2,
-			[196782] = 2,
-			[193356] = 2,
-			[223819] = 2,
-			[81256] = 2,
-			[270404] = 1,
-			[264667] = 2,
-			[247677] = 2,
-			[15407] = 2,
-			[90328] = 2,
-			[216411] = 2,
-			[48045] = 2,
-			[108366] = 2,
-			[2823] = 2,
-			[287825] = 2,
-			[164815] = 2,
-			[279503] = 2,
-			[278736] = 2,
-			[275936] = 2,
-			[256374] = 2,
-			[53563] = 2,
-			[264415] = 2,
-			[188499] = 2,
-			[198069] = 2,
-			[213602] = 2,
-			[199854] = 2,
-			[70233] = 2,
-			[279515] = 2,
-			[290512] = 2,
-			[51690] = 2,
-			[221886] = 2,
-			[24870] = 2,
-			[1943] = 2,
-			[267402] = 2,
-			[197937] = 2,
-			[55078] = 2,
-			[974] = 2,
-			[122] = 2,
-			[269279] = 2,
-			[199600] = 2,
-			[114250] = 2,
-			[264420] = 2,
-			[1953] = 2,
-			[70234] = 2,
-			[6789] = 2,
-			[210657] = 2,
-			[268769] = 2,
-			[271071] = 2,
-			[164273] = 2,
-			[198027] = 2,
-			[267558] = 2,
-			[127230] = 2,
-			[31884] = 2,
-			[70235] = 2,
-			[290264] = 2,
-			[1966] = 2,
-			[193359] = 2,
-			[227847] = 2,
-			[105771] = 2,
-			[259448] = 2,
-			[115080] = 2,
-			[277724] = 2,
-			[102359] = 2,
-			[199603] = 2,
-			[70774] = 2,
-			[36895] = 2,
-			[24450] = 2,
-			[162264] = 2,
-			[185763] = 2,
-			[267410] = 2,
-			[208683] = 2,
-			[288455] = 2,
-			[272126] = 2,
-			[6673] = 2,
-			[268776] = 1,
-			[191840] = 2,
-			[96312] = 2,
-			[288981] = 2,
-			[5320] = 1,
-			[280286] = 2,
-			[21562] = 2,
-			[111759] = 2,
-			[198097] = 2,
-			[246152] = 2,
-			[268756] = 2,
-			[289349] = 2,
-			[270661] = 2,
-			[270058] = 2,
-			[6788] = 2,
-			[77489] = 2,
-			[260069] = 1,
-			[259452] = 2,
-			[258920] = 2,
-			[2983] = 2,
-			[251652] = 2,
-			[20707] = 2,
-			[203538] = 2,
-			[257420] = 2,
-			[59638] = 2,
-			[269038] = 2,
-			[32612] = 2,
-			[205708] = 2,
-			[32645] = 2,
-			[109128] = 2,
-			[272940] = 2,
-			[288988] = 2,
-			[260708] = 2,
-			[257408] = 2,
-			[222256] = 2,
-			[288989] = 2,
-			[285978] = 2,
-			[278862] = 2,
-			[2580] = 2,
-			[270576] = 2,
-			[195901] = 2,
-			[278249] = 2,
-			[212800] = 2,
-			[245389] = 2,
-			[198121] = 2,
-			[200166] = 2,
-			[287062] = 2,
-			[273299] = 2,
-			[85739] = 2,
-			[259456] = 2,
-			[273232] = 2,
-			[288509] = 2,
-			[210053] = 2,
-		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
 			["SUG_FIRSTHELP"] = true,
@@ -2113,8 +1560,6 @@ TellMeWhenDB = {
 	},
 	["profiles"] = {
 		["丿指尖丶旋律 - 加尔"] = {
-			["Version"] = 85901,
-			["NumGroups"] = 15,
 			["Groups"] = {
 				{
 					["Scale"] = 2.34141087532043,
@@ -2911,12 +2356,6 @@ TellMeWhenDB = {
 				}, -- [1]
 				{
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = 59.6,
-						["x"] = -0.4,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
 					["Scale"] = 1.82330906391144,
 					["Rows"] = 3,
 					["Role"] = 1,
@@ -2988,8 +2427,8 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "980",
 							["ShowTimerText"] = true,
+							["Name"] = "980",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -3023,8 +2462,8 @@ TellMeWhenDB = {
 										{
 											["Type"] = "DEBUFFDUR",
 											["Checked"] = true,
-											["Unit"] = "target",
 											["Operator"] = "<=",
+											["Unit"] = "target",
 											["Name"] = "980",
 											["Level"] = 4,
 										}, -- [1]
@@ -3046,8 +2485,8 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["Type"] = "buff",
-							["Name"] = "146739",
 							["ShowTimerText"] = true,
+							["Name"] = "146739",
 							["OnlyMine"] = true,
 							["Enabled"] = true,
 							["States"] = {
@@ -3158,8 +2597,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "264106",
 							["ShowTimerText"] = true,
+							["Name"] = "264106",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -3821,15 +3260,15 @@ TellMeWhenDB = {
 					},
 					["Name"] = "痛苦DOT监测",
 					["GUID"] = "TMW:group:1LfFkVfWOGJq",
-				}, -- [2]
-				{
-					["Strata"] = "BACKGROUND",
 					["Point"] = {
 						["y"] = 59.6,
-						["x"] = -0.410350913163644,
+						["x"] = -0.4,
 						["point"] = "BOTTOM",
 						["relativePoint"] = "BOTTOM",
 					},
+				}, -- [2]
+				{
+					["Strata"] = "BACKGROUND",
 					["Scale"] = 1.82330906391144,
 					["Rows"] = 3,
 					["Role"] = 1,
@@ -4020,7 +3459,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "111898",
-							["GUID"] = "TMW:icon:1QjSqpPeICSa",
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -4034,7 +3473,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["RangeCheck"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1QjSqpPeICSa",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -4696,15 +4135,15 @@ TellMeWhenDB = {
 					},
 					["Name"] = "恶魔DOT监测",
 					["GUID"] = "TMW:group:1QVg6Fca=j6w",
-				}, -- [3]
-				{
-					["Strata"] = "BACKGROUND",
 					["Point"] = {
 						["y"] = 59.6,
 						["x"] = -0.410350913163644,
 						["point"] = "BOTTOM",
 						["relativePoint"] = "BOTTOM",
 					},
+				}, -- [3]
+				{
+					["Strata"] = "BACKGROUND",
 					["Scale"] = 1.82330906391144,
 					["Rows"] = 3,
 					["Role"] = 1,
@@ -4775,8 +4214,8 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["Type"] = "buff",
-							["Name"] = "157736",
 							["ShowTimerText"] = true,
+							["Name"] = "157736",
 							["OnlyMine"] = true,
 							["Enabled"] = true,
 							["States"] = {
@@ -4811,9 +4250,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "152108",
 							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1Osxjmkezcjl",
+							["Name"] = "152108",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -4833,7 +4272,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1Osxjmkezcjl",
 						}, -- [8]
 						{
 							["ShowTimer"] = true,
@@ -4892,7 +4331,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "196447",
-							["GUID"] = "TMW:icon:1OU7A_W2x0P_",
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -4906,7 +4345,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["RangeCheck"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1OU7A_W2x0P_",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -4918,8 +4357,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "6353",
 							["ShowTimerText"] = true,
+							["Name"] = "6353",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -5592,15 +5031,15 @@ TellMeWhenDB = {
 					},
 					["Name"] = "毁灭DOT监测",
 					["GUID"] = "TMW:group:1QVgBb6gh5AS",
+					["Point"] = {
+						["y"] = 59.6,
+						["x"] = -0.410350913163644,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
 				}, -- [4]
 				{
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = 21.5,
-						["x"] = 165,
-						["point"] = "LEFT",
-						["relativePoint"] = "LEFT",
-					},
 					["Scale"] = 1.6155,
 					["Rows"] = 4,
 					["Role"] = 1,
@@ -5714,8 +5153,8 @@ TellMeWhenDB = {
 							["OnlyMine"] = true,
 							["Type"] = "buff",
 							["ShowTTText"] = 1,
-							["Name"] = "108366",
 							["ShowTimerText"] = true,
+							["Name"] = "108366",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -5773,8 +5212,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "280709; 280204; 277706; 279913",
 							["ShowTimerText"] = true,
+							["Name"] = "280709; 280204; 277706; 279913",
 							["States"] = {
 								{
 								}, -- [1]
@@ -5863,8 +5302,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "2825; 80353; 90355; 178207; 230935; 160452; 264667",
 							["ShowTimerText"] = true,
+							["Name"] = "2825; 80353; 90355; 178207; 230935; 160452; 264667",
 							["GUID"] = "TMW:icon:1RbXpJJLb5nr",
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -5901,8 +5340,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "266091",
 							["ShowTimerText"] = true,
+							["Name"] = "266091",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
@@ -6017,8 +5456,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "113858",
 							["ShowTimerText"] = true,
+							["Name"] = "113858",
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -6034,8 +5473,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "icd",
-							["Name"] = "召唤地狱火:30",
 							["ShowTimerText"] = true,
+							["Name"] = "召唤地狱火:30",
 							["CustomTex"] = "1122",
 							["States"] = {
 								{
@@ -6146,6 +5585,7 @@ TellMeWhenDB = {
 							["Type"] = "item",
 							["ShowTimerText"] = true,
 							["Name"] = "159630; 159615; 165576",
+							["OnlyInBags"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -6157,14 +5597,13 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["OnlyInBags"] = true,
 							["Enabled"] = true,
 						}, -- [36]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "113858",
 							["ShowTimerText"] = true,
+							["Name"] = "113858",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -6188,8 +5627,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "1122",
 							["ShowTimerText"] = true,
+							["Name"] = "1122",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6223,8 +5662,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
-							["Name"] = "142117",
 							["ShowTimerText"] = true,
+							["Name"] = "142117",
 							["States"] = {
 								{
 								}, -- [1]
@@ -6571,14 +6010,14 @@ TellMeWhenDB = {
 					},
 					["Name"] = "毁灭技能",
 					["GUID"] = "TMW:group:1QjSmbYK0Ja4",
+					["Point"] = {
+						["y"] = 21.5,
+						["x"] = 165,
+						["point"] = "LEFT",
+						["relativePoint"] = "LEFT",
+					},
 				}, -- [5]
 				{
-					["Point"] = {
-						["y"] = 118.835273742676,
-						["x"] = -0.4,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
 					["Scale"] = 1.82330906391144,
 					["Role"] = 1,
 					["Level"] = 5,
@@ -6591,8 +6030,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "264571",
 							["ShowTimerText"] = true,
+							["Name"] = "264571",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7394,13 +6833,15 @@ TellMeWhenDB = {
 					},
 					["Name"] = "痛苦技能2",
 					["GUID"] = "TMW:group:1RKgauU0izvz",
+					["Point"] = {
+						["y"] = 118.835273742676,
+						["x"] = -0.4,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
 				}, -- [6]
 				{
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = -36.7577494069142,
-						["x"] = -73.8691557982271,
-					},
 					["Scale"] = 2.93690919876099,
 					["Role"] = 1,
 					["Level"] = 5,
@@ -7413,8 +6854,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "266030",
 							["ShowTimerText"] = true,
+							["Name"] = "266030",
 							["States"] = {
 								{
 								}, -- [1]
@@ -7814,14 +7255,12 @@ TellMeWhenDB = {
 					},
 					["Name"] = "毁灭熵能反转",
 					["GUID"] = "TMW:group:1RK=39QI5TAR",
+					["Point"] = {
+						["y"] = -36.7577494069142,
+						["x"] = -73.8691557982271,
+					},
 				}, -- [7]
 				{
-					["Point"] = {
-						["y"] = 118.8,
-						["x"] = -0.400151727487111,
-						["point"] = "BOTTOM",
-						["relativePoint"] = "BOTTOM",
-					},
 					["Scale"] = 1.82330906391144,
 					["Role"] = 1,
 					["Level"] = 5,
@@ -7853,8 +7292,8 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["Type"] = "buff",
-							["Name"] = "17877",
 							["ShowTimerText"] = true,
+							["Name"] = "17877",
 							["OnlyMine"] = true,
 							["Enabled"] = true,
 							["States"] = {
@@ -7872,8 +7311,8 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["Type"] = "buff",
-							["Name"] = "196414",
 							["ShowTimerText"] = true,
+							["Name"] = "196414",
 							["OnlyMine"] = true,
 							["Enabled"] = true,
 							["SettingsPerView"] = {
@@ -8662,14 +8101,14 @@ TellMeWhenDB = {
 					},
 					["Name"] = "毁灭技能2",
 					["GUID"] = "TMW:group:1RK=8mMqjpLn",
-				}, -- [8]
-				{
 					["Point"] = {
 						["y"] = 118.8,
-						["x"] = -0.4,
+						["x"] = -0.400151727487111,
 						["point"] = "BOTTOM",
 						["relativePoint"] = "BOTTOM",
 					},
+				}, -- [8]
+				{
 					["Scale"] = 1.82330906391144,
 					["Role"] = 1,
 					["Level"] = 5,
@@ -9505,13 +8944,15 @@ TellMeWhenDB = {
 					},
 					["Name"] = "恶魔技能2",
 					["GUID"] = "TMW:group:1RLKApV8uzu9",
+					["Point"] = {
+						["y"] = 118.8,
+						["x"] = -0.4,
+						["point"] = "BOTTOM",
+						["relativePoint"] = "BOTTOM",
+					},
 				}, -- [9]
 				{
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = -59.7057825539701,
-						["x"] = -0.294234320297209,
-					},
 					["Scale"] = 1.69999766349792,
 					["Role"] = 1,
 					["Level"] = 5,
@@ -9932,15 +9373,13 @@ TellMeWhenDB = {
 					},
 					["Name"] = "痛苦提醒",
 					["GUID"] = "TMW:group:1RLOA5LO5gVq",
+					["Point"] = {
+						["y"] = -59.7057825539701,
+						["x"] = -0.294234320297209,
+					},
 				}, -- [10]
 				{
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = 21.4630385098251,
-						["x"] = 165,
-						["point"] = "LEFT",
-						["relativePoint"] = "LEFT",
-					},
 					["Scale"] = 1.61552917957306,
 					["Rows"] = 4,
 					["Role"] = 1,
@@ -10021,8 +9460,8 @@ TellMeWhenDB = {
 							["Conditions"] = {
 								{
 									["Type"] = "HEALTH",
-									["Unit"] = "target",
 									["Operator"] = "<=",
+									["Unit"] = "target",
 									["Level"] = 20,
 								}, -- [1]
 								{
@@ -10094,8 +9533,8 @@ TellMeWhenDB = {
 							["OnlyMine"] = true,
 							["Type"] = "buff",
 							["ShowTTText"] = 1,
-							["Name"] = "108366",
 							["ShowTimerText"] = true,
+							["Name"] = "108366",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -10153,8 +9592,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "280709",
 							["ShowTimerText"] = true,
+							["Name"] = "280709",
 							["States"] = {
 								{
 								}, -- [1]
@@ -10231,8 +9670,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "2825; 80353; 90355; 178207; 230935; 160452; 264667",
 							["ShowTimerText"] = true,
+							["Name"] = "2825; 80353; 90355; 178207; 230935; 160452; 264667",
 							["GUID"] = "TMW:icon:1RTWy4aAu41E",
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -10272,8 +9711,8 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "205179; 278350",
 							["ShowTimerText"] = true,
+							["Name"] = "205179; 278350",
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -10372,8 +9811,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "113860",
 							["ShowTimerText"] = true,
+							["Name"] = "113860",
 							["GUID"] = "TMW:icon:1QAHWkCH6NhW",
 							["States"] = {
 								{
@@ -10511,9 +9950,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "113860",
 							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1PLFBbL5fSaC",
+							["Name"] = "113860",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -10533,7 +9972,7 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1PLFBbL5fSaC",
 						}, -- [37]
 						{
 							["ShowTimer"] = true,
@@ -10541,6 +9980,7 @@ TellMeWhenDB = {
 							["Type"] = "item",
 							["ShowTimerText"] = true,
 							["Name"] = "159630; 159615",
+							["OnlyInBags"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -10552,7 +9992,6 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["OnlyInBags"] = true,
 							["Enabled"] = true,
 						}, -- [38]
 						{
@@ -10575,8 +10014,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
-							["Name"] = "142117",
 							["ShowTimerText"] = true,
+							["Name"] = "142117",
 							["States"] = {
 								{
 								}, -- [1]
@@ -10923,15 +10362,15 @@ TellMeWhenDB = {
 					},
 					["Name"] = "痛苦技能",
 					["GUID"] = "TMW:group:1RTWy4aB5xIn",
-				}, -- [11]
-				{
-					["Strata"] = "BACKGROUND",
 					["Point"] = {
-						["y"] = 21.5,
+						["y"] = 21.4630385098251,
 						["x"] = 165,
 						["point"] = "LEFT",
 						["relativePoint"] = "LEFT",
 					},
+				}, -- [11]
+				{
+					["Strata"] = "BACKGROUND",
 					["Scale"] = 1.61552917957306,
 					["Rows"] = 4,
 					["Role"] = 1,
@@ -11045,8 +10484,8 @@ TellMeWhenDB = {
 							["OnlyMine"] = true,
 							["Type"] = "buff",
 							["ShowTTText"] = 1,
-							["Name"] = "108366",
 							["ShowTimerText"] = true,
+							["Name"] = "108366",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -11104,8 +10543,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "280709",
 							["ShowTimerText"] = true,
+							["Name"] = "280709",
 							["States"] = {
 								{
 								}, -- [1]
@@ -11188,8 +10627,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "2825; 80353; 90355; 178207; 230935; 160452; 264667",
 							["ShowTimerText"] = true,
+							["Name"] = "2825; 80353; 90355; 178207; 230935; 160452; 264667",
 							["GUID"] = "TMW:icon:1RbXmYxQ6fkM",
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -11298,8 +10737,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "buff",
-							["Name"] = "285496",
 							["ShowTimerText"] = true,
+							["Name"] = "285496",
 							["States"] = {
 								{
 								}, -- [1]
@@ -11467,6 +10906,7 @@ TellMeWhenDB = {
 							["Type"] = "item",
 							["ShowTimerText"] = true,
 							["Name"] = "159630; 159615",
+							["OnlyInBags"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -11478,7 +10918,6 @@ TellMeWhenDB = {
 								{
 								}, -- [4]
 							},
-							["OnlyInBags"] = true,
 							["Enabled"] = true,
 						}, -- [38]
 						{
@@ -11501,8 +10940,8 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "item",
-							["Name"] = "142117",
 							["ShowTimerText"] = true,
+							["Name"] = "142117",
 							["States"] = {
 								{
 								}, -- [1]
@@ -11849,6 +11288,12 @@ TellMeWhenDB = {
 					},
 					["Name"] = "恶魔技能",
 					["GUID"] = "TMW:group:1RTW=1q=VTDa",
+					["Point"] = {
+						["y"] = 21.5,
+						["x"] = 165,
+						["point"] = "LEFT",
+						["relativePoint"] = "LEFT",
+					},
 				}, -- [12]
 				{
 					["Scale"] = 1.29624962806702,
@@ -11896,8 +11341,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "104773",
 							["ShowTimerText"] = true,
+							["Name"] = "104773",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12156,8 +11601,8 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "30283",
 							["ShowTimerText"] = true,
+							["Name"] = "30283",
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -12190,8 +11635,8 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "6789",
 							["ShowTimerText"] = true,
+							["Name"] = "6789",
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -12303,8 +11748,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "132413",
 							["ShowTimerText"] = true,
+							["Name"] = "132413",
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -12473,7 +11918,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "278350",
-							["GUID"] = "TMW:icon:1RLPYLcJYf=R",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -12494,14 +11939,14 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLPYLcJYf=R",
 						}, -- [23]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "205179",
-							["GUID"] = "TMW:icon:1PLFBbL7EWNu",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -12522,7 +11967,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1PLFBbL7EWNu",
 						}, -- [24]
 						{
 							["Type"] = "conditionicon",
@@ -12793,9 +12238,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "264130",
-							["GUID"] = "TMW:icon:1RLJxuVZKIN6",
+							["ShowTimerText"] = true,
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12815,7 +12260,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLJxuVZKIN6",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -12827,9 +12272,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "267211",
-							["GUID"] = "TMW:icon:1RLJxuVJUz0t",
+							["ShowTimerText"] = true,
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12849,7 +12294,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLJxuVJUz0t",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -12902,9 +12347,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "267171",
-							["GUID"] = "TMW:icon:1RLJxuVPbfT4",
+							["ShowTimerText"] = true,
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12924,7 +12369,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLJxuVPbfT4",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -12936,9 +12381,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "264057",
-							["GUID"] = "TMW:icon:1S4sG5uOrLWM",
+							["ShowTimerText"] = true,
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12958,7 +12403,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1S4sG5uOrLWM",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -12970,9 +12415,9 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["ShowTimerText"] = true,
 							["Name"] = "264119",
-							["GUID"] = "TMW:icon:1S4sG5uQNTXf",
+							["ShowTimerText"] = true,
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -12992,7 +12437,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1S4sG5uQNTXf",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -13007,7 +12452,6 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "265412",
 							["ShowTimerText"] = true,
 							["Events"] = {
 								{
@@ -13018,16 +12462,16 @@ TellMeWhenDB = {
 										{
 											["Type"] = "DEBUFFDUR",
 											["Checked"] = true,
-											["Unit"] = "target",
 											["Operator"] = "<=",
+											["Unit"] = "target",
 											["Name"] = "265412",
 											["Level"] = 3,
 										}, -- [1]
 										{
 											["Type"] = "DEBUFFDUR",
 											["Checked"] = true,
-											["Unit"] = "target",
 											["Operator"] = ">",
+											["Unit"] = "target",
 											["Name"] = "265412",
 										}, -- [2]
 										["n"] = 2,
@@ -13061,13 +12505,14 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
+							["Name"] = "265412",
 						}, -- [48]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "267217",
-							["GUID"] = "TMW:icon:1S5WRMI0fQ20",
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -13082,7 +12527,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1S5WRMI0fQ20",
 							["Conditions"] = {
 								{
 									["Type"] = "TALENTLEARNED",
@@ -13197,7 +12642,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "265187",
-							["GUID"] = "TMW:icon:1QABE_V=YXGn",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "SPELLCD",
@@ -13220,14 +12665,14 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1QABE_V=YXGn",
 						}, -- [53]
 						{
 							["ShowTimer"] = true,
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "265273",
 							["ShowTimerText"] = true,
+							["Name"] = "265273",
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -13325,7 +12770,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "80240",
-							["GUID"] = "TMW:icon:1RSwcBF7pyiU",
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -13340,7 +12785,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RSwcBF7pyiU",
 							["Conditions"] = {
 								{
 									["Type"] = "WARMODE",
@@ -13372,7 +12817,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "200546",
-							["GUID"] = "TMW:icon:1RSwcBF94WG=",
+							["ManaCheck"] = true,
 							["Enabled"] = true,
 							["States"] = {
 								{
@@ -13387,7 +12832,7 @@ TellMeWhenDB = {
 							},
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RSwcBF94WG=",
 							["Conditions"] = {
 								{
 									["Type"] = "PVPTALENTLEARNED",
@@ -13889,7 +13334,7 @@ TellMeWhenDB = {
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "33702",
-							["GUID"] = "TMW:icon:1RTWy4aAV=DE",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "UNITRACE",
@@ -13912,14 +13357,14 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RTWy4aAV=DE",
 						}, -- [93]
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
 							["Name"] = "26297",
-							["GUID"] = "TMW:icon:1RTWy4aAStRY",
+							["ManaCheck"] = true,
 							["Conditions"] = {
 								{
 									["Type"] = "UNITRACE",
@@ -13942,7 +13387,7 @@ TellMeWhenDB = {
 								}, -- [4]
 							},
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RTWy4aAStRY",
 						}, -- [94]
 						{
 							["States"] = {
@@ -14022,10 +13467,6 @@ TellMeWhenDB = {
 				}, -- [13]
 				{
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = -33.6217381952223,
-						["x"] = -66.4505269044398,
-					},
 					["Scale"] = 3.21668362617493,
 					["Role"] = 1,
 					["Level"] = 5,
@@ -14039,8 +13480,8 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["OnlyMine"] = true,
 							["Type"] = "buff",
-							["Name"] = "273525",
 							["ShowTimerText"] = true,
+							["Name"] = "273525",
 							["Enabled"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
@@ -15171,6 +14612,10 @@ TellMeWhenDB = {
 					},
 					["Name"] = "痛苦大难临头",
 					["GUID"] = "TMW:group:1RePE6iaLSl4",
+					["Point"] = {
+						["y"] = -33.6217381952223,
+						["x"] = -66.4505269044398,
+					},
 				}, -- [14]
 				{
 					["GUID"] = "TMW:group:1S5VMYlvOrIT",
@@ -15255,6 +14700,8 @@ TellMeWhenDB = {
 					},
 				}, -- [15]
 			},
+			["NumGroups"] = 15,
+			["Version"] = 85901,
 			["Locked"] = true,
 		},
 		["術士一号 - 夏维安"] = {
@@ -41712,22 +41159,26 @@ TellMeWhenDB = {
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
 			["Locked"] = true,
-			["Version"] = 85901,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1RLnUbXbuYkE",
-					["Columns"] = 10,
+					["Point"] = {
+						["y"] = 22.1088667889031,
+						["x"] = -24.4900085034014,
+						["point"] = "RIGHT",
+						["relativePoint"] = "RIGHT",
+					},
 					["Scale"] = 1.47000002861023,
 					["Rows"] = 10,
 					["Icons"] = {
 						{
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1Ps6K0Z6fnMW",
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
 							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1Ps6K0Z6fnMW",
+							["ManaCheck"] = true,
 							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
@@ -41750,13 +41201,13 @@ TellMeWhenDB = {
 							},
 						}, -- [1]
 						{
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLnUKnYILkT",
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
 							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1RLnUKnYILkT",
+							["ManaCheck"] = true,
 							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
@@ -41844,7 +41295,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "13750",
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -41860,7 +41311,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RLnUKncGCwp",
 							["Type"] = "buff",
-							["Name"] = "13750",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -41872,10 +41323,10 @@ TellMeWhenDB = {
 							},
 						}, -- [5]
 						{
-							["GUID"] = "TMW:icon:1RLnZIt5ZLxl",
+							["ManaCheck"] = true,
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLnZIt5ZLxl",
 							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Enabled"] = true,
@@ -41901,18 +41352,18 @@ TellMeWhenDB = {
 							},
 						}, -- [6]
 						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
 							["GUID"] = "TMW:icon:1RLnUKoBPrqE",
+							["ShowTimer"] = true,
+							["Name"] = "13877",
 							["FakeHidden"] = true,
-							["Type"] = "cooldown",
+							["ManaCheck"] = true,
 							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
 								},
 							},
-							["Enabled"] = true,
+							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
 									["Type"] = "BUFFNUMBER",
@@ -41921,7 +41372,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "13877",
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -41968,13 +41419,13 @@ TellMeWhenDB = {
 							},
 						}, -- [8]
 						{
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RLnUKoVJKRp",
 							["ShowTimer"] = true,
 							["RangeCheck"] = true,
 							["FakeHidden"] = true,
 							["Enabled"] = true,
 							["ShowTimerText"] = true,
-							["GUID"] = "TMW:icon:1RLnUKoVJKRp",
+							["ManaCheck"] = true,
 							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
@@ -42009,7 +41460,7 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "196937",
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -42025,7 +41476,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RLnUKoYvPCt",
 							["Type"] = "buff",
-							["Name"] = "196937",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -42039,6 +41490,24 @@ TellMeWhenDB = {
 						{
 							["GUID"] = "TMW:icon:1RLnUKoRKPNT",
 							["ShowTimer"] = true,
+							["Name"] = "195627",
+							["Type"] = "buff",
+							["FakeHidden"] = true,
+							["OnlyMine"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
+								},
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Name"] = "快速拔枪",
+									["Type"] = "TALENTLEARNED",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["Events"] = {
 								{
 									["OnConditionConditions"] = {
@@ -42056,24 +41525,6 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Enabled"] = true,
-							["FakeHidden"] = true,
-							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
-							["SettingsPerView"] = {
-								["icon"] = {
-									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
-								},
-							},
-							["Type"] = "buff",
-							["Conditions"] = {
-								{
-									["Name"] = "快速拔枪",
-									["Type"] = "TALENTLEARNED",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Name"] = "195627",
 							["States"] = {
 								{
 								}, -- [1]
@@ -42225,7 +41676,7 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "245389",
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -42241,7 +41692,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRigwiHq041",
 							["Type"] = "buff",
-							["Name"] = "245389",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -42259,7 +41710,7 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "79140",
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -42275,7 +41726,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRizSdCXjEL",
 							["Type"] = "buff",
-							["Name"] = "79140",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -42474,7 +41925,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "212283",
+							["ShowTimerText"] = true,
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -42490,7 +41941,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRuPHDCgjw_",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "212283",
 							["States"] = {
 								{
 								}, -- [1]
@@ -42502,18 +41953,18 @@ TellMeWhenDB = {
 							},
 						}, -- [31]
 						{
-							["GUID"] = "TMW:icon:1RRuPNHLFWCb",
-							["ShowTimer"] = true,
 							["ManaCheck"] = true,
+							["ShowTimer"] = true,
+							["Name"] = "212283",
 							["FakeHidden"] = true,
-							["Type"] = "cooldown",
+							["GUID"] = "TMW:icon:1RRuPNHLFWCb",
 							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1QDBiYsCWOYJ",
 								},
 							},
-							["Enabled"] = true,
+							["Type"] = "cooldown",
 							["Conditions"] = {
 								{
 									["Type"] = "BUFFNUMBER",
@@ -42522,7 +41973,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "212283",
+							["Enabled"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -42540,7 +41991,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "121471",
+							["ShowTimerText"] = true,
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -42556,7 +42007,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRuQB557_Tl",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "121471",
 							["States"] = {
 								{
 								}, -- [1]
@@ -42568,10 +42019,10 @@ TellMeWhenDB = {
 							},
 						}, -- [33]
 						{
-							["GUID"] = "TMW:icon:1RRuQI7C4Jix",
+							["ManaCheck"] = true,
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
-							["ManaCheck"] = true,
+							["GUID"] = "TMW:icon:1RRuQI7C4Jix",
 							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Enabled"] = true,
@@ -43059,7 +42510,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "264667",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43070,7 +42521,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["Name"] = "264667",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -43117,10 +42568,10 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "271107",
+							["ShowTimerText"] = true,
 							["GUID"] = "TMW:icon:1S68KAlhLF7q",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "271107",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43149,7 +42600,7 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "408",
+							["ShowTimerText"] = true,
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -43165,7 +42616,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRuu=wbyUpd",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "408",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43220,7 +42671,7 @@ TellMeWhenDB = {
 							["Unit"] = "target",
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "1776",
+							["ShowTimerText"] = true,
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -43236,7 +42687,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRuCVwxv1DY",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "1776",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43302,7 +42753,7 @@ TellMeWhenDB = {
 							},
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "5277",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43313,7 +42764,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RRuDW6YTc5G",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "5277",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43501,7 +42952,7 @@ TellMeWhenDB = {
 							},
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "2983",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43512,7 +42963,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RM0ipZYMF6D",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "2983",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43542,7 +42993,7 @@ TellMeWhenDB = {
 							},
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "199754",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43553,7 +43004,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RM0ipZiXQhI",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "199754",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43583,7 +43034,7 @@ TellMeWhenDB = {
 							},
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "31224",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43594,7 +43045,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RM0ipZoHUEh",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "31224",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43624,7 +43075,7 @@ TellMeWhenDB = {
 							},
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["Name"] = "1966",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43635,7 +43086,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RM0ipZu381V",
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "1966",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43705,7 +43156,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["Name"] = "2825",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43716,7 +43167,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "2825",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43744,7 +43195,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["Name"] = "80353",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43755,7 +43206,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "80353",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43783,7 +43234,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["Name"] = "90355",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43794,7 +43245,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "90355",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43822,7 +43273,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["Name"] = "178207",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43833,7 +43284,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "178207",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43861,7 +43312,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["Name"] = "230935",
+							["ShowTimerText"] = true,
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43872,7 +43323,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["ShowTimerText"] = true,
+							["Name"] = "230935",
 							["States"] = {
 								{
 								}, -- [1]
@@ -43900,7 +43351,7 @@ TellMeWhenDB = {
 								}, -- [2]
 								["n"] = 2,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "160452",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -43911,7 +43362,7 @@ TellMeWhenDB = {
 							},
 							["Enabled"] = true,
 							["Type"] = "buff",
-							["Name"] = "160452",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -43927,7 +43378,7 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "11327",
 							["Events"] = {
 								{
 									["Infinite"] = true,
@@ -43943,7 +43394,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RL_uyTZn5nb",
 							["Type"] = "buff",
-							["Name"] = "11327",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -44030,7 +43481,7 @@ TellMeWhenDB = {
 							},
 							["FakeHidden"] = true,
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "185311",
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:,J2X`hZ?cLrR",
@@ -44041,7 +43492,7 @@ TellMeWhenDB = {
 							},
 							["GUID"] = "TMW:icon:1RM0ipZzo8w7",
 							["Type"] = "buff",
-							["Name"] = "185311",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -44496,17 +43947,15 @@ TellMeWhenDB = {
 					["Role"] = 1,
 					["Name"] = "盗贼技能",
 					["Level"] = 5,
-					["Point"] = {
-						["y"] = 22.1088667889031,
-						["x"] = -24.4900085034014,
-						["point"] = "RIGHT",
-						["relativePoint"] = "RIGHT",
-					},
+					["Columns"] = 10,
 				}, -- [1]
 				{
 					["GUID"] = "TMW:group:1RM0CYJA5cnR",
 					["Strata"] = "BACKGROUND",
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = -143.253483650775,
+						["x"] = 0.5,
+					},
 					["Scale"] = 1.2599,
 					["Icons"] = {
 						{
@@ -45657,10 +45106,7 @@ TellMeWhenDB = {
 						[259] = false,
 						[261] = false,
 					},
-					["Point"] = {
-						["y"] = -143.253483650775,
-						["x"] = 0.5,
-					},
+					["Columns"] = 6,
 				}, -- [2]
 				{
 					["GUID"] = "TMW:group:1RRimzgVdoAO",
@@ -45923,7 +45369,10 @@ TellMeWhenDB = {
 				{
 					["GUID"] = "TMW:group:1RRjDzM5ycvZ",
 					["Strata"] = "BACKGROUND",
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = -143.3,
+						["x"] = 0.5,
+					},
 					["Scale"] = 1.2599,
 					["Icons"] = {
 						{
@@ -45932,9 +45381,9 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "buff",
 							["Name"] = "703",
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -45953,9 +45402,9 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["OnlyMine"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "buff",
 							["Name"] = "1943",
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -45971,9 +45420,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
-							["Type"] = "buff",
 							["Name"] = "32645",
+							["Type"] = "buff",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -47080,15 +46529,15 @@ TellMeWhenDB = {
 						[260] = false,
 						[261] = false,
 					},
-					["Point"] = {
-						["y"] = -143.3,
-						["x"] = 0.5,
-					},
+					["Columns"] = 6,
 				}, -- [4]
 				{
 					["GUID"] = "TMW:group:1RRjI=KpP_32",
 					["Strata"] = "BACKGROUND",
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = -143.3,
+						["x"] = 0.5,
+					},
 					["Scale"] = 1.2599,
 					["Icons"] = {
 						{
@@ -47097,9 +46546,9 @@ TellMeWhenDB = {
 							["BuffOrDebuff"] = "HARMFUL",
 							["Unit"] = "target",
 							["OnlyMine"] = true,
-							["Name"] = "195452",
-							["Type"] = "buff",
 							["ShowTimerText"] = true,
+							["Type"] = "buff",
+							["Name"] = "195452",
 							["States"] = {
 								{
 								}, -- [1]
@@ -47115,9 +46564,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "245640",
-							["Type"] = "buff",
 							["ShowTimerText"] = true,
+							["Type"] = "buff",
+							["Name"] = "245640",
 							["States"] = {
 								{
 								}, -- [1]
@@ -47133,9 +46582,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "185313",
-							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "185313",
 							["States"] = {
 								{
 								}, -- [1]
@@ -48241,18 +47690,12 @@ TellMeWhenDB = {
 						[260] = false,
 						[259] = false,
 					},
-					["Point"] = {
-						["y"] = -143.3,
-						["x"] = 0.5,
-					},
+					["Columns"] = 6,
 				}, -- [5]
 				{
 					["GUID"] = "TMW:group:1RRuZ9ni7S9c",
 					["Strata"] = "BACKGROUND",
-					["Point"] = {
-						["y"] = -83.0236158673607,
-						["x"] = 0.483310944527701,
-					},
+					["Columns"] = 6,
 					["Scale"] = 1.25989890098572,
 					["Icons"] = {
 						{
@@ -48284,7 +47727,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "193538",
+							["ShowTimerText"] = true,
 							["Type"] = "buff",
 							["Conditions"] = {
 								{
@@ -48293,7 +47736,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "193538",
 							["States"] = {
 								{
 								}, -- [1]
@@ -48305,10 +47748,10 @@ TellMeWhenDB = {
 							},
 						}, -- [2]
 						{
-							["GUID"] = "TMW:icon:1Rkjq6laAWxq",
-							["ShowTimer"] = true,
 							["ManaCheck"] = true,
-							["Name"] = "137619",
+							["ShowTimer"] = true,
+							["GUID"] = "TMW:icon:1Rkjq6laAWxq",
+							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Enabled"] = true,
 							["Conditions"] = {
@@ -48318,7 +47761,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "137619",
 							["States"] = {
 								{
 								}, -- [1]
@@ -48377,15 +47820,15 @@ TellMeWhenDB = {
 						[259] = false,
 						[260] = false,
 					},
-					["Columns"] = 6,
-				}, -- [6]
-				{
-					["GUID"] = "TMW:group:1RRujEshnupf",
-					["Strata"] = "BACKGROUND",
 					["Point"] = {
 						["y"] = -83.0236158673607,
 						["x"] = 0.483310944527701,
 					},
+				}, -- [6]
+				{
+					["GUID"] = "TMW:group:1RRujEshnupf",
+					["Strata"] = "BACKGROUND",
+					["Columns"] = 6,
 					["Scale"] = 1.25989890098572,
 					["Icons"] = {
 						{
@@ -48428,10 +47871,10 @@ TellMeWhenDB = {
 							},
 						}, -- [2]
 						{
-							["ManaCheck"] = true,
-							["ShowTimer"] = true,
 							["GUID"] = "TMW:icon:1Ps6K0Z6Z6iX",
-							["Name"] = "137619",
+							["ShowTimer"] = true,
+							["ManaCheck"] = true,
+							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Enabled"] = true,
 							["Conditions"] = {
@@ -48441,7 +47884,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "137619",
 							["States"] = {
 								{
 								}, -- [1]
@@ -48500,15 +47943,15 @@ TellMeWhenDB = {
 						[261] = false,
 						[259] = false,
 					},
-					["Columns"] = 6,
-				}, -- [7]
-				{
-					["GUID"] = "TMW:group:1RRulfFMPbzK",
-					["Strata"] = "BACKGROUND",
 					["Point"] = {
 						["y"] = -83.0236158673607,
 						["x"] = 0.483310944527701,
 					},
+				}, -- [7]
+				{
+					["GUID"] = "TMW:group:1RRulfFMPbzK",
+					["Strata"] = "BACKGROUND",
+					["Columns"] = 6,
 					["Scale"] = 1.25989890098572,
 					["Icons"] = {
 						{
@@ -48531,7 +47974,7 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["ShowTimerText"] = true,
+							["Name"] = "256735",
 							["Type"] = "buff",
 							["Conditions"] = {
 								{
@@ -48542,7 +47985,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["Name"] = "256735",
+							["ShowTimerText"] = true,
 							["States"] = {
 								{
 								}, -- [1]
@@ -48574,10 +48017,10 @@ TellMeWhenDB = {
 							},
 						}, -- [3]
 						{
-							["GUID"] = "TMW:icon:1RkjpV0Cr73k",
-							["ShowTimer"] = true,
 							["ManaCheck"] = true,
-							["Name"] = "137619",
+							["ShowTimer"] = true,
+							["GUID"] = "TMW:icon:1RkjpV0Cr73k",
+							["ShowTimerText"] = true,
 							["Type"] = "cooldown",
 							["Enabled"] = true,
 							["Conditions"] = {
@@ -48587,7 +48030,7 @@ TellMeWhenDB = {
 								}, -- [1]
 								["n"] = 1,
 							},
-							["ShowTimerText"] = true,
+							["Name"] = "137619",
 							["States"] = {
 								{
 								}, -- [1]
@@ -48629,7 +48072,10 @@ TellMeWhenDB = {
 						[260] = false,
 						[261] = false,
 					},
-					["Columns"] = 6,
+					["Point"] = {
+						["y"] = -83.0236158673607,
+						["x"] = 0.483310944527701,
+					},
 				}, -- [8]
 				{
 					["GUID"] = "TMW:group:1RjMJv1RorQG",
@@ -48647,9 +48093,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "57934",
-							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "57934",
 							["States"] = {
 								{
 									["Alpha"] = 0,
@@ -48700,9 +48146,9 @@ TellMeWhenDB = {
 						{
 							["Enabled"] = true,
 							["ShowTimer"] = true,
-							["Name"] = "1766",
-							["Type"] = "cooldown",
 							["ShowTimerText"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "1766",
 							["States"] = {
 								{
 									["Alpha"] = 0,
@@ -48922,6 +48368,7 @@ TellMeWhenDB = {
 					["Role"] = 1,
 				}, -- [9]
 			},
+			["Version"] = 85901,
 			["NumGroups"] = 9,
 		},
 	},
