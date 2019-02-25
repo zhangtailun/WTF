@@ -1,15 +1,29 @@
 
 BugGrabberDB = {
-	["session"] = 4814,
+	["session"] = 4818,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
-			["message"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: attempt to compare nil with number",
-			["time"] = "2019/02/25 12:52:00",
-			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n}\nevent = \"LFG_LIST_SEARCH_RESULTS_RECEIVED\"\nnumResults = 35\nresultIds = <table> {\n 1 = 16\n 2 = 11\n 3 = 13\n 4 = 8\n 5 = 24\n 6 = 10\n 7 = 38\n 8 = 33\n 9 = 28\n 10 = 9\n 11 = 19\n 12 = 23\n 13 = 14\n 14 = 36\n 15 = 7\n 16 = 25\n 17 = 29\n 18 = 20\n 19 = 37\n 20 = 31\n 21 = 35\n 22 = 27\n 23 = 15\n 24 = 26\n 25 = 30\n 26 = 6\n 27 = 21\n 28 = 18\n 29 = 4\n 30 = 5\n 31 = 12\n 32 = 17\n 33 = 22\n 34 = 34\n 35 = 32\n}\nmatches = <table> {\n}\nmaxAge = 150\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 1 = 16\n 2 = 11\n 3 = 13\n 4 = 8\n 5 = 24\n 6 = 10\n 7 = 38\n 8 = 33\n 9 = 28\n 10 = 9\n 11 = 19\n 12 = 23\n 13 = 14\n 14 = 36\n 15 = 7\n 16 = 25\n 17 = 29\n 18 = 20\n 19 = 37\n 20 = 31\n 21 = 35\n 22 = 27\n 23 = 15\n 24 = 26\n 25 = 30\n 26 = 6\n 27 = 21\n 28 = 18\n 29 = 4\n 30 = 5\n 31 = 12\n 32 = 17\n 33 = 22\n 34 = 34\n 35 = 32\n}\n(for control) = 1\n_ = 1\nresultId = 16\nid = <table> {\n age = 400\n comment = \"\"\n numGuildMates = 0\n requiredItemLevel = 0\n questID = 54699\n activityID = 651\n numBNetFriends = 0\n numMembers = 5\n autoAccept = true\n searchResultID = 16\n requiredHonorLevel = 0\n voiceChat = \"\"\n isDelisted = false\n numCharFriends = 0\n name = \"|Kr4|k\"\n}\nactivityID = nil\nname = nil\ncomment = nil\nvoiceChat = nil\niLvl = nil\nhonorLevel = nil\nage = nil\nnumBNetFriends = nil\nnumCharFriends = nil\nnumGuildMates = nil\nisDelisted = nil\nleaderName = nil\nnumMembers = nil\nisAutoAccept = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to compare nil with number\"\nnumSearches = 1\nfinderFrame = <unnamed> {\n 0 = <userdata>\n}\nlastSearchTerm = \"\"\nupdateNPCGroupCount = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1183\nupdateFoundRares = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1212\nArgus = <table> {\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n Enable = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:294\n RegisterChatCommand = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceConsole-3.0\\AceConsole-3.0.lua:85\n EnableModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n modules = <table> {\n }\n GetModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:210\n IterateEmbeds = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:442\n defaultModuleLibraries = <table> {\n }\n TimeLeft = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:172\n UnregisterChatCommand = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceConsole-3.0\\AceConsole-3.0.lua:111\n ScheduleRepeatingTimer = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:129\n CancelAllTimers = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:160\n Printf = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceConsole-3.0\\AceConsole-3.0.lua:69\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n GetNodes = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:2281\n nodes = <table> {\n }\n baseName = \"HandyNotes_Argus\"\n name = \"ArgusRaresTreasures\"\n OnInitialize = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:2144\n IsEnabled = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n orderedModules = <table> {\n }\n ScheduleTimer = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:94\n DisableModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:350\n OnClick = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1721\n Refresh = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:2292\n RegisterWithHandyNotes = <function> defined @Interface\\AddOns\\Handy",
-			["stack"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: in function <...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1399>",
-			["session"] = 4814,
-			["counter"] = 1,
+			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'CompactRaidFrame1:Show()'。",
+			["time"] = "2019/02/25 16:00:41",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\CompactUnitFrame.lua:356: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:289: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:57: in function <Interface\\FrameXML\\CompactUnitFrame.lua:54>",
+			["session"] = 4817,
+			["counter"] = 2,
 		}, -- [1]
+		{
+			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
+			["session"] = 4818,
+			["time"] = "2019/02/25 16:01:36",
+			["counter"] = 8,
+		}, -- [2]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'CompactPartyFrameMember1:Show()'。",
+			["time"] = "2019/02/25 16:10:32",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\CompactUnitFrame.lua:356: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:289: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:57: in function <Interface\\FrameXML\\CompactUnitFrame.lua:54>",
+			["session"] = 4818,
+			["counter"] = 1,
+		}, -- [3]
 	},
 }

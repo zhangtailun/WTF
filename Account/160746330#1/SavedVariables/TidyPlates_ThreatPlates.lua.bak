@@ -8,10 +8,10 @@ ThreatPlatesDB = {
 			},
 		},
 		["術士一号 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["戰丿魂 - 迅捷微风"] = {
 			["spec"] = {
@@ -40,11 +40,11 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["沙雕默默 - 夏维安"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
-			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
 			["spec"] = {
@@ -605,10 +605,6 @@ ThreatPlatesDB = {
 				["castnostop"] = {
 					["ShowOverlay"] = false,
 					["ShowInterruptShield"] = true,
-				},
-				["frame"] = {
-					["height"] = 64.1250005364416,
-					["width"] = 153.999997377391,
 				},
 				["castborder"] = {
 					["texture"] = "TP_Castbar_Border_Thin",

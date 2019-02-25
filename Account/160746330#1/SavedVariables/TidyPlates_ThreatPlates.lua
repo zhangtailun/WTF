@@ -2,16 +2,16 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["丿指尖丶旋律 - 加尔"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["術士一号 - 夏维安"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["上帝的圣光 - 迅捷微风"] = {
 			["spec"] = {
@@ -40,17 +40,17 @@ ThreatPlatesDB = {
 			},
 		},
 		["沙雕默默 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["profileKeys"] = {
@@ -590,22 +590,22 @@ ThreatPlatesDB = {
 				["threatborder"] = {
 					["show"] = false,
 				},
-				["customtext"] = {
-					["y"] = 0,
-					["typeface"] = "默认",
-					["size"] = 11,
-				},
-				["name"] = {
-					["size"] = 12,
-				},
 				["castbar"] = {
 					["backdrop"] = "ElvUI Norm",
 					["texture"] = "ElvUI Norm",
+				},
+				["name"] = {
+					["size"] = 12,
 				},
 				["raidicon"] = {
 					["scale"] = 30,
 					["y"] = 0,
 					["x"] = -80,
+				},
+				["customtext"] = {
+					["y"] = 0,
+					["typeface"] = "默认",
+					["size"] = 11,
 				},
 				["frame"] = {
 					["height"] = 64.1250005364416,

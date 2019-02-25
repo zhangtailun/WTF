@@ -486,6 +486,9 @@ MSBTProfiles_SavedVars = {
 			},
 			["alwaysShowQuestItems"] = false,
 			["scrollAreas"] = {
+				["Notification"] = {
+					["disabled"] = true,
+				},
 				["Incoming"] = {
 					["scrollHeight"] = 180,
 					["offsetX"] = 181,
@@ -493,15 +496,12 @@ MSBTProfiles_SavedVars = {
 					["offsetY"] = -76,
 					["animationStyle"] = "Straight",
 				},
-				["Static"] = {
-					["disabled"] = true,
-				},
 				["Outgoing"] = {
 					["offsetY"] = -83,
 					["disabled"] = true,
 					["offsetX"] = 181,
 				},
-				["Notification"] = {
+				["Static"] = {
 					["disabled"] = true,
 				},
 			},
