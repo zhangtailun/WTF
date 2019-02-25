@@ -42,7 +42,6 @@ DBM_AllSavedOptions = {
 			1, -- [2]
 			0, -- [3]
 		},
-		["HUDAlpha4"] = 0.5,
 		["DontShowReminders"] = false,
 		["WorldBossAlert"] = false,
 		["HUDSize3"] = 5,
@@ -92,6 +91,7 @@ DBM_AllSavedOptions = {
 		["SpecialWarningFlashRepeat1"] = false,
 		["EventEngageSound"] = "",
 		["AdvancedAutologBosses"] = false,
+		["HUDAlpha4"] = 0.5,
 		["WarningFont"] = "Fonts\\ARKai_T.ttf",
 		["DontShowCTCount"] = false,
 		["SpecialWarningSound3"] = "Interface\\AddOns\\DBM-Core\\sounds\\AirHorn.ogg",
