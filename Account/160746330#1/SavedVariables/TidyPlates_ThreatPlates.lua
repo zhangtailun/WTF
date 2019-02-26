@@ -2,16 +2,16 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["丿指尖丶旋律 - 加尔"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["術士一号 - 夏维安"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["戰丿魂 - 迅捷微风"] = {
 			["spec"] = {
@@ -40,17 +40,17 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["沙雕默默 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["global"] = {
@@ -591,20 +591,20 @@ ThreatPlatesDB = {
 				["threatborder"] = {
 					["show"] = false,
 				},
-				["customtext"] = {
-					["y"] = 0,
-					["typeface"] = "默认",
-					["size"] = 11,
+				["healthborder"] = {
+					["texture"] = "TP_Border_Thin",
 				},
 				["name"] = {
 					["size"] = 12,
 				},
-				["healthborder"] = {
-					["texture"] = "TP_Border_Thin",
-				},
 				["castnostop"] = {
 					["ShowOverlay"] = false,
 					["ShowInterruptShield"] = true,
+				},
+				["customtext"] = {
+					["y"] = 0,
+					["typeface"] = "默认",
+					["size"] = 11,
 				},
 				["frame"] = {
 					["height"] = 64.1250005364416,
