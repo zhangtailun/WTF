@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 4823,
+	["session"] = 4827,
 	["errors"] = {
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] 插件 'ElvUI' 尝试调用保护功能 'CompactPartyFrameMember1:Show()'。",
@@ -22,8 +22,8 @@ BugGrabberDB = {
 		{
 			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
 			["time"] = "2019/02/25 16:01:36",
-			["session"] = 4823,
-			["counter"] = 28,
+			["session"] = 4827,
+			["counter"] = 44,
 		}, -- [3]
 	},
 }
