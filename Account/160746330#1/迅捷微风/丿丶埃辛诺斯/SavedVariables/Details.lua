@@ -189,7 +189,12 @@ _detalhes_database = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -197,8 +202,13 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["y"] = 0,
+			["x"] = 3.05175781250e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -210,35 +220,25 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["font_size"] = 10,
-			["x"] = 3.05175781250e-05,
-			["font_face"] = "Friz Quadrata TT",
-			["y"] = 0,
-			["use_spark"] = true,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
-		},
-	},
-	["on_death_menu"] = true,
-	["benchmark_db"] = {
-		["frame"] = {
 		},
 	},
 	["nick_tag_cache"] = {
 		["nextreset"] = 1551500686,
 		["last_version"] = 11,
 	},
+	["on_death_menu"] = true,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_counter"] = 1508,
+	["combat_counter"] = 1516,
 	["combat_id"] = 1,
 	["savedStyles"] = {
 	},
@@ -1876,14 +1876,14 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 264,
+					["tipo"] = 2,
 					["classe"] = "SHAMAN",
 					["custom"] = 0,
 					["last_event"] = 0,
 					["start_time"] = 1551081327,
 					["totaldenied"] = 0.012645,
 					["delay"] = 0,
-					["tipo"] = 2,
+					["spec"] = 264,
 				}, -- [1]
 				{
 					["flag_original"] = 2600,
@@ -2051,14 +2051,14 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 260,
+					["tipo"] = 2,
 					["classe"] = "ROGUE",
 					["custom"] = 0,
 					["last_event"] = 0,
 					["start_time"] = 1551081344,
 					["totaldenied"] = 0.015778,
 					["delay"] = 0,
-					["tipo"] = 2,
+					["spec"] = 260,
 				}, -- [3]
 				{
 					["flag_original"] = 1298,
@@ -2092,7 +2092,7 @@ _detalhes_database = {
 					["healing_taken"] = 46146.007263,
 					["fight_component"] = true,
 					["end_time"] = 1551081358,
-					["classe"] = "DRUID",
+					["last_event"] = 0,
 					["nome"] = "吆零吆丨岚-阿克蒙德",
 					["spells"] = {
 						["_ActorTable"] = {
@@ -2269,7 +2269,7 @@ _detalhes_database = {
 					["targets_overheal"] = {
 						["吆零吆丨岚-阿克蒙德"] = 478,
 					},
-					["last_event"] = 0,
+					["classe"] = "DRUID",
 					["custom"] = 0,
 					["tipo"] = 2,
 					["start_time"] = 1551081328,
@@ -2343,14 +2343,14 @@ _detalhes_database = {
 						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["spec"] = 253,
+					["tipo"] = 2,
 					["classe"] = "HUNTER",
 					["custom"] = 0,
 					["last_event"] = 0,
 					["start_time"] = 1551081349,
 					["totaldenied"] = 0.00855,
 					["delay"] = 0,
-					["tipo"] = 2,
+					["spec"] = 253,
 				}, -- [5]
 				{
 					["flag_original"] = 4370,
@@ -2480,33 +2480,33 @@ _detalhes_database = {
 					},
 					["targets"] = {
 					},
-					["heal_enemy_amt"] = 0,
+					["healing_taken"] = 0.013231,
 					["pets"] = {
 					},
 					["totalover_without_pet"] = 0.013231,
 					["healing_from"] = {
 					},
-					["healing_taken"] = 0.013231,
+					["classe"] = "MAGE",
 					["totalover"] = 0.013231,
 					["total_without_pet"] = 0.013231,
 					["iniciar_hps"] = false,
 					["start_time"] = 1551081355,
-					["classe"] = "MAGE",
-					["end_time"] = 1551081358,
+					["heal_enemy_amt"] = 0,
 					["total"] = 0.013231,
+					["end_time"] = 1551081358,
 					["spells"] = {
 						["_ActorTable"] = {
 						},
 						["tipo"] = 3,
 					},
 					["nome"] = "神小熊-主宰之剑",
-					["targets_absorbs"] = {
-					},
+					["spec"] = 62,
 					["grupo"] = true,
 					["serial"] = "Player-1955-01E6C899",
 					["heal_enemy"] = {
 					},
-					["spec"] = 62,
+					["targets_absorbs"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
@@ -3094,8 +3094,7 @@ _detalhes_database = {
 						},
 						["tipo"] = 9,
 					},
-					["pets"] = {
-					},
+					["buff_uptime"] = 222,
 					["classe"] = "MAGE",
 					["buff_uptime_spells"] = {
 						["_ActorTable"] = {
@@ -3222,13 +3221,14 @@ _detalhes_database = {
 						[44425] = 3,
 						[30451] = 13,
 					},
-					["buff_uptime"] = 222,
-					["tipo"] = 4,
-					["nome"] = "神小熊-主宰之剑",
-					["last_event"] = 0,
-					["serial"] = "Player-1955-01E6C899",
 					["debuff_uptime_targets"] = {
 					},
+					["tipo"] = 4,
+					["nome"] = "神小熊-主宰之剑",
+					["pets"] = {
+					},
+					["serial"] = "Player-1955-01E6C899",
+					["last_event"] = 0,
 				}, -- [3]
 				{
 					["flag_original"] = 1047,
@@ -3694,14 +3694,14 @@ _detalhes_database = {
 					["flag_original"] = 8466,
 					["ownerName"] = "插好多棒子-阿克蒙德",
 					["nome"] = "未知目标 <插好多棒子-阿克蒙德>",
-					["tipo"] = 4,
+					["classe"] = "PET",
 					["pets"] = {
 					},
 					["spell_cast"] = {
 						[5672] = 1,
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
-					["classe"] = "PET",
 					["serial"] = "Creature-0-3123-33-30417-3527-0000739F71",
 					["fight_component"] = true,
 				}, -- [6]
@@ -3711,12 +3711,12 @@ _detalhes_database = {
 					["nome"] = "未知目标 <你曾是少年-无尽之海>",
 					["pets"] = {
 					},
-					["last_event"] = 0,
-					["tipo"] = 4,
 					["spell_cast"] = {
 						[49966] = 7,
 						[201754] = 4,
 					},
+					["tipo"] = 4,
+					["last_event"] = 0,
 					["serial"] = "Pet-0-3127-1642-14335-86732-01010449C3",
 					["classe"] = "PET",
 				}, -- [7]
@@ -3724,14 +3724,14 @@ _detalhes_database = {
 					["flag_original"] = 8466,
 					["ownerName"] = "插好多棒子-阿克蒙德",
 					["nome"] = "治疗之泉图腾 <插好多棒子-阿克蒙德>",
-					["tipo"] = 4,
+					["classe"] = "PET",
 					["pets"] = {
 					},
 					["spell_cast"] = {
 						[5672] = 1,
 					},
+					["tipo"] = 4,
 					["last_event"] = 0,
-					["classe"] = "PET",
 					["serial"] = "Creature-0-3123-33-30417-3527-0000739F80",
 					["fight_component"] = true,
 				}, -- [8]
@@ -3792,28 +3792,7 @@ _detalhes_database = {
 			},
 		},
 		["end_time"] = 975187.704,
-		["overall_refreshed"] = true,
 		["data_inicio"] = "15:55:30",
-		["hasSaved"] = true,
-		["frags"] = {
-		},
-		["data_fim"] = "15:55:58",
-		["overall_enemy_name"] = "药剂师汉摩尔",
-		["CombatSkillCache"] = {
-		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 28.0019999999786,
-				["type"] = 5,
-				["name"] = "垃圾清理",
-				["clock"] = "15:55:30",
-			}, -- [1]
-		},
-		["start_time"] = 975159.702,
-		["TimeData"] = {
-			["Raid Damage Done"] = {
-			},
-		},
 		["totals_grupo"] = {
 			1821199.024847, -- [1]
 			132640.033277, -- [2]
@@ -3835,9 +3814,30 @@ _detalhes_database = {
 				["dead"] = 0,
 			}, -- [4]
 		},
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = "15:55:58",
+		["overall_enemy_name"] = "药剂师汉摩尔",
+		["CombatSkillCache"] = {
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 28.0019999999786,
+				["type"] = 5,
+				["name"] = "垃圾清理",
+				["clock"] = "15:55:30",
+			}, -- [1]
+		},
+		["start_time"] = 975159.702,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["overall_refreshed"] = true,
 	},
 	["character_data"] = {
-		["logons"] = 75,
+		["logons"] = 79,
 	},
 	["force_font_outline"] = "",
 	["mythic_dungeon_currentsaved"] = {
@@ -3868,5 +3868,7 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-917-02BF6261"] = 260,
+		["Player-1948-021C4ACF"] = 73,
+		["Player-1970-00D4A40C"] = 66,
 	},
 }
