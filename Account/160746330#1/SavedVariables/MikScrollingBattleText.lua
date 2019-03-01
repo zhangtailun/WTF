@@ -355,7 +355,7 @@ MSBTProfiles_SavedVars = {
 				["OUTGOING_SPELL_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
-				["PET_OUTGOING_SPELL_DAMAGE_CRIT"] = {
+				["OUTGOING_DAMAGE"] = {
 					["disabled"] = true,
 				},
 				["PET_INCOMING_MISS"] = {
@@ -421,7 +421,7 @@ MSBTProfiles_SavedVars = {
 				["PET_OUTGOING_SPELL_BLOCK"] = {
 					["disabled"] = true,
 				},
-				["OUTGOING_DAMAGE"] = {
+				["PET_OUTGOING_SPELL_DAMAGE_CRIT"] = {
 					["disabled"] = true,
 				},
 				["PET_OUTGOING_SPELL_DODGE"] = {
