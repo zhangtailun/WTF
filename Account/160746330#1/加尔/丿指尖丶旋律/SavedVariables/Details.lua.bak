@@ -7,8 +7,8 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 3,
 					["tipo"] = 2,
+					["combatId"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -20,25 +20,21 @@ _detalhes_database = {
 								["诱捕者卡米德"] = 14803,
 								["骨喙雏鸟"] = 39890,
 							},
-							["total"] = 54693.003967,
+							["delay"] = 1551405608,
 							["pets"] = {
 								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
 							},
-							["on_hold"] = false,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 51244.003967,
-							["colocacao"] = 1,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["end_time"] = 1551405651,
 							["friendlyfire_total"] = 0,
-							["spec"] = 267,
-							["nome"] = "丿指尖丶旋律",
+							["dps_started"] = false,
+							["total"] = 54693.003967,
+							["damage_taken"] = 106401.003967,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[17962] = {
 										["c_amt"] = 0,
@@ -59,16 +55,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 17962,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[348] = {
 										["c_amt"] = 0,
@@ -86,19 +82,19 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 4295,
 										["c_max"] = 0,
+										["c_min"] = 0,
 										["EVADE"] = 1,
-										["id"] = 348,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["b_dmg"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["spellschool"] = 4,
+										["id"] = 348,
 									},
 									[157736] = {
 										["c_amt"] = 0,
@@ -116,19 +112,19 @@ _detalhes_database = {
 										["counter"] = 2,
 										["total"] = 2483,
 										["c_max"] = 0,
+										["c_min"] = 0,
 										["EVADE"] = 1,
-										["id"] = 157736,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
+										["r_amt"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
+										["b_dmg"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
+										["a_amt"] = 0,
 										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["spellschool"] = 4,
+										["id"] = 157736,
 									},
 									[265931] = {
 										["c_amt"] = 0,
@@ -149,16 +145,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 265931,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[29722] = {
 										["c_amt"] = 1,
@@ -178,33 +174,36 @@ _detalhes_database = {
 										["c_max"] = 16134,
 										["id"] = 29722,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 16134,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 16134,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 								},
+								["tipo"] = 2,
 							},
+							["nome"] = "丿指尖丶旋律",
+							["spec"] = 267,
 							["grupo"] = true,
-							["serial"] = "Player-1944-06624493",
-							["last_dps"] = 1090.87109254415,
-							["custom"] = 0,
+							["last_dps"] = 1090.87109254922,
+							["end_time"] = 1551405651,
+							["colocacao"] = 1,
 							["last_event"] = 1551405651,
-							["damage_taken"] = 106401.003967,
+							["on_hold"] = false,
 							["start_time"] = 1551405641,
-							["delay"] = 1551405608,
-							["tipo"] = 1,
+							["serial"] = "Player-1944-06624493",
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
 							["totalabsorbed"] = 0.005056,
-							["serial"] = "Pet-0-3124-1642-8258-58960-030271F081",
 							["damage_from"] = {
 								["骨喙雏鸟"] = true,
 							},
@@ -213,18 +212,18 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 1212.005056,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 3449.005056,
+							["last_event"] = 1551405649,
 							["dps_started"] = false,
 							["total"] = 3449.005056,
-							["classe"] = "PET",
+							["delay"] = 1551405602,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -244,16 +243,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
 									}, -- [1]
 									[3716] = {
 										["c_amt"] = 0,
@@ -273,18 +272,19 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 3716,
 										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 32,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["friendlyfire"] = {
 							},
@@ -292,46 +292,63 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 1212.005056,
+							["on_hold"] = false,
 							["start_time"] = 1551405648,
-							["delay"] = 1551405602,
-							["last_event"] = 1551405649,
+							["serial"] = "Pet-0-3124-1642-8258-58960-030271F081",
+							["classe"] = "PET",
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 3,
 					["tipo"] = 3,
+					["combatId"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["尼迦拉克希 <丿指尖丶旋律>"] = 700,
+								["丿指尖丶旋律"] = 699,
+							},
+							["pets"] = {
+								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 1399.001222,
+							["total_without_pet"] = 496.001222,
+							["total"] = 496.001222,
+							["spec"] = 267,
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1944-06624493",
 							["totalabsorb"] = 221.001222,
 							["last_hps"] = 0,
-							["healing_from"] = {
-								["丿指尖丶旋律"] = true,
-							},
-							["targets_overheal"] = {
-								["丿指尖丶旋律"] = 699,
-								["尼迦拉克希 <丿指尖丶旋律>"] = 700,
-							},
 							["targets"] = {
-								["尼迦拉克希 <丿指尖丶旋律>"] = 221,
 								["丿指尖丶旋律"] = 275,
+								["尼迦拉克希 <丿指尖丶旋律>"] = 221,
 							},
+							["totalover_without_pet"] = 0.001222,
+							["healing_taken"] = 275.001222,
+							["fight_component"] = true,
+							["end_time"] = 1551405651,
+							["targets_absorbs"] = {
+								["尼迦拉克希 <丿指尖丶旋律>"] = 221,
+							},
+							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[108366] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 221,
 										["targets_overheal"] = {
-											["丿指尖丶旋律"] = 699,
 											["尼迦拉克希 <丿指尖丶旋律>"] = 700,
+											["丿指尖丶旋律"] = 699,
 										},
 										["n_max"] = 221,
 										["targets"] = {
-											["丿指尖丶旋律"] = 0,
 											["尼迦拉克希 <丿指尖丶旋律>"] = 221,
+											["丿指尖丶旋律"] = 0,
 										},
 										["n_min"] = 0,
 										["counter"] = 4,
@@ -340,17 +357,17 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 108366,
 										["targets_absorbs"] = {
-											["丿指尖丶旋律"] = 0,
 											["尼迦拉克希 <丿指尖丶旋律>"] = 221,
+											["丿指尖丶旋律"] = 0,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 221,
-										["n_amt"] = 4,
+										["m_crit"] = 0,
 										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 221,
+										["m_healed"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -373,224 +390,207 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 275,
-										["n_amt"] = 3,
-										["totaldenied"] = 0,
 										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 275,
+										["m_amt"] = 0,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
-							["pets"] = {
-								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
-							},
-							["totalover_without_pet"] = 0.001222,
-							["iniciar_hps"] = false,
-							["healing_taken"] = 275.001222,
-							["totalover"] = 1399.001222,
-							["total_without_pet"] = 496.001222,
-							["end_time"] = 1551405651,
-							["heal_enemy_amt"] = 0,
-							["fight_component"] = true,
-							["total"] = 496.001222,
-							["classe"] = "WARLOCK",
-							["start_time"] = 1551405648,
-							["nome"] = "丿指尖丶旋律",
-							["spec"] = 267,
 							["grupo"] = true,
-							["targets_absorbs"] = {
-								["尼迦拉克希 <丿指尖丶旋律>"] = 221,
+							["healing_from"] = {
+								["丿指尖丶旋律"] = true,
 							},
-							["heal_enemy"] = {
-							},
-							["serial"] = "Player-1944-06624493",
+							["tipo"] = 2,
 							["custom"] = 0,
 							["last_event"] = 1551405651,
-							["on_hold"] = false,
 							["totaldenied"] = 0.001222,
+							["start_time"] = 1551405648,
 							["delay"] = 1551405617,
-							["tipo"] = 2,
+							["classe"] = "WARLOCK",
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
-							["totalabsorb"] = 0.008448,
-							["last_hps"] = 0,
-							["targets_overheal"] = {
-							},
-							["start_time"] = 1551405651,
-							["targets"] = {
-							},
 							["healing_from"] = {
 								["丿指尖丶旋律"] = true,
 							},
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["end_time"] = 1551405651,
-							["classe"] = "PET",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008448,
 							["total_without_pet"] = 0.008448,
-							["totalover_without_pet"] = 0.008448,
-							["heal_enemy_amt"] = 0,
-							["fight_component"] = true,
 							["total"] = 0.008448,
-							["serial"] = "Pet-0-3124-1642-8258-58960-030271F081",
-							["ownerName"] = "丿指尖丶旋律",
-							["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
-							["healing_taken"] = 221.008448,
 							["targets_absorbs"] = {
 							},
 							["heal_enemy"] = {
 							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3124-1642-8258-58960-030271F081",
+							["totalabsorb"] = 0.008448,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.008448,
+							["healing_taken"] = 221.008448,
+							["fight_component"] = true,
+							["end_time"] = 1551405651,
+							["ownerName"] = "丿指尖丶旋律",
+							["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 3,
+							},
+							["totaldenied"] = 0.008448,
+							["targets_overheal"] = {
 							},
 							["custom"] = 0,
 							["tipo"] = 2,
-							["on_hold"] = false,
-							["totaldenied"] = 0.008448,
-							["delay"] = 0,
 							["last_event"] = 0,
+							["start_time"] = 1551405651,
+							["delay"] = 0,
+							["classe"] = "PET",
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 3,
 					["tipo"] = 7,
+					["combatId"] = 3,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 3,
 					["tipo"] = 9,
+					["combatId"] = 3,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[265931] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = -1,
+										["refreshamt"] = 0,
 										["id"] = 265931,
+										["uptime"] = 48,
 										["targets"] = {
 										},
-										["uptime"] = 48,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[157736] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
+										["refreshamt"] = 0,
 										["id"] = 157736,
+										["uptime"] = 3,
 										["targets"] = {
 										},
-										["uptime"] = 3,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 238,
 							["classe"] = "WARLOCK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[17619] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 17619,
-										["targets"] = {
-										},
 										["uptime"] = 50,
+										["targets"] = {
+										},
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[268887] = {
-										["activedamt"] = 1,
-										["id"] = 268887,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[117828] = {
-										["activedamt"] = 2,
-										["id"] = 117828,
-										["targets"] = {
-										},
-										["uptime"] = 13,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[251837] = {
-										["activedamt"] = 1,
-										["id"] = 251837,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[279913] = {
-										["activedamt"] = 1,
-										["id"] = 279913,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[108366] = {
-										["activedamt"] = 2,
-										["id"] = 108366,
-										["targets"] = {
-										},
-										["uptime"] = 19,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[186401] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 186401,
+										["uptime"] = 50,
 										["targets"] = {
 										},
-										["uptime"] = 50,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
+									},
+									[117828] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 117828,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[251837] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 251837,
+										["uptime"] = 50,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[279913] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 279913,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[281240] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 281240,
+										["uptime"] = 50,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 108366,
+										["uptime"] = 19,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 1,
+										["id"] = 268887,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 51,
@@ -603,38 +603,38 @@ _detalhes_database = {
 								[17962] = 1,
 								[29722] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["tipo"] = 4,
 							["last_event"] = 1551405651,
 							["nome"] = "丿指尖丶旋律",
 							["pets"] = {
 								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
 							},
 							["serial"] = "Player-1944-06624493",
-							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["fight_component"] = true,
-							["tipo"] = 4,
 							["spell_cast"] = {
 								[17735] = 2,
 								[112042] = 1,
 								[3716] = 2,
 							},
-							["serial"] = "Pet-0-3124-1642-8258-58960-030271F081",
+							["pets"] = {
+							},
 							["last_event"] = 0,
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["serial"] = "Pet-0-3124-1642-8258-58960-030271F081",
+							["fight_component"] = true,
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 3,
 					["tipo"] = 2,
+					["combatId"] = 3,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -655,23 +655,23 @@ _detalhes_database = {
 					495.975927999994, -- [2]
 					{
 						0, -- [1]
-						[0] = -0.0311170000000089,
+						[0] = -0.0323809999999867,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["丿指尖丶旋律"] = {
@@ -752,7 +752,6 @@ _detalhes_database = {
 						["n"] = 2,
 					},
 				},
-				["instance_type"] = "none",
 				["frags_need_refresh"] = true,
 				["__call"] = {
 				},
@@ -761,6 +760,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 54693.003967,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -770,25 +774,20 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 54693.003967,
-						}, -- [1]
-					},
 				},
 				["end_time"] = 1299496.944,
-				["combat_id"] = 3,
 				["TotalElapsedCombatTime"] = 30.9519999998156,
+				["instance_type"] = "none",
 				["CombatEndedAt"] = 1299559.825,
+				["TimeData"] = {
+				},
+				["hasSaved"] = true,
 				["frags"] = {
 					["亡刺看护者"] = 1,
 					["骨喙雏鸟"] = 1,
 					["诱捕者卡米德"] = 1,
 				},
 				["data_fim"] = "10:00:51",
-				["data_inicio"] = "10:00:01",
-				["CombatSkillCache"] = {
-				},
 				["totals_grupo"] = {
 					51244, -- [1]
 					496, -- [2]
@@ -796,81 +795,82 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "10:00:01",
 				["start_time"] = 1299446.807,
 				["contra"] = "诱捕者卡米德",
-				["TimeData"] = {
-				},
+				["combat_id"] = 3,
 			}, -- [1]
 			{
 				{
-					["combatId"] = 2,
 					["tipo"] = 2,
+					["combatId"] = 2,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.008342,
 							["damage_from"] = {
-								["环境伤害 (高处坠落)"] = true,
+								["亡刺幼体"] = true,
 								["亡刺刻肉者"] = true,
 								["无信哨卫"] = true,
-								["亡刺幼体"] = true,
+								["环境伤害 (高处坠落)"] = true,
 							},
 							["targets"] = {
 							},
-							["on_hold"] = false,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
+							["last_event"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
 							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008342,
-							["spec"] = 267,
+							["delay"] = 0,
 							["dps_started"] = false,
 							["total"] = 0.008342,
 							["classe"] = "WARLOCK",
-							["serial"] = "Player-1944-06624493",
+							["damage_taken"] = 44833.008342,
 							["nome"] = "丿指尖丶旋律",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
+							["spec"] = 267,
 							["grupo"] = true,
 							["end_time"] = 1551405559,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 44833.008342,
+							["on_hold"] = false,
 							["start_time"] = 1551405559,
-							["delay"] = 0,
-							["last_event"] = 0,
+							["serial"] = "Player-1944-06624493",
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 2,
 					["tipo"] = 3,
+					["combatId"] = 2,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["丿指尖丶旋律"] = true,
+							["targets_overheal"] = {
 							},
 							["pets"] = {
 							},
@@ -895,11 +895,9 @@ _detalhes_database = {
 							["healing_taken"] = 293.00221,
 							["fight_component"] = true,
 							["end_time"] = 1551405559,
-							["targets_overheal"] = {
-							},
+							["heal_enemy_amt"] = 0,
 							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[77220] = {
 										["c_amt"] = 0,
@@ -919,122 +917,125 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["丿指尖丶旋律"] = 293,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 293,
-										["n_amt"] = 3,
+										["m_crit"] = 0,
 										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 3,
+										["n_curado"] = 293,
+										["m_healed"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1551405556,
+							["healing_from"] = {
+								["丿指尖丶旋律"] = true,
+							},
+							["tipo"] = 2,
 							["custom"] = 0,
 							["last_event"] = 1551405548,
-							["spec"] = 267,
 							["totaldenied"] = 0.00221,
+							["start_time"] = 1551405556,
 							["delay"] = 1551405548,
-							["tipo"] = 2,
+							["spec"] = 267,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 2,
 					["tipo"] = 7,
+					["combatId"] = 2,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 2,
 					["tipo"] = 9,
+					["combatId"] = 2,
 					["_ActorTable"] = {
 						{
-							["fight_component"] = true,
-							["buff_uptime_targets"] = {
-							},
+							["flag_original"] = 1047,
+							["nome"] = "丿指尖丶旋律",
 							["spec"] = 267,
 							["grupo"] = true,
-							["flag_original"] = 1047,
-							["buff_uptime"] = 150,
-							["nome"] = "丿指尖丶旋律",
+							["fight_component"] = true,
 							["pets"] = {
 							},
-							["last_event"] = 1551405559,
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
 							["classe"] = "WARLOCK",
+							["buff_uptime"] = 150,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[17619] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 17619,
+										["uptime"] = 30,
 										["targets"] = {
 										},
-										["uptime"] = 30,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[251837] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 251837,
+										["uptime"] = 30,
 										["targets"] = {
 										},
-										["uptime"] = 30,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[118089] = {
-										["activedamt"] = 1,
-										["id"] = 118089,
-										["targets"] = {
-										},
-										["uptime"] = 30,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 30,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[186401] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 186401,
+										["uptime"] = 30,
 										["targets"] = {
 										},
-										["uptime"] = 30,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
+									},
+									[118089] = {
 										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 118089,
+										["uptime"] = 30,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[281240] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 281240,
+										["uptime"] = 30,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["tipo"] = 4,
+							["last_event"] = 1551405559,
 						}, -- [1]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 2,
 					["tipo"] = 2,
+					["combatId"] = 2,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1057,25 +1058,24 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
-				["instance_type"] = "none",
 				["frags_need_refresh"] = false,
 				["__call"] = {
 				},
@@ -1084,6 +1084,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 0.008342,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1093,22 +1098,17 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 0.008342,
-						}, -- [1]
-					},
 				},
 				["end_time"] = 1299405.349,
-				["combat_id"] = 2,
 				["TotalElapsedCombatTime"] = 10.9839999999385,
+				["instance_type"] = "none",
 				["CombatEndedAt"] = 1299431.834,
+				["TimeData"] = {
+				},
+				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "09:59:20",
-				["data_inicio"] = "09:58:50",
-				["CombatSkillCache"] = {
-				},
 				["totals_grupo"] = {
 					0, -- [1]
 					293, -- [2]
@@ -1116,60 +1116,58 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "09:58:50",
 				["start_time"] = 1299375.382,
 				["contra"] = "亡刺刻肉者",
-				["TimeData"] = {
-				},
+				["combat_id"] = 2,
 			}, -- [2]
 			{
 				{
-					["combatId"] = 1,
 					["tipo"] = 2,
+					["combatId"] = 1,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.008272,
-							["spec"] = 267,
 							["damage_from"] = {
-								["环境伤害 (高处坠落)"] = true,
 								["无信苦修者"] = true,
+								["环境伤害 (高处坠落)"] = true,
 							},
 							["targets"] = {
-								["无信苦修者"] = 72724,
 								["刻天者卡基特"] = 106363,
+								["无信苦修者"] = 72724,
 							},
+							["delay"] = 0,
 							["pets"] = {
 								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
 							},
-							["colocacao"] = 1,
-							["end_time"] = 1551405355,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["classe"] = "WARLOCK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 161392.008272,
-							["friendlyfire"] = {
-							},
-							["dps_started"] = false,
-							["total"] = 179087.008272,
-							["friendlyfire_total"] = 0,
 							["on_hold"] = false,
-							["nome"] = "丿指尖丶旋律",
+							["dps_started"] = false,
+							["end_time"] = 1551405355,
+							["damage_taken"] = 26147.008272,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[17962] = {
 										["c_amt"] = 0,
@@ -1178,8 +1176,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 13496,
 										["targets"] = {
-											["无信苦修者"] = 13496,
 											["刻天者卡基特"] = 12578,
+											["无信苦修者"] = 13496,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 26074,
@@ -1190,16 +1188,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 17962,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[116858] = {
 										["c_amt"] = 1,
@@ -1219,16 +1217,16 @@ _detalhes_database = {
 										["c_max"] = 35443,
 										["id"] = 116858,
 										["r_dmg"] = 0,
-										["spellschool"] = 124,
-										["a_dmg"] = 0,
+										["c_min"] = 35443,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 35443,
+										["a_dmg"] = 0,
+										["spellschool"] = 124,
 									},
 									[348] = {
 										["c_amt"] = 0,
@@ -1237,8 +1235,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 4334,
 										["targets"] = {
-											["无信苦修者"] = 4095,
 											["刻天者卡基特"] = 4334,
+											["无信苦修者"] = 4095,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 8429,
@@ -1249,16 +1247,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 348,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[157736] = {
 										["c_amt"] = 0,
@@ -1267,8 +1265,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 2891,
 										["targets"] = {
-											["无信苦修者"] = 12427,
 											["刻天者卡基特"] = 10776,
+											["无信苦修者"] = 12427,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 23203,
@@ -1279,16 +1277,16 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 157736,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[196448] = {
 										["c_amt"] = 3,
@@ -1297,8 +1295,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 1796,
 										["targets"] = {
-											["无信苦修者"] = 17814,
 											["刻天者卡基特"] = 15002,
+											["无信苦修者"] = 17814,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 24364,
@@ -1309,16 +1307,16 @@ _detalhes_database = {
 										["c_max"] = 3536,
 										["id"] = 196448,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 1617,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 18,
-										["r_amt"] = 0,
-										["c_min"] = 1617,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[265931] = {
 										["c_amt"] = 1,
@@ -1327,8 +1325,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 1315,
 										["targets"] = {
-											["无信苦修者"] = 2505,
 											["刻天者卡基特"] = 3943,
+											["无信苦修者"] = 2505,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 3943,
@@ -1339,16 +1337,16 @@ _detalhes_database = {
 										["c_max"] = 2505,
 										["id"] = 265931,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 2505,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 2505,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 									[29722] = {
 										["c_amt"] = 1,
@@ -1357,8 +1355,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 7447,
 										["targets"] = {
-											["无信苦修者"] = 14139,
 											["刻天者卡基特"] = 14840,
+											["无信苦修者"] = 14139,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 14840,
@@ -1369,54 +1367,57 @@ _detalhes_database = {
 										["c_max"] = 14139,
 										["id"] = 29722,
 										["r_dmg"] = 0,
-										["spellschool"] = 4,
-										["a_dmg"] = 0,
+										["c_min"] = 14139,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 14139,
+										["a_dmg"] = 0,
+										["spellschool"] = 4,
 									},
 								},
+								["tipo"] = 2,
 							},
+							["nome"] = "丿指尖丶旋律",
+							["spec"] = 267,
 							["grupo"] = true,
-							["serial"] = "Player-1944-06624493",
 							["last_dps"] = 13786.5287353448,
-							["custom"] = 0,
+							["friendlyfire_total"] = 0,
+							["colocacao"] = 1,
 							["last_event"] = 1551405354,
-							["damage_taken"] = 26147.008272,
+							["friendlyfire"] = {
+							},
 							["start_time"] = 1551405342,
-							["delay"] = 0,
-							["tipo"] = 1,
+							["serial"] = "Player-1944-06624493",
+							["total"] = 179087.008272,
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
 							["totalabsorbed"] = 0.002858,
-							["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
 							["damage_from"] = {
 								["刻天者卡基特"] = true,
 							},
 							["targets"] = {
-								["无信苦修者"] = 8248,
 								["刻天者卡基特"] = 9447,
+								["无信苦修者"] = 8248,
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
+							["damage_taken"] = 4011.002858,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 17695.002858,
+							["last_event"] = 1551405354,
 							["dps_started"] = false,
 							["total"] = 17695.002858,
-							["classe"] = "PET",
+							["delay"] = 0,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 2,
@@ -1425,8 +1426,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 1102,
 										["targets"] = {
-											["无信苦修者"] = 4202,
 											["刻天者卡基特"] = 6615,
+											["无信苦修者"] = 4202,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 6509,
@@ -1437,16 +1438,16 @@ _detalhes_database = {
 										["c_max"] = 2207,
 										["id"] = 1,
 										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
+										["c_min"] = 2101,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 6,
-										["r_amt"] = 0,
-										["c_min"] = 2101,
+										["a_dmg"] = 0,
+										["spellschool"] = 1,
 									}, -- [1]
 									[3716] = {
 										["c_amt"] = 0,
@@ -1455,8 +1456,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 708,
 										["targets"] = {
-											["无信苦修者"] = 4046,
 											["刻天者卡基特"] = 2832,
+											["无信苦修者"] = 4046,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 6878,
@@ -1467,18 +1468,19 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 3716,
 										["r_dmg"] = 0,
-										["spellschool"] = 32,
-										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["r_amt"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
 										["n_amt"] = 10,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+										["a_dmg"] = 0,
+										["spellschool"] = 32,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["friendlyfire"] = {
 							},
@@ -1486,21 +1488,21 @@ _detalhes_database = {
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 4011.002858,
+							["on_hold"] = false,
 							["start_time"] = 1551405344,
-							["delay"] = 0,
-							["last_event"] = 1551405354,
+							["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
+							["classe"] = "PET",
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1,
 					["tipo"] = 3,
+					["combatId"] = 1,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
-							["healing_from"] = {
-								["丿指尖丶旋律"] = true,
+							["targets_overheal"] = {
+								["丿指尖丶旋律"] = 1,
 							},
 							["pets"] = {
 								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
@@ -1511,8 +1513,8 @@ _detalhes_database = {
 							["total_without_pet"] = 11867.003101,
 							["total"] = 12081.003101,
 							["targets_absorbs"] = {
-								["丿指尖丶旋律"] = 8657,
 								["尼迦拉克希 <丿指尖丶旋律>"] = 2542,
+								["丿指尖丶旋律"] = 8657,
 							},
 							["heal_enemy"] = {
 							},
@@ -1521,19 +1523,16 @@ _detalhes_database = {
 							["totalabsorb"] = 11199.003101,
 							["last_hps"] = 0,
 							["targets"] = {
-								["丿指尖丶旋律"] = 9325,
 								["尼迦拉克希 <丿指尖丶旋律>"] = 2756,
+								["丿指尖丶旋律"] = 9325,
 							},
 							["totalover_without_pet"] = 0.003101,
 							["healing_taken"] = 9325.003101,
 							["fight_component"] = true,
 							["end_time"] = 1551405355,
-							["targets_overheal"] = {
-								["丿指尖丶旋律"] = 1,
-							},
+							["heal_enemy_amt"] = 0,
 							["nome"] = "丿指尖丶旋律",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[77220] = {
 										["c_amt"] = 0,
@@ -1553,14 +1552,14 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["丿指尖丶旋律"] = 1353,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 1353,
-										["n_amt"] = 5,
+										["m_crit"] = 0,
 										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 5,
+										["n_curado"] = 1353,
+										["m_healed"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
@@ -1583,12 +1582,12 @@ _detalhes_database = {
 										},
 										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 668,
-										["n_amt"] = 4,
-										["totaldenied"] = 0,
 										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 4,
+										["n_curado"] = 668,
+										["m_amt"] = 0,
 										["absorbed"] = 0,
 									},
 									[108366] = {
@@ -1599,8 +1598,8 @@ _detalhes_database = {
 										},
 										["n_max"] = 3198,
 										["targets"] = {
-											["丿指尖丶旋律"] = 7304,
 											["尼迦拉克希 <丿指尖丶旋律>"] = 2542,
+											["丿指尖丶旋律"] = 7304,
 										},
 										["n_min"] = 1356,
 										["counter"] = 8,
@@ -1609,48 +1608,50 @@ _detalhes_database = {
 										["c_max"] = 0,
 										["id"] = 108366,
 										["targets_absorbs"] = {
-											["丿指尖丶旋律"] = 7304,
 											["尼迦拉克希 <丿指尖丶旋律>"] = 2542,
+											["丿指尖丶旋律"] = 7304,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 9846,
-										["n_amt"] = 8,
+										["m_crit"] = 0,
 										["totaldenied"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 8,
+										["n_curado"] = 9846,
+										["m_healed"] = 0,
 										["is_shield"] = true,
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1551405344,
+							["healing_from"] = {
+								["丿指尖丶旋律"] = true,
+							},
+							["tipo"] = 2,
 							["custom"] = 0,
 							["last_event"] = 1551405355,
-							["spec"] = 267,
 							["totaldenied"] = 0.003101,
+							["start_time"] = 1551405344,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["spec"] = 267,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1,
 					["tipo"] = 7,
+					["combatId"] = 1,
 					["_ActorTable"] = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1,
 					["tipo"] = 9,
+					["combatId"] = 1,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[157736] = {
 										["activedamt"] = -1,
@@ -1659,151 +1660,152 @@ _detalhes_database = {
 										},
 										["actived_at"] = 1551405354,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["counter"] = 0,
 										["refreshamt"] = 0,
 										["actived"] = false,
-										["counter"] = 0,
+										["appliedamt"] = 1,
 									},
 									[265931] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
+										["refreshamt"] = 0,
 										["id"] = 265931,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["uptime"] = 8,
 										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 112,
 							["classe"] = "WARLOCK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[196447] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 196447,
+										["uptime"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 2,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[275429] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 275429,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["uptime"] = 10,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[186401] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 186401,
+										["uptime"] = 13,
 										["targets"] = {
 										},
-										["uptime"] = 13,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[251837] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 251837,
+										["uptime"] = 13,
 										["targets"] = {
 										},
-										["uptime"] = 13,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[117828] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 2,
+										["refreshamt"] = 0,
 										["id"] = 117828,
+										["uptime"] = 7,
 										["targets"] = {
 										},
-										["uptime"] = 7,
 										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[17619] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 17619,
+										["uptime"] = 13,
 										["targets"] = {
 										},
-										["uptime"] = 13,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 268887,
+										["uptime"] = 8,
 										["targets"] = {
 										},
-										["uptime"] = 8,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[108366] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 4,
+										["refreshamt"] = 0,
 										["id"] = 108366,
+										["uptime"] = 13,
 										["targets"] = {
 										},
-										["uptime"] = 13,
 										["appliedamt"] = 4,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[281240] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 0,
 										["id"] = 281240,
+										["uptime"] = 13,
 										["targets"] = {
 										},
-										["uptime"] = 13,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[279913] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 1,
+										["refreshamt"] = 1,
 										["id"] = 279913,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["uptime"] = 10,
 										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[266030] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 2,
+										["refreshamt"] = 0,
 										["id"] = 266030,
+										["uptime"] = 10,
 										["targets"] = {
 										},
-										["uptime"] = 10,
 										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 16,
@@ -1818,38 +1820,38 @@ _detalhes_database = {
 								[196447] = 1,
 								[29722] = 3,
 							},
-							["debuff_uptime_targets"] = {
-							},
+							["tipo"] = 4,
 							["last_event"] = 1551405355,
 							["nome"] = "丿指尖丶旋律",
 							["pets"] = {
 								"尼迦拉克希 <丿指尖丶旋律>", -- [1]
 							},
 							["serial"] = "Player-1944-06624493",
-							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 4369,
 							["ownerName"] = "丿指尖丶旋律",
 							["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["fight_component"] = true,
-							["tipo"] = 4,
 							["spell_cast"] = {
 								[17735] = 2,
 								[112042] = 1,
 								[3716] = 7,
 							},
-							["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
+							["pets"] = {
+							},
 							["last_event"] = 0,
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
+							["fight_component"] = true,
 						}, -- [2]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1,
 					["tipo"] = 2,
+					["combatId"] = 1,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -1872,21 +1874,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = -0.0137950000000062,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = -0.00288700000000008,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = -0.00288700000000008,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 					["丿指尖丶旋律"] = {
@@ -1967,7 +1969,6 @@ _detalhes_database = {
 						["n"] = 2,
 					},
 				},
-				["instance_type"] = "none",
 				["frags_need_refresh"] = true,
 				["__call"] = {
 				},
@@ -1976,6 +1977,11 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+							["丿指尖丶旋律"] = 179087.008272,
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1985,24 +1991,19 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-							["丿指尖丶旋律"] = 179087.008272,
-						}, -- [1]
-					},
 				},
 				["end_time"] = 1299200.643,
-				["combat_id"] = 1,
 				["TotalElapsedCombatTime"] = 1299200.643,
+				["instance_type"] = "none",
 				["CombatEndedAt"] = 1299200.643,
+				["TimeData"] = {
+				},
+				["hasSaved"] = true,
 				["frags"] = {
-					["无信苦修者"] = 1,
 					["刻天者卡基特"] = 1,
+					["无信苦修者"] = 1,
 				},
 				["data_fim"] = "09:55:55",
-				["data_inicio"] = "09:55:42",
-				["CombatSkillCache"] = {
-				},
 				["totals_grupo"] = {
 					161392, -- [1]
 					11867, -- [2]
@@ -2010,24 +2011,26 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = 0,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
 				},
+				["CombatSkillCache"] = {
+				},
+				["data_inicio"] = "09:55:42",
 				["start_time"] = 1299187.653,
 				["contra"] = "刻天者卡基特",
-				["TimeData"] = {
-				},
+				["combat_id"] = 1,
 			}, -- [3]
 			{
 				{
@@ -2041,35 +2044,35 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["on_hold"] = false,
 							["pets"] = {
 							},
-							["friendlyfire"] = {
+							["last_event"] = 0,
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
 							},
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.002381,
-							["spec"] = 267,
+							["delay"] = 0,
 							["dps_started"] = false,
 							["total"] = 0.002381,
 							["classe"] = "WARLOCK",
-							["serial"] = "Player-1944-06624493",
+							["damage_taken"] = 73981.002381,
 							["nome"] = "丿指尖丶旋律",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
+							["spec"] = 267,
 							["grupo"] = true,
 							["end_time"] = 1551405150,
 							["last_dps"] = 0,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 73981.002381,
+							["on_hold"] = false,
 							["start_time"] = 1551405150,
-							["delay"] = 0,
-							["last_event"] = 0,
+							["serial"] = "Player-1944-06624493",
+							["friendlyfire"] = {
+							},
 						}, -- [1]
 					},
 				}, -- [1]
@@ -2088,67 +2091,67 @@ _detalhes_database = {
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
+							["nome"] = "丿指尖丶旋律",
 							["spec"] = 267,
 							["grupo"] = true,
-							["buff_uptime"] = 0,
-							["nome"] = "丿指尖丶旋律",
 							["pets"] = {
 							},
-							["last_event"] = 1551405150,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 0,
 							["classe"] = "WARLOCK",
+							["tipo"] = 4,
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
-									[281240] = {
+									[251837] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
-										["id"] = 281240,
+										["refreshamt"] = 0,
+										["id"] = 251837,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["uptime"] = 0,
 										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
-									[17619] = {
+									[281240] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
-										["id"] = 17619,
+										["refreshamt"] = 0,
+										["id"] = 281240,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["uptime"] = 0,
 										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 									[186401] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
+										["refreshamt"] = 0,
 										["id"] = 186401,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["uptime"] = 0,
 										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
-									[251837] = {
+									[17619] = {
+										["counter"] = 0,
+										["actived"] = false,
 										["activedamt"] = 0,
-										["id"] = 251837,
+										["refreshamt"] = 0,
+										["id"] = 17619,
+										["uptime"] = 0,
 										["targets"] = {
 										},
-										["uptime"] = 0,
 										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["serial"] = "Player-1944-06624493",
-							["tipo"] = 4,
+							["last_event"] = 1551405150,
 						}, -- [1]
 					},
 				}, -- [4]
@@ -2175,21 +2178,21 @@ _detalhes_database = {
 						0, -- [1]
 						[0] = -0.00513499999999567,
 						["alternatepower"] = 0,
-						[3] = 0,
 						[6] = 0,
+						[3] = 0,
 					}, -- [3]
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
 						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
 					}, -- [4]
-					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
 				},
 				["player_last_events"] = {
 				},
@@ -2201,6 +2204,10 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage"] = {
+						{
+						}, -- [1]
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -2209,14 +2216,31 @@ _detalhes_database = {
 					},
 					["damage_section"] = {
 					},
-					["damage"] = {
-						{
-						}, -- [1]
-					},
 				},
 				["end_time"] = 1298996.154,
 				["instance_type"] = "none",
-				["TotalElapsedCombatTime"] = 9.9910000001546,
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["hasSaved"] = true,
 				["frags"] = {
 				},
 				["data_fim"] = "09:52:31",
@@ -2227,27 +2251,7 @@ _detalhes_database = {
 				["start_time"] = 0,
 				["TimeData"] = {
 				},
-				["totals_grupo"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
+				["TotalElapsedCombatTime"] = 9.9910000001546,
 			}, -- [4]
 		},
 	},
@@ -2287,17 +2291,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["enabled"] = true,
+			["animate"] = false,
 			["showamount"] = false,
 			["useplayercolor"] = false,
-			["author"] = "Details! Team",
 			["useclasscolors"] = false,
+			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["animate"] = false,
+			["enabled"] = true,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -2312,13 +2316,13 @@ _detalhes_database = {
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -2331,11 +2335,11 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 0,
-			["hide_on_combat"] = false,
+			["encounter_timers_dbm"] = {
+			},
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -2362,27 +2366,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["per_second"] = {
-				["enabled"] = false,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 1.525878906250e-05,
-				["x"] = 6.1035156250e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -2390,17 +2379,43 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
+			["y"] = 0,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 1.525878906250e-05,
+				["x"] = 6.1035156250e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
 			["x"] = 3.05175781250e-05,
 			["font_face"] = "Friz Quadrata TT",
-			["y"] = 0,
-			["author"] = "Details! Team",
-			["point"] = "CENTER",
-			["row_height"] = 20,
-			["scale"] = 1,
+			["use_spark"] = true,
+			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["cached_talents"] = {
+		["Player-1944-06624493"] = {
+			19285, -- [1]
+			23143, -- [2]
+			22038, -- [3]
+			23144, -- [4]
+			23155, -- [5]
+			23148, -- [6]
+			19291, -- [7]
 		},
 	},
 	["announce_prepots"] = {
@@ -2410,20 +2425,929 @@ _detalhes_database = {
 	},
 	["last_encounter"] = "玛里苟斯",
 	["last_day"] = "01",
-	["cached_talents"] = {
-		["Player-1944-06624493"] = {
-			19285, -- [1]
-			23143, -- [2]
-			22038, -- [3]
-			19291, -- [4]
-			23144, -- [5]
-			23148, -- [6]
-			23155, -- [7]
+	["benchmark_db"] = {
+		["frame"] = {
 		},
 	},
-	["character_data"] = {
-		["logons"] = 40,
+	["last_realversion"] = 135,
+	["combat_id"] = 3,
+	["savedStyles"] = {
 	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["combat_counter"] = 419,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.025732,
+					["damage_from"] = {
+						["无信苦修者"] = true,
+						["无信哨卫"] = true,
+						["环境伤害 (高处坠落)"] = true,
+						["亡刺刻肉者"] = true,
+						["亡刺幼体"] = true,
+					},
+					["targets"] = {
+						["诱捕者卡米德"] = 14803,
+						["无信苦修者"] = 72724,
+						["刻天者卡基特"] = 106363,
+						["骨喙雏鸟"] = 39890,
+					},
+					["delay"] = 0,
+					["pets"] = {
+						"尼迦拉克希 <丿指尖丶旋律>", -- [1]
+					},
+					["custom"] = 0,
+					["damage_taken"] = 213087.025732,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 212636.025732,
+					["end_time"] = 1551405151,
+					["dps_started"] = false,
+					["total"] = 233780.025732,
+					["last_dps"] = 2511.22548963931,
+					["tipo"] = 1,
+					["nome"] = "丿指尖丶旋律",
+					["spells"] = {
+						["_ActorTable"] = {
+							[17962] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 13552,
+								["targets"] = {
+									["诱捕者卡米德"] = 13552,
+									["无信苦修者"] = 13496,
+									["刻天者卡基特"] = 12578,
+									["骨喙雏鸟"] = 12276,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 51902,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 51902,
+								["c_max"] = 0,
+								["id"] = 17962,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[116858] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 35443,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["刻天者卡基特"] = 35443,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 35443,
+								["c_max"] = 35443,
+								["id"] = 116858,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[348] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 4334,
+								["targets"] = {
+									["无信苦修者"] = 4095,
+									["刻天者卡基特"] = 4334,
+									["骨喙雏鸟"] = 4295,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 12724,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 12724,
+								["c_max"] = 0,
+								["id"] = 348,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["EVADE"] = 1,
+							},
+							[157736] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2891,
+								["targets"] = {
+									["无信苦修者"] = 12427,
+									["刻天者卡基特"] = 10776,
+									["骨喙雏鸟"] = 2483,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 25686,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 25686,
+								["c_max"] = 0,
+								["id"] = 157736,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["a_dmg"] = 0,
+								["EVADE"] = 1,
+							},
+							[196448] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 8452,
+								["g_amt"] = 0,
+								["n_max"] = 1796,
+								["targets"] = {
+									["无信苦修者"] = 17814,
+									["刻天者卡基特"] = 15002,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 24364,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 21,
+								["total"] = 32816,
+								["c_max"] = 3536,
+								["id"] = 196448,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 18,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[265931] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 2505,
+								["g_amt"] = 0,
+								["n_max"] = 1315,
+								["targets"] = {
+									["诱捕者卡米德"] = 1251,
+									["无信苦修者"] = 2505,
+									["刻天者卡基特"] = 3943,
+									["骨喙雏鸟"] = 1253,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6447,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 8952,
+								["c_max"] = 2505,
+								["id"] = 265931,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+							[29722] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 30273,
+								["g_amt"] = 0,
+								["n_max"] = 7447,
+								["targets"] = {
+									["无信苦修者"] = 14139,
+									["刻天者卡基特"] = 14840,
+									["骨喙雏鸟"] = 16134,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14840,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 45113,
+								["c_max"] = 16134,
+								["id"] = 29722,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["classe"] = "WARLOCK",
+					["spec"] = 267,
+					["colocacao"] = 1,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1551405125,
+					["serial"] = "Player-1944-06624493",
+					["friendlyfire"] = {
+					},
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["totalabsorbed"] = 0.014586,
+					["damage_from"] = {
+						["刻天者卡基特"] = true,
+						["骨喙雏鸟"] = true,
+					},
+					["targets"] = {
+						["无信苦修者"] = 8248,
+						["刻天者卡基特"] = 9447,
+						["骨喙雏鸟"] = 3449,
+					},
+					["pets"] = {
+					},
+					["last_dps"] = 0,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 21144.014586,
+					["damage_taken"] = 4482.014586,
+					["dps_started"] = false,
+					["end_time"] = 1551405355,
+					["delay"] = 0,
+					["ownerName"] = "丿指尖丶旋律",
+					["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 4308,
+								["g_amt"] = 0,
+								["n_max"] = 1102,
+								["targets"] = {
+									["无信苦修者"] = 4202,
+									["刻天者卡基特"] = 6615,
+									["骨喙雏鸟"] = 2101,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8610,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 12918,
+								["c_max"] = 2207,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							}, -- [1]
+							[3716] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 708,
+								["targets"] = {
+									["无信苦修者"] = 4046,
+									["刻天者卡基特"] = 2832,
+									["骨喙雏鸟"] = 1348,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8226,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 8226,
+								["c_max"] = 0,
+								["id"] = 3716,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["m_crit"] = 0,
+								["r_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 12,
+								["a_amt"] = 0,
+								["a_dmg"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["friendlyfire"] = {
+					},
+					["tipo"] = 1,
+					["total"] = 21144.014586,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1551405338,
+					["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
+					["classe"] = "PET",
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+						["丿指尖丶旋律"] = true,
+					},
+					["pets"] = {
+						"尼迦拉克希 <丿指尖丶旋律>", -- [1]
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "WARLOCK",
+					["totalover"] = 1400.014248,
+					["total_without_pet"] = 12656.014248,
+					["total"] = 12870.014248,
+					["targets_absorbs"] = {
+						["丿指尖丶旋律"] = 0,
+						["尼迦拉克希 <丿指尖丶旋律>"] = 0,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-1944-06624493",
+					["totalabsorb"] = 11713.014248,
+					["last_hps"] = 0,
+					["targets"] = {
+						["丿指尖丶旋律"] = 0,
+						["尼迦拉克希 <丿指尖丶旋律>"] = 0,
+					},
+					["totalover_without_pet"] = 0.014248,
+					["healing_taken"] = 9893.014248,
+					["fight_component"] = true,
+					["end_time"] = 1551405355,
+					["targets_overheal"] = {
+						["丿指尖丶旋律"] = 0,
+						["尼迦拉克希 <丿指尖丶旋律>"] = 0,
+					},
+					["nome"] = "丿指尖丶旋律",
+					["spells"] = {
+						["_ActorTable"] = {
+							[77220] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 1646,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 551,
+								["targets"] = {
+									["丿指尖丶旋律"] = 1646,
+								},
+								["n_min"] = 0,
+								["counter"] = 8,
+								["overheal"] = 0,
+								["total"] = 1646,
+								["c_max"] = 0,
+								["id"] = 77220,
+								["targets_absorbs"] = {
+									["丿指尖丶旋律"] = 1646,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 8,
+								["n_curado"] = 1646,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+							[143924] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 318,
+								["targets"] = {
+									["丿指尖丶旋律"] = 943,
+								},
+								["n_min"] = 0,
+								["counter"] = 7,
+								["overheal"] = 0,
+								["total"] = 943,
+								["c_max"] = 0,
+								["id"] = 143924,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 7,
+								["n_curado"] = 943,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+							[108366] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 10067,
+								["targets_overheal"] = {
+									["丿指尖丶旋律"] = 700,
+									["尼迦拉克希 <丿指尖丶旋律>"] = 700,
+								},
+								["n_max"] = 3198,
+								["targets"] = {
+									["丿指尖丶旋律"] = 7304,
+									["尼迦拉克希 <丿指尖丶旋律>"] = 2763,
+								},
+								["n_min"] = 0,
+								["counter"] = 12,
+								["overheal"] = 1400,
+								["total"] = 10067,
+								["c_max"] = 0,
+								["id"] = 108366,
+								["targets_absorbs"] = {
+									["丿指尖丶旋律"] = 7304,
+									["尼迦拉克希 <丿指尖丶旋律>"] = 2763,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 12,
+								["n_curado"] = 10067,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["last_event"] = 0,
+					["heal_enemy_amt"] = 0,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["totaldenied"] = 0.014248,
+					["start_time"] = 1551405335,
+					["delay"] = 0,
+					["spec"] = 267,
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.020355,
+					["total_without_pet"] = 214.020355,
+					["total"] = 214.020355,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
+					["totalabsorb"] = 0.020355,
+					["last_hps"] = 0,
+					["targets"] = {
+						["尼迦拉克希 <丿指尖丶旋律>"] = 214,
+					},
+					["totalover_without_pet"] = 0.020355,
+					["healing_taken"] = 2977.020355,
+					["fight_component"] = true,
+					["end_time"] = 1551405355,
+					["ownerName"] = "丿指尖丶旋律",
+					["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
+					["spells"] = {
+						["_ActorTable"] = {
+							[143924] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 118,
+								["targets"] = {
+									["尼迦拉克希 <丿指尖丶旋律>"] = 214,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 0,
+								["total"] = 214,
+								["c_max"] = 0,
+								["id"] = 143924,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 2,
+								["n_curado"] = 214,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["totaldenied"] = 0.020355,
+					["healing_from"] = {
+						["尼迦拉克希 <丿指尖丶旋律>"] = true,
+						["丿指尖丶旋律"] = true,
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "PET",
+					["start_time"] = 1551405346,
+					["delay"] = 0,
+					["tipo"] = 2,
+				}, -- [2]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[157736] = {
+								["counter"] = 0,
+								["appliedamt"] = 2,
+								["activedamt"] = -1,
+								["actived_at"] = 1551405354,
+								["id"] = 157736,
+								["uptime"] = 11,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[265931] = {
+								["counter"] = 0,
+								["activedamt"] = -1,
+								["appliedamt"] = 3,
+								["id"] = 265931,
+								["uptime"] = 56,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["pets"] = {
+						"尼迦拉克希 <丿指尖丶旋律>", -- [1]
+					},
+					["classe"] = "WARLOCK",
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[196447] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 196447,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[275429] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 275429,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[186401] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 186401,
+								["uptime"] = 93,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[251837] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 251837,
+								["uptime"] = 93,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[117828] = {
+								["counter"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 117828,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[17619] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 17619,
+								["uptime"] = 93,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[268887] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 268887,
+								["uptime"] = 11,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[108366] = {
+								["counter"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 108366,
+								["uptime"] = 32,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[281240] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 281240,
+								["uptime"] = 93,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[279913] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 279913,
+								["uptime"] = 13,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[266030] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 266030,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[118089] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 118089,
+								["uptime"] = 30,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 67,
+					["nome"] = "丿指尖丶旋律",
+					["spec"] = 267,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[17962] = 3,
+						[116858] = 1,
+						[348] = 3,
+						[196447] = 1,
+						[29722] = 4,
+					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 500,
+					["serial"] = "Player-1944-06624493",
+					["debuff_uptime_targets"] = {
+					},
+				}, -- [1]
+				{
+					["fight_component"] = true,
+					["ownerName"] = "丿指尖丶旋律",
+					["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
+					["classe"] = "PET",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["flag_original"] = 4369,
+					["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
+					["spell_cast"] = {
+						[17735] = 4,
+						[112042] = 2,
+						[3716] = 9,
+					},
+				}, -- [2]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 414,
+		["totals"] = {
+			1113864.174482, -- [1]
+			82355.057033, -- [2]
+			{
+				0, -- [1]
+				[0] = 121.020184,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 1.002887,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["end_time"] = 1299496.944,
+		["totals_grupo"] = {
+			233780.022962, -- [1]
+			12870.006533, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = "10:00:51",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 50.1370000001043,
+				["type"] = 0,
+				["name"] = "诱捕者卡米德",
+				["clock"] = "10:00:01",
+			}, -- [1]
+			{
+				["elapsed"] = 29.966999999946,
+				["type"] = 0,
+				["name"] = "亡刺刻肉者",
+				["clock"] = "09:58:50",
+			}, -- [2]
+			{
+				["elapsed"] = 12.9899999999907,
+				["type"] = 0,
+				["name"] = "无信苦修者",
+				["clock"] = "09:55:42",
+			}, -- [3]
+			{
+				["elapsed"] = 1298996.154,
+				["type"] = 0,
+				["name"] = "未知",
+				["clock"] = 0,
+			}, -- [4]
+		},
+		["start_time"] = 1299403.85,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["data_inicio"] = "09:55:42",
+	},
+	["force_font_outline"] = "",
 	["local_instances_config"] = {
 		{
 			["segment"] = 0,
@@ -2494,931 +3418,13 @@ _detalhes_database = {
 			},
 		}, -- [2]
 	},
-	["combat_id"] = 3,
-	["savedStyles"] = {
-	},
-	["force_font_outline"] = "",
-	["combat_counter"] = 418,
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
-	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-				{
-					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.025732,
-					["damage_from"] = {
-						["无信苦修者"] = true,
-						["无信哨卫"] = true,
-						["环境伤害 (高处坠落)"] = true,
-						["亡刺刻肉者"] = true,
-						["亡刺幼体"] = true,
-					},
-					["targets"] = {
-						["诱捕者卡米德"] = 14803,
-						["无信苦修者"] = 72724,
-						["骨喙雏鸟"] = 39890,
-						["刻天者卡基特"] = 106363,
-					},
-					["on_hold"] = false,
-					["pets"] = {
-						"尼迦拉克希 <丿指尖丶旋律>", -- [1]
-					},
-					["friendlyfire"] = {
-					},
-					["friendlyfire_total"] = 0,
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 212636.025732,
-					["colocacao"] = 1,
-					["last_event"] = 0,
-					["dps_started"] = false,
-					["total"] = 233780.025732,
-					["classe"] = "WARLOCK",
-					["end_time"] = 1551405151,
-					["nome"] = "丿指尖丶旋律",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-							[17962] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 13552,
-								["targets"] = {
-									["诱捕者卡米德"] = 13552,
-									["无信苦修者"] = 13496,
-									["骨喙雏鸟"] = 12276,
-									["刻天者卡基特"] = 12578,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 51902,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 51902,
-								["c_max"] = 0,
-								["id"] = 17962,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[116858] = {
-								["c_amt"] = 1,
-								["b_amt"] = 0,
-								["c_dmg"] = 35443,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-									["刻天者卡基特"] = 35443,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 1,
-								["total"] = 35443,
-								["c_max"] = 35443,
-								["id"] = 116858,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[348] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 4334,
-								["targets"] = {
-									["无信苦修者"] = 4095,
-									["骨喙雏鸟"] = 4295,
-									["刻天者卡基特"] = 4334,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 12724,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 12724,
-								["c_max"] = 0,
-								["id"] = 348,
-								["r_dmg"] = 0,
-								["EVADE"] = 1,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 3,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[157736] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 2891,
-								["targets"] = {
-									["无信苦修者"] = 12427,
-									["骨喙雏鸟"] = 2483,
-									["刻天者卡基特"] = 10776,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 25686,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 11,
-								["total"] = 25686,
-								["c_max"] = 0,
-								["id"] = 157736,
-								["r_dmg"] = 0,
-								["EVADE"] = 1,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 10,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[196448] = {
-								["c_amt"] = 3,
-								["b_amt"] = 0,
-								["c_dmg"] = 8452,
-								["g_amt"] = 0,
-								["n_max"] = 1796,
-								["targets"] = {
-									["刻天者卡基特"] = 15002,
-									["无信苦修者"] = 17814,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 24364,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 21,
-								["total"] = 32816,
-								["c_max"] = 3536,
-								["id"] = 196448,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 18,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[265931] = {
-								["c_amt"] = 1,
-								["b_amt"] = 0,
-								["c_dmg"] = 2505,
-								["g_amt"] = 0,
-								["n_max"] = 1315,
-								["targets"] = {
-									["诱捕者卡米德"] = 1251,
-									["无信苦修者"] = 2505,
-									["骨喙雏鸟"] = 1253,
-									["刻天者卡基特"] = 3943,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 6447,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 6,
-								["total"] = 8952,
-								["c_max"] = 2505,
-								["id"] = 265931,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 5,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[29722] = {
-								["c_amt"] = 2,
-								["b_amt"] = 0,
-								["c_dmg"] = 30273,
-								["g_amt"] = 0,
-								["n_max"] = 7447,
-								["targets"] = {
-									["无信苦修者"] = 14139,
-									["骨喙雏鸟"] = 16134,
-									["刻天者卡基特"] = 14840,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 14840,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 45113,
-								["c_max"] = 16134,
-								["id"] = 29722,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 2,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-						},
-					},
-					["grupo"] = true,
-					["spec"] = 267,
-					["serial"] = "Player-1944-06624493",
-					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 2511.22548963303,
-					["start_time"] = 1551405125,
-					["delay"] = 0,
-					["damage_taken"] = 213087.025732,
-				}, -- [1]
-				{
-					["flag_original"] = 4369,
-					["totalabsorbed"] = 0.014586,
-					["on_hold"] = false,
-					["damage_from"] = {
-						["骨喙雏鸟"] = true,
-						["刻天者卡基特"] = true,
-					},
-					["targets"] = {
-						["无信苦修者"] = 8248,
-						["骨喙雏鸟"] = 3449,
-						["刻天者卡基特"] = 9447,
-					},
-					["pets"] = {
-					},
-					["friendlyfire_total"] = 0,
-					["classe"] = "PET",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 21144.014586,
-					["end_time"] = 1551405355,
-					["dps_started"] = false,
-					["total"] = 21144.014586,
-					["last_event"] = 0,
-					["ownerName"] = "丿指尖丶旋律",
-					["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
-					["friendlyfire"] = {
-					},
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-							{
-								["c_amt"] = 2,
-								["b_amt"] = 0,
-								["c_dmg"] = 4308,
-								["g_amt"] = 0,
-								["n_max"] = 1102,
-								["targets"] = {
-									["无信苦修者"] = 4202,
-									["骨喙雏鸟"] = 2101,
-									["刻天者卡基特"] = 6615,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 8610,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 10,
-								["total"] = 12918,
-								["c_max"] = 2207,
-								["id"] = 1,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 8,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							}, -- [1]
-							[3716] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 708,
-								["targets"] = {
-									["无信苦修者"] = 4046,
-									["骨喙雏鸟"] = 1348,
-									["刻天者卡基特"] = 2832,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 8226,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 12,
-								["total"] = 8226,
-								["c_max"] = 0,
-								["id"] = 3716,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 12,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-						},
-					},
-					["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
-					["custom"] = 0,
-					["tipo"] = 1,
-					["last_dps"] = 0,
-					["start_time"] = 1551405338,
-					["delay"] = 0,
-					["damage_taken"] = 4482.014586,
-				}, -- [2]
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-				{
-					["flag_original"] = 1297,
-					["targets_overheal"] = {
-						["尼迦拉克希 <丿指尖丶旋律>"] = 700,
-						["丿指尖丶旋律"] = 700,
-					},
-					["pets"] = {
-						"尼迦拉克希 <丿指尖丶旋律>", -- [1]
-					},
-					["iniciar_hps"] = false,
-					["heal_enemy_amt"] = 0,
-					["totalover"] = 1400.014248,
-					["total_without_pet"] = 12656.014248,
-					["total"] = 12870.014248,
-					["targets_absorbs"] = {
-						["尼迦拉克希 <丿指尖丶旋律>"] = 2763,
-						["丿指尖丶旋律"] = 8950,
-					},
-					["heal_enemy"] = {
-					},
-					["on_hold"] = false,
-					["serial"] = "Player-1944-06624493",
-					["totalabsorb"] = 11713.014248,
-					["last_hps"] = 0,
-					["targets"] = {
-						["尼迦拉克希 <丿指尖丶旋律>"] = 2977,
-						["丿指尖丶旋律"] = 9893,
-					},
-					["totalover_without_pet"] = 0.014248,
-					["healing_taken"] = 9893.014248,
-					["fight_component"] = true,
-					["end_time"] = 1551405355,
-					["healing_from"] = {
-						["丿指尖丶旋律"] = true,
-					},
-					["nome"] = "丿指尖丶旋律",
-					["spells"] = {
-						["tipo"] = 3,
-						["_ActorTable"] = {
-							[77220] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 1646,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 551,
-								["targets"] = {
-									["丿指尖丶旋律"] = 1646,
-								},
-								["n_min"] = 0,
-								["counter"] = 8,
-								["overheal"] = 0,
-								["total"] = 1646,
-								["c_max"] = 0,
-								["id"] = 77220,
-								["targets_absorbs"] = {
-									["丿指尖丶旋律"] = 1646,
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 1646,
-								["n_amt"] = 8,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[143924] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 318,
-								["targets"] = {
-									["丿指尖丶旋律"] = 943,
-								},
-								["n_min"] = 0,
-								["counter"] = 7,
-								["overheal"] = 0,
-								["total"] = 943,
-								["c_max"] = 0,
-								["id"] = 143924,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 943,
-								["n_amt"] = 7,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[108366] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 10067,
-								["targets_overheal"] = {
-									["尼迦拉克希 <丿指尖丶旋律>"] = 700,
-									["丿指尖丶旋律"] = 700,
-								},
-								["n_max"] = 3198,
-								["targets"] = {
-									["尼迦拉克希 <丿指尖丶旋律>"] = 2763,
-									["丿指尖丶旋律"] = 7304,
-								},
-								["n_min"] = 0,
-								["counter"] = 12,
-								["overheal"] = 1400,
-								["total"] = 10067,
-								["c_max"] = 0,
-								["id"] = 108366,
-								["targets_absorbs"] = {
-									["尼迦拉克希 <丿指尖丶旋律>"] = 2763,
-									["丿指尖丶旋律"] = 7304,
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 10067,
-								["n_amt"] = 12,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-						},
-					},
-					["grupo"] = true,
-					["start_time"] = 1551405335,
-					["classe"] = "WARLOCK",
-					["custom"] = 0,
-					["tipo"] = 2,
-					["spec"] = 267,
-					["totaldenied"] = 0.014248,
-					["delay"] = 0,
-					["last_event"] = 0,
-				}, -- [1]
-				{
-					["flag_original"] = 4369,
-					["healing_from"] = {
-						["丿指尖丶旋律"] = true,
-						["尼迦拉克希 <丿指尖丶旋律>"] = true,
-					},
-					["pets"] = {
-					},
-					["iniciar_hps"] = false,
-					["classe"] = "PET",
-					["totalover"] = 0.020355,
-					["total_without_pet"] = 214.020355,
-					["total"] = 214.020355,
-					["targets_absorbs"] = {
-					},
-					["heal_enemy"] = {
-					},
-					["on_hold"] = false,
-					["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
-					["totalabsorb"] = 0.020355,
-					["last_hps"] = 0,
-					["targets"] = {
-						["尼迦拉克希 <丿指尖丶旋律>"] = 214,
-					},
-					["totalover_without_pet"] = 0.020355,
-					["healing_taken"] = 2977.020355,
-					["targets_overheal"] = {
-					},
-					["fight_component"] = true,
-					["end_time"] = 1551405355,
-					["ownerName"] = "丿指尖丶旋律",
-					["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
-					["heal_enemy_amt"] = 0,
-					["last_event"] = 0,
-					["custom"] = 0,
-					["tipo"] = 2,
-					["start_time"] = 1551405346,
-					["totaldenied"] = 0.020355,
-					["delay"] = 0,
-					["spells"] = {
-						["tipo"] = 3,
-						["_ActorTable"] = {
-							[143924] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 118,
-								["targets"] = {
-									["尼迦拉克希 <丿指尖丶旋律>"] = 214,
-								},
-								["n_min"] = 0,
-								["counter"] = 2,
-								["overheal"] = 0,
-								["total"] = 214,
-								["c_max"] = 0,
-								["id"] = 143924,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 214,
-								["n_amt"] = 2,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-						},
-					},
-				}, -- [2]
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-				{
-					["flag_original"] = 1047,
-					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[157736] = {
-								["refreshamt"] = 0,
-								["appliedamt"] = 2,
-								["activedamt"] = -1,
-								["uptime"] = 11,
-								["id"] = 157736,
-								["actived_at"] = 1551405354,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[265931] = {
-								["refreshamt"] = 0,
-								["activedamt"] = -1,
-								["appliedamt"] = 3,
-								["id"] = 265931,
-								["uptime"] = 56,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-						},
-					},
-					["pets"] = {
-						"尼迦拉克希 <丿指尖丶旋律>", -- [1]
-					},
-					["classe"] = "WARLOCK",
-					["buff_uptime_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[196447] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 196447,
-								["uptime"] = 2,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[275429] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 275429,
-								["uptime"] = 10,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[186401] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 186401,
-								["uptime"] = 93,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[251837] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 251837,
-								["uptime"] = 93,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[117828] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 4,
-								["appliedamt"] = 4,
-								["id"] = 117828,
-								["uptime"] = 20,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[17619] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 17619,
-								["uptime"] = 93,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[268887] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 268887,
-								["uptime"] = 11,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[108366] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 108366,
-								["uptime"] = 32,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[281240] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 281240,
-								["uptime"] = 93,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[279913] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 279913,
-								["uptime"] = 13,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[118089] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 118089,
-								["uptime"] = 30,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[266030] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 266030,
-								["uptime"] = 10,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-						},
-					},
-					["fight_component"] = true,
-					["debuff_uptime"] = 67,
-					["nome"] = "丿指尖丶旋律",
-					["spec"] = 267,
-					["grupo"] = true,
-					["spell_cast"] = {
-						[17962] = 3,
-						[116858] = 1,
-						[348] = 3,
-						[196447] = 1,
-						[29722] = 4,
-					},
-					["debuff_uptime_targets"] = {
-					},
-					["last_event"] = 0,
-					["buff_uptime_targets"] = {
-					},
-					["buff_uptime"] = 500,
-					["serial"] = "Player-1944-06624493",
-					["tipo"] = 4,
-				}, -- [1]
-				{
-					["fight_component"] = true,
-					["ownerName"] = "丿指尖丶旋律",
-					["nome"] = "尼迦拉克希 <丿指尖丶旋律>",
-					["pets"] = {
-					},
-					["spell_cast"] = {
-						[17735] = 4,
-						[112042] = 2,
-						[3716] = 9,
-					},
-					["flag_original"] = 4369,
-					["last_event"] = 0,
-					["classe"] = "PET",
-					["serial"] = "Pet-0-3124-1642-8258-58960-020271F081",
-					["tipo"] = 4,
-				}, -- [2]
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["combat_counter"] = 414,
-		["totals"] = {
-			1113864.174482, -- [1]
-			82355.057033, -- [2]
-			{
-				0, -- [1]
-				[0] = 121.020184,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 1.002887,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-			["frags_total"] = 0,
-			["voidzone_damage"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["frags_need_refresh"] = false,
-		["__call"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
-		},
-		["end_time"] = 1299496.944,
-		["data_inicio"] = "09:55:42",
-		["frags"] = {
-		},
-		["data_fim"] = "10:00:51",
-		["overall_enemy_name"] = "-- x -- x --",
-		["CombatSkillCache"] = {
-		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 50.1370000001043,
-				["type"] = 0,
-				["name"] = "诱捕者卡米德",
-				["clock"] = "10:00:01",
-			}, -- [1]
-			{
-				["elapsed"] = 29.966999999946,
-				["type"] = 0,
-				["name"] = "亡刺刻肉者",
-				["clock"] = "09:58:50",
-			}, -- [2]
-			{
-				["elapsed"] = 12.9899999999907,
-				["type"] = 0,
-				["name"] = "无信苦修者",
-				["clock"] = "09:55:42",
-			}, -- [3]
-			{
-				["elapsed"] = 1298996.154,
-				["type"] = 0,
-				["name"] = "未知",
-				["clock"] = 0,
-			}, -- [4]
-		},
-		["start_time"] = 1299403.85,
-		["TimeData"] = {
-			["Raid Damage Done"] = {
-			},
-		},
-		["totals_grupo"] = {
-			233780.022962, -- [1]
-			12870.006533, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_realversion"] = 135,
-	["benchmark_db"] = {
-		["frame"] = {
-		},
+	["character_data"] = {
+		["logons"] = 41,
 	},
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -3436,24 +3442,24 @@ _detalhes_database = {
 		["Player-1944-05DD5F83"] = 253,
 		["Player-1670-02425755"] = 72,
 		["Player-852-05032AB2"] = 253,
-		["Player-1514-03984B9B"] = 254,
+		["Player-1506-03DF81E1"] = 577,
 		["Player-949-040F0EF9"] = 577,
 		["Player-1934-054AC8BF"] = 269,
-		["Player-1668-026F8E9F"] = 66,
+		["Creature-0-3124-1642-8258-69791-0000789306"] = 269,
 		["Player-1670-02040183"] = 64,
 		["Player-1495-01419810"] = 264,
-		["Player-1506-03DF81E1"] = 577,
-		["Player-1944-0365AF20"] = 63,
 		["Player-1944-0626B680"] = 267,
+		["Player-1944-0365AF20"] = 63,
 		["Player-949-02750444"] = 64,
+		["Player-1668-026F8E9F"] = 66,
 		["Player-3751-0443B6B9"] = 269,
 		["Player-949-043F11C1"] = 266,
-		["Player-872-03071AC2"] = 253,
 		["Player-1670-024CF1E6"] = 577,
+		["Player-1944-06624493"] = 267,
+		["Player-872-03071AC2"] = 253,
 		["Creature-0-3124-1642-8258-69792-00007891C7"] = 269,
 		["Player-1944-0386DF96"] = 267,
-		["Creature-0-3124-1642-8258-69791-0000789306"] = 269,
-		["Player-1944-06624493"] = 267,
+		["Player-1514-03984B9B"] = 254,
 		["Creature-0-3124-1642-8258-69792-0000789306"] = 269,
 	},
 }
