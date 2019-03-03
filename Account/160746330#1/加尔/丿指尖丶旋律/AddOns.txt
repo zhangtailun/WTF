@@ -2,6 +2,7 @@ ElvUI_EverySecondCounts: disabled
 Combuctor: disabled
 InspectEquip-3: disabled
 RCLootCouncil: disabled
-Skada: disabled
-SkadaFormat: disabled
+Skada: enabled
+SkadaFormat: enabled
 MeetingStone: disabled
+Details: disabled

@@ -11,12 +11,12 @@ FrameLevel: 21
 Anchor: CENTER
 X: 0
 Y: 0
-W: 405
+W: 365
 H: 240
 Frame: WeakAurasOptions
 FrameLevel: 1
 Anchor: RIGHT
-X: -162
-Y: -25
+X: -213
+Y: -69
 W: 782
 H: 512

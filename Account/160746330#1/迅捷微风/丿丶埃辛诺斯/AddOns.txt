@@ -22,5 +22,6 @@ IcyDemonsIndicator: disabled
 Combuctor: disabled
 InspectEquip-3: disabled
 RCLootCouncil: disabled
-Skada: disabled
-SkadaFormat: disabled
+Skada: enabled
+SkadaFormat: enabled
+Details: disabled
