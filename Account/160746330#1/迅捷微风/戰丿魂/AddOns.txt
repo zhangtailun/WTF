@@ -1,5 +1,5 @@
 MSBTOptions: enabled
-MikScrollingBattleText: enabled
+MikScrollingBattleText: disabled
 !ClassColors: disabled
 !ClassColorsBlizz: disabled
 DoomShards: enabled
