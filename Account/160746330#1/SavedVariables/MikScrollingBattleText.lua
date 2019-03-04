@@ -486,10 +486,14 @@ MSBTProfiles_SavedVars = {
 			},
 			["alwaysShowQuestItems"] = false,
 			["scrollAreas"] = {
-				["Static"] = {
-					["disabled"] = true,
+				["Incoming"] = {
+					["scrollHeight"] = 180,
+					["offsetX"] = 181,
+					["behavior"] = "MSBT_NORMAL",
+					["offsetY"] = -76,
+					["animationStyle"] = "Straight",
 				},
-				["Notification"] = {
+				["Static"] = {
 					["disabled"] = true,
 				},
 				["Outgoing"] = {
@@ -497,12 +501,8 @@ MSBTProfiles_SavedVars = {
 					["disabled"] = true,
 					["offsetX"] = 181,
 				},
-				["Incoming"] = {
-					["scrollHeight"] = 180,
-					["offsetX"] = 181,
-					["behavior"] = "MSBT_NORMAL",
-					["offsetY"] = -76,
-					["animationStyle"] = "Straight",
+				["Notification"] = {
+					["disabled"] = true,
 				},
 			},
 			["enableBlizzardHealing"] = false,
