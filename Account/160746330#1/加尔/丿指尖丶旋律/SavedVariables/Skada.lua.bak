@@ -11,12 +11,21 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 0,
+			["power"] = {
+				[7] = 3,
+			},
 			["damage"] = 232778,
 			["players"] = {
 				{
 					["last"] = 1551684701,
 					["healingabsorbed"] = 0,
+					["ffdamagedone"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["团队副本训练假人"] = 232778,
+					},
+					["dispells"] = 0,
+					["time"] = 30,
 					["healingspells"] = {
 						["吸血"] = {
 							["shielding"] = 0,
@@ -55,19 +64,11 @@ SkadaPerCharDB = {
 							["absorbed"] = 0,
 						},
 					},
-					["ffdamagedonespells"] = {
-					},
-					["damaged"] = {
-						["团队副本训练假人"] = 232778,
-					},
-					["dispells"] = 0,
-					["time"] = 30,
-					["ffdamagedone"] = 0,
 					["overhealing"] = 192,
 					["interrupts"] = 0,
 					["role"] = "NONE",
-					["maxhp"] = 239840,
 					["healing"] = 20079,
+					["maxhp"] = 239840,
 					["damage"] = 232778,
 					["damagespells"] = {
 						["诡异魅影"] = {
@@ -88,13 +89,13 @@ SkadaPerCharDB = {
 							["id"] = 980,
 							["damage"] = 33858,
 							["max"] = 3738,
-							["school"] = 32,
+							["totalhits"] = 21,
 							["min"] = 416,
 							["criticalmax"] = 3738,
-							["critical"] = 4,
-							["hit"] = 17,
-							["totalhits"] = 21,
 							["hitmax"] = 1870,
+							["hit"] = 17,
+							["school"] = 32,
+							["critical"] = 4,
 							["criticalmin"] = 555,
 							["hitamount"] = 23460,
 						},
@@ -140,13 +141,13 @@ SkadaPerCharDB = {
 							["id"] = 146739,
 							["damage"] = 45740,
 							["max"] = 3949,
-							["school"] = 32,
+							["totalhits"] = 20,
 							["min"] = 1795,
 							["criticalmax"] = 3949,
-							["hitmax"] = 2419,
-							["hit"] = 18,
-							["totalhits"] = 20,
 							["critical"] = 2,
+							["hit"] = 18,
+							["school"] = 32,
+							["hitmax"] = 2419,
 							["criticalmin"] = 3949,
 							["hitamount"] = 37842,
 						},
@@ -156,13 +157,13 @@ SkadaPerCharDB = {
 							["id"] = 233490,
 							["damage"] = 84355,
 							["max"] = 6776,
-							["school"] = 32,
+							["totalhits"] = 24,
 							["min"] = 2766,
 							["criticalmax"] = 6776,
-							["hitmax"] = 3388,
-							["hit"] = 22,
-							["totalhits"] = 24,
 							["critical"] = 2,
+							["hit"] = 22,
+							["school"] = 32,
+							["hitmax"] = 3388,
 							["criticalmin"] = 5532,
 							["hitamount"] = 72047,
 						},
@@ -264,14 +265,13 @@ SkadaPerCharDB = {
 					["ccbreaks"] = 0,
 					["alert"] = {
 					},
-					["class"] = "WARLOCK",
+					["ffdamagedonespells"] = {
+					},
 				}, -- [1]
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 0,
-			["power"] = {
-				[7] = 3,
-			},
+			["mobtaken"] = 232778,
 			["alertCount"] = 0,
 			["healing"] = 20079,
 			["overhealing"] = 192,
@@ -291,10 +291,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 232778,
-					["done"] = 0,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 0,
 				},
 				["Dogay-黑龙军团"] = {
 					["players"] = {
@@ -311,8 +311,6 @@ SkadaPerCharDB = {
 						},
 					},
 					["taken"] = 0,
-					["done"] = 0,
-					["htaken"] = 2778,
 					["htakenspell"] = {
 						["自力更生"] = {
 							["min"] = 1389,
@@ -323,11 +321,13 @@ SkadaPerCharDB = {
 							["hits"] = 2,
 						},
 					},
+					["htaken"] = 2778,
+					["done"] = 0,
 				},
 			},
 			["name"] = "团队副本训练假人",
 			["mobname"] = "团队副本训练假人",
-			["mobtaken"] = 232778,
+			["shielding"] = 0,
 			["mobhdone"] = 2778,
 			["last_action"] = 1551684670,
 			["endtime"] = 1551684702,
@@ -346,12 +346,6 @@ SkadaPerCharDB = {
 		["players"] = {
 			{
 				["healingabsorbed"] = 0,
-				["ffdamagedone"] = 0,
-				["class"] = "WARLOCK",
-				["damaged"] = {
-				},
-				["dispells"] = 0,
-				["time"] = 30,
 				["healingspells"] = {
 					["吸血"] = {
 						["shielding"] = 0,
@@ -390,10 +384,139 @@ SkadaPerCharDB = {
 						["absorbed"] = 0,
 					},
 				},
+				["ffdamagedonespells"] = {
+				},
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["time"] = 30,
+				["ffdamagedone"] = 0,
 				["overhealing"] = 192,
 				["interrupts"] = 0,
 				["role"] = "NONE",
-				["shielding"] = 0,
+				["deathlog"] = {
+					{
+						["absorb"] = 0,
+						["amount"] = 165,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 232612,
+						["ts"] = 1551684692.052,
+					}, -- [1]
+					{
+						["absorb"] = 0,
+						["amount"] = 1479,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 270661,
+						["hp"] = 234091,
+						["ts"] = 1551684692.761,
+					}, -- [2]
+					{
+						["absorb"] = 0,
+						["amount"] = 189,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 234280,
+						["ts"] = 1551684693.287,
+					}, -- [3]
+					{
+						["absorb"] = 0,
+						["amount"] = 137,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 234680,
+						["ts"] = 1551684694.481,
+					}, -- [4]
+					{
+						["absorb"] = 0,
+						["amount"] = 180,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 225099,
+						["ts"] = 1551684684.727,
+					}, -- [5]
+					{
+						["absorb"] = 0,
+						["amount"] = 858,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 205179,
+						["hp"] = 225957,
+						["ts"] = 1551684685.169,
+					}, -- [6]
+					{
+						["absorb"] = 0,
+						["amount"] = 146,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 226365,
+						["ts"] = 1551684685.949,
+					}, -- [7]
+					{
+						["absorb"] = 0,
+						["amount"] = 1480,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 270661,
+						["hp"] = 227845,
+						["ts"] = 1551684686.778,
+					}, -- [8]
+					{
+						["absorb"] = 0,
+						["amount"] = 858,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 205179,
+						["hp"] = 228703,
+						["ts"] = 1551684686.956,
+					}, -- [9]
+					{
+						["absorb"] = 0,
+						["amount"] = 253,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 228956,
+						["ts"] = 1551684687.164,
+					}, -- [10]
+					{
+						["absorb"] = 0,
+						["amount"] = 108,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 229326,
+						["ts"] = 1551684688.45,
+					}, -- [11]
+					{
+						["absorb"] = 0,
+						["amount"] = 858,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 205179,
+						["hp"] = 230184,
+						["ts"] = 1551684688.621,
+					}, -- [12]
+					{
+						["absorb"] = 0,
+						["amount"] = 187,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 230632,
+						["ts"] = 1551684689.592,
+					}, -- [13]
+					{
+						["absorb"] = 0,
+						["amount"] = 1479,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 270661,
+						["hp"] = 232111,
+						["ts"] = 1551684689.798,
+					}, -- [14]
+					{
+						["absorb"] = 0,
+						["amount"] = 73,
+						["srcname"] = "丿指尖丶旋律",
+						["spellid"] = 143924,
+						["hp"] = 232184,
+						["ts"] = 1551684690.852,
+					}, -- [15]
+					["pos"] = 5,
+				},
 				["healing"] = 20079,
 				["damage"] = 232778,
 				["damagespells"] = {
@@ -415,13 +538,13 @@ SkadaPerCharDB = {
 						["id"] = 980,
 						["damage"] = 33858,
 						["max"] = 3738,
-						["school"] = 32,
+						["totalhits"] = 21,
 						["min"] = 416,
 						["criticalmax"] = 3738,
-						["critical"] = 4,
-						["hit"] = 17,
-						["totalhits"] = 21,
 						["hitmax"] = 1870,
+						["hit"] = 17,
+						["school"] = 32,
+						["critical"] = 4,
 						["criticalmin"] = 555,
 						["hitamount"] = 23460,
 					},
@@ -467,13 +590,13 @@ SkadaPerCharDB = {
 						["id"] = 146739,
 						["damage"] = 45740,
 						["max"] = 3949,
-						["school"] = 32,
+						["totalhits"] = 20,
 						["min"] = 1795,
 						["criticalmax"] = 3949,
-						["hitmax"] = 2419,
-						["hit"] = 18,
-						["totalhits"] = 20,
 						["critical"] = 2,
+						["hit"] = 18,
+						["school"] = 32,
+						["hitmax"] = 2419,
 						["criticalmin"] = 3949,
 						["hitamount"] = 37842,
 					},
@@ -483,13 +606,13 @@ SkadaPerCharDB = {
 						["id"] = 233490,
 						["damage"] = 84355,
 						["max"] = 6776,
-						["school"] = 32,
+						["totalhits"] = 24,
 						["min"] = 2766,
 						["criticalmax"] = 6776,
-						["hitmax"] = 3388,
-						["hit"] = 22,
-						["totalhits"] = 24,
 						["critical"] = 2,
+						["hit"] = 22,
+						["school"] = 32,
+						["hitmax"] = 3388,
 						["criticalmin"] = 5532,
 						["hitamount"] = 72047,
 					},
@@ -504,129 +627,7 @@ SkadaPerCharDB = {
 						["shielding"] = 0,
 					},
 				},
-				["deathlog"] = {
-					{
-						["absorb"] = 0,
-						["amount"] = 165,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 232612,
-						["ts"] = 1551684692.052,
-					}, -- [1]
-					{
-						["absorb"] = 0,
-						["amount"] = 1479,
-						["spellid"] = 270661,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 234091,
-						["ts"] = 1551684692.761,
-					}, -- [2]
-					{
-						["absorb"] = 0,
-						["amount"] = 189,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 234280,
-						["ts"] = 1551684693.287,
-					}, -- [3]
-					{
-						["absorb"] = 0,
-						["amount"] = 137,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 234680,
-						["ts"] = 1551684694.481,
-					}, -- [4]
-					{
-						["absorb"] = 0,
-						["amount"] = 180,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 225099,
-						["ts"] = 1551684684.727,
-					}, -- [5]
-					{
-						["absorb"] = 0,
-						["amount"] = 858,
-						["spellid"] = 205179,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 225957,
-						["ts"] = 1551684685.169,
-					}, -- [6]
-					{
-						["absorb"] = 0,
-						["amount"] = 146,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 226365,
-						["ts"] = 1551684685.949,
-					}, -- [7]
-					{
-						["absorb"] = 0,
-						["amount"] = 1480,
-						["spellid"] = 270661,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 227845,
-						["ts"] = 1551684686.778,
-					}, -- [8]
-					{
-						["absorb"] = 0,
-						["amount"] = 858,
-						["spellid"] = 205179,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 228703,
-						["ts"] = 1551684686.956,
-					}, -- [9]
-					{
-						["absorb"] = 0,
-						["amount"] = 253,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 228956,
-						["ts"] = 1551684687.164,
-					}, -- [10]
-					{
-						["absorb"] = 0,
-						["amount"] = 108,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 229326,
-						["ts"] = 1551684688.45,
-					}, -- [11]
-					{
-						["absorb"] = 0,
-						["amount"] = 858,
-						["spellid"] = 205179,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 230184,
-						["ts"] = 1551684688.621,
-					}, -- [12]
-					{
-						["absorb"] = 0,
-						["amount"] = 187,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 230632,
-						["ts"] = 1551684689.592,
-					}, -- [13]
-					{
-						["absorb"] = 0,
-						["amount"] = 1479,
-						["spellid"] = 270661,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 232111,
-						["ts"] = 1551684689.798,
-					}, -- [14]
-					{
-						["absorb"] = 0,
-						["amount"] = 73,
-						["spellid"] = 143924,
-						["srcname"] = "丿指尖丶旋律",
-						["hp"] = 232184,
-						["ts"] = 1551684690.852,
-					}, -- [15]
-					["pos"] = 5,
-				},
+				["shielding"] = 0,
 				["id"] = "Player-1944-06624493",
 				["maxhp"] = 239840,
 				["damagetaken"] = 0,
@@ -713,8 +714,7 @@ SkadaPerCharDB = {
 				["ccbreaks"] = 0,
 				["alert"] = {
 				},
-				["ffdamagedonespells"] = {
-				},
+				["class"] = "WARLOCK",
 			}, -- [1]
 		},
 		["deaths"] = 0,
@@ -739,10 +739,10 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 232778,
-				["done"] = 0,
-				["htaken"] = 0,
 				["htakenspell"] = {
 				},
+				["htaken"] = 0,
+				["done"] = 0,
 			},
 			["Dogay-黑龙军团"] = {
 				["players"] = {
@@ -759,8 +759,6 @@ SkadaPerCharDB = {
 					},
 				},
 				["taken"] = 0,
-				["done"] = 0,
-				["htaken"] = 2778,
 				["htakenspell"] = {
 					["自力更生"] = {
 						["min"] = 1389,
@@ -771,6 +769,8 @@ SkadaPerCharDB = {
 						["hits"] = 2,
 					},
 				},
+				["htaken"] = 2778,
+				["done"] = 0,
 			},
 		},
 		["alertDamage"] = 0,
@@ -783,6 +783,6 @@ SkadaPerCharDB = {
 		["mobdone"] = 0,
 	},
 	["cached_specs"] = {
-		["Player-1944-06624493"] = 266,
+		["Player-1944-06624493"] = 267,
 	},
 }
