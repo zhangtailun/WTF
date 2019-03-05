@@ -6,3 +6,4 @@ Skada: enabled
 SkadaFormat: enabled
 MeetingStone: disabled
 Details: disabled
+MikScrollingBattleText: disabled
