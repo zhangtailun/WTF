@@ -1,8 +1,5 @@
 
 OmniCC4Config = {
-	["groups"] = {
-	},
-	["engine"] = "AniUpdater",
 	["groupSettings"] = {
 		["base"] = {
 			["enabled"] = true,
@@ -26,20 +23,23 @@ OmniCC4Config = {
 					["scale"] = 1.25,
 				},
 			},
-			["fontSize"] = 13,
+			["fontFace"] = "Fonts\\ARKai_C.TTF",
 			["scaleText"] = true,
-			["mmSSDuration"] = 180,
-			["minSize"] = 0.5,
+			["minEffectDuration"] = 30,
+			["anchor"] = "CENTER",
 			["spiralOpacity"] = 1.00999997742474,
 			["yOff"] = 0,
 			["xOff"] = 0,
 			["tenthsDuration"] = 0,
 			["fontOutline"] = "OUTLINE",
-			["anchor"] = "CENTER",
-			["minEffectDuration"] = 30,
+			["minSize"] = 0.5,
+			["mmSSDuration"] = 180,
 			["minDuration"] = 2,
-			["fontFace"] = "Fonts\\ARKai_C.TTF",
+			["fontSize"] = 13,
 		},
 	},
 	["version"] = "8.1.1",
+	["engine"] = "AniUpdater",
+	["groups"] = {
+	},
 }
