@@ -6,6 +6,7 @@ VER 3 0100000000000065 "恶魔爆发" "135727"
 /cast 狂暴
 /use 炎法师的引线
 /use 怨火柳枝
+/use 远古智慧之结
 END
 VER 3 0100000000000059 "末日降临" "INV_Misc_QuestionMark"
 #showtooltip 末日降临
