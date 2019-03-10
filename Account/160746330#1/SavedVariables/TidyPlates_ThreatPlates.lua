@@ -66,7 +66,7 @@ ThreatPlatesDB = {
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,
 		["DefaultsVersion"] = "CLASSIC",
-		["version"] = "9.1.2",
+		["version"] = "9.1.3",
 	},
 	["profiles"] = {
 		["Default"] = {
