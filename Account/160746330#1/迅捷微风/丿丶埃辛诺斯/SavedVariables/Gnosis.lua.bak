@@ -621,7 +621,7 @@ GnosisCharConfig = {
 			["instancetype"] = 1,
 			["bnwlistnew"] = "",
 			["anchorto"] = 5,
-			["bartexture"] = "Gnosis_Plain",
+			["bartexture"] = "Blizzard Raid Bar",
 			["fontsize_timer"] = 0,
 			["colBorderNI"] = {
 				0, -- [1]
@@ -633,9 +633,9 @@ GnosisCharConfig = {
 			["fSparkWidthMulti"] = 0.8,
 			["bShowAsMinutes"] = true,
 			["colBar"] = {
-				0.45, -- [1]
-				0.07, -- [2]
-				0.7, -- [3]
+				0.462745098039216, -- [1]
+				0.00392156862745098, -- [2]
+				0.67843137254902, -- [3]
 				1, -- [4]
 			},
 			["rotateicon"] = 0,
