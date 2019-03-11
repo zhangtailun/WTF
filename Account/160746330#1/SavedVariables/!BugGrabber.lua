@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 4934,
 	["lastSanitation"] = 3,
-	["session"] = 4933,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: attempt to compare nil with number",
@@ -11,5 +11,11 @@ BugGrabberDB = {
 			["session"] = 4933,
 			["counter"] = 29,
 		}, -- [1]
+		{
+			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
+			["time"] = "2019/03/11 17:28:16",
+			["session"] = 4934,
+			["counter"] = 4,
+		}, -- [2]
 	},
 }
