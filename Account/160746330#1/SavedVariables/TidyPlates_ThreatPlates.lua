@@ -2,10 +2,10 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["丿指尖丶旋律 - 加尔"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["術士一号 - 夏维安"] = {
 			["welcome"] = true,
@@ -47,10 +47,10 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 	},
 	["global"] = {
@@ -442,7 +442,6 @@ ThreatPlatesDB = {
 				},
 				["frame"] = {
 					["height"] = 64.1250005364416,
-					["width"] = 153.999997377391,
 				},
 				["castborder"] = {
 					["texture"] = "TP_Castbar_Border_Thin",

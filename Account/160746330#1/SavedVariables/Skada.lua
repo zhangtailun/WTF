@@ -37,7 +37,7 @@ SkadaDB = {
 					["barheight"] = 21,
 					["classicons"] = false,
 					["barslocked"] = true,
-					["y"] = 46.5246887207031,
+					["y"] = 55.6286544799805,
 					["barfont"] = "默认",
 					["title"] = {
 						["color"] = {
@@ -61,7 +61,7 @@ SkadaDB = {
 							["a"] = 0.310000002384186,
 						},
 						["borderthickness"] = 0,
-						["height"] = 164.037841796875,
+						["height"] = 154.933990478516,
 						["bordertexture"] = "Blizzard Chat Bubble",
 					},
 					["barbgcolor"] = {
@@ -73,7 +73,7 @@ SkadaDB = {
 					["point"] = "BOTTOMRIGHT",
 					["mode"] = "伤害",
 					["bartexture"] = "Melli",
-					["barwidth"] = 404.999725341797,
+					["barwidth"] = 404.999877929688,
 					["specicons"] = false,
 					["x"] = 0,
 					["barspacing"] = 2,

@@ -1,21 +1,13 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 4949,
+	["session"] = 4965,
 	["errors"] = {
 		{
-			["message"] = "Interface\\AddOns\\idTip\\idTip-8.1.2.lua:42: attempt to index local 'tooltip' (a nil value)",
-			["time"] = "2019/03/14 08:04:20",
-			["locals"] = "tooltip = nil\nid = 52937\nkind = \"QuestID\"\nframe = nil\ntext = nil\n(for index) = 1\n(for limit) = 15\n(for step) = 1\ni = 1\n(*temporary) = <table> {\n ERR_OUT_OF_CHI = \"真气不足\"\n DH_HAVOC_CORE_ABILITY_2 = \"强大的近战攻击，消耗恶魔之怒。如果攻击造成爆击，将恢复部分恶魔之怒。\"\n GetTrainerServiceTypeFilter = <function> defined =[C]:-1\n UNIT_NAMES_COMBATLOG_TOOLTIP = \"彩色标记单位名。\"\n SetTrainerServiceTypeFilter = <function> defined =[C]:-1\n LE_GAME_ERR_CHAT_RAID_RESTRICTED_TRIAL = 740\n SPELL_FAILED_CUSTOM_ERROR_71 = \"这名聚会者想要和你一起跳舞。\"\n LE_GAME_ERR_PET_SPELL_TARGETS_DEAD = 398\n InterfaceOptionsActionBarsPanelStackRightBarsPixelBorderTOP = InterfaceOptionsActionBarsPanelStackRightBarsPixelBorderTOP {\n }\n StaticPopup4MoneyInputFrameCopperPixelBorderLEFT = StaticPopup4MoneyInputFrameCopperPixelBorderLEFT {\n }\n CompactUnitFrameProfilesGeneralOptionsFrameHealthTextDropdownButtonNormalTexture = CompactUnitFrameProfilesGeneralOptionsFrameHealthTextDropdownButtonNormalTexture {\n }\n CombatConfigColorsColorizeEntireLinePixelBorderCENTER = CombatConfigColorsColorizeEntireLinePixelBorderCENTER {\n }\n MultiBarLeftButton7 = MultiBarLeftButton7 {\n }\n InterfaceOptionsNamesPanelUnitNameplatesShowAll = InterfaceOptionsNamesPanelUnitNameplatesShowAll {\n }\n LFGListInviteDialog_OnEvent = <function> defined @Interface\\FrameXML\\LFGList.lua:2400\n MerchantItem3AltCurrencyFrameItem1Text = MerchantItem3AltCurrencyFrameItem1Text {\n }\n BINDING_NAME_NAMEPLATES = \"显示敌方姓名板\"\n INSTANCE_UNAVAILABLE_OTHER_TEMPORARILY_DISABLED = \"不能进入%s。这个副本暂时不可用。\"\n MultiBarBottomRightButton8Shine5 = MultiBarBottomRightButton8Shine5 {\n }\n IsReferAFriendLinked = <function> defined =[C]:-1\n UnitFrameManaBar_UnregisterDefaultEvents = <function> defined @Interface\\FrameXML\\UnitFrame.lua:794\n PaperDollTitlesPaneButton15BgTop = PaperDollTitlesPaneButton15BgTop {\n }\n CALENDAR_RAID_RESET_DESCRIPTION = \"%1$s将在%2$s重置。\"\n WorldQuestTrackerWorldMapPOIWorldQuestTrackerWorldSummarySquarePOI2BorderShineAnimation3 = WorldQuestTrackerWorldMapPOIWorldQuestTrackerWorldSummarySquarePOI2BorderShineAnimation3 {\n }\n HasZoneAbility = <function> defined @Interface\\FrameXML\\ZoneAbility.lua:157\n MoneyFrame_OnEvent = <function> defined @Interface\\FrameXML\\MoneyFrame.lua:214\n LE_GAME_ERR_RECRUIT_A_FRIEND_FAILED = 950\n ElvUI_Bar5Button12Shine7 = ElvUI_Bar5Button12Shine7 {\n }\n CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight = CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight {\n }\n LFGTeleport = <function> defined =[C]:-1\n LE_GAME_ERR_ONLY_ONE_QUIVER = 32\n INT_SPELL_DURATION_HOURS = \"%d小时\"\n RaidFrameConvertToRaidButtonPixelBorderTOPRIGHT = RaidFrameConvertToRaidButtonPixelBorderTOPRIGHT {\n }\n ToggleEncounterJournal = <function> defined @Interface\\FrameXML\\UIParent.lua:910\n StackSplitFramePixelBorderTOP = StackSplitFramePixelBorderTOP {\n }\n LOSS_OF_CONTROL_DISPLAY_FEAR = \"恐惧\"\n Graphics_QualityText = Graphics_QualityText {\n }\n HelpMicroButtonPixelBorderTOPRIGHT = HelpMicroButtonPixelBorderTOPRIGHT {\n }\n TalentMicroButtonAlertShadowTopLeft = TalentMicroButtonAlertShadowTopLeft {\n }\n OverrideActionBarButton6Shine11 = OverrideActionBarButton6Shine11 {\n }\n CopyChatFramePixelBorderBOTTOMLEFT = CopyChatFramePixelBorderBOTTOMLEFT {\n }\n CombatConfigColorsColorizeDamageNumberSchoolColoringPixelBorderLEFT = CombatConfigColorsColorizeDamageNumberSchoolColoringPixelBorderLEFT {\n }\n CompactUnitFrameProfilesSaveButton = CompactUnitFrameProfilesSaveButton {\n }\n EMB_CharacterPixelBorderTOPLEFT = EMB_CharacterPixelBorderTOPLEFT {\n }\n ElvUI_Bar6Button6 = ElvUI_Bar6Button6 {\n }\n ACTION_SPELL_MISSED_POSSESSIVE = \"1\"\n RaidUtility_CloseButton = RaidUtility_CloseButton {\n }\n Is64BitClient = <function> defined =[C]:-1\n CombatConfigColorsColorizeSpellNamesSchoolColoringPixelBorderTOPLEFT = CombatConfigColorsColorizeSpellNamesSchoolColoringPixelBorderTOPLEFT {\n }\n TELLMEWHEN_VERSION_FULL = \"8.6.0 \"\n OpenMailFramePixelBorderTOPRIGHT = OpenMailFramePixelBorderTOPRIGHT {\n }\n CompactRaidFram",
-			["stack"] = "Interface\\AddOns\\idTip\\idTip-8.1.2.lua:42: in function <Interface\\AddOns\\idTip\\idTip.lua:35>\nInterface\\AddOns\\idTip\\idTip-8.1.2.lua:350: in function <Interface\\AddOns\\idTip\\idTip.lua:349>\n[C]: ?\n[C]: ?\n[C]: ?",
-			["session"] = 4948,
-			["counter"] = 3,
-		}, -- [1]
-		{
 			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["session"] = 4949,
-			["time"] = "2019/03/14 08:02:26",
-			["counter"] = 8,
-		}, -- [2]
+			["session"] = 4965,
+			["time"] = "2019/03/14 16:44:55",
+			["counter"] = 16,
+		}, -- [1]
 	},
 }

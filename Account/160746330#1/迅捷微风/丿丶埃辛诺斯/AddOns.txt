@@ -20,9 +20,9 @@ ElvUI_EverySecondCounts: disabled
 MeetingStone: disabled
 IcyDemonsIndicator: disabled
 Combuctor: disabled
-InspectEquip-3: enabled
+InspectEquip-3: disabled
 RCLootCouncil: disabled
 Skada: enabled
 SkadaFormat: enabled
 Details: disabled
-TinyInspect: disabled
+TinyInspect: enabled
