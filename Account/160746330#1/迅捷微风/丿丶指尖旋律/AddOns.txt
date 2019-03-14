@@ -19,8 +19,9 @@ WorldFlightMap: enabled
 MeetingStone: disabled
 IcyDemonsIndicator: disabled
 Combuctor: disabled
-InspectEquip-3: disabled
+InspectEquip-3: enabled
 RCLootCouncil: disabled
 Skada: enabled
 SkadaFormat: enabled
 Details: disabled
+TinyInspect: disabled

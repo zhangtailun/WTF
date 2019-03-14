@@ -19,9 +19,10 @@ WorldFlightMap: enabled
 MeetingStone: disabled
 IcyDemonsIndicator: disabled
 Combuctor: disabled
-InspectEquip-3: disabled
+InspectEquip-3: enabled
 RCLootCouncil: disabled
 Skada: enabled
 SkadaFormat: enabled
 ElvUI_EverySecondCounts: disabled
 Details: disabled
+TinyInspect: disabled
