@@ -18,10 +18,10 @@ MasqueDB = {
 		["遇术您疯 - 加尔"] = "Default",
 		["贝尔塔伦 - 迅捷微风"] = "Default",
 		["Semenhunter - 影之哀伤"] = "Default",
-		["丿指尖丶旋律 - 加尔"] = "Default",
+		["牧酒清丶 - 影之哀伤"] = "Default",
 		["阿饭君 - 死亡之翼"] = "Default",
 		["大墓地灬叹息 - 迅捷微风"] = "Default",
-		["牧酒清丶 - 影之哀伤"] = "Default",
+		["丿指尖丶旋律 - 加尔"] = "Default",
 		["Sumshushi - 迅捷微风"] = "Default",
 		["第三个号的框 - 迅捷微风"] = "Default",
 		["丿丶风行者 - 迅捷微风"] = "Default",
@@ -17294,47 +17294,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_连击_2"] = {
+				["WeakAuras_tiger's_lust"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_[sin]garrote_miss"] = {
 					["Colors"] = {
@@ -18184,7 +18172,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_[sin]toxicblade_ready"] = {
+				["WeakAuras_hooked_snare_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -18256,91 +18244,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_hooked_snare_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
 				["WeakAuras_thorned_barrage_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_savage_tempest"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -18424,6 +18328,78 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
+				["WeakAuras_savage_tempest"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_08_growing_corruption_(tank)"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
 				["WeakAuras_连击"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -18466,7 +18442,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_[out]grappling_cd"] = {
+				["WeakAuras_bloodlustup_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -18508,7 +18484,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_horning_missiles_2"] = {
+				["WeakAuras_[sin]toxicblade_ready"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -18622,35 +18598,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_08_growing_corruption_(tank)"] = {
+				["WeakAuras_horning_missiles_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_dark_revelation_2"] = {
 					["Colors"] = {
@@ -18724,31 +18712,43 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_crimson_vial"] = {
+				["WeakAuras_[out]snd_ld_emp"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
@@ -19112,7 +19112,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_bilescourge_bombers_-_cd"] = {
+				["WeakAuras_severing_blade"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -19196,7 +19196,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_felstorm_-_cd\""] = {
+				["WeakAuras_bilescourge_bombers_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -19484,37 +19484,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_sacrificial_pact"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_clear_the_deck_2"] = {
+				["WeakAuras_tbcd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -19557,6 +19527,48 @@ MasqueDB = {
 					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_decaying_touch"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_clear_the_deck_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -20870,35 +20882,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_hammer_of_the_righteous"] = {
+				["WeakAuras_shattering_bellow"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_恶魔皮肤_2"] = {
 					["Colors"] = {
@@ -21206,7 +21230,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_骷髅黑帆_双击"] = {
+				["WeakAuras_fracture_-_cd_-_1+"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -21248,47 +21272,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_call_dreadstalkers_-_cd"] = {
+				["WeakAuras_rake"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_痛苦黑眼1"] = {
 					["Colors"] = {
@@ -21320,7 +21332,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_fracture_-_cd_-_1+"] = {
+				["WeakAuras_haste_brew"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -21392,35 +21404,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_slobber_knocker2"] = {
+				["WeakAuras_wall_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_wrecking_ball"] = {
 					["Colors"] = {
@@ -21932,7 +21956,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_haste_brew"] = {
+				["WeakAuras_骷髅黑帆_双击"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -21977,47 +22001,35 @@ MasqueDB = {
 				["WeakAuras_hp_<2"] = {
 					["SkinID"] = "Zoomed",
 				},
-				["WeakAuras_wall_cd"] = {
+				["WeakAuras_slobber_knocker2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_dämonische_aufzehrung_ak"] = {
 					["Colors"] = {
@@ -22091,47 +22103,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_secrettech"] = {
+				["WeakAuras_8.戈霍恩-远离爆裂囊肿（m）"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_dgup_2"] = {
 					["Colors"] = {
@@ -22229,43 +22229,31 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_[out]roll_the_bones_alt"] = {
+				["WeakAuras_toxic_blade"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
@@ -22427,7 +22415,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_rotten_expulsion"] = {
+				["WeakAuras_death_bolt_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -22511,7 +22499,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_death_bolt_2"] = {
+				["WeakAuras_savage_cleave_3"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -22625,43 +22613,31 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_savage_cleave_3"] = {
+				["WeakAuras_hidden_blades"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
@@ -22709,31 +22685,43 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_hidden_blades"] = {
+				["WeakAuras_rotten_expulsion"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
@@ -23045,6 +23033,66 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
+				["WeakAuras_cleave"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_simbols_of_death_b"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
 				["WeakAuras_[sin]rupture_>_30%_(8_sec)"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -23086,66 +23134,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_simbols_of_death_b"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_cleave"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_crit_brew"] = {
 					["Colors"] = {
@@ -23909,35 +23897,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_vendetta_d"] = {
+				["WeakAuras_heart_attack"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_pets_4_-"] = {
 					["Colors"] = {
@@ -23981,47 +23981,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_demonic_strength_-_cd"] = {
+				["WeakAuras_call_of_the_hunter"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_fury_of_the_eagle"] = {
 					["Colors"] = {
@@ -24197,7 +24185,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_crushing_slam2"] = {
+				["WeakAuras_mark_of_death__t"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -24227,7 +24215,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_mark_of_death__t"] = {
+				["WeakAuras_crushing_slam2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -24345,36 +24333,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "FlatSquares",
 				},
-				["WeakAuras_celestial_alignment_-_buff"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_sanguine_feast"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -24418,6 +24376,36 @@ MasqueDB = {
 					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_garrote_i"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_celestial_alignment_-_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -24663,7 +24651,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_reinforcing_ward_2"] = {
+				["WeakAuras_scabrous_bite"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -24867,7 +24855,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith: No Shadow",
 				},
-				["WeakAuras_siphon_life_abs"] = {
+				["WeakAuras_transcendence:transfer_range"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -24875,13 +24863,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -25299,7 +25287,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_transcendence:transfer_range"] = {
+				["WeakAuras_siphon_life_abs"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -25307,13 +25295,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -25329,47 +25317,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_loadedicon"] = {
+				["WeakAuras_07_xalzaix's_awakening"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["Bartender4_6"] = {
 					["Inherit"] = false,
@@ -25770,35 +25746,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_1.塔洛克-鲜血大槌"] = {
+				["WeakAuras_[rog]cos_ready"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_consecration_cd"] = {
 					["Colors"] = {
@@ -26016,7 +26004,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_death_bolt"] = {
+				["WeakAuras_garrote_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -26184,7 +26172,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_garrote_cd"] = {
+				["WeakAuras_death_bolt"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -27732,48 +27720,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_blur_-_cd"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
 				["WeakAuras_berserking_charge"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -27789,36 +27735,6 @@ MasqueDB = {
 							1, -- [4]
 						},
 						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_03_high_energy"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -27875,6 +27791,66 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_03_high_energy"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_twilight"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_6.重生者祖尔-婆娑脉动层数"] = {
 					["Colors"] = {
@@ -27978,7 +27954,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_05_bursting_lesions"] = {
+				["WeakAuras_rotten_bile4"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -28038,37 +28014,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_chimaera_shot_cd"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_slobber_knocker"] = {
+				["WeakAuras_blur_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -28110,67 +28056,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_twilight"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_rebuke"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_[out]blade_rush_-_inactive"] = {
+				["WeakAuras_slobber_knocker"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -28253,6 +28139,108 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_rebuke"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_[out]blade_rush_-_inactive"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_confraglation_of_chaos"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_bindside_alt"] = {
 					["Colors"] = {
@@ -28368,35 +28356,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_divine_shiled"] = {
+				["WeakAuras_stealth"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_04_roiling_deceit"] = {
 					["Colors"] = {
@@ -28545,47 +28545,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_stealth"] = {
+				["WeakAuras_divine_shiled"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_blood_mirror"] = {
 					["Colors"] = {
@@ -28959,47 +28947,140 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_demonic_consumption"] = {
+				["WeakAuras_feint_b"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_痛苦无常4_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_barkskin_-_buff"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_hp_3"] = {
+					["SkinID"] = "Zoomed",
+				},
+				["WeakAuras_bristling_fur_-_buff"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_dark_soul"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_mental_assault"] = {
 					["Colors"] = {
@@ -29042,129 +29123,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_barkskin_-_buff"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_judgment"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_bristling_fur_-_buff"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_dire_beast_glow"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_hp_3"] = {
-					["SkinID"] = "Zoomed",
 				},
 				["WeakAuras_banana_rampage3"] = {
 					["Colors"] = {
@@ -29328,47 +29286,59 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_痛苦无常4_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_dark_soul"] = {
+				["WeakAuras_terrifying_roar"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_恶魔传送门"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0.0980392156862745, -- [1]
+							0.501960784313726, -- [2]
+							0.156862745098039, -- [3]
+							0.700000017881393, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith: No Shadow",
 				},
 				["WeakAuras_whirling_slam4"] = {
 					["Colors"] = {
@@ -29400,89 +29370,65 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_[sin]garrote_ready"] = {
+				["WeakAuras_dire_beast_glow"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_soul_strike_-_cd"] = {
+				["WeakAuras_odyn's_fury"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_1.塔洛克-变大的心脏（m）"] = {
 					["Colors"] = {
@@ -29556,7 +29502,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_terrifying_roar"] = {
+				["WeakAuras_judgment"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_[sin]garrote_ready"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -29597,36 +29573,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_odyn's_fury"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_stolen_power"] = {
 					["Colors"] = {
@@ -29658,47 +29604,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_scabrous_bite_2"] = {
+				["WeakAuras_sidewinders"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_8.戈霍恩-坍缩"] = {
 					["Colors"] = {
@@ -29814,47 +29748,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_fel_devestation_-_cd"] = {
+				["WeakAuras_trample5"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_wild_imp_amount_test"] = {
 					["Colors"] = {
@@ -31281,7 +31203,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_恶魔掌控"] = {
+				["WeakAuras_corruption_pandemic"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -31314,7 +31236,7 @@ MasqueDB = {
 				["Bartender4_3"] = {
 					["Inherit"] = false,
 				},
-				["WeakAuras_corruption_pandemic"] = {
+				["WeakAuras_恶魔掌控"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -31632,43 +31554,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["TellMeWhen_|cff00c300共用|r 分组: 7"] = {
-					["Inherit"] = false,
-					["SkinID"] = "Zoomed",
-				},
-				["Bartender4_5"] = {
-					["Inherit"] = false,
-				},
-				["WeakAuras_maddening_gaze4"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_throw_glaive_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -31710,6 +31595,43 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["Bartender4_5"] = {
+					["Inherit"] = false,
+				},
+				["WeakAuras_maddening_gaze4"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["TellMeWhen_|cff00c300共用|r 分组: 7"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Zoomed",
 				},
 				["TellMeWhen_分组: 33"] = {
 					["Colors"] = {
@@ -32131,7 +32053,97 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_indigestion_2"] = {
+				["WeakAuras_agony_stacks"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_whisper_of_the_nathrezim"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_frothing_berserker"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_gcd1sb_3"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32173,7 +32185,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_agony_stacks"] = {
+				["WeakAuras_anti_magic_shell_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32203,7 +32215,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_[sin]exsanguinate_ready"] = {
+				["WeakAuras_indigestion_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32287,108 +32299,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_anti_magic_shell_buff"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_gcd1sb_3"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_whisper_of_the_nathrezim"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_consume_magic_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -32431,7 +32341,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_frothing_berserker"] = {
+				["WeakAuras_vampire_blood_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32439,13 +32349,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -32461,7 +32371,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_camoufage"] = {
+				["WeakAuras_死亡缠绕_2_3_2_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32469,13 +32379,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -32563,7 +32473,49 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_vampire_blood_buff"] = {
+				["WeakAuras_charge_3"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_ghostly_strike"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32591,39 +32543,9 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_fortifying_brew_brewmaster_buff"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_blazing_azerite_self"] = {
+				["WeakAuras_decaying_spores_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32695,47 +32617,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_decaying_spores_2"] = {
+				["WeakAuras_horn_of_winter"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_explosive_burst"] = {
 					["Colors"] = {
@@ -32809,7 +32719,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_soulrend_2"] = {
+				["WeakAuras_throw_glaive_-_cd_-_0_-_master_of_the_glaive"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32851,7 +32761,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_light_of_the_protector_s"] = {
+				["WeakAuras_aspect_of_the_wild"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32911,7 +32821,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_ghostly_strike"] = {
+				["WeakAuras_3.腐臭吞噬者-boss能量-接近满值"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -32939,7 +32849,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_pillar_of_frost_buff"] = {
 					["Colors"] = {
@@ -32971,7 +32881,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_throw_glaive_-_cd_-_0_-_master_of_the_glaive"] = {
+				["WeakAuras_elabplanning"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33055,35 +32965,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_3.腐臭吞噬者-boss能量-接近满值"] = {
+				["WeakAuras_blazing_azerite_self"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_[rog]vanish_ready"] = {
 					["Colors"] = {
@@ -33211,47 +33133,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_elabplanning"] = {
+				["WeakAuras_light_of_the_protector_s"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_mortal_coil"] = {
 					["Colors"] = {
@@ -33283,7 +33193,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_[sub]simbolsready"] = {
+				["WeakAuras_barrle_through"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33409,7 +33319,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_sharpen_blade_buff"] = {
+				["WeakAuras_bloodlust"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33417,13 +33327,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -33438,48 +33348,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_last_resort_-_inactive"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_supression_fire"] = {
 					["Colors"] = {
@@ -33523,7 +33391,49 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_crimson_tempest"] = {
+				["WeakAuras_[sub]simbolsready"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_maddening_gaze2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33551,7 +33461,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_moonfire_-_feral"] = {
 					["Colors"] = {
@@ -33583,7 +33493,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_maddening_gaze2"] = {
+				["WeakAuras_crimson_tempest"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33611,7 +33521,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_08_collapse"] = {
 					["Colors"] = {
@@ -33685,7 +33595,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_infest_2"] = {
+				["WeakAuras_spirit_bomb_-_available"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33769,7 +33679,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "FlatSquares",
 				},
-				["WeakAuras_doom_"] = {
+				["WeakAuras_infest_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -33895,9 +33805,15 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_blackout_strike_cd_t"] = {
+				["WeakAuras_garrote"] = {
 					["Colors"] = {
 						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -33909,7 +33825,31 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_死亡缠绕_2_2_2_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
 						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -33924,48 +33864,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_spirit_bomb_-_available"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_elusive_brawler_dodge_chance_%"] = {
 					["Colors"] = {
@@ -34099,73 +33997,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith: No Shadow",
 				},
-				["WeakAuras_garrote"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["TellMeWhen_|cff00c300共用|r 分组: 2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-						["Cooldown"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_2.纯净圣母-风之隧道"] = {
+				["WeakAuras_nominion"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -34195,7 +34027,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_死亡缠绕_2_2_2_2"] = {
+				["WeakAuras_图标技能9"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -34225,7 +34057,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_purification_beam_cast_2"] = {
+				["WeakAuras_demo:_demon_counter"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -34267,7 +34099,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_nominion"] = {
+				["WeakAuras_08_malignant_growth"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -34297,7 +34129,79 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_08_malignant_growth"] = {
+				["WeakAuras_doom_"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_blackout_strike_cd_t"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_2.纯净圣母-风之隧道"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -34357,7 +34261,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_warlock_pvpt2"] = {
+				["WeakAuras_sinister_strike"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -34386,48 +34290,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_shipbreaker_storm_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_01_hardened_arteries"] = {
 					["Colors"] = {
@@ -34444,78 +34306,6 @@ MasqueDB = {
 							1, -- [4]
 						},
 						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_sea_spout_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_eye_of_tyr"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -34560,6 +34350,120 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_rip"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_deadeye_shot_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_shipbreaker_storm_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_shadowstrike"] = {
 					["Colors"] = {
@@ -34633,47 +34537,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_[sub]find_weakness"] = {
+				["WeakAuras_04_shadow_nova_(cloud_trigger)"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_power_siphon_-_cd"] = {
 					["Colors"] = {
@@ -34801,65 +34693,89 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_rip"] = {
+				["WeakAuras_sea_spout_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_04_shadow_nova_(cloud_trigger)"] = {
+				["WeakAuras_[sub]find_weakness"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_deffuse_magic_dampenharm_buff"] = {
 					["Colors"] = {
@@ -35077,47 +34993,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_backstub_shadowblade"] = {
+				["WeakAuras_consumtion"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_kfraftentzug"] = {
 					["Colors"] = {
@@ -35317,17 +35221,77 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_boss1痛苦无常4"] = {
+				["WeakAuras_rising_sun_kick"] = {
 					["Colors"] = {
 						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
 							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_dust_cloud_self"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_guard"] = {
 					["Colors"] = {
@@ -35344,36 +35308,6 @@ MasqueDB = {
 							1, -- [4]
 						},
 						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_rising_sun_kick"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -35479,7 +35413,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_grievous_wound"] = {
+				["WeakAuras_rogue_pvpt3"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -35551,7 +35485,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_dust_cloud_self"] = {
+				["WeakAuras_grievous_wound"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -35749,49 +35683,19 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_venomous_spit_2"] = {
+				["WeakAuras_boss1痛苦无常4"] = {
 					["Colors"] = {
 						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_a_murder_of_crows"] = {
+				["WeakAuras_ww_lasthit_combo_breaker"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -35863,7 +35767,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_seraphim_buff"] = {
+				["WeakAuras_08_reorigination_blast_cast"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -35871,13 +35775,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -35923,7 +35827,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_rotten_bile8"] = {
+				["WeakAuras_pet_dk_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -35995,7 +35899,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_ww_lasthit_combo_breaker"] = {
+				["WeakAuras_a_murder_of_crows"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -36055,7 +35959,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_08_reorigination_blast_cast"] = {
+				["WeakAuras_seraphim_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -36063,13 +35967,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -36241,35 +36145,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_demonic_circle_teleport"] = {
+				["WeakAuras_poison_barrage_cone"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_stellar_flare"] = {
 					["Colors"] = {
@@ -36373,35 +36289,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_05_plague_bomb_dot"] = {
+				["WeakAuras_shadow_smash"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_tsu"] = {
 					["Colors"] = {
@@ -36487,47 +36415,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_shadow_smash"] = {
+				["WeakAuras_05_plague_bomb_dot"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_envenomok"] = {
 					["Colors"] = {
@@ -36763,7 +36679,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_iron_gaze"] = {
+				["WeakAuras_electroshock"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -36847,47 +36763,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_electroshock"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
+				["TellMeWhen_分组: 38"] = {
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Dream",
 				},
 				["WeakAuras_gcd6"] = {
 					["Colors"] = {
@@ -37078,9 +36956,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["TellMeWhen_分组: 38"] = {
+				["WeakAuras_iron_gaze"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
 					["Inherit"] = false,
-					["SkinID"] = "Dream",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_execute_fury"] = {
 					["Colors"] = {
@@ -37112,12 +37028,30 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_痛苦无常5_2"] = {
+				["WeakAuras_invoke_xuen_the_white_tiger"] = {
 					["Colors"] = {
 						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
 							1, -- [4]
 						},
 					},
@@ -37139,6 +37073,78 @@ MasqueDB = {
 							1, -- [4]
 						},
 						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_deadeye_target"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_snake_hunter"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -37183,78 +37189,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_snake_hunter"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_rock_lance"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_aspect_of_the_eagle_buff"] = {
 					["Colors"] = {
@@ -37502,66 +37436,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_8.戈霍恩-黑暗意图（m）"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_avenging_wrath_b"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_creeping_rot"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -37603,6 +37477,66 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_avenging_wrath_b"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_8.戈霍恩-黑暗意图（m）"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_缺少宠物_2"] = {
 					["Colors"] = {
@@ -38546,36 +38480,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_trample3"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_痛苦无常1"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -38616,6 +38520,36 @@ MasqueDB = {
 						},
 					},
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_trample3"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_cloak"] = {
 					["Colors"] = {
@@ -39289,47 +39223,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_[sin]rupture_<_30%_(8_sec)"] = {
+				["WeakAuras_wrath_of_consumption"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_death_and_decay"] = {
 					["Colors"] = {
@@ -40096,47 +40018,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_serrated_fangs_2"] = {
+				["WeakAuras_virulent_plague"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_腐蚀术"] = {
 					["Colors"] = {
@@ -40291,7 +40201,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_gimore"] = {
+				["WeakAuras_reinforcing_ward_self_buff_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40411,7 +40321,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_blessing_of_sacrifice_t"] = {
+				["WeakAuras_dragonsfire_grenade"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40483,49 +40393,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_terrifying_visage_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_blackout_kick_t"] = {
+				["WeakAuras_08_bursting_boil_cast"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40533,13 +40401,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -40555,7 +40423,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_shadow's_bite"] = {
+				["WeakAuras_slicing_blast_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40596,6 +40464,18 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_痛苦无常2_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_heaving_blow2"] = {
 					["Colors"] = {
@@ -40627,7 +40507,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_08_bursting_boil_cast"] = {
+				["WeakAuras_blessing_of_sacrifice_t"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40635,13 +40515,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -40687,7 +40567,49 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_slicing_blast_2"] = {
+				["WeakAuras_terrifying_visage_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_gale_slash_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40770,18 +40692,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_痛苦无常2_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_serrated_teeth"] = {
 					["Colors"] = {
@@ -40867,35 +40777,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_trick_shot"] = {
+				["WeakAuras_frenzied_charge"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_08_explosive_corruption"] = {
 					["Colors"] = {
@@ -40927,7 +40849,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_explosive_orbs_||_mythic+"] = {
+				["WeakAuras_blackout_kick_t"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -40935,13 +40857,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -40957,7 +40879,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_gale_slash_2"] = {
+				["WeakAuras_shadow's_bite"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -41419,35 +41341,9 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_inner_rage"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
+				["Bagnon_voidstorage - items"] = {
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "FlatSquares",
 				},
 				["WeakAuras_hand_of_hindrance"] = {
 					["Colors"] = {
@@ -41509,7 +41405,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_fell_rush"] = {
+				["WeakAuras_retribution"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -41517,13 +41413,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -41971,47 +41867,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_fel_eruption_-_active"] = {
+				["WeakAuras_avatar_cd_prot"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_flashing_daggers_2"] = {
 					["Colors"] = {
@@ -42139,35 +42023,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_compounding_horror_g"] = {
+				["WeakAuras_expel_soul"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_plague_2"] = {
 					["Colors"] = {
@@ -42301,67 +42197,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_shark_infested_waters"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_corruption_g"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_expel_soul"] = {
+				["WeakAuras_dark_omen_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -42402,6 +42238,66 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_corruption_g"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_compounding_horror_g"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_hunde_rdy"] = {
 					["Colors"] = {
@@ -42913,39 +42809,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_hp_2"] = {
-					["SkinID"] = "Zoomed",
-				},
-				["WeakAuras_leg_sweep_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_[out]alacrity"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -42987,6 +42850,60 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_shocking_claw_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_boss1痛苦无常2_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_garrote_d"] = {
 					["Colors"] = {
@@ -43060,59 +42977,65 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_boss1痛苦无常2_2"] = {
+				["WeakAuras_leg_sweep_2"] = {
 					["Colors"] = {
 						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.0980392156862745, -- [2]
-							0.0980392156862745, -- [3]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
 							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_mortal_coil_cd"] = {
+				["WeakAuras_rotten_bile2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_siphon_life"] = {
 					["Colors"] = {
@@ -43144,7 +43067,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_neltharion's_fury"] = {
+				["WeakAuras_juggernaut_b"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -43174,7 +43097,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_secret_technique"] = {
+				["WeakAuras_04_corruptor's_pact"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -43202,7 +43125,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_death_and_decay_buff"] = {
 					["Colors"] = {
@@ -43306,151 +43229,49 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_rotten_bile2"] = {
+				["WeakAuras_warding_candles"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_trample"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_powersiphon"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_juggernaut_b"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_warding_candles"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -43534,6 +43355,81 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
+				["WeakAuras_hp_2"] = {
+					["SkinID"] = "Zoomed",
+				},
+				["WeakAuras_aspect_of_the_tutrle_buff"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_powersiphon"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
 				["WeakAuras_dancing_steelicon"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -43576,35 +43472,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_aspect_of_the_tutrle_buff"] = {
+				["WeakAuras_static_shock_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_dämonenblitz_na_6"] = {
 					["Colors"] = {
@@ -43648,35 +43556,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_energizing_elixir"] = {
+				["WeakAuras_mortal_coil_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_[sub]shadow_dance_2_es"] = {
 					["Colors"] = {
@@ -43918,48 +43838,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_immolation_aura_-_active_-_veng"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
 				["WeakAuras_ravaging_leap_2"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -44001,6 +43879,36 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_04_eye_beams"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_cross_ignition_2"] = {
 					["Colors"] = {
@@ -44362,35 +44270,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_moonfire"] = {
+				["WeakAuras_stun_rdy"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_[out]riposte_cd"] = {
 					["Colors"] = {
@@ -44434,7 +44354,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_04_eye_beams"] = {
+				["WeakAuras_03_malodorous_miasma"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -44494,89 +44414,65 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_hunde_2_2"] = {
+				["WeakAuras_expel_harm"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_embalming_fluid"] = {
+				["WeakAuras_sprint_b"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_rotten_expulsion_2"] = {
 					["Colors"] = {
@@ -44696,131 +44592,95 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_gcd2st_2"] = {
+				["WeakAuras_feint"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_command_demon_cd"] = {
+				["WeakAuras_blindside"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_stun_rdy"] = {
+				["WeakAuras_moonfire"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_斩杀1"] = {
 					["Colors"] = {
@@ -44852,65 +44712,89 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_导管"] = {
+				["WeakAuras_demonic_power_-_buff_uptime"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_03_malodorous_miasma"] = {
+				["WeakAuras_immolation_aura_-_active_-_veng"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_defile_buff"] = {
 					["Colors"] = {
@@ -45026,7 +44910,49 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_expel_harm"] = {
+				["WeakAuras_hunde_2_2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "CleanUI",
+				},
+				["ElvUI_Pet Bar"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -45034,17 +44960,29 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0.5, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
+						},
+						["Checked"] = {
+							0.980392156862745, -- [1]
+							0.980392156862745, -- [2]
+							0.980392156862745, -- [3]
+							1, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.700000017881393, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
@@ -45055,36 +44993,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_blindside"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_影袭"] = {
 					["Colors"] = {
@@ -45170,47 +45078,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["ElvUI_Pet Bar"] = {
+				["WeakAuras_command_demon_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.5, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
-							0.980392156862745, -- [1]
-							0.980392156862745, -- [2]
-							0.980392156862745, -- [3]
-							1, -- [4]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Cooldown"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.700000017881393, -- [4]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_divine_purpose"] = {
 					["Colors"] = {
@@ -45362,36 +45270,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_starlord"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
 				["WeakAuras_volatile_pods"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -45433,6 +45311,36 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
+				},
+				["WeakAuras_starlord"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_fel_eruption_-_cd"] = {
 					["Colors"] = {
@@ -45476,6 +45384,36 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
+				["WeakAuras_5.维克提斯-育种"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
 				["WeakAuras_kicklel"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -45517,36 +45455,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_clearcasting_-_buff"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
 				},
 				["TellMeWhen_|cff00c300共用|r 分组: 3"] = {
 					["Colors"] = {
@@ -45929,7 +45837,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_compounding_horror"] = {
+				["WeakAuras_misdirect"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -45937,13 +45845,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -46181,7 +46089,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_misdirect"] = {
+				["WeakAuras_compounding_horror"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -46189,13 +46097,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -46223,7 +46131,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "FlatSquares",
 				},
-				["WeakAuras_5.维克提斯-育种"] = {
+				["WeakAuras_clearcasting_-_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -46559,7 +46467,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_demonic_power_-_buff_uptime"] = {
+				["WeakAuras_导管"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_gcd2st_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -46601,65 +46539,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_feint"] = {
+				["WeakAuras_embalming_fluid"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
-				},
-				["WeakAuras_sprint_b"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_way_of_the_mok'nathal"] = {
 					["Colors"] = {
@@ -46835,47 +46755,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_static_shock_2"] = {
+				["WeakAuras_energizing_elixir"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_obliteration"] = {
 					["Colors"] = {
@@ -47039,7 +46947,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_04_corruptor's_pact"] = {
+				["WeakAuras_secret_technique"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -47067,7 +46975,7 @@ MasqueDB = {
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["TellMeWhen_分组: 9"] = {
 					["Colors"] = {
@@ -47171,6 +47079,36 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
+				["WeakAuras_neltharion's_fury"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
 				["WeakAuras_anti-magic_shell"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -47200,48 +47138,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_shocking_claw_2"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_demon_spikes_-_active"] = {
 					["Colors"] = {
@@ -47441,47 +47337,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_dark_omen_2"] = {
+				["WeakAuras_shark_infested_waters"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["TellMeWhen_分组: 22"] = {
 					["Colors"] = {
@@ -47579,35 +47463,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_avatar_cd_prot"] = {
+				["WeakAuras_fel_eruption_-_active"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_consecration_combat"] = {
 					["Colors"] = {
@@ -47783,7 +47679,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_retribution"] = {
+				["WeakAuras_fell_rush"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_inner_rage"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -47812,10 +47738,6 @@ MasqueDB = {
 					},
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
-				},
-				["Bagnon_voidstorage - items"] = {
-					["Inherit"] = false,
-					["SkinID"] = "FlatSquares",
 				},
 				["WeakAuras_crushing_slam"] = {
 					["Colors"] = {
@@ -48057,49 +47979,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_frenzied_charge"] = {
+				["WeakAuras_explosive_orbs_||_mythic+"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_dragonsfire_grenade"] = {
+				["WeakAuras_trick_shot"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -48261,7 +48171,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_reinforcing_ward_self_buff_2"] = {
+				["WeakAuras_gimore"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -48405,35 +48315,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_virulent_plague"] = {
+				["WeakAuras_serrated_fangs_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_carnage"] = {
 					["Colors"] = {
@@ -48936,35 +48858,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_wrath_of_consumption"] = {
+				["WeakAuras_[sin]rupture_<_30%_(8_sec)"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_02_wind_tunnel"] = {
 					["Colors"] = {
@@ -49773,7 +49707,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_deadeye_target"] = {
+				["WeakAuras_rock_lance"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -49845,30 +49779,12 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_invoke_xuen_the_white_tiger"] = {
+				["WeakAuras_痛苦无常5_2"] = {
 					["Colors"] = {
 						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
 							1, -- [4]
 						},
 					},
@@ -50331,49 +50247,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_poison_barrage_cone"] = {
+				["WeakAuras_demonic_circle_teleport"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_pet_dk_cd"] = {
+				["WeakAuras_rotten_bile8"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -50433,7 +50337,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_rogue_pvpt3"] = {
+				["WeakAuras_venomous_spit_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -50751,35 +50655,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_consumtion"] = {
+				["WeakAuras_backstub_shadowblade"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_rushing_jade_wind"] = {
 					["Colors"] = {
@@ -50871,47 +50787,65 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_deadeye_shot_2"] = {
+				["WeakAuras_chennel_demonfire"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_eye_of_tyr"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_boss1吸魂_2"] = {
 					["Colors"] = {
@@ -50919,36 +50853,6 @@ MasqueDB = {
 							0.0980392156862745, -- [1]
 							0.0980392156862745, -- [2]
 							0.0980392156862745, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_sinister_strike"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
 							1, -- [4]
 						},
 					},
@@ -50997,6 +50901,36 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
+				["WeakAuras_warlock_pvpt2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
 				["WeakAuras_tombstone_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -51027,35 +50961,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_chennel_demonfire"] = {
+				["WeakAuras_purification_beam_cast_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_lucre's_call"] = {
 					["Colors"] = {
@@ -51099,7 +51045,73 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_demo:_demon_counter"] = {
+				["TellMeWhen_|cff00c300共用|r 分组: 2"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+						["Cooldown"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0.0980392156862745, -- [1]
+							0.0980392156862745, -- [2]
+							0.0980392156862745, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_08_gaze_of_g'huun_cast"] = {
+					["Colors"] = {
+						["Normal"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							1, -- [4]
+						},
+					},
+					["Inherit"] = false,
+					["SkinID"] = "Caith - No Shadow",
+				},
+				["WeakAuras_pistol_shot_alt"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -51183,78 +51195,6 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_08_gaze_of_g'huun_cast"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_pistol_shot_alt"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Checked"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
-				},
 				["WeakAuras_keg_smash"] = {
 					["Colors"] = {
 						["Normal"] = {
@@ -51270,36 +51210,6 @@ MasqueDB = {
 							1, -- [4]
 						},
 						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Flash"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-					},
-					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
-				},
-				["WeakAuras_图标技能9"] = {
-					["Colors"] = {
-						["Normal"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							1, -- [4]
-						},
-						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -51417,7 +51327,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_barrle_through"] = {
+				["WeakAuras_last_resort_-_inactive"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -51501,7 +51411,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_aspect_of_the_wild"] = {
+				["WeakAuras_sharpen_blade_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -51573,35 +51483,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_bloodlust"] = {
+				["WeakAuras_soulrend_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_adrenalin_rush_b"] = {
 					["Colors"] = {
@@ -51777,35 +51699,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_horn_of_winter"] = {
+				["WeakAuras_[sin]exsanguinate_ready"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_fists_of_fury"] = {
 					["Colors"] = {
@@ -51897,49 +51831,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_charge_3"] = {
+				["WeakAuras_camoufage"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_死亡缠绕_2_3_2_2"] = {
+				["WeakAuras_fortifying_brew_brewmaster_buff"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -51947,13 +51869,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -52819,35 +52741,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_trample5"] = {
+				["WeakAuras_fel_devestation_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_tyrann_ak"] = {
 					["Colors"] = {
@@ -52963,35 +52897,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_sidewinders"] = {
+				["WeakAuras_scabrous_bite_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_warlock_pvpt8"] = {
 					["Colors"] = {
@@ -53083,17 +53029,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_恶魔传送门"] = {
+				["WeakAuras_soul_strike_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
-							0.0980392156862745, -- [1]
-							0.501960784313726, -- [2]
-							0.156862745098039, -- [3]
-							0.700000017881393, -- [4]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Highlight"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
+						},
+						["Flash"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith: No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_reinforcing_ward_self_buff"] = {
 					["Colors"] = {
@@ -53191,35 +53167,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_feint_b"] = {
+				["WeakAuras_demonic_consumption"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_holy_wrath"] = {
 					["Colors"] = {
@@ -53251,7 +53239,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_confraglation_of_chaos"] = {
+				["WeakAuras_05_bursting_lesions"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -53425,7 +53413,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_rotten_bile4"] = {
+				["WeakAuras_chimaera_shot_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -53433,13 +53421,13 @@ MasqueDB = {
 							0, -- [3]
 							1, -- [4]
 						},
-						["Highlight"] = {
+						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
 							1, -- [4]
 						},
-						["Checked"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
@@ -54463,47 +54451,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_[rog]cos_ready"] = {
+				["WeakAuras_1.塔洛克-鲜血大槌"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_[sub]nightblade_<30%"] = {
 					["Colors"] = {
@@ -54769,35 +54745,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_07_xalzaix's_awakening"] = {
+				["WeakAuras_loadedicon"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_lunar_beam"] = {
 					["Colors"] = {
@@ -54913,7 +54901,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_scabrous_bite"] = {
+				["WeakAuras_reinforcing_ward_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -55207,37 +55195,49 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_call_of_the_hunter"] = {
+				["WeakAuras_demonic_strength_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_demonic_circle"] = {
+				["WeakAuras_vendetta_d"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -55309,47 +55309,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_heart_attack"] = {
+				["WeakAuras_demonic_circle"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_widowmaker_toxin_2"] = {
 					["Colors"] = {
@@ -56029,31 +56017,43 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_toxic_blade"] = {
+				["WeakAuras_[out]roll_the_bones_alt"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
@@ -56089,35 +56089,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_8.戈霍恩-远离爆裂囊肿（m）"] = {
+				["WeakAuras_secrettech"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_shadow_blades_b"] = {
 					["Colors"] = {
@@ -56179,35 +56191,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_rake"] = {
+				["WeakAuras_call_dreadstalkers_-_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Pushed"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_azerite_affli_corruption"] = {
 					["Colors"] = {
@@ -56443,47 +56467,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_shattering_bellow"] = {
+				["WeakAuras_hammer_of_the_righteous"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
-						},
-						["Highlight"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
-						["Cooldown"] = {
+						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_reinforcing_ward"] = {
 					["Colors"] = {
@@ -57163,47 +57175,35 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_tbcd"] = {
+				["WeakAuras_sacrificial_pact"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "CleanUI",
+					["SkinID"] = "Caith - No Shadow",
 				},
 				["WeakAuras_stampede"] = {
 					["Colors"] = {
@@ -57235,7 +57235,7 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_severing_blade"] = {
+				["WeakAuras_felstorm_-_cd\""] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -57445,49 +57445,37 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "Caith - No Shadow",
 				},
-				["WeakAuras_[out]snd_ld_emp"] = {
+				["WeakAuras_crimson_vial"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Pushed"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 						["Checked"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
-						},
-						["Cooldown"] = {
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-							0.850000008940697, -- [4]
+							1, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							0, -- [4]
+							1, -- [4]
 						},
 					},
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_bloodlustup_2"] = {
+				["WeakAuras_[out]grappling_cd"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
@@ -58049,35 +58037,47 @@ MasqueDB = {
 					["Inherit"] = false,
 					["SkinID"] = "CleanUI",
 				},
-				["WeakAuras_tiger's_lust"] = {
+				["WeakAuras_连击_2"] = {
 					["Colors"] = {
 						["Normal"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
-						["Checked"] = {
+						["Pushed"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 						["Highlight"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
+						},
+						["Checked"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0, -- [4]
+						},
+						["Cooldown"] = {
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+							0.850000008940697, -- [4]
 						},
 						["Flash"] = {
 							0, -- [1]
 							0, -- [2]
 							0, -- [3]
-							1, -- [4]
+							0, -- [4]
 						},
 					},
 					["Inherit"] = false,
-					["SkinID"] = "Caith - No Shadow",
+					["SkinID"] = "CleanUI",
 				},
 				["WeakAuras_soul_barrier_-_active"] = {
 					["Colors"] = {
