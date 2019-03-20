@@ -26,3 +26,4 @@ SkadaFormat: enabled
 ElvUI_EverySecondCounts: disabled
 Details: disabled
 TinyInspect: enabled
+Gnosis: disabled

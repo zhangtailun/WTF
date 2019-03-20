@@ -25,3 +25,4 @@ Skada: enabled
 SkadaFormat: enabled
 Details: disabled
 TinyInspect: enabled
+Gnosis: disabled

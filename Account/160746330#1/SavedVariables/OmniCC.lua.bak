@@ -1,9 +1,8 @@
 
 OmniCC4Config = {
-	["engine"] = "AniUpdater",
 	["groups"] = {
 	},
-	["version"] = "8.1.1",
+	["engine"] = "AniUpdater",
 	["groupSettings"] = {
 		["base"] = {
 			["enabled"] = true,
@@ -42,4 +41,5 @@ OmniCC4Config = {
 			["fontFace"] = "Fonts\\ARKai_C.TTF",
 		},
 	},
+	["version"] = "8.1.1",
 }
