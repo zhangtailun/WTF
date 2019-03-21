@@ -1,13 +1,29 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 5011,
+	["session"] = 5015,
 	["errors"] = {
 		{
 			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["time"] = "2019/03/20 15:22:44",
-			["session"] = 5011,
-			["counter"] = 12,
+			["time"] = "2019/03/21 11:19:37",
+			["session"] = 5015,
+			["counter"] = 4,
 		}, -- [1]
+		{
+			["message"] = "[string \"--[[ Error in 'Heavy Slash' ]] return funct...\"]:15: table index is nil",
+			["time"] = "2019/03/21 11:25:26",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>",
+			["session"] = 5015,
+			["counter"] = 4,
+		}, -- [2]
+		{
+			["message"] = "[string \"--[[ Error in 'Heaving Blow' ]] return func...\"]:15: table index is nil",
+			["time"] = "2019/03/21 11:20:56",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>",
+			["session"] = 5015,
+			["counter"] = 24,
+		}, -- [3]
 	},
 }
