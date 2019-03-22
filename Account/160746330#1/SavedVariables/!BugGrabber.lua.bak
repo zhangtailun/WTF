@@ -1,29 +1,15 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 5015,
+	["session"] = 5017,
 	["errors"] = {
 		{
-			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["time"] = "2019/03/21 11:19:37",
-			["session"] = 5015,
-			["counter"] = 4,
+			["message"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: attempt to compare nil with number",
+			["time"] = "2019/03/22 11:21:44",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n}\nevent = \"LFG_LIST_SEARCH_RESULTS_RECEIVED\"\nnumResults = 37\nresultIds = <table> {\n 1 = 16\n 2 = 11\n 3 = 13\n 4 = 8\n 5 = 24\n 6 = 10\n 7 = 38\n 8 = 3\n 9 = 33\n 10 = 28\n 11 = 9\n 12 = 19\n 13 = 23\n 14 = 36\n 15 = 14\n 16 = 7\n 17 = 25\n 18 = 29\n 19 = 20\n 20 = 37\n 21 = 31\n 22 = 35\n 23 = 39\n 24 = 27\n 25 = 15\n 26 = 26\n 27 = 30\n 28 = 6\n 29 = 21\n 30 = 18\n 31 = 12\n 32 = 4\n 33 = 5\n 34 = 17\n 35 = 22\n 36 = 34\n 37 = 32\n}\nmatches = <table> {\n}\nmaxAge = 150\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 1 = 16\n 2 = 11\n 3 = 13\n 4 = 8\n 5 = 24\n 6 = 10\n 7 = 38\n 8 = 3\n 9 = 33\n 10 = 28\n 11 = 9\n 12 = 19\n 13 = 23\n 14 = 36\n 15 = 14\n 16 = 7\n 17 = 25\n 18 = 29\n 19 = 20\n 20 = 37\n 21 = 31\n 22 = 35\n 23 = 39\n 24 = 27\n 25 = 15\n 26 = 26\n 27 = 30\n 28 = 6\n 29 = 21\n 30 = 18\n 31 = 12\n 32 = 4\n 33 = 5\n 34 = 17\n 35 = 22\n 36 = 34\n 37 = 32\n}\n(for control) = 1\n_ = 1\nresultId = 16\nid = <table> {\n age = 44\n comment = \"\"\n numGuildMates = 0\n requiredItemLevel = 0\n questID = 50847\n activityID = 650\n numBNetFriends = 0\n numMembers = 4\n autoAccept = false\n searchResultID = 16\n requiredHonorLevel = 0\n voiceChat = \"\"\n isDelisted = false\n numCharFriends = 0\n name = \"|Kr2|k\"\n}\nactivityID = nil\nname = nil\ncomment = nil\nvoiceChat = nil\niLvl = nil\nhonorLevel = nil\nage = nil\nnumBNetFriends = nil\nnumCharFriends = nil\nnumGuildMates = nil\nisDelisted = nil\nleaderName = nil\nnumMembers = nil\nisAutoAccept = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to compare nil with number\"\nnumSearches = 1\nfinderFrame = <unnamed> {\n 0 = <userdata>\n}\nlastSearchTerm = \"\"\nupdateNPCGroupCount = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1183\nupdateFoundRares = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1212\nArgus = <table> {\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n Enable = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:294\n RegisterChatCommand = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceConsole-3.0\\AceConsole-3.0.lua:85\n EnableModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n modules = <table> {\n }\n GetModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:210\n IterateEmbeds = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:442\n defaultModuleLibraries = <table> {\n }\n TimeLeft = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:172\n UnregisterChatCommand = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceConsole-3.0\\AceConsole-3.0.lua:111\n ScheduleRepeatingTimer = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:129\n CancelAllTimers = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:160\n Printf = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceConsole-3.0\\AceConsole-3.0.lua:69\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n GetNodes = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:2281\n nodes = <table> {\n }\n baseName = \"HandyNotes_Argus\"\n name = \"ArgusRaresTreasures\"\n OnInitialize = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:2144\n IsEnabled = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n orderedModules = <table> {\n }\n ScheduleTimer = <function> defined @Interface\\AddOns\\ElvUI\\Libraries\\Ace3\\AceTimer-3.0\\AceTimer-3.0.lua:94\n DisableModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:350\n OnClick = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1721\n Refresh = <function> defined @Interface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:2292\n RegisterWithHandyNotes = <functio",
+			["stack"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: in function <...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus.lua:1399>",
+			["session"] = 5017,
+			["counter"] = 1,
 		}, -- [1]
-		{
-			["message"] = "[string \"--[[ Error in 'Heavy Slash' ]] return funct...\"]:15: table index is nil",
-			["time"] = "2019/03/21 11:25:26",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>",
-			["session"] = 5015,
-			["counter"] = 4,
-		}, -- [2]
-		{
-			["message"] = "[string \"--[[ Error in 'Heaving Blow' ]] return func...\"]:15: table index is nil",
-			["time"] = "2019/03/21 11:20:56",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>",
-			["session"] = 5015,
-			["counter"] = 24,
-		}, -- [3]
 	},
 }
