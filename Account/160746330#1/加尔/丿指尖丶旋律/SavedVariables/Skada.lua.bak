@@ -11,7 +11,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 55479,
+			["mobtaken"] = 822362,
 			["damage"] = 822362,
 			["players"] = {
 				{
@@ -312,7 +312,7 @@ SkadaPerCharDB = {
 					},
 					["shielding"] = 55479,
 					["id"] = "Player-1944-06624493",
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damagetaken"] = 16498,
 					["damagetakenspells"] = {
 						["虚空裂破"] = {
@@ -528,8 +528,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 16498,
-			["power"] = {
-			},
+			["shielding"] = 55479,
 			["mobname"] = "无面抑制者",
 			["healing"] = 71160,
 			["overhealing"] = 159970,
@@ -611,7 +610,8 @@ SkadaPerCharDB = {
 			["starttime"] = 1552553483,
 			["name"] = "无面抑制者",
 			["alertCount"] = 0,
-			["mobtaken"] = 822362,
+			["power"] = {
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552553483,
 			["mobdone"] = 16498,
@@ -626,7 +626,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 5480,
+			["mobtaken"] = 93086,
 			["damage"] = 93086,
 			["players"] = {
 				{
@@ -798,7 +798,7 @@ SkadaPerCharDB = {
 					},
 					["shielding"] = 5480,
 					["id"] = "Player-1944-06624493",
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damagetaken"] = 3137,
 					["damagetakenspells"] = {
 						["溅血"] = {
@@ -935,8 +935,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 3137,
-			["power"] = {
-			},
+			["shielding"] = 5480,
 			["mobname"] = "被污染的血球",
 			["healing"] = 8527,
 			["overhealing"] = 32643,
@@ -964,7 +963,8 @@ SkadaPerCharDB = {
 			["starttime"] = 1552553438,
 			["name"] = "被污染的血球 (2)",
 			["alertCount"] = 0,
-			["mobtaken"] = 93086,
+			["power"] = {
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552553438,
 			["mobdone"] = 3137,
@@ -979,7 +979,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 583,
+			["mobtaken"] = 89646,
 			["damage"] = 89646,
 			["players"] = {
 				{
@@ -1092,7 +1092,7 @@ SkadaPerCharDB = {
 					},
 					["shielding"] = 583,
 					["id"] = "Player-1944-06624493",
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damagetaken"] = 5383,
 					["damagetakenspells"] = {
 						["溅血"] = {
@@ -1181,8 +1181,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 5383,
-			["power"] = {
-			},
+			["shielding"] = 583,
 			["mobname"] = "被污染的血球",
 			["healing"] = 5445,
 			["overhealing"] = 25321,
@@ -1210,7 +1209,8 @@ SkadaPerCharDB = {
 			["starttime"] = 1552553417,
 			["name"] = "被污染的血球",
 			["alertCount"] = 0,
-			["mobtaken"] = 89646,
+			["power"] = {
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552553417,
 			["mobdone"] = 5383,
@@ -1225,7 +1225,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 370,
+			["mobtaken"] = 0,
 			["damage"] = 0,
 			["players"] = {
 				{
@@ -1287,7 +1287,7 @@ SkadaPerCharDB = {
 					},
 					["shielding"] = 370,
 					["id"] = "Player-1944-06624493",
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damagetaken"] = 5956,
 					["damagetakenspells"] = {
 						["毒液喷吐"] = {
@@ -1352,8 +1352,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 5956,
-			["power"] = {
-			},
+			["shielding"] = 370,
 			["mobname"] = "巨蜥",
 			["healing"] = 370,
 			["overhealing"] = 0,
@@ -1409,7 +1408,8 @@ SkadaPerCharDB = {
 			["starttime"] = 1552553309,
 			["name"] = "巨蜥",
 			["alertCount"] = 0,
-			["mobtaken"] = 0,
+			["power"] = {
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552553309,
 			["mobdone"] = 5956,
@@ -1424,8 +1424,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["power"] = {
-			},
+			["shielding"] = 0,
 			["damage"] = 0,
 			["players"] = {
 				{
@@ -1443,7 +1442,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "NONE",
 					["healing"] = 0,
-					["maxhp"] = 236580,
+					["maxhp"] = 249660,
 					["damage"] = 0,
 					["damagespells"] = {
 					},
@@ -1481,7 +1480,8 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 0,
-			["mobtaken"] = 0,
+			["power"] = {
+			},
 			["alertCount"] = 0,
 			["healing"] = 0,
 			["overhealing"] = 0,
@@ -1491,7 +1491,7 @@ SkadaPerCharDB = {
 			},
 			["name"] = "训练假人",
 			["mobname"] = "训练假人",
-			["shielding"] = 0,
+			["mobtaken"] = 0,
 			["mobhdone"] = 0,
 			["last_action"] = 1552296662,
 			["endtime"] = 1552296669,
@@ -1506,7 +1506,11 @@ SkadaPerCharDB = {
 			["interrupts"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 901122,
+			["power"] = {
+				647.5, -- [1]
+				[11] = 468,
+				[0] = 32075,
+			},
 			["alertCount"] = 0,
 			["damage"] = 6666279,
 			["players"] = {
@@ -2031,7 +2035,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 334365,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 2080818,
 					["damagespells"] = {
 						["混乱之箭"] = {
@@ -2857,6 +2861,14 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 77762,
 						},
+						["时空错位"] = {
+							["name"] = "时空错位",
+							["active"] = 0,
+							["school"] = 1,
+							["uptime"] = 115,
+							["auratype"] = "DEBUFF",
+							["id"] = 80354,
+						},
 						["森林之王的智慧"] = {
 							["name"] = "森林之王的智慧",
 							["active"] = 0,
@@ -2872,14 +2884,6 @@ SkadaPerCharDB = {
 							["uptime"] = 3,
 							["auratype"] = "BUFF",
 							["id"] = 191634,
-						},
-						["时空错位"] = {
-							["name"] = "时空错位",
-							["active"] = 0,
-							["school"] = 1,
-							["uptime"] = 115,
-							["auratype"] = "DEBUFF",
-							["id"] = 80354,
 						},
 						["自然和谐：自然"] = {
 							["name"] = "自然和谐：自然",
@@ -3764,7 +3768,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 4499081,
-			["gotboss"] = true,
+			["shielding"] = 901122,
 			["mobtaken"] = 6666279,
 			["healing"] = 5345278,
 			["starttime"] = 1552203913,
@@ -3814,17 +3818,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 2055120,
+							["done"] = 777885,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 1843758,
 							["done"] = 856419,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 19472,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 1626925,
@@ -3832,11 +3836,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 2055120,
-							["done"] = 777885,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 19472,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -3852,11 +3856,7 @@ SkadaPerCharDB = {
 			["overhealing"] = 1328983.8125,
 			["name"] = "科古斯狱长",
 			["mobname"] = "科古斯狱长",
-			["power"] = {
-				647.5, -- [1]
-				[11] = 468,
-				[0] = 32075,
-			},
+			["gotboss"] = true,
 			["mobhdone"] = 0,
 			["last_action"] = 1552203913,
 			["endtime"] = 1552204034,
@@ -3871,7 +3871,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 350530,
 			["auras"] = {
 			},
-			["shielding"] = 211636,
+			["mobtaken"] = 20809109,
 			["damage"] = 20809109,
 			["players"] = {
 				{
@@ -4127,9 +4127,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203877.77212,
 									["amount"] = -259442,
+									["spellid"] = 263198,
 									["hp"] = 1,
 									["srcname"] = "丿指尖丶旋律",
-									["spellid"] = 263198,
 								}, -- [12]
 								{
 									["spellname"] = "Candylin次死亡",
@@ -4159,18 +4159,18 @@ SkadaPerCharDB = {
 						}, -- [1]
 					},
 					["healed"] = {
+						["Player-852-04AFC81B"] = {
+							["role"] = "HEALER",
+							["name"] = "Candylin-冰风岗",
+							["amount"] = 208472,
+							["class"] = "PALADIN",
+							["shielding"] = 0,
+						},
 						["Player-852-0474DA1C"] = {
 							["role"] = "DAMAGER",
 							["name"] = "奶嘴儿叼叼-冰风岗",
 							["amount"] = 98529,
 							["class"] = "MAGE",
-							["shielding"] = 0,
-						},
-						["Player-852-04B294EE"] = {
-							["role"] = "DAMAGER",
-							["name"] = "天书张靓颖-冰风岗",
-							["amount"] = 213632,
-							["class"] = "SHAMAN",
 							["shielding"] = 0,
 						},
 						["Creature-0-3912-1771-24643-61056-000004C026"] = {
@@ -4180,11 +4180,11 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["shielding"] = 0,
 						},
-						["Player-852-04AFC81B"] = {
-							["role"] = "HEALER",
-							["name"] = "Candylin-冰风岗",
-							["amount"] = 208472,
-							["class"] = "PALADIN",
+						["Player-852-04B294EE"] = {
+							["role"] = "DAMAGER",
+							["name"] = "天书张靓颖-冰风岗",
+							["amount"] = 213632,
+							["class"] = "SHAMAN",
 							["shielding"] = 0,
 						},
 						["Pet-0-3912-1771-24643-416-010271F087"] = {
@@ -5256,7 +5256,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 233503,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 6481542,
 					["damagespells"] = {
 						["火炮冲击"] = {
@@ -6027,11 +6027,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 1,
 			["damagetaken"] = 1516016,
-			["power"] = {
-				146.5, -- [1]
-				[0] = 520,
-				[11] = 436,
-			},
+			["shielding"] = 211636,
 			["alertCount"] = 0,
 			["healing"] = 1352366,
 			["overhealing"] = 618812.765625,
@@ -6064,16 +6060,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 31872,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 200056,
 							["done"] = 0,
 							["class"] = "MAGE",
-							["role"] = "DAMAGER",
-						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 268641,
-							["done"] = 0,
-							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -6082,11 +6078,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 31872,
+						["丿指尖丶旋律"] = {
+							["taken"] = 268641,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -6106,17 +6102,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 515413,
+							["done"] = 82079,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 622152,
 							["done"] = 3711,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 58453,
-							["done"] = 47777,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 1374078,
@@ -6124,11 +6120,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 515413,
-							["done"] = 82079,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 58453,
+							["done"] = 47777,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -6184,17 +6180,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 1225875,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 355438,
 							["done"] = 17030,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 10712,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 3438109,
@@ -6202,11 +6198,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1225875,
+						["Candylin-冰风岗"] = {
+							["taken"] = 10712,
 							["done"] = 0,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -6226,16 +6222,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 51258,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 699996,
 							["done"] = 0,
 							["class"] = "MAGE",
-							["role"] = "DAMAGER",
-						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1189555,
-							["done"] = 0,
-							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -6244,11 +6240,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 51258,
+						["丿指尖丶旋律"] = {
+							["taken"] = 1189555,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -6263,7 +6259,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡炉火医师",
 			["mobname"] = "艾什凡炉火医师",
-			["mobtaken"] = 20809109,
+			["power"] = {
+				146.5, -- [1]
+				[0] = 520,
+				[11] = 436,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203794,
 			["endtime"] = 1552203885,
@@ -6278,7 +6278,12 @@ SkadaPerCharDB = {
 			["interrupts"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 678133,
+			["power"] = {
+				461, -- [1]
+				[0] = 5557,
+				[7] = 1.00000001490116,
+				[11] = 312,
+			},
 			["alertCount"] = 0,
 			["damage"] = 5367315,
 			["players"] = {
@@ -6601,13 +6606,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 190456,
 						},
-						["挫志怒吼"] = {
-							["name"] = "挫志怒吼",
+						["搬运弹药"] = {
+							["name"] = "搬运弹药",
 							["active"] = 0,
 							["school"] = 1,
-							["uptime"] = 12,
-							["auratype"] = "DEBUFF",
-							["id"] = 1160,
+							["uptime"] = 5,
+							["auratype"] = "BUFF",
+							["id"] = 256496,
 						},
 						["血律"] = {
 							["name"] = "血律",
@@ -6625,13 +6630,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 271711,
 						},
-						["以一敌众"] = {
-							["name"] = "以一敌众",
+						["挫志怒吼"] = {
+							["name"] = "挫志怒吼",
 							["active"] = 0,
 							["school"] = 1,
-							["uptime"] = 15,
-							["auratype"] = "BUFF",
-							["id"] = 271550,
+							["uptime"] = 12,
+							["auratype"] = "DEBUFF",
+							["id"] = 1160,
 						},
 						["迅捷远航"] = {
 							["name"] = "迅捷远航",
@@ -6649,13 +6654,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 5302,
 						},
-						["搬运弹药"] = {
-							["name"] = "搬运弹药",
+						["以一敌众"] = {
+							["name"] = "以一敌众",
 							["active"] = 0,
 							["school"] = 1,
-							["uptime"] = 5,
+							["uptime"] = 15,
 							["auratype"] = "BUFF",
-							["id"] = 256496,
+							["id"] = 271550,
 						},
 						["盾牌格挡"] = {
 							["name"] = "盾牌格挡",
@@ -8244,7 +8249,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "NONE",
 					["healing"] = 0,
-					["maxhp"] = 111510,
+					["maxhp"] = 112347,
 					["damage"] = 0,
 					["damagespells"] = {
 					},
@@ -8274,7 +8279,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 2341876,
-			["gotboss"] = true,
+			["shielding"] = 678133,
 			["mobtaken"] = 5367315,
 			["healing"] = 2637065,
 			["starttime"] = 1552203651,
@@ -8288,17 +8293,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 1624960,
+							["done"] = 136009,
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 2006558,
 							["done"] = 0,
 							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 0,
-							["done"] = 134540,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 993472,
@@ -8306,11 +8311,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 1624960,
-							["done"] = 136009,
-							["class"] = "MAGE",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 0,
+							["done"] = 134540,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -8326,12 +8331,7 @@ SkadaPerCharDB = {
 			["overhealing"] = 1053434.8046875,
 			["name"] = "骑士队长瓦莱莉 (2)",
 			["mobname"] = "骑士队长瓦莱莉",
-			["power"] = {
-				461, -- [1]
-				[0] = 5557,
-				[7] = 1.00000001490116,
-				[11] = 312,
-			},
+			["gotboss"] = true,
 			["mobhdone"] = 0,
 			["last_action"] = 1552203651,
 			["endtime"] = 1552203781,
@@ -8346,7 +8346,11 @@ SkadaPerCharDB = {
 			["interrupts"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 365850,
+			["power"] = {
+				306, -- [1]
+				[11] = 217,
+				[0] = 5599,
+			},
 			["alertCount"] = 3,
 			["damage"] = 3580062,
 			["players"] = {
@@ -8566,9 +8570,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203588.81203,
 									["amount"] = -16241,
+									["spellid"] = 257033,
 									["srcname"] = "猪卉咸丶-冰风岗",
 									["hp"] = 241941,
-									["spellid"] = 257033,
 								}, -- [3]
 								{
 									["absorb"] = 0,
@@ -8581,16 +8585,16 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203589.79305,
 									["amount"] = -40051,
+									["spellid"] = 88163,
 									["srcname"] = "骑士队长瓦莱莉",
 									["hp"] = 248312,
-									["spellid"] = 88163,
 								}, -- [5]
 								{
 									["ts"] = 1552203589.79306,
 									["amount"] = -16139,
+									["spellid"] = 257033,
 									["srcname"] = "猪卉咸丶-冰风岗",
 									["hp"] = 192122,
-									["spellid"] = 257033,
 								}, -- [6]
 								{
 									["ts"] = 1552203589.84007,
@@ -8603,9 +8607,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203590.79608,
 									["amount"] = -15935,
+									["spellid"] = 257033,
 									["srcname"] = "猪卉咸丶-冰风岗",
 									["hp"] = 176205,
-									["spellid"] = 257033,
 								}, -- [8]
 								{
 									["ts"] = 1552203591.05409,
@@ -8618,16 +8622,16 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203591.7971,
 									["amount"] = -38390,
+									["spellid"] = 88163,
 									["srcname"] = "骑士队长瓦莱莉",
 									["hp"] = 176328,
-									["spellid"] = 88163,
 								}, -- [10]
 								{
 									["ts"] = 1552203591.79711,
 									["amount"] = -16540,
+									["spellid"] = 257033,
 									["srcname"] = "猪卉咸丶-冰风岗",
 									["hp"] = 159788,
-									["spellid"] = 257033,
 								}, -- [11]
 								{
 									["spellid"] = 256710,
@@ -8675,9 +8679,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203516.49302,
 									["amount"] = -165458,
+									["spellid"] = 256976,
 									["srcname"] = "骑士队长瓦莱莉",
 									["hp"] = 80739,
-									["spellid"] = 256976,
 								}, -- [2]
 								{
 									["absorb"] = 0,
@@ -8690,9 +8694,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203517.71904,
 									["amount"] = -138414,
+									["spellid"] = 256955,
 									["hp"] = 1,
 									["srcname"] = "骑士队长瓦莱莉",
-									["spellid"] = 256955,
 								}, -- [4]
 								{
 									["spellname"] = "猪卉咸丶次死亡",
@@ -8701,10 +8705,10 @@ SkadaPerCharDB = {
 									["spellid"] = 41220,
 								}, -- [5]
 								{
-									["srcname"] = "丿指尖丶旋律",
-									["ts"] = 1552203523.56,
-									["hp"] = 0,
 									["spellid"] = 95750,
+									["ts"] = 1552203523.56,
+									["srcname"] = "丿指尖丶旋律",
+									["hp"] = 0,
 								}, -- [6]
 								{
 									["absorb"] = 0,
@@ -8733,9 +8737,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203511.5921,
 									["amount"] = -37745,
+									["spellid"] = 88163,
 									["srcname"] = "骑士队长瓦莱莉",
 									["hp"] = 334272,
-									["spellid"] = 88163,
 								}, -- [10]
 								{
 									["absorb"] = 0,
@@ -9327,11 +9331,11 @@ SkadaPerCharDB = {
 						}, -- [1]
 					},
 					["healed"] = {
-						["Player-852-0474DA1C"] = {
-							["role"] = "DAMAGER",
-							["name"] = "奶嘴儿叼叼-冰风岗",
-							["amount"] = 257053,
-							["class"] = "MAGE",
+						["Player-852-04AFC81B"] = {
+							["role"] = "HEALER",
+							["name"] = "Candylin-冰风岗",
+							["amount"] = 296775,
+							["class"] = "PALADIN",
 							["shielding"] = 0,
 						},
 						["Player-1944-06624493"] = {
@@ -9341,11 +9345,11 @@ SkadaPerCharDB = {
 							["class"] = "WARLOCK",
 							["shielding"] = 0,
 						},
-						["Player-852-04B294EE"] = {
+						["Player-852-0474DA1C"] = {
 							["role"] = "DAMAGER",
-							["name"] = "天书张靓颖-冰风岗",
-							["amount"] = 332639,
-							["class"] = "SHAMAN",
+							["name"] = "奶嘴儿叼叼-冰风岗",
+							["amount"] = 257053,
+							["class"] = "MAGE",
 							["shielding"] = 0,
 						},
 						["Player-852-04F1652A"] = {
@@ -9369,11 +9373,11 @@ SkadaPerCharDB = {
 							["class"] = "PALADIN",
 							["shielding"] = 0,
 						},
-						["Player-852-04AFC81B"] = {
-							["role"] = "HEALER",
-							["name"] = "Candylin-冰风岗",
-							["amount"] = 296775,
-							["class"] = "PALADIN",
+						["Player-852-04B294EE"] = {
+							["role"] = "DAMAGER",
+							["name"] = "天书张靓颖-冰风岗",
+							["amount"] = 332639,
+							["class"] = "SHAMAN",
 							["shielding"] = 0,
 						},
 					},
@@ -9742,9 +9746,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203550.30601,
 									["amount"] = -16282,
+									["spellid"] = 257033,
 									["srcname"] = "奶嘴儿叼叼-冰风岗",
 									["hp"] = 163176,
-									["spellid"] = 257033,
 								}, -- [1]
 								{
 									["absorb"] = 0,
@@ -9849,9 +9853,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203549.28415,
 									["amount"] = -16297,
+									["hp"] = 179458,
 									["spellid"] = 257033,
 									["srcname"] = "奶嘴儿叼叼-冰风岗",
-									["hp"] = 179458,
 								}, -- [15]
 								["pos"] = 15,
 							},
@@ -10275,9 +10279,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203559.44604,
 									["amount"] = -141893,
+									["spellid"] = 256955,
 									["srcname"] = "骑士队长瓦莱莉",
 									["hp"] = 68867,
-									["spellid"] = 256955,
 								}, -- [4]
 								{
 									["absorb"] = 0,
@@ -10665,7 +10669,7 @@ SkadaPerCharDB = {
 					["overhealing"] = 12390,
 					["interrupts"] = 0,
 					["healing"] = 137372,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["name"] = "丿指尖丶旋律",
 					["damage"] = 1329130,
 					["damagespells"] = {
@@ -11242,7 +11246,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 6,
 			["damagetaken"] = 3376907,
-			["gotboss"] = true,
+			["shielding"] = 365850,
 			["mobtaken"] = 3580062,
 			["healing"] = 2081245,
 			["starttime"] = 1552203493,
@@ -11256,17 +11260,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 576275,
+							["done"] = 90450,
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
+						},
 						["Candylin-冰风岗"] = {
 							["taken"] = 39038,
 							["done"] = 0,
 							["class"] = "PALADIN",
 							["role"] = "HEALER",
-						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1329130,
-							["done"] = 168599,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 1066492,
@@ -11274,10 +11278,10 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 576275,
-							["done"] = 90450,
-							["class"] = "MAGE",
+						["丿指尖丶旋律"] = {
+							["taken"] = 1329130,
+							["done"] = 168599,
+							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
 						},
 					},
@@ -11294,11 +11298,7 @@ SkadaPerCharDB = {
 			["overhealing"] = 576608,
 			["name"] = "骑士队长瓦莱莉",
 			["mobname"] = "骑士队长瓦莱莉",
-			["power"] = {
-				306, -- [1]
-				[11] = 217,
-				[0] = 5599,
-			},
+			["gotboss"] = true,
 			["mobhdone"] = 0,
 			["last_action"] = 1552203493,
 			["endtime"] = 1552203592,
@@ -11313,7 +11313,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 0,
+			["mobtaken"] = 3496691,
 			["damage"] = 3496691,
 			["players"] = {
 				{
@@ -11707,7 +11707,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 0,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 5330,
 					["damagespells"] = {
 						["斯鲁图恩: 暗影撕咬"] = {
@@ -11842,9 +11842,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 0,
-			["power"] = {
-				[0] = 1039,
-			},
+			["shielding"] = 0,
 			["alertCount"] = 0,
 			["healing"] = 118165,
 			["overhealing"] = 91729,
@@ -11932,7 +11930,9 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡卫士",
 			["mobname"] = "艾什凡卫士",
-			["mobtaken"] = 3496691,
+			["power"] = {
+				[0] = 1039,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203447,
 			["endtime"] = 1552203453,
@@ -11947,7 +11947,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 719234,
 			["auras"] = {
 			},
-			["shielding"] = 106808,
+			["mobtaken"] = 7945525,
 			["damage"] = 7945525,
 			["players"] = {
 				{
@@ -12055,11 +12055,11 @@ SkadaPerCharDB = {
 					},
 					["name"] = "Candylin",
 					["healed"] = {
-						["Player-852-04B294EE"] = {
-							["role"] = "DAMAGER",
-							["name"] = "天书张靓颖-冰风岗",
-							["amount"] = 156315,
-							["class"] = "SHAMAN",
+						["Player-852-04AFC81B"] = {
+							["role"] = "HEALER",
+							["name"] = "Candylin-冰风岗",
+							["amount"] = 0,
+							["class"] = "PALADIN",
 							["shielding"] = 0,
 						},
 						["Player-1944-06624493"] = {
@@ -12069,11 +12069,11 @@ SkadaPerCharDB = {
 							["class"] = "WARLOCK",
 							["shielding"] = 0,
 						},
-						["Player-852-0474DA1C"] = {
+						["Player-852-04B294EE"] = {
 							["role"] = "DAMAGER",
-							["name"] = "奶嘴儿叼叼-冰风岗",
-							["amount"] = 0,
-							["class"] = "MAGE",
+							["name"] = "天书张靓颖-冰风岗",
+							["amount"] = 156315,
+							["class"] = "SHAMAN",
 							["shielding"] = 0,
 						},
 						["Player-852-04F1652A"] = {
@@ -12097,11 +12097,11 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["shielding"] = 0,
 						},
-						["Player-852-04AFC81B"] = {
-							["role"] = "HEALER",
-							["name"] = "Candylin-冰风岗",
+						["Player-852-0474DA1C"] = {
+							["role"] = "DAMAGER",
+							["name"] = "奶嘴儿叼叼-冰风岗",
 							["amount"] = 0,
-							["class"] = "PALADIN",
+							["class"] = "MAGE",
 							["shielding"] = 0,
 						},
 					},
@@ -12616,9 +12616,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203378.54102,
 									["amount"] = -2278,
+									["spellid"] = 88163,
 									["srcname"] = "复生之魂",
 									["hp"] = 119333,
-									["spellid"] = 88163,
 								}, -- [2]
 								{
 									["absorb"] = 0,
@@ -12639,16 +12639,16 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203379.57105,
 									["amount"] = -2284,
+									["spellid"] = 88163,
 									["srcname"] = "复生之魂",
 									["hp"] = 145296,
-									["spellid"] = 88163,
 								}, -- [5]
 								{
 									["ts"] = 1552203379.63206,
 									["amount"] = -1723,
+									["spellid"] = 88163,
 									["srcname"] = "复生之魂",
 									["hp"] = 143012,
-									["spellid"] = 88163,
 								}, -- [6]
 								{
 									["absorb"] = 0,
@@ -12661,16 +12661,16 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203380.05408,
 									["amount"] = -45952,
+									["spellid"] = 288388,
 									["srcname"] = "复生之魂",
 									["hp"] = 99980,
-									["spellid"] = 288388,
 								}, -- [8]
 								{
 									["ts"] = 1552203380.54209,
 									["amount"] = -272373,
+									["spellid"] = 263198,
 									["srcname"] = "丿指尖丶旋律",
 									["hp"] = 1,
-									["spellid"] = 263198,
 								}, -- [9]
 								{
 									["spellname"] = "猪卉咸丶次死亡",
@@ -12679,10 +12679,10 @@ SkadaPerCharDB = {
 									["spellid"] = 41220,
 								}, -- [10]
 								{
-									["srcname"] = "Candylin-冰风岗",
-									["ts"] = 1552203426.375,
-									["hp"] = 0,
 									["spellid"] = 7328,
+									["ts"] = 1552203426.375,
+									["srcname"] = "Candylin-冰风岗",
+									["hp"] = 0,
 								}, -- [11]
 								{
 									["absorb"] = -58887,
@@ -12695,23 +12695,23 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203377.93813,
 									["amount"] = -2062,
+									["spellid"] = 88163,
 									["srcname"] = "复生之魂",
 									["hp"] = 123224,
-									["spellid"] = 88163,
 								}, -- [13]
 								{
 									["ts"] = 1552203378.05414,
 									["amount"] = -1992,
+									["spellid"] = 88163,
 									["srcname"] = "复生之魂",
 									["hp"] = 121162,
-									["spellid"] = 88163,
 								}, -- [14]
 								{
 									["ts"] = 1552203378.44615,
 									["amount"] = -467,
+									["spellid"] = 88163,
 									["srcname"] = "被折磨的幽魂",
 									["hp"] = 121162,
-									["spellid"] = 88163,
 								}, -- [15]
 								["pos"] = 12,
 							},
@@ -12953,7 +12953,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 84671,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 6266287,
 					["damagespells"] = {
 						["斯鲁图恩: 攻击"] = {
@@ -13422,13 +13422,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 277960,
 						},
-						["风暴守护者"] = {
-							["name"] = "风暴守护者",
+						["森林之王的智慧"] = {
+							["name"] = "森林之王的智慧",
 							["active"] = 0,
-							["school"] = 8,
-							["uptime"] = 3,
+							["school"] = 1,
+							["uptime"] = 20,
 							["auratype"] = "BUFF",
-							["id"] = 191634,
+							["id"] = 278267,
 						},
 						["冰霜震击"] = {
 							["name"] = "冰霜震击",
@@ -13438,6 +13438,14 @@ SkadaPerCharDB = {
 							["auratype"] = "DEBUFF",
 							["id"] = 196840,
 						},
+						["风暴守护者"] = {
+							["name"] = "风暴守护者",
+							["active"] = 0,
+							["school"] = 8,
+							["uptime"] = 3,
+							["auratype"] = "BUFF",
+							["id"] = 191634,
+						},
 						["雷霆风暴"] = {
 							["name"] = "雷霆风暴",
 							["active"] = 0,
@@ -13445,14 +13453,6 @@ SkadaPerCharDB = {
 							["uptime"] = 3,
 							["auratype"] = "DEBUFF",
 							["id"] = 51490,
-						},
-						["森林之王的智慧"] = {
-							["name"] = "森林之王的智慧",
-							["active"] = 0,
-							["school"] = 1,
-							["uptime"] = 20,
-							["auratype"] = "BUFF",
-							["id"] = 278267,
 						},
 						["地震术"] = {
 							["name"] = "地震术",
@@ -13485,11 +13485,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 1,
 			["damagetaken"] = 919474,
-			["power"] = {
-				53, -- [1]
-				[11] = 260,
-				[0] = 519,
-			},
+			["shielding"] = 106808,
 			["alertCount"] = 0,
 			["healing"] = 497753,
 			["overhealing"] = 286206.544311523,
@@ -13595,7 +13591,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "复生之魂 (4)",
 			["mobname"] = "复生之魂",
-			["mobtaken"] = 7945525,
+			["power"] = {
+				53, -- [1]
+				[11] = 260,
+				[0] = 519,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203371,
 			["endtime"] = 1552203427,
@@ -13610,7 +13610,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 0,
+			["mobtaken"] = 3454058,
 			["damage"] = 3454058,
 			["players"] = {
 				{
@@ -13730,7 +13730,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 26867,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 3287250,
 					["damagespells"] = {
 						["火炮冲击"] = {
@@ -14179,9 +14179,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 0,
-			["power"] = {
-				[11] = 60,
-			},
+			["shielding"] = 0,
 			["alertCount"] = 0,
 			["healing"] = 26995,
 			["overhealing"] = 49475,
@@ -14251,7 +14249,9 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡军官",
 			["mobname"] = "艾什凡军官",
-			["mobtaken"] = 3454058,
+			["power"] = {
+				[11] = 60,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203356,
 			["endtime"] = 1552203370,
@@ -14266,7 +14266,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 7694,
+			["mobtaken"] = 2542379,
 			["damage"] = 2542379,
 			["players"] = {
 				{
@@ -14554,7 +14554,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 77839,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 2478095,
 					["damagespells"] = {
 						["火炮冲击"] = {
@@ -15056,9 +15056,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 327329,
-			["power"] = {
-				5, -- [1]
-			},
+			["shielding"] = 7694,
 			["alertCount"] = 1,
 			["healing"] = 270261,
 			["overhealing"] = 46602,
@@ -15097,16 +15095,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 5989,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 22622,
 							["done"] = 0,
 							["class"] = "MAGE",
-							["role"] = "DAMAGER",
-						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1232751,
-							["done"] = 0,
-							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -15115,11 +15113,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 5989,
+						["丿指尖丶旋律"] = {
+							["taken"] = 1232751,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -15134,7 +15132,9 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡水兵 (2)",
 			["mobname"] = "艾什凡水兵",
-			["mobtaken"] = 2542379,
+			["power"] = {
+				5, -- [1]
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203339,
 			["endtime"] = 1552203352,
@@ -15149,7 +15149,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 54710,
+			["mobtaken"] = 3063809,
 			["damage"] = 3063809,
 			["players"] = {
 				{
@@ -16380,11 +16380,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 414297,
-			["power"] = {
-				20, -- [1]
-				[11] = 71,
-				[0] = 1038,
-			},
+			["shielding"] = 54710,
 			["alertCount"] = 0,
 			["healing"] = 611717,
 			["overhealing"] = 220324.199707031,
@@ -16466,7 +16462,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡水兵",
 			["mobname"] = "艾什凡水兵",
-			["mobtaken"] = 3063809,
+			["power"] = {
+				20, -- [1]
+				[11] = 71,
+				[0] = 1038,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203308,
 			["endtime"] = 1552203335,
@@ -16481,7 +16481,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 288162,
+			["mobtaken"] = 1474912,
 			["damage"] = 1474912,
 			["players"] = {
 				{
@@ -17039,9 +17039,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203273.55607,
 									["amount"] = -19214,
+									["spellid"] = 258864,
 									["srcname"] = "艾什凡观察员",
 									["hp"] = 14466,
-									["spellid"] = 258864,
 								}, -- [7]
 								{
 									["absorb"] = 0,
@@ -17062,9 +17062,9 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552203275.3521,
 									["amount"] = -35472,
+									["spellid"] = 185857,
 									["srcname"] = "艾什凡观察员",
 									["hp"] = 1,
-									["spellid"] = 185857,
 								}, -- [10]
 								{
 									["spellname"] = "猪卉咸丶次死亡",
@@ -18301,10 +18301,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 2,
 			["damagetaken"] = 1217741,
-			["power"] = {
-				110, -- [1]
-				[11] = 89,
-			},
+			["shielding"] = 288162,
 			["alertCount"] = 1,
 			["healing"] = 773793,
 			["overhealing"] = 67651.71875,
@@ -18350,7 +18347,10 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡观察员",
 			["mobname"] = "艾什凡观察员",
-			["mobtaken"] = 1474912,
+			["power"] = {
+				110, -- [1]
+				[11] = 89,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203251,
 			["endtime"] = 1552203295,
@@ -18365,7 +18365,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 181872,
+			["mobtaken"] = 3678006,
 			["damage"] = 3678006,
 			["players"] = {
 				{
@@ -18747,13 +18747,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 23920,
 						},
-						["压倒能量"] = {
-							["name"] = "压倒能量",
+						["无视苦痛"] = {
+							["name"] = "无视苦痛",
 							["active"] = 0,
-							["school"] = 8,
-							["uptime"] = 11,
+							["school"] = 1,
+							["uptime"] = 14,
 							["auratype"] = "BUFF",
-							["id"] = 271711,
+							["id"] = 190456,
 						},
 						["挫志怒吼"] = {
 							["name"] = "挫志怒吼",
@@ -18763,13 +18763,13 @@ SkadaPerCharDB = {
 							["auratype"] = "DEBUFF",
 							["id"] = 1160,
 						},
-						["无视苦痛"] = {
-							["name"] = "无视苦痛",
+						["破釜沉舟"] = {
+							["name"] = "破釜沉舟",
 							["active"] = 0,
 							["school"] = 1,
-							["uptime"] = 14,
+							["uptime"] = 15,
 							["auratype"] = "BUFF",
-							["id"] = 190456,
+							["id"] = 12975,
 						},
 						["血律"] = {
 							["name"] = "血律",
@@ -18779,13 +18779,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 279194,
 						},
-						["破釜沉舟"] = {
-							["name"] = "破釜沉舟",
+						["压倒能量"] = {
+							["name"] = "压倒能量",
 							["active"] = 0,
-							["school"] = 1,
-							["uptime"] = 15,
+							["school"] = 8,
+							["uptime"] = 11,
 							["auratype"] = "BUFF",
-							["id"] = 12975,
+							["id"] = 271711,
 						},
 						["雷霆一击"] = {
 							["name"] = "雷霆一击",
@@ -19310,11 +19310,11 @@ SkadaPerCharDB = {
 					},
 					["name"] = "Candylin",
 					["healed"] = {
-						["Player-852-0474DA1C"] = {
+						["Player-852-04B294EE"] = {
 							["role"] = "DAMAGER",
-							["name"] = "奶嘴儿叼叼-冰风岗",
-							["amount"] = 30917,
-							["class"] = "MAGE",
+							["name"] = "天书张靓颖-冰风岗",
+							["amount"] = 46585,
+							["class"] = "SHAMAN",
 							["shielding"] = 0,
 						},
 						["Pet-0-3912-1771-24643-417-010271F082"] = {
@@ -19331,10 +19331,10 @@ SkadaPerCharDB = {
 							["class"] = "WARLOCK",
 							["shielding"] = 0,
 						},
-						["Pet-0-3912-1771-24643-78116-01022F6BCB"] = {
-							["role"] = "NONE",
-							["name"] = "水元素",
-							["amount"] = 0,
+						["Player-852-0474DA1C"] = {
+							["role"] = "DAMAGER",
+							["name"] = "奶嘴儿叼叼-冰风岗",
+							["amount"] = 30917,
 							["class"] = "MAGE",
 							["shielding"] = 0,
 						},
@@ -19359,11 +19359,11 @@ SkadaPerCharDB = {
 							["class"] = "PALADIN",
 							["shielding"] = 0,
 						},
-						["Player-852-04B294EE"] = {
-							["role"] = "DAMAGER",
-							["name"] = "天书张靓颖-冰风岗",
-							["amount"] = 46585,
-							["class"] = "SHAMAN",
+						["Pet-0-3912-1771-24643-78116-01022F6BCB"] = {
+							["role"] = "NONE",
+							["name"] = "水元素",
+							["amount"] = 0,
+							["class"] = "MAGE",
 							["shielding"] = 0,
 						},
 					},
@@ -19886,7 +19886,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 34625,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 1029420,
 					["damagespells"] = {
 						["斯鲁图恩: 攻击"] = {
@@ -20221,11 +20221,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 1103210,
-			["power"] = {
-				196.700000047684, -- [1]
-				[11] = 270,
-				[0] = 2439,
-			},
+			["shielding"] = 181872,
 			["alertCount"] = 0,
 			["healing"] = 1118372,
 			["overhealing"] = 191965,
@@ -20240,16 +20236,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 51449,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 803866,
 							["done"] = 0,
 							["class"] = "MAGE",
-							["role"] = "DAMAGER",
-						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1029420,
-							["done"] = 0,
-							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -20258,11 +20254,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 51449,
+						["丿指尖丶旋律"] = {
+							["taken"] = 1029420,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -20277,7 +20273,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡火法师",
 			["mobname"] = "艾什凡火法师",
-			["mobtaken"] = 3678006,
+			["power"] = {
+				196.700000047684, -- [1]
+				[11] = 270,
+				[0] = 2439,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203210,
 			["endtime"] = 1552203249,
@@ -20292,7 +20292,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 404407,
+			["mobtaken"] = 9661911,
 			["damage"] = 9661911,
 			["players"] = {
 				{
@@ -21582,7 +21582,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 0,
 					["role"] = "DAMAGER",
 					["healing"] = 296440,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 2830174,
 					["damagespells"] = {
 						["斯鲁图恩: 攻击"] = {
@@ -22416,13 +22416,13 @@ SkadaPerCharDB = {
 							["auratype"] = "DEBUFF",
 							["id"] = 122,
 						},
-						["冰冷血脉"] = {
-							["name"] = "冰冷血脉",
+						["水元素: 冰冻术"] = {
+							["name"] = "水元素: 冰冻术",
 							["active"] = 0,
 							["school"] = 16,
-							["uptime"] = 20,
-							["auratype"] = "BUFF",
-							["id"] = 12472,
+							["uptime"] = 3,
+							["auratype"] = "DEBUFF",
+							["id"] = 33395,
 						},
 						["深冬之寒"] = {
 							["name"] = "深冬之寒",
@@ -22440,13 +22440,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 44544,
 						},
-						["冰冻"] = {
-							["name"] = "冰冻",
+						["冰冷血脉"] = {
+							["name"] = "冰冷血脉",
 							["active"] = 0,
 							["school"] = 16,
-							["uptime"] = 41,
-							["auratype"] = "DEBUFF",
-							["id"] = 205708,
+							["uptime"] = 20,
+							["auratype"] = "BUFF",
+							["id"] = 12472,
 						},
 						["冰川尖刺"] = {
 							["name"] = "冰川尖刺",
@@ -22464,13 +22464,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 205473,
 						},
-						["水元素: 冰冻术"] = {
-							["name"] = "水元素: 冰冻术",
+						["冰冻"] = {
+							["name"] = "冰冻",
 							["active"] = 0,
 							["school"] = 16,
-							["uptime"] = 3,
+							["uptime"] = 41,
 							["auratype"] = "DEBUFF",
-							["id"] = 33395,
+							["id"] = 205708,
 						},
 						["践踏"] = {
 							["name"] = "践踏",
@@ -22527,11 +22527,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 1750754,
-			["power"] = {
-				308.700000047684, -- [1]
-				[11] = 650,
-				[0] = 4159,
-			},
+			["shielding"] = 404407,
 			["alertCount"] = 0,
 			["healing"] = 1998460,
 			["overhealing"] = 1101149.8046875,
@@ -22546,17 +22542,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 356779,
+							["done"] = 43539,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 439648,
 							["done"] = 0,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 24581,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 303229,
@@ -22564,11 +22560,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 356779,
-							["done"] = 43539,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 24581,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -22588,17 +22584,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 436481,
+							["done"] = 209824,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 212942,
 							["done"] = 1714,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 43097,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 222640,
@@ -22606,11 +22602,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 436481,
-							["done"] = 209824,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 43097,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -22648,17 +22644,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 1247393,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 1432255,
 							["done"] = 0,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 75284,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 1039277,
@@ -22666,11 +22662,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1247393,
+						["Candylin-冰风岗"] = {
+							["taken"] = 75284,
 							["done"] = 0,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -22757,7 +22753,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "复生之魂 (3)",
 			["mobname"] = "复生之魂",
-			["mobtaken"] = 9661911,
+			["power"] = {
+				308.700000047684, -- [1]
+				[11] = 650,
+				[0] = 4159,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203097,
 			["endtime"] = 1552203193,
@@ -22772,7 +22772,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 318619,
+			["mobtaken"] = 5262378,
 			["damage"] = 5262378,
 			["players"] = {
 				{
@@ -24285,13 +24285,13 @@ SkadaPerCharDB = {
 							["auratype"] = "DEBUFF",
 							["id"] = 122,
 						},
-						["水元素: 冰冻术"] = {
-							["name"] = "水元素: 冰冻术",
+						["耀辉之灿"] = {
+							["name"] = "耀辉之灿",
 							["active"] = 0,
-							["school"] = 16,
-							["uptime"] = 3,
-							["auratype"] = "DEBUFF",
-							["id"] = 33395,
+							["school"] = 1,
+							["uptime"] = 28,
+							["auratype"] = "BUFF",
+							["id"] = 289524,
 						},
 						["寒冰指"] = {
 							["name"] = "寒冰指",
@@ -24301,13 +24301,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 44544,
 						},
-						["耀辉之灿"] = {
-							["name"] = "耀辉之灿",
+						["冰冻"] = {
+							["name"] = "冰冻",
 							["active"] = 0,
-							["school"] = 1,
-							["uptime"] = 28,
-							["auratype"] = "BUFF",
-							["id"] = 289524,
+							["school"] = 16,
+							["uptime"] = 24,
+							["auratype"] = "DEBUFF",
+							["id"] = 205708,
 						},
 						["冰川尖刺"] = {
 							["name"] = "冰川尖刺",
@@ -24325,13 +24325,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 205473,
 						},
-						["冰冻"] = {
-							["name"] = "冰冻",
+						["水元素: 冰冻术"] = {
+							["name"] = "水元素: 冰冻术",
 							["active"] = 0,
 							["school"] = 16,
-							["uptime"] = 24,
+							["uptime"] = 3,
 							["auratype"] = "DEBUFF",
-							["id"] = 205708,
+							["id"] = 33395,
 						},
 						["致命远航"] = {
 							["name"] = "致命远航",
@@ -24464,7 +24464,7 @@ SkadaPerCharDB = {
 					["interrupts"] = 1,
 					["role"] = "DAMAGER",
 					["healing"] = 115279,
-					["maxhp"] = 247800,
+					["maxhp"] = 249660,
 					["damage"] = 1643822,
 					["damagespells"] = {
 						["混乱之箭"] = {
@@ -24870,11 +24870,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 1759844,
-			["power"] = {
-				423.89999961853, -- [1]
-				[11] = 545,
-				[0] = 7676,
-			},
+			["shielding"] = 318619,
 			["alertCount"] = 0,
 			["healing"] = 2235463,
 			["overhealing"] = 474724,
@@ -24889,17 +24885,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 380422,
+							["done"] = 118469,
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
+						},
 						["Candylin-冰风岗"] = {
 							["taken"] = 16467,
 							["done"] = 122741,
 							["class"] = "PALADIN",
 							["role"] = "HEALER",
-						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 288456,
-							["done"] = 56543,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 310878,
@@ -24907,10 +24903,10 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 380422,
-							["done"] = 118469,
-							["class"] = "MAGE",
+						["丿指尖丶旋律"] = {
+							["taken"] = 288456,
+							["done"] = 56543,
+							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
 						},
 					},
@@ -24931,17 +24927,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 269714,
+							["done"] = 13970,
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 485873,
 							["done"] = 0,
 							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 13329,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 428971,
@@ -24949,11 +24945,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 269714,
-							["done"] = 13970,
-							["class"] = "MAGE",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 13329,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -24973,17 +24969,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 454863,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["Candylin-冰风岗"] = {
 							["taken"] = 21404,
 							["done"] = 0,
 							["class"] = "PALADIN",
 							["role"] = "HEALER",
-						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 391256,
-							["done"] = 0,
-							["class"] = "MAGE",
-							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 348169,
@@ -24991,10 +24987,10 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 454863,
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 391256,
 							["done"] = 0,
-							["class"] = "WARLOCK",
+							["class"] = "MAGE",
 							["role"] = "DAMAGER",
 						},
 					},
@@ -25015,16 +25011,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 32927,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 414630,
 							["done"] = 0,
 							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
-						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 170362,
-							["done"] = 0,
-							["class"] = "MAGE",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -25033,11 +25029,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 32927,
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 170362,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -25052,7 +25048,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "艾什凡狱卒",
 			["mobname"] = "艾什凡狱卒",
-			["mobtaken"] = 5262378,
+			["power"] = {
+				423.89999961853, -- [1]
+				[11] = 545,
+				[0] = 7676,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552203013,
 			["endtime"] = 1552203093,
@@ -25067,7 +25067,11 @@ SkadaPerCharDB = {
 			["interrupts"] = 7,
 			["auras"] = {
 			},
-			["shielding"] = 603098,
+			["power"] = {
+				525.5, -- [1]
+				[0] = 10793,
+				[11] = 600,
+			},
 			["alertCount"] = 0,
 			["damage"] = 8405464,
 			["players"] = {
@@ -25469,13 +25473,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 157348,
 						},
-						["风暴守护者"] = {
-							["name"] = "风暴守护者",
+						["森林之王的智慧"] = {
+							["name"] = "森林之王的智慧",
 							["active"] = 0,
-							["school"] = 8,
-							["uptime"] = 5,
+							["school"] = 1,
+							["uptime"] = 20,
 							["auratype"] = "BUFF",
-							["id"] = 191634,
+							["id"] = 278267,
 						},
 						["熔岩奔腾"] = {
 							["name"] = "熔岩奔腾",
@@ -25485,6 +25489,14 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["id"] = 77762,
 						},
+						["风暴守护者"] = {
+							["name"] = "风暴守护者",
+							["active"] = 0,
+							["school"] = 8,
+							["uptime"] = 5,
+							["auratype"] = "BUFF",
+							["id"] = 191634,
+						},
 						["时空错位"] = {
 							["name"] = "时空错位",
 							["active"] = 0,
@@ -25492,14 +25504,6 @@ SkadaPerCharDB = {
 							["uptime"] = 58,
 							["auratype"] = "DEBUFF",
 							["id"] = 80354,
-						},
-						["森林之王的智慧"] = {
-							["name"] = "森林之王的智慧",
-							["active"] = 0,
-							["school"] = 1,
-							["uptime"] = 20,
-							["auratype"] = "BUFF",
-							["id"] = 278267,
 						},
 						["呼啸狂风"] = {
 							["name"] = "呼啸狂风",
@@ -27042,16 +27046,16 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552202994.43302,
 									["amount"] = -26655,
+									["spellid"] = 257777,
 									["srcname"] = "杰斯·豪里斯",
 									["hp"] = 173605,
-									["spellid"] = 257777,
 								}, -- [2]
 								{
 									["ts"] = 1552202996.42803,
 									["amount"] = -10168,
+									["spellid"] = 257777,
 									["srcname"] = "杰斯·豪里斯",
 									["hp"] = 163437,
-									["spellid"] = 257777,
 								}, -- [3]
 								{
 									["absorb"] = 0,
@@ -27064,23 +27068,23 @@ SkadaPerCharDB = {
 								{
 									["ts"] = 1552202998.43405,
 									["amount"] = -10168,
+									["spellid"] = 257777,
 									["srcname"] = "杰斯·豪里斯",
 									["hp"] = 172912,
-									["spellid"] = 257777,
 								}, -- [5]
 								{
 									["ts"] = 1552203000.42206,
 									["amount"] = -172352,
+									["spellid"] = 257785,
 									["srcname"] = "杰斯·豪里斯",
 									["hp"] = 560,
-									["spellid"] = 257785,
 								}, -- [6]
 								{
 									["ts"] = 1552203000.44407,
 									["amount"] = -10168,
+									["spellid"] = 257777,
 									["srcname"] = "杰斯·豪里斯",
 									["hp"] = 1,
-									["spellid"] = 257777,
 								}, -- [7]
 								{
 									["spellname"] = "Candylin次死亡",
@@ -27386,7 +27390,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 1,
 			["damagetaken"] = 2486288,
-			["gotboss"] = true,
+			["shielding"] = 603098,
 			["mobtaken"] = 8283035,
 			["healing"] = 2728366,
 			["starttime"] = 1552202888,
@@ -27436,17 +27440,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 413604,
+							["done"] = 0,
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 366898,
 							["done"] = 0,
 							["class"] = "WARLOCK",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 27891,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 425871,
@@ -27454,11 +27458,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 413604,
+						["Candylin-冰风岗"] = {
+							["taken"] = 27891,
 							["done"] = 0,
-							["class"] = "MAGE",
-							["role"] = "DAMAGER",
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -27478,17 +27482,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 1115164,
+							["done"] = 54130,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 1242154,
 							["done"] = 58153,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 54702,
-							["done"] = 277187,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 1431813,
@@ -27496,11 +27500,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 1115164,
-							["done"] = 54130,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+						["Candylin-冰风岗"] = {
+							["taken"] = 54702,
+							["done"] = 277187,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -27552,11 +27556,7 @@ SkadaPerCharDB = {
 			["overhealing"] = 1562961.5234375,
 			["name"] = "杰斯·豪里斯",
 			["mobname"] = "杰斯·豪里斯",
-			["power"] = {
-				525.5, -- [1]
-				[0] = 10793,
-				[11] = 600,
-			},
+			["gotboss"] = true,
 			["mobhdone"] = 0,
 			["last_action"] = 1552202888,
 			["endtime"] = 1552203004,
@@ -27571,7 +27571,7 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 285326,
+			["mobtaken"] = 4563405,
 			["damage"] = 4888720,
 			["players"] = {
 				{
@@ -29363,11 +29363,7 @@ SkadaPerCharDB = {
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 1486448,
-			["power"] = {
-				223, -- [1]
-				[11] = 450,
-				[0] = 5918,
-			},
+			["shielding"] = 285326,
 			["alertCount"] = 0,
 			["healing"] = 1896671,
 			["overhealing"] = 533827.71875,
@@ -29382,16 +29378,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 6233,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 86895,
 							["done"] = 0,
 							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
-						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 13082,
-							["done"] = 0,
-							["class"] = "MAGE",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -29400,11 +29396,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 6233,
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 13082,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -29424,16 +29420,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 44376,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 991806,
 							["done"] = 0,
 							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
-						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 321180,
-							["done"] = 0,
-							["class"] = "MAGE",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -29442,11 +29438,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 44376,
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 321180,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -29466,16 +29462,16 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["Candylin-冰风岗"] = {
+							["taken"] = 14035,
+							["done"] = 0,
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
+						},
 						["丿指尖丶旋律"] = {
 							["taken"] = 232392,
 							["done"] = 0,
 							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
-						},
-						["奶嘴儿叼叼-冰风岗"] = {
-							["taken"] = 238913,
-							["done"] = 0,
-							["class"] = "MAGE",
 							["role"] = "DAMAGER",
 						},
 						["天书张靓颖-冰风岗"] = {
@@ -29484,11 +29480,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 14035,
+						["奶嘴儿叼叼-冰风岗"] = {
+							["taken"] = 238913,
 							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
+							["class"] = "MAGE",
+							["role"] = "DAMAGER",
 						},
 					},
 					["hdone"] = 0,
@@ -29508,17 +29504,17 @@ SkadaPerCharDB = {
 							["class"] = "WARRIOR",
 							["role"] = "TANK",
 						},
+						["丿指尖丶旋律"] = {
+							["taken"] = 395505,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+							["role"] = "DAMAGER",
+						},
 						["奶嘴儿叼叼-冰风岗"] = {
 							["taken"] = 181546,
 							["done"] = 0,
 							["class"] = "MAGE",
 							["role"] = "DAMAGER",
-						},
-						["Candylin-冰风岗"] = {
-							["taken"] = 5867,
-							["done"] = 0,
-							["class"] = "PALADIN",
-							["role"] = "HEALER",
 						},
 						["天书张靓颖-冰风岗"] = {
 							["taken"] = 204224,
@@ -29526,11 +29522,11 @@ SkadaPerCharDB = {
 							["class"] = "SHAMAN",
 							["role"] = "DAMAGER",
 						},
-						["丿指尖丶旋律"] = {
-							["taken"] = 395505,
+						["Candylin-冰风岗"] = {
+							["taken"] = 5867,
 							["done"] = 0,
-							["class"] = "WARLOCK",
-							["role"] = "DAMAGER",
+							["class"] = "PALADIN",
+							["role"] = "HEALER",
 						},
 					},
 					["hdone"] = 0,
@@ -29545,7 +29541,11 @@ SkadaPerCharDB = {
 			},
 			["name"] = "水鼠帮海语者",
 			["mobname"] = "水鼠帮海语者",
-			["mobtaken"] = 4563405,
+			["power"] = {
+				223, -- [1]
+				[11] = 450,
+				[0] = 5918,
+			},
 			["mobhdone"] = 0,
 			["last_action"] = 1552202831,
 			["endtime"] = 1552202884,
@@ -29978,9 +29978,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203877.77212,
 								["amount"] = -259442,
+								["spellid"] = 263198,
 								["hp"] = 1,
 								["srcname"] = "丿指尖丶旋律",
-								["spellid"] = 263198,
 							}, -- [12]
 							{
 								["spellname"] = "Candylin次死亡",
@@ -30262,16 +30262,16 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552202994.43302,
 								["amount"] = -26655,
+								["spellid"] = 257777,
 								["srcname"] = "杰斯·豪里斯",
 								["hp"] = 173605,
-								["spellid"] = 257777,
 							}, -- [2]
 							{
 								["ts"] = 1552202996.42803,
 								["amount"] = -10168,
+								["spellid"] = 257777,
 								["srcname"] = "杰斯·豪里斯",
 								["hp"] = 163437,
-								["spellid"] = 257777,
 							}, -- [3]
 							{
 								["absorb"] = 0,
@@ -30284,23 +30284,23 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552202998.43405,
 								["amount"] = -10168,
+								["spellid"] = 257777,
 								["srcname"] = "杰斯·豪里斯",
 								["hp"] = 172912,
-								["spellid"] = 257777,
 							}, -- [5]
 							{
 								["ts"] = 1552203000.42206,
 								["amount"] = -172352,
+								["spellid"] = 257785,
 								["srcname"] = "杰斯·豪里斯",
 								["hp"] = 560,
-								["spellid"] = 257785,
 							}, -- [6]
 							{
 								["ts"] = 1552203000.44407,
 								["amount"] = -10168,
+								["spellid"] = 257777,
 								["srcname"] = "杰斯·豪里斯",
 								["hp"] = 1,
-								["spellid"] = 257777,
 							}, -- [7]
 							{
 								["spellname"] = "Candylin次死亡",
@@ -31069,9 +31069,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204022.718,
 						["amount"] = -8895,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 127695,
-						["spellid"] = 256201,
 					}, -- [2]
 					{
 						["ts"] = 1552204022.754,
@@ -31084,16 +31084,16 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204024.719,
 						["amount"] = -8895,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 135127,
-						["spellid"] = 256201,
 					}, -- [4]
 					{
 						["ts"] = 1552204026.708,
 						["amount"] = -8895,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 126466,
-						["spellid"] = 256201,
 					}, -- [5]
 					{
 						["absorb"] = 0,
@@ -31106,23 +31106,23 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204028.686,
 						["amount"] = -65021,
+						["spellid"] = 256044,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 67019,
-						["spellid"] = 256044,
 					}, -- [7]
 					{
 						["ts"] = 1552204030.191,
 						["amount"] = -8895,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 58124,
-						["spellid"] = 256201,
 					}, -- [8]
 					{
 						["ts"] = 1552204032.202,
 						["amount"] = -8895,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 49463,
-						["spellid"] = 256201,
 					}, -- [9]
 					{
 						["ts"] = 1552204032.739,
@@ -31167,9 +31167,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204020.704,
 						["amount"] = -8895,
+						["hp"] = 123298,
 						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
-						["hp"] = 123298,
 					}, -- [15]
 					["pos"] = 12,
 				},
@@ -31507,9 +31507,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203559.44604,
 								["amount"] = -141893,
+								["spellid"] = 256955,
 								["srcname"] = "骑士队长瓦莱莉",
 								["hp"] = 68867,
-								["spellid"] = 256955,
 							}, -- [4]
 							{
 								["absorb"] = 0,
@@ -31947,13 +31947,13 @@ SkadaPerCharDB = {
 						["name"] = "呼啸狂风",
 						["school"] = 8,
 					},
-					["风暴守护者"] = {
-						["name"] = "风暴守护者",
+					["森林之王的智慧"] = {
+						["uptime"] = 404,
 						["active"] = 0,
-						["id"] = 191634,
-						["school"] = 8,
 						["auratype"] = "BUFF",
-						["uptime"] = 50,
+						["id"] = 278267,
+						["name"] = "森林之王的智慧",
+						["school"] = 1,
 					},
 					["搬运弹药"] = {
 						["name"] = "搬运弹药",
@@ -31963,13 +31963,13 @@ SkadaPerCharDB = {
 						["auratype"] = "BUFF",
 						["id"] = 256496,
 					},
-					["森林之王的智慧"] = {
-						["uptime"] = 404,
+					["复生"] = {
+						["uptime"] = 0,
 						["active"] = 0,
-						["auratype"] = "BUFF",
-						["id"] = 278267,
-						["name"] = "森林之王的智慧",
 						["school"] = 1,
+						["name"] = "复生",
+						["auratype"] = "DEBUFF",
+						["id"] = 225080,
 					},
 					["雷霆风暴"] = {
 						["uptime"] = 16,
@@ -32099,13 +32099,13 @@ SkadaPerCharDB = {
 						["auratype"] = "DEBUFF",
 						["id"] = 80354,
 					},
-					["复生"] = {
-						["uptime"] = 0,
+					["风暴守护者"] = {
+						["name"] = "风暴守护者",
 						["active"] = 0,
-						["school"] = 1,
-						["name"] = "复生",
-						["auratype"] = "DEBUFF",
-						["id"] = 225080,
+						["id"] = 191634,
+						["school"] = 8,
+						["auratype"] = "BUFF",
+						["uptime"] = 50,
 					},
 					["原始土元素: 粉碎"] = {
 						["uptime"] = 24,
@@ -32199,9 +32199,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204018.717,
 						["amount"] = -10178,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 17923,
-						["spellid"] = 256201,
 					}, -- [4]
 					{
 						["absorb"] = 0,
@@ -32230,9 +32230,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204020.704,
 						["amount"] = -8850,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 58970,
-						["spellid"] = 256201,
 					}, -- [8]
 					{
 						["ts"] = 1552204021.37,
@@ -32245,9 +32245,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204022.718,
 						["amount"] = -8851,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 82762,
-						["spellid"] = 256201,
 					}, -- [10]
 					{
 						["absorb"] = 0,
@@ -32260,9 +32260,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204024.719,
 						["amount"] = -8850,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 114143,
-						["spellid"] = 256201,
 					}, -- [12]
 					{
 						["absorb"] = 0,
@@ -32275,9 +32275,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1552204026.708,
 						["amount"] = -8850,
+						["spellid"] = 256201,
 						["srcname"] = "科古斯狱长",
 						["hp"] = 147875,
-						["spellid"] = 256201,
 					}, -- [14]
 					{
 						["ts"] = 1552204027.575,
@@ -32538,9 +32538,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203550.30601,
 								["amount"] = -16282,
+								["spellid"] = 257033,
 								["srcname"] = "奶嘴儿叼叼-冰风岗",
 								["hp"] = 163176,
-								["spellid"] = 257033,
 							}, -- [1]
 							{
 								["absorb"] = 0,
@@ -32645,9 +32645,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203549.28415,
 								["amount"] = -16297,
+								["hp"] = 179458,
 								["spellid"] = 257033,
 								["srcname"] = "奶嘴儿叼叼-冰风岗",
-								["hp"] = 179458,
 							}, -- [15]
 							["pos"] = 15,
 						},
@@ -33241,13 +33241,13 @@ SkadaPerCharDB = {
 						["auratype"] = "BUFF",
 						["uptime"] = 96,
 					},
-					["暗影之怒"] = {
-						["uptime"] = 7,
+					["献祭"] = {
+						["uptime"] = 1216,
 						["active"] = 0,
 						["auratype"] = "DEBUFF",
-						["id"] = 30283,
-						["name"] = "暗影之怒",
-						["school"] = 32,
+						["id"] = 157736,
+						["name"] = "献祭",
+						["school"] = 4,
 					},
 					["混乱狱火"] = {
 						["name"] = "混乱狱火",
@@ -33313,13 +33313,13 @@ SkadaPerCharDB = {
 						["name"] = "浩劫",
 						["school"] = 32,
 					},
-					["汹涌水流"] = {
-						["name"] = "汹涌水流",
+					["智力"] = {
+						["uptime"] = 15,
 						["active"] = 0,
-						["id"] = 289885,
-						["school"] = 16,
+						["id"] = 60234,
+						["name"] = "智力",
 						["auratype"] = "BUFF",
-						["uptime"] = 31,
+						["school"] = 2,
 					},
 					["死亡缠绕"] = {
 						["uptime"] = 9,
@@ -33337,13 +33337,13 @@ SkadaPerCharDB = {
 						["auratype"] = "DEBUFF",
 						["id"] = 160029,
 					},
-					["献祭"] = {
-						["uptime"] = 1216,
+					["恶魔之火"] = {
+						["uptime"] = 123,
 						["active"] = 0,
-						["auratype"] = "DEBUFF",
-						["id"] = 157736,
-						["name"] = "献祭",
+						["id"] = 196447,
 						["school"] = 4,
+						["auratype"] = "BUFF",
+						["name"] = "恶魔之火",
 					},
 					["闪点"] = {
 						["uptime"] = 59,
@@ -33393,13 +33393,13 @@ SkadaPerCharDB = {
 						["auratype"] = "BUFF",
 						["school"] = 1,
 					},
-					["恶魔之火"] = {
-						["uptime"] = 123,
+					["汹涌水流"] = {
+						["name"] = "汹涌水流",
 						["active"] = 0,
-						["id"] = 196447,
-						["school"] = 4,
+						["id"] = 289885,
+						["school"] = 16,
 						["auratype"] = "BUFF",
-						["name"] = "恶魔之火",
+						["uptime"] = 31,
 					},
 					["迅捷远航"] = {
 						["uptime"] = 211,
@@ -33417,13 +33417,13 @@ SkadaPerCharDB = {
 						["name"] = "爆燃冲刺",
 						["school"] = 1,
 					},
-					["智力"] = {
-						["uptime"] = 15,
+					["暗影之怒"] = {
+						["uptime"] = 7,
 						["active"] = 0,
-						["id"] = 60234,
-						["name"] = "智力",
-						["auratype"] = "BUFF",
-						["school"] = 2,
+						["auratype"] = "DEBUFF",
+						["id"] = 30283,
+						["name"] = "暗影之怒",
+						["school"] = 32,
 					},
 					["时空错位"] = {
 						["uptime"] = 600,
@@ -34127,10 +34127,10 @@ SkadaPerCharDB = {
 						["ts"] = 1552553509.151,
 					}, -- [11]
 					{
-						["hp"] = 247800,
-						["ts"] = 1552553522.486,
-						["srcname"] = "虚空触须",
 						["spellid"] = 88163,
+						["ts"] = 1552553522.486,
+						["hp"] = 247800,
+						["srcname"] = "虚空触须",
 					}, -- [12]
 					{
 						["absorb"] = 0,
@@ -34324,20 +34324,20 @@ SkadaPerCharDB = {
 						["glancing"] = 0,
 						["absorbed"] = 67087,
 					},
-					["爆燃冲刺"] = {
+					["沙尘暴"] = {
 						["crushing"] = 0,
-						["id"] = 111400,
-						["damage"] = 113626,
-						["max"] = 8174,
-						["name"] = "爆燃冲刺",
-						["min"] = 8093,
-						["totalhits"] = 14,
+						["id"] = 257580,
+						["damage"] = 182774,
+						["max"] = 15851,
+						["name"] = "沙尘暴",
+						["min"] = 3424,
+						["totalhits"] = 17,
 						["critical"] = 0,
 						["blocked"] = 0,
-						["school"] = 1,
+						["school"] = 8,
 						["resisted"] = 0,
 						["glancing"] = 0,
-						["absorbed"] = 0,
+						["absorbed"] = 61396,
 					},
 					["溅血"] = {
 						["crushing"] = 0,
@@ -34399,20 +34399,20 @@ SkadaPerCharDB = {
 						["max"] = 2350,
 						["damage"] = 3958,
 					},
-					["沙尘暴"] = {
+					["衰弱怒吼"] = {
 						["crushing"] = 0,
-						["id"] = 257580,
-						["damage"] = 182774,
-						["max"] = 15851,
-						["name"] = "沙尘暴",
-						["min"] = 3424,
-						["totalhits"] = 17,
+						["id"] = 258128,
+						["damage"] = 146454,
+						["max"] = 38421,
+						["name"] = "衰弱怒吼",
+						["min"] = 18398,
+						["totalhits"] = 5,
 						["critical"] = 0,
 						["blocked"] = 0,
-						["school"] = 8,
+						["school"] = 32,
 						["resisted"] = 0,
 						["glancing"] = 0,
-						["absorbed"] = 61396,
+						["absorbed"] = 61862,
 					},
 					["爆炸"] = {
 						["crushing"] = 0,
@@ -34429,20 +34429,20 @@ SkadaPerCharDB = {
 						["glancing"] = 0,
 						["absorbed"] = 113950,
 					},
-					["衰弱怒吼"] = {
+					["爆燃冲刺"] = {
 						["crushing"] = 0,
-						["id"] = 258128,
-						["damage"] = 146454,
-						["max"] = 38421,
-						["name"] = "衰弱怒吼",
-						["min"] = 18398,
-						["totalhits"] = 5,
+						["id"] = 111400,
+						["damage"] = 113626,
+						["max"] = 8174,
+						["name"] = "爆燃冲刺",
+						["min"] = 8093,
+						["totalhits"] = 14,
 						["critical"] = 0,
 						["blocked"] = 0,
-						["school"] = 32,
+						["school"] = 1,
 						["resisted"] = 0,
 						["glancing"] = 0,
-						["absorbed"] = 61862,
+						["absorbed"] = 0,
 					},
 					["虚空裂破"] = {
 						["crushing"] = 0,
@@ -35058,9 +35058,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203588.81203,
 								["amount"] = -16241,
+								["spellid"] = 257033,
 								["srcname"] = "猪卉咸丶-冰风岗",
 								["hp"] = 241941,
-								["spellid"] = 257033,
 							}, -- [3]
 							{
 								["absorb"] = 0,
@@ -35073,16 +35073,16 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203589.79305,
 								["amount"] = -40051,
+								["spellid"] = 88163,
 								["srcname"] = "骑士队长瓦莱莉",
 								["hp"] = 248312,
-								["spellid"] = 88163,
 							}, -- [5]
 							{
 								["ts"] = 1552203589.79306,
 								["amount"] = -16139,
+								["spellid"] = 257033,
 								["srcname"] = "猪卉咸丶-冰风岗",
 								["hp"] = 192122,
-								["spellid"] = 257033,
 							}, -- [6]
 							{
 								["ts"] = 1552203589.84007,
@@ -35095,9 +35095,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203590.79608,
 								["amount"] = -15935,
+								["spellid"] = 257033,
 								["srcname"] = "猪卉咸丶-冰风岗",
 								["hp"] = 176205,
-								["spellid"] = 257033,
 							}, -- [8]
 							{
 								["ts"] = 1552203591.05409,
@@ -35110,16 +35110,16 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203591.7971,
 								["amount"] = -38390,
+								["spellid"] = 88163,
 								["srcname"] = "骑士队长瓦莱莉",
 								["hp"] = 176328,
-								["spellid"] = 88163,
 							}, -- [10]
 							{
 								["ts"] = 1552203591.79711,
 								["amount"] = -16540,
+								["spellid"] = 257033,
 								["srcname"] = "猪卉咸丶-冰风岗",
 								["hp"] = 159788,
-								["spellid"] = 257033,
 							}, -- [11]
 							{
 								["spellid"] = 256710,
@@ -35167,9 +35167,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203516.49302,
 								["amount"] = -165458,
+								["spellid"] = 256976,
 								["srcname"] = "骑士队长瓦莱莉",
 								["hp"] = 80739,
-								["spellid"] = 256976,
 							}, -- [2]
 							{
 								["absorb"] = 0,
@@ -35182,9 +35182,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203517.71904,
 								["amount"] = -138414,
+								["spellid"] = 256955,
 								["hp"] = 1,
 								["srcname"] = "骑士队长瓦莱莉",
-								["spellid"] = 256955,
 							}, -- [4]
 							{
 								["spellname"] = "猪卉咸丶次死亡",
@@ -35193,10 +35193,10 @@ SkadaPerCharDB = {
 								["spellid"] = 41220,
 							}, -- [5]
 							{
-								["srcname"] = "丿指尖丶旋律",
-								["ts"] = 1552203523.56,
-								["hp"] = 0,
 								["spellid"] = 95750,
+								["ts"] = 1552203523.56,
+								["srcname"] = "丿指尖丶旋律",
+								["hp"] = 0,
 							}, -- [6]
 							{
 								["absorb"] = 0,
@@ -35225,9 +35225,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203511.5921,
 								["amount"] = -37745,
+								["spellid"] = 88163,
 								["srcname"] = "骑士队长瓦莱莉",
 								["hp"] = 334272,
-								["spellid"] = 88163,
 							}, -- [10]
 							{
 								["absorb"] = 0,
@@ -35285,9 +35285,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203378.54102,
 								["amount"] = -2278,
+								["spellid"] = 88163,
 								["srcname"] = "复生之魂",
 								["hp"] = 119333,
-								["spellid"] = 88163,
 							}, -- [2]
 							{
 								["absorb"] = 0,
@@ -35308,16 +35308,16 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203379.57105,
 								["amount"] = -2284,
+								["spellid"] = 88163,
 								["srcname"] = "复生之魂",
 								["hp"] = 145296,
-								["spellid"] = 88163,
 							}, -- [5]
 							{
 								["ts"] = 1552203379.63206,
 								["amount"] = -1723,
+								["spellid"] = 88163,
 								["srcname"] = "复生之魂",
 								["hp"] = 143012,
-								["spellid"] = 88163,
 							}, -- [6]
 							{
 								["absorb"] = 0,
@@ -35330,16 +35330,16 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203380.05408,
 								["amount"] = -45952,
+								["spellid"] = 288388,
 								["srcname"] = "复生之魂",
 								["hp"] = 99980,
-								["spellid"] = 288388,
 							}, -- [8]
 							{
 								["ts"] = 1552203380.54209,
 								["amount"] = -272373,
+								["spellid"] = 263198,
 								["srcname"] = "丿指尖丶旋律",
 								["hp"] = 1,
-								["spellid"] = 263198,
 							}, -- [9]
 							{
 								["spellname"] = "猪卉咸丶次死亡",
@@ -35348,10 +35348,10 @@ SkadaPerCharDB = {
 								["spellid"] = 41220,
 							}, -- [10]
 							{
-								["srcname"] = "Candylin-冰风岗",
-								["ts"] = 1552203426.375,
-								["hp"] = 0,
 								["spellid"] = 7328,
+								["ts"] = 1552203426.375,
+								["srcname"] = "Candylin-冰风岗",
+								["hp"] = 0,
 							}, -- [11]
 							{
 								["absorb"] = -58887,
@@ -35364,23 +35364,23 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203377.93813,
 								["amount"] = -2062,
+								["spellid"] = 88163,
 								["srcname"] = "复生之魂",
 								["hp"] = 123224,
-								["spellid"] = 88163,
 							}, -- [13]
 							{
 								["ts"] = 1552203378.05414,
 								["amount"] = -1992,
+								["spellid"] = 88163,
 								["srcname"] = "复生之魂",
 								["hp"] = 121162,
-								["spellid"] = 88163,
 							}, -- [14]
 							{
 								["ts"] = 1552203378.44615,
 								["amount"] = -467,
+								["spellid"] = 88163,
 								["srcname"] = "被折磨的幽魂",
 								["hp"] = 121162,
-								["spellid"] = 88163,
 							}, -- [15]
 							["pos"] = 12,
 						},
@@ -35439,9 +35439,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203273.55607,
 								["amount"] = -19214,
+								["spellid"] = 258864,
 								["srcname"] = "艾什凡观察员",
 								["hp"] = 14466,
-								["spellid"] = 258864,
 							}, -- [7]
 							{
 								["absorb"] = 0,
@@ -35462,9 +35462,9 @@ SkadaPerCharDB = {
 							{
 								["ts"] = 1552203275.3521,
 								["amount"] = -35472,
+								["spellid"] = 185857,
 								["srcname"] = "艾什凡观察员",
 								["hp"] = 1,
-								["spellid"] = 185857,
 							}, -- [10]
 							{
 								["spellname"] = "猪卉咸丶次死亡",
@@ -35918,6 +35918,21 @@ SkadaPerCharDB = {
 						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
+					["沙尘暴"] = {
+						["crushing"] = 0,
+						["id"] = 257580,
+						["damage"] = 184111,
+						["max"] = 14384,
+						["name"] = "沙尘暴",
+						["min"] = 6636,
+						["totalhits"] = 18,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["school"] = 8,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 76570,
+					},
 					["衰弱怒吼"] = {
 						["crushing"] = 0,
 						["id"] = 258128,
@@ -35947,21 +35962,6 @@ SkadaPerCharDB = {
 						["resisted"] = 0,
 						["glancing"] = 0,
 						["absorbed"] = 144860,
-					},
-					["沙尘暴"] = {
-						["crushing"] = 0,
-						["id"] = 257580,
-						["damage"] = 184111,
-						["max"] = 14384,
-						["name"] = "沙尘暴",
-						["min"] = 6636,
-						["totalhits"] = 18,
-						["critical"] = 0,
-						["blocked"] = 0,
-						["school"] = 8,
-						["resisted"] = 0,
-						["glancing"] = 0,
-						["absorbed"] = 76570,
 					},
 					["点火器"] = {
 						["crushing"] = 0,
@@ -36346,7 +36346,7 @@ SkadaPerCharDB = {
 				},
 				["shielding"] = 0,
 				["id"] = "Pet-0-3912-1771-24643-416-010271F087",
-				["maxhp"] = 111510,
+				["maxhp"] = 112347,
 				["damagetaken"] = 0,
 				["damagetakenspells"] = {
 				},
@@ -36408,17 +36408,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 455062,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 712656,
 						["done"] = 0,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 32927,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 710727,
@@ -36426,11 +36426,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 455062,
+					["Candylin-冰风岗"] = {
+						["taken"] = 32927,
 						["done"] = 0,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -36504,17 +36504,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 1225875,
+						["done"] = 0,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 355438,
 						["done"] = 17030,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 10712,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 3438109,
@@ -36522,11 +36522,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 1225875,
+					["Candylin-冰风岗"] = {
+						["taken"] = 10712,
 						["done"] = 0,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -36546,17 +36546,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 1159031,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["Candylin-冰风岗"] = {
 						["taken"] = 82312,
 						["done"] = 0,
 						["class"] = "PALADIN",
 						["role"] = "HEALER",
-					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 2243786,
-						["done"] = 0,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1985921,
@@ -36564,10 +36564,10 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 1159031,
+					["丿指尖丶旋律"] = {
+						["taken"] = 2243786,
 						["done"] = 0,
-						["class"] = "MAGE",
+						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
 					},
 				},
@@ -36642,17 +36642,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 2780458,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 3298186,
 						["done"] = 0,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 103183,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 2957529,
@@ -36660,11 +36660,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 2780458,
+					["Candylin-冰风岗"] = {
+						["taken"] = 103183,
 						["done"] = 0,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -36726,17 +36726,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 1634600,
+						["done"] = 146454,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 1471034,
 						["done"] = 230156,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 53556,
-						["done"] = 245479,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1223083,
@@ -36744,11 +36744,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 1634600,
-						["done"] = 146454,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 53556,
+						["done"] = 245479,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -36768,17 +36768,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 1115164,
+						["done"] = 54130,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 1242154,
 						["done"] = 58153,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 54702,
-						["done"] = 277187,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1431813,
@@ -36786,11 +36786,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 1115164,
-						["done"] = 54130,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 54702,
+						["done"] = 277187,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -36936,17 +36936,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 1227690,
+						["done"] = 9148,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 4303480,
 						["done"] = 342619,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 119106,
-						["done"] = 47777,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 2383967,
@@ -36954,11 +36954,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 1227690,
-						["done"] = 9148,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 119106,
+						["done"] = 47777,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37042,16 +37042,16 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["Candylin-冰风岗"] = {
+						["taken"] = 51449,
+						["done"] = 0,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 883742,
 						["done"] = 0,
 						["class"] = "MAGE",
-						["role"] = "DAMAGER",
-					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 2683592,
-						["done"] = 0,
-						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
@@ -37060,11 +37060,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 51449,
+					["丿指尖丶旋律"] = {
+						["taken"] = 2683592,
 						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
 					},
 				},
 				["hdone"] = 0,
@@ -37084,17 +37084,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 1362565,
+						["done"] = 389141,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["Candylin-冰风岗"] = {
 						["taken"] = 85792,
 						["done"] = 294556,
 						["class"] = "PALADIN",
 						["role"] = "HEALER",
-					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 1328704,
-						["done"] = 241978,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1492480,
@@ -37102,10 +37102,10 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 1362565,
-						["done"] = 389141,
-						["class"] = "WARLOCK",
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 1328704,
+						["done"] = 241978,
+						["class"] = "MAGE",
 						["role"] = "DAMAGER",
 					},
 				},
@@ -37126,17 +37126,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 411400,
+						["done"] = 14689,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 799159,
 						["done"] = 91267,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 168419,
-						["done"] = 198781,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 968290,
@@ -37144,11 +37144,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 411400,
-						["done"] = 14689,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 168419,
+						["done"] = 198781,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37168,17 +37168,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 269714,
+						["done"] = 13970,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 485873,
 						["done"] = 0,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 13329,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 428971,
@@ -37186,11 +37186,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 269714,
-						["done"] = 13970,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 13329,
+						["done"] = 0,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37210,17 +37210,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 1120672,
+						["done"] = 43539,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 1064614,
 						["done"] = 59000,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 56453,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1978204,
@@ -37228,11 +37228,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 1120672,
-						["done"] = 43539,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 56453,
+						["done"] = 0,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37252,17 +37252,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 5095197,
+						["done"] = 0,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["Candylin-冰风岗"] = {
 						["taken"] = 27393,
 						["done"] = 0,
 						["class"] = "PALADIN",
 						["role"] = "HEALER",
-					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 1003818,
-						["done"] = 90289,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 783189,
@@ -37270,10 +37270,10 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 5095197,
-						["done"] = 0,
-						["class"] = "WARLOCK",
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 1003818,
+						["done"] = 90289,
+						["class"] = "MAGE",
 						["role"] = "DAMAGER",
 					},
 				},
@@ -37294,17 +37294,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 1321906,
+						["done"] = 0,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 1192898,
 						["done"] = 0,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 54547,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1291703,
@@ -37312,11 +37312,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 1321906,
+					["Candylin-冰风岗"] = {
+						["taken"] = 54547,
 						["done"] = 0,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37336,17 +37336,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 1209301,
+						["done"] = 43540,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 1789232,
 						["done"] = 0,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 71682,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1722121,
@@ -37354,11 +37354,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 1209301,
-						["done"] = 43540,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 71682,
+						["done"] = 0,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37378,17 +37378,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 2201235,
+						["done"] = 226459,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["Candylin-冰风岗"] = {
 						["taken"] = 39038,
 						["done"] = 134540,
 						["class"] = "PALADIN",
 						["role"] = "HEALER",
-					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 3335688,
-						["done"] = 168599,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 2059964,
@@ -37396,10 +37396,10 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 2201235,
-						["done"] = 226459,
-						["class"] = "MAGE",
+					["丿指尖丶旋律"] = {
+						["taken"] = 3335688,
+						["done"] = 168599,
+						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
 					},
 				},
@@ -37420,16 +37420,16 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["Candylin-冰风岗"] = {
+						["taken"] = 6233,
+						["done"] = 0,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 86895,
 						["done"] = 0,
 						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
-					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 13082,
-						["done"] = 0,
-						["class"] = "MAGE",
 						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
@@ -37438,11 +37438,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 6233,
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 13082,
 						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
 					},
 				},
 				["hdone"] = 0,
@@ -37498,17 +37498,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["丿指尖丶旋律"] = {
+						["taken"] = 2055120,
+						["done"] = 777885,
+						["class"] = "WARLOCK",
+						["role"] = "DAMAGER",
+					},
 					["奶嘴儿叼叼-冰风岗"] = {
 						["taken"] = 1843758,
 						["done"] = 856419,
 						["class"] = "MAGE",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 19472,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 1626925,
@@ -37516,11 +37516,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 2055120,
-						["done"] = 777885,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
+					["Candylin-冰风岗"] = {
+						["taken"] = 19472,
+						["done"] = 0,
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37576,17 +37576,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 613051,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 909816,
 						["done"] = 0,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 17557,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 912782,
@@ -37594,11 +37594,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 613051,
+					["Candylin-冰风岗"] = {
+						["taken"] = 17557,
 						["done"] = 0,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37642,17 +37642,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 413604,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["丿指尖丶旋律"] = {
 						["taken"] = 366898,
 						["done"] = 0,
 						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
-					},
-					["Candylin-冰风岗"] = {
-						["taken"] = 27891,
-						["done"] = 0,
-						["class"] = "PALADIN",
-						["role"] = "HEALER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 425871,
@@ -37660,11 +37660,11 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 413604,
+					["Candylin-冰风岗"] = {
+						["taken"] = 27891,
 						["done"] = 0,
-						["class"] = "MAGE",
-						["role"] = "DAMAGER",
+						["class"] = "PALADIN",
+						["role"] = "HEALER",
 					},
 				},
 				["hdone"] = 0,
@@ -37684,17 +37684,17 @@ SkadaPerCharDB = {
 						["class"] = "WARRIOR",
 						["role"] = "TANK",
 					},
+					["奶嘴儿叼叼-冰风岗"] = {
+						["taken"] = 6036035,
+						["done"] = 0,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
 					["Candylin-冰风岗"] = {
 						["taken"] = 261164,
 						["done"] = 5686,
 						["class"] = "PALADIN",
 						["role"] = "HEALER",
-					},
-					["丿指尖丶旋律"] = {
-						["taken"] = 7739057,
-						["done"] = 366213,
-						["class"] = "WARLOCK",
-						["role"] = "DAMAGER",
 					},
 					["天书张靓颖-冰风岗"] = {
 						["taken"] = 8189793,
@@ -37702,10 +37702,10 @@ SkadaPerCharDB = {
 						["class"] = "SHAMAN",
 						["role"] = "DAMAGER",
 					},
-					["奶嘴儿叼叼-冰风岗"] = {
-						["taken"] = 6036035,
-						["done"] = 0,
-						["class"] = "MAGE",
+					["丿指尖丶旋律"] = {
+						["taken"] = 7739057,
+						["done"] = 366213,
+						["class"] = "WARLOCK",
 						["role"] = "DAMAGER",
 					},
 				},
