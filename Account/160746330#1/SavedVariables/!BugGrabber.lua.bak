@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 5028,
 	["lastSanitation"] = 3,
-	["session"] = 5027,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\HandyNotes_Argus\\HandyNotes_Argus-0.20.0.lua:1412: attempt to compare nil with number",
@@ -20,12 +20,18 @@ BugGrabberDB = {
 			["counter"] = 2,
 		}, -- [2]
 		{
+			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
+			["time"] = "2019/03/25 12:56:29",
+			["session"] = 5028,
+			["counter"] = 4,
+		}, -- [3]
+		{
 			["message"] = "[string \"--[[ Error in 'Heaving Blow' ]] return func...\"]:15: table index is nil",
 			["time"] = "2019/03/24 15:53:43",
 			["locals"] = "InCombatSkipped",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>",
-			["session"] = 5027,
-			["counter"] = 28,
-		}, -- [3]
+			["session"] = 5028,
+			["counter"] = 29,
+		}, -- [4]
 	},
 }
