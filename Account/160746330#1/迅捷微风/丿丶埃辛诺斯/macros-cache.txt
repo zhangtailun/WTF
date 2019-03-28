@@ -7,7 +7,7 @@ VER 3 0100000000000003 "嫁祸" "INV_Misc_QuestionMark"
 #showtooltip 嫁祸诀窍
 /cast [help] [target=focus, help] [target=targettarget, help] 嫁祸诀窍
 END
-VER 3 0100000000000007 "帷幕宏" "635350"
+VER 3 0100000000000006 "帷幕宏" "INV_MISC_QUESTIONMARK"
 /cast 潜伏帷幕
 /y 潜伏帷幕已释放 持续15s
 /in 4 /y 剩余10s
@@ -18,7 +18,7 @@ VER 3 0100000000000007 "帷幕宏" "635350"
 /in 13 /y 剩余1s
 /in 14 /y 潜伏帷幕已结束
 END
-VER 3 0100000000000006 "帷幕宏" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000007 "帷幕宏" "635350"
 /cast 潜伏帷幕
 /y 潜伏帷幕已释放 持续15s
 /in 4 /y 剩余10s
