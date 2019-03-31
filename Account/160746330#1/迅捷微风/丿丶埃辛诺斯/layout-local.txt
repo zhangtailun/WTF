@@ -11,5 +11,5 @@ FrameLevel: 21
 Anchor: TOP
 X: 303
 Y: -167
-W: 365
+W: 405
 H: 240
