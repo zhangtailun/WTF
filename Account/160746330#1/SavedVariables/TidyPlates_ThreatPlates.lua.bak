@@ -89,6 +89,9 @@ ThreatPlatesDB = {
 					["Pet"] = 1,
 					["Guardian"] = 1,
 				},
+				["toggle"] = {
+					["OccludedUnits"] = true,
+				},
 			},
 			["uniqueSettings"] = {
 				nil, -- [1]
@@ -337,7 +340,9 @@ ThreatPlatesDB = {
 				},
 			},
 			["CVarsBackup"] = {
+				["nameplateMinAlpha"] = "0.6",
 				["showQuestTrackingTooltips"] = "0",
+				["nameplateMaxAlpha"] = "1.0",
 			},
 			["text"] = {
 				["full"] = true,
