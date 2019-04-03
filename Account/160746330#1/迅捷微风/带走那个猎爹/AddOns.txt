@@ -26,3 +26,4 @@ SkadaFormat: enabled
 Details: disabled
 TinyInspect: enabled
 Gnosis: disabled
+自定义插件: enabled
