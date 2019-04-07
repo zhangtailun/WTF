@@ -1,38 +1,6 @@
 
 ThreatPlatesDB = {
 	["char"] = {
-		["丿指尖丶旋律 - 加尔"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["術士一号 - 夏维安"] = {
-			["spec"] = {
-				[3] = false,
-			},
-			["welcome"] = true,
-		},
-		["上帝的圣光 - 迅捷微风"] = {
-			["spec"] = {
-				nil, -- [1]
-				true, -- [2]
-				false, -- [3]
-			},
-			["welcome"] = true,
-		},
-		["遇术您疯 - 加尔"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = false,
-			},
-		},
-		["戰丿魂 - 迅捷微风"] = {
-			["welcome"] = true,
-			["spec"] = {
-				[3] = true,
-			},
-		},
 		["遇术您疯 - 夏维安"] = {
 			["welcome"] = true,
 			["spec"] = {
@@ -47,21 +15,60 @@ ThreatPlatesDB = {
 			},
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["丿指尖丶旋律 - 加尔"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["術士一号 - 夏维安"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["遇术您疯 - 加尔"] = {
 			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
 		},
+		["丿指尖丶旋律 - 迅捷微风"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["上帝的圣光 - 迅捷微风"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["戰丿魂 - 迅捷微风"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = true,
+			},
+		},
 	},
 	["profileKeys"] = {
-		["丿指尖丶旋律 - 加尔"] = "Default",
-		["術士一号 - 夏维安"] = "Default",
-		["上帝的圣光 - 迅捷微风"] = "Default",
-		["遇术您疯 - 加尔"] = "Default",
-		["戰丿魂 - 迅捷微风"] = "Default",
 		["遇术您疯 - 夏维安"] = "Default",
 		["沙雕默默 - 夏维安"] = "Default",
 		["丿丶埃辛诺斯 - 迅捷微风"] = "Default",
+		["丿指尖丶旋律 - 加尔"] = "Default",
+		["術士一号 - 夏维安"] = "Default",
+		["遇术您疯 - 加尔"] = "Default",
+		["丿指尖丶旋律 - 迅捷微风"] = "Default",
+		["上帝的圣光 - 迅捷微风"] = "Default",
+		["戰丿魂 - 迅捷微风"] = "Default",
 	},
 	["global"] = {
 		["CheckNewLookAndFeel"] = true,

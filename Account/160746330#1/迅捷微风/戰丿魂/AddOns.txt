@@ -26,5 +26,5 @@ SkadaFormat: enabled
 ElvUI_EverySecondCounts: disabled
 Details: disabled
 TinyInspect: enabled
-Gnosis: disabled
+Gnosis: enabled
 自定义插件: enabled

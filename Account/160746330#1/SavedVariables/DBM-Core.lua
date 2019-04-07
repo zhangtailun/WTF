@@ -13,7 +13,7 @@ DBM_AllSavedOptions = {
 		["StatusEnabled"] = true,
 		["DontRestoreIcons"] = false,
 		["DontShowNameplateIcons"] = false,
-		["CoreSavedRevision"] = 18467,
+		["CoreSavedRevision"] = 18480,
 		["RangeFrameX"] = 404.781463623047,
 		["AlwaysShowSpeedKillTimer"] = true,
 		["HUDColor2"] = {
@@ -42,6 +42,7 @@ DBM_AllSavedOptions = {
 			1, -- [2]
 			0, -- [3]
 		},
+		["ShowPizzaMessage"] = true,
 		["DontShowReminders"] = false,
 		["WorldBossAlert"] = false,
 		["HUDSize3"] = 5,
@@ -94,7 +95,6 @@ DBM_AllSavedOptions = {
 		["HideTooltips"] = false,
 		["EventEngageSound"] = "",
 		["RangeFrameSound2"] = "none",
-		["ShowPizzaMessage"] = true,
 		["WarningFont"] = "Fonts\\ARKai_T.ttf",
 		["SpecialWarningSound5"] = "Sound\\Creature\\Loathstare\\Loa_Naxx_Aggro02.ogg",
 		["SpecialWarningSound3"] = "Interface\\AddOns\\DBM-Core\\sounds\\AirHorn.ogg",
