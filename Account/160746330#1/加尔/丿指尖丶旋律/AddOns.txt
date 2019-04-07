@@ -1,9 +1,0 @@
-ElvUI_EverySecondCounts: disabled
-Combuctor: disabled
-InspectEquip-3: disabled
-RCLootCouncil: disabled
-Skada: enabled
-SkadaFormat: enabled
-MeetingStone: disabled
-Details: disabled
-MikScrollingBattleText: disabled
