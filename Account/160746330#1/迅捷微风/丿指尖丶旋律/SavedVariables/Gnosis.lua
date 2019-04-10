@@ -1,13 +1,5 @@
 
-GnosisChar = {
-	["profileKeys"] = {
-		["丿指尖丶旋律 - 迅捷微风"] = "丿指尖丶旋律 - 迅捷微风",
-	},
-	["profiles"] = {
-		["丿指尖丶旋律 - 迅捷微风"] = {
-		},
-	},
-}
+GnosisChar = nil
 GnosisCharConfig = {
 	["optver"] = 4.62,
 	["bHideBlizz"] = true,
@@ -110,21 +102,26 @@ GnosisCharConfig = {
 					["y"] = -3,
 					["x"] = 3,
 				},
-				["latency"] = {
-					["y"] = 1,
-					["x"] = -1,
+				["castname"] = {
+					["y"] = 0,
+					["x"] = 9,
 				},
 				["casttime"] = {
 					["y"] = 0,
 					["x"] = -9,
 				},
-				["castname"] = {
-					["y"] = 0,
-					["x"] = 9,
+				["latency"] = {
+					["y"] = 1,
+					["x"] = -1,
 				},
 			},
 			["cboptver"] = 4.62,
-			["bIconUnlocked"] = false,
+			["colText"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["scaleicon"] = 1,
 			["height"] = 20,
 			["fontsize_lat"] = 0,
@@ -134,8 +131,13 @@ GnosisCharConfig = {
 				0, -- [3]
 				0.85, -- [4]
 			},
-			["orient"] = 1,
-			["bInvDir"] = false,
+			["anchorfrom"] = 5,
+			["colSuccess"] = {
+				0.15, -- [1]
+				0.25, -- [2]
+				0.1, -- [3]
+				0.7, -- [4]
+			},
 			["strata"] = "MEDIUM",
 			["bEn"] = false,
 			["colBarBg"] = {
@@ -157,47 +159,37 @@ GnosisCharConfig = {
 				0.7, -- [4]
 			},
 			["border"] = 2,
+			["bColSuc"] = false,
+			["rotateicon"] = 0,
+			["forcefreealign"] = false,
+			["bartype"] = "cb",
+			["iconside"] = "LEFT",
+			["strGap"] = 15,
+			["bExtChannels"] = true,
+			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
+			["alignlat"] = "ADAPT",
+			["bShowWNC"] = false,
+			["bUnlocked"] = false,
+			["fontoutline"] = "OUTLINE",
+			["relationsel"] = 1,
+			["ingroupsel"] = 1,
+			["anchor_x"] = 0,
+			["bResizeLongName"] = false,
+			["width"] = 250,
+			["latbarfixed"] = 0.03,
 			["colInterrupted"] = {
 				1, -- [1]
 				0.8, -- [2]
 				0, -- [3]
 				0.7, -- [4]
 			},
-			["rotateicon"] = 0,
-			["width"] = 250,
-			["bartype"] = "cb",
-			["iconside"] = "LEFT",
-			["bResizeLongName"] = false,
-			["bExtChannels"] = true,
-			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
-			["ingroupsel"] = 1,
-			["relationsel"] = 1,
-			["bUnlocked"] = false,
-			["fontoutline"] = "OUTLINE",
-			["bShowWNC"] = false,
-			["alignlat"] = "ADAPT",
-			["anchor_x"] = 0,
-			["strGap"] = 15,
-			["forcefreealign"] = false,
-			["latbarfixed"] = 0.03,
-			["bColSuc"] = false,
 			["alignment"] = "NAMETIME",
 			["bFillup"] = false,
-			["colSuccess"] = {
-				0.15, -- [1]
-				0.25, -- [2]
-				0.1, -- [3]
-				0.7, -- [4]
-			},
-			["anchorfrom"] = 5,
+			["bInvDir"] = false,
+			["orient"] = 1,
 			["bnwlist"] = {
 			},
-			["colText"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["bIconUnlocked"] = false,
 		},
 		["宠物载具"] = {
 			["fSparkHeightMulti"] = 1.2,
@@ -297,21 +289,26 @@ GnosisCharConfig = {
 					["y"] = -3,
 					["x"] = 3,
 				},
-				["latency"] = {
-					["y"] = 1,
-					["x"] = -1,
+				["castname"] = {
+					["y"] = 0,
+					["x"] = 9,
 				},
 				["casttime"] = {
 					["y"] = 0,
 					["x"] = -9,
 				},
-				["castname"] = {
-					["y"] = 0,
-					["x"] = 9,
+				["latency"] = {
+					["y"] = 1,
+					["x"] = -1,
 				},
 			},
 			["cboptver"] = 4.62,
-			["bIconUnlocked"] = false,
+			["colText"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["scaleicon"] = 1,
 			["height"] = 20,
 			["fontsize_lat"] = 0,
@@ -321,8 +318,13 @@ GnosisCharConfig = {
 				0, -- [3]
 				0.85, -- [4]
 			},
-			["orient"] = 1,
-			["bInvDir"] = false,
+			["anchorfrom"] = 5,
+			["colSuccess"] = {
+				0.15, -- [1]
+				0.25, -- [2]
+				0.1, -- [3]
+				0.7, -- [4]
+			},
 			["strata"] = "MEDIUM",
 			["bEn"] = false,
 			["colBarBg"] = {
@@ -344,47 +346,37 @@ GnosisCharConfig = {
 				0.7, -- [4]
 			},
 			["border"] = 2,
+			["bColSuc"] = false,
+			["rotateicon"] = 0,
+			["forcefreealign"] = false,
+			["bartype"] = "cb",
+			["iconside"] = "LEFT",
+			["strGap"] = 15,
+			["bExtChannels"] = true,
+			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
+			["alignlat"] = "ADAPT",
+			["bShowWNC"] = false,
+			["bUnlocked"] = false,
+			["fontoutline"] = "OUTLINE",
+			["relationsel"] = 1,
+			["ingroupsel"] = 1,
+			["anchor_x"] = 0,
+			["bResizeLongName"] = false,
+			["width"] = 250,
+			["latbarfixed"] = 0.03,
 			["colInterrupted"] = {
 				1, -- [1]
 				0.8, -- [2]
 				0, -- [3]
 				0.7, -- [4]
 			},
-			["rotateicon"] = 0,
-			["width"] = 250,
-			["bartype"] = "cb",
-			["iconside"] = "LEFT",
-			["bResizeLongName"] = false,
-			["bExtChannels"] = true,
-			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
-			["ingroupsel"] = 1,
-			["relationsel"] = 1,
-			["bUnlocked"] = false,
-			["fontoutline"] = "OUTLINE",
-			["bShowWNC"] = false,
-			["alignlat"] = "ADAPT",
-			["anchor_x"] = 0,
-			["strGap"] = 15,
-			["forcefreealign"] = false,
-			["latbarfixed"] = 0.03,
-			["bColSuc"] = false,
 			["alignment"] = "NAMETIME",
 			["bFillup"] = false,
-			["colSuccess"] = {
-				0.15, -- [1]
-				0.25, -- [2]
-				0.1, -- [3]
-				0.7, -- [4]
-			},
-			["anchorfrom"] = 5,
+			["bInvDir"] = false,
+			["orient"] = 1,
 			["bnwlist"] = {
 			},
-			["colText"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["bIconUnlocked"] = false,
 		},
 		["镜像"] = {
 			["fSparkHeightMulti"] = 1.2,
@@ -484,21 +476,26 @@ GnosisCharConfig = {
 					["y"] = -3,
 					["x"] = 3,
 				},
-				["latency"] = {
-					["y"] = 1,
-					["x"] = -1,
+				["castname"] = {
+					["y"] = 0,
+					["x"] = 9,
 				},
 				["casttime"] = {
 					["y"] = 0,
 					["x"] = -9,
 				},
-				["castname"] = {
-					["y"] = 0,
-					["x"] = 9,
+				["latency"] = {
+					["y"] = 1,
+					["x"] = -1,
 				},
 			},
 			["cboptver"] = 4.62,
-			["bIconUnlocked"] = false,
+			["colText"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["scaleicon"] = 1,
 			["height"] = 20,
 			["fontsize_lat"] = 0,
@@ -508,8 +505,13 @@ GnosisCharConfig = {
 				0, -- [3]
 				0.85, -- [4]
 			},
-			["orient"] = 1,
-			["bInvDir"] = false,
+			["anchorfrom"] = 5,
+			["colSuccess"] = {
+				0.15, -- [1]
+				0.25, -- [2]
+				0.1, -- [3]
+				0.7, -- [4]
+			},
 			["strata"] = "MEDIUM",
 			["bEn"] = false,
 			["colBarBg"] = {
@@ -531,47 +533,37 @@ GnosisCharConfig = {
 				0.7, -- [4]
 			},
 			["border"] = 2,
+			["bColSuc"] = false,
+			["rotateicon"] = 0,
+			["forcefreealign"] = false,
+			["bartype"] = "cb",
+			["iconside"] = "LEFT",
+			["strGap"] = 15,
+			["bExtChannels"] = true,
+			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
+			["alignlat"] = "ADAPT",
+			["bShowWNC"] = false,
+			["bUnlocked"] = false,
+			["fontoutline"] = "OUTLINE",
+			["relationsel"] = 1,
+			["ingroupsel"] = 1,
+			["anchor_x"] = 0,
+			["bResizeLongName"] = false,
+			["width"] = 250,
+			["latbarfixed"] = 0.03,
 			["colInterrupted"] = {
 				1, -- [1]
 				0.8, -- [2]
 				0, -- [3]
 				0.7, -- [4]
 			},
-			["rotateicon"] = 0,
-			["width"] = 250,
-			["bartype"] = "cb",
-			["iconside"] = "LEFT",
-			["bResizeLongName"] = false,
-			["bExtChannels"] = true,
-			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
-			["ingroupsel"] = 1,
-			["relationsel"] = 1,
-			["bUnlocked"] = false,
-			["fontoutline"] = "OUTLINE",
-			["bShowWNC"] = false,
-			["alignlat"] = "ADAPT",
-			["anchor_x"] = 0,
-			["strGap"] = 15,
-			["forcefreealign"] = false,
-			["latbarfixed"] = 0.03,
-			["bColSuc"] = false,
 			["alignment"] = "NAMETIME",
 			["bFillup"] = false,
-			["colSuccess"] = {
-				0.15, -- [1]
-				0.25, -- [2]
-				0.1, -- [3]
-				0.7, -- [4]
-			},
-			["anchorfrom"] = 5,
+			["bInvDir"] = false,
+			["orient"] = 1,
 			["bnwlist"] = {
 			},
-			["colText"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["bIconUnlocked"] = false,
 		},
 		["玩家"] = {
 			["fSparkHeightMulti"] = 1.2,
@@ -681,25 +673,25 @@ GnosisCharConfig = {
 					["y"] = -3,
 					["x"] = 3,
 				},
-				["latency"] = {
-					["y"] = 1,
-					["x"] = -1,
+				["castname"] = {
+					["y"] = 0,
+					["x"] = 9,
 				},
 				["casttime"] = {
 					["y"] = 0,
 					["x"] = -9,
 				},
-				["castname"] = {
-					["y"] = 0,
-					["x"] = 9,
+				["latency"] = {
+					["y"] = 1,
+					["x"] = -1,
 				},
 			},
 			["cboptver"] = 4.62,
-			["colShadow"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.7, -- [4]
+			["colText"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
 			},
 			["colInterrupted"] = {
 				1, -- [1]
@@ -707,7 +699,7 @@ GnosisCharConfig = {
 				0, -- [3]
 				0.7, -- [4]
 			},
-			["bInvDir"] = false,
+			["aligntime"] = "RIGHT",
 			["height"] = 76,
 			["fontsize_lat"] = 0,
 			["colBorder"] = {
@@ -716,7 +708,7 @@ GnosisCharConfig = {
 				0, -- [3]
 				0.850000008940697, -- [4]
 			},
-			["bShowPlayerLatency"] = true,
+			["anchorfrom"] = 5,
 			["bIconUnlocked"] = true,
 			["strata"] = "MEDIUM",
 			["bEn"] = true,
@@ -727,38 +719,38 @@ GnosisCharConfig = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["rotateicon"] = 0,
+			["orient"] = 1,
 			["border"] = 0,
 			["bColSuc"] = false,
-			["width"] = 640,
-			["bResizeLongName"] = false,
+			["forcefreealign"] = false,
+			["strGap"] = 15,
 			["bartype"] = "cb",
-			["iconside"] = "LEFT",
+			["bResizeLongName"] = false,
 			["bChanAsNorm"] = false,
 			["bExtChannels"] = true,
 			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
-			["ingroupsel"] = 1,
-			["relationsel"] = 1,
+			["alignlat"] = "ADAPT",
+			["bShowWNC"] = false,
 			["bUnlocked"] = false,
 			["fontoutline"] = "OUTLINE",
-			["bShowWNC"] = false,
-			["alignlat"] = "ADAPT",
+			["relationsel"] = 1,
+			["ingroupsel"] = 1,
 			["anchor_x"] = 0,
-			["strGap"] = 15,
-			["forcefreealign"] = false,
+			["iconside"] = "LEFT",
+			["width"] = 640,
 			["latbarfixed"] = 0.03,
-			["orient"] = 1,
+			["rotateicon"] = 0,
 			["alignment"] = "NAMETIME",
 			["bFillup"] = false,
-			["anchorfrom"] = 5,
-			["aligntime"] = "RIGHT",
+			["bShowPlayerLatency"] = true,
+			["bInvDir"] = false,
 			["bnwlist"] = {
 			},
-			["colText"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["colShadow"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.7, -- [4]
 			},
 		},
 		["焦点"] = {
@@ -859,21 +851,26 @@ GnosisCharConfig = {
 					["y"] = -3,
 					["x"] = 3,
 				},
-				["latency"] = {
-					["y"] = 1,
-					["x"] = -1,
+				["castname"] = {
+					["y"] = 0,
+					["x"] = 9,
 				},
 				["casttime"] = {
 					["y"] = 0,
 					["x"] = -9,
 				},
-				["castname"] = {
-					["y"] = 0,
-					["x"] = 9,
+				["latency"] = {
+					["y"] = 1,
+					["x"] = -1,
 				},
 			},
 			["cboptver"] = 4.62,
-			["bIconUnlocked"] = false,
+			["colText"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["scaleicon"] = 1,
 			["height"] = 20,
 			["fontsize_lat"] = 0,
@@ -883,8 +880,13 @@ GnosisCharConfig = {
 				0, -- [3]
 				0.85, -- [4]
 			},
-			["orient"] = 1,
-			["bInvDir"] = false,
+			["anchorfrom"] = 5,
+			["colSuccess"] = {
+				0.15, -- [1]
+				0.25, -- [2]
+				0.1, -- [3]
+				0.7, -- [4]
+			},
 			["strata"] = "MEDIUM",
 			["bEn"] = false,
 			["colBarBg"] = {
@@ -906,290 +908,101 @@ GnosisCharConfig = {
 				0.7, -- [4]
 			},
 			["border"] = 2,
+			["bColSuc"] = false,
+			["rotateicon"] = 0,
+			["forcefreealign"] = false,
+			["bartype"] = "cb",
+			["iconside"] = "LEFT",
+			["strGap"] = 15,
+			["bExtChannels"] = true,
+			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
+			["alignlat"] = "ADAPT",
+			["bShowWNC"] = false,
+			["bUnlocked"] = false,
+			["fontoutline"] = "OUTLINE",
+			["relationsel"] = 1,
+			["ingroupsel"] = 1,
+			["anchor_x"] = 0,
+			["bResizeLongName"] = false,
+			["width"] = 250,
+			["latbarfixed"] = 0.03,
 			["colInterrupted"] = {
 				1, -- [1]
 				0.8, -- [2]
 				0, -- [3]
 				0.7, -- [4]
 			},
-			["rotateicon"] = 0,
-			["width"] = 250,
-			["bartype"] = "cb",
-			["iconside"] = "LEFT",
-			["bResizeLongName"] = false,
-			["bExtChannels"] = true,
-			["strTimeFormat"] = "col<1,0,0>p<2s>col<pre> r<1m> / t<2m>",
-			["ingroupsel"] = 1,
-			["relationsel"] = 1,
-			["bUnlocked"] = false,
-			["fontoutline"] = "OUTLINE",
-			["bShowWNC"] = false,
-			["alignlat"] = "ADAPT",
-			["anchor_x"] = 0,
-			["strGap"] = 15,
-			["forcefreealign"] = false,
-			["latbarfixed"] = 0.03,
-			["bColSuc"] = false,
 			["alignment"] = "NAMETIME",
 			["bFillup"] = false,
-			["colSuccess"] = {
-				0.15, -- [1]
-				0.25, -- [2]
-				0.1, -- [3]
-				0.7, -- [4]
-			},
-			["anchorfrom"] = 5,
+			["bInvDir"] = false,
+			["orient"] = 1,
 			["bnwlist"] = {
 			},
-			["colText"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["bIconUnlocked"] = false,
 		},
 	},
 	["channeledspells"] = {
 		["精神鞭笞"] = {
 			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 5,
 			["baoe"] = false,
+			["bcombattext"] = false,
+			["iupdate"] = 3,
+			["bicon"] = true,
 			["ticks"] = 4,
-			["fontsizeclip"] = 0,
+			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
 			["bhidenonplayer"] = false,
 			["baddticks"] = false,
 			["binit"] = false,
 			["ben"] = true,
 			["bcliptest"] = false,
 			["bsticky"] = true,
-			["iupdate"] = 3,
-			["bcombattext"] = false,
+			["bars"] = 5,
+			["fontsizeclip"] = 0,
 			["fontsizenclip"] = 0,
 		},
 		["唤醒"] = {
 			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<arcane>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 3,
 			["baoe"] = false,
+			["bcombattext"] = false,
+			["iupdate"] = 2,
+			["bicon"] = true,
 			["ticks"] = 4,
-			["fontsizeclip"] = 0,
+			["ctstring"] = "col<arcane>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
 			["bhidenonplayer"] = false,
 			["baddticks"] = false,
 			["binit"] = true,
 			["ben"] = true,
 			["bcliptest"] = false,
 			["bsticky"] = true,
-			["iupdate"] = 2,
-			["bcombattext"] = false,
+			["bars"] = 3,
+			["fontsizeclip"] = 0,
 			["fontsizenclip"] = 0,
 		},
 		["奥术飞弹"] = {
 			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<arcane>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 6,
 			["baoe"] = false,
-			["ticks"] = 5,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = false,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
+			["bcombattext"] = false,
 			["iupdate"] = 2,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["地狱烈焰"] = {
-			["bticksound"] = false,
 			["bicon"] = true,
-			["fontsizeclip"] = 0,
-			["iupdate"] = 3,
-			["baoe"] = true,
-			["ticks"] = 15,
-			["ctstring"] = "col<fire>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = true,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["bars"] = 15,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["火焰之雨"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<fire>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 15,
-			["baoe"] = true,
-			["ticks"] = 6,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = false,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 3,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["生命通道"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 6,
-			["baoe"] = false,
-			["ticks"] = 6,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = false,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 3,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["神圣赞美诗"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<0,1,0>(spellname) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 15,
-			["baoe"] = true,
-			["ticks"] = 4,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = false,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 4,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["精神灼烧"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 7,
-			["baoe"] = true,
-			["ticks"] = 6,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = true,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 3,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["苦修"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<0,1,0>(spellname - col<1,1,1>col<class>targetcol<cpre>col<pre>col<0,1,0>) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 2,
-			["baoe"] = false,
-			["ticks"] = 3,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = true,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 1,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["宁静"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<0,1,0>(spellname) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 15,
-			["baoe"] = true,
-			["ticks"] = 4,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = false,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 3,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["怒雷破"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<physical>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 4,
-			["baoe"] = true,
 			["ticks"] = 5,
-			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = true,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["iupdate"] = 1,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["抚慰之雾"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<0,1,0>(spellname - col<1,1,1>col<class>targetcol<cpre>col<pre>col<0,1,0>) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["bars"] = 11,
-			["baoe"] = false,
-			["ticks"] = 8,
-			["fontsizeclip"] = 0,
+			["ctstring"] = "col<arcane>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
 			["bhidenonplayer"] = false,
 			["baddticks"] = false,
 			["binit"] = false,
 			["ben"] = true,
 			["bcliptest"] = false,
 			["bsticky"] = true,
-			["iupdate"] = 3,
-			["bcombattext"] = false,
-			["fontsizenclip"] = 0,
-		},
-		["吸取生命"] = {
-			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
-			["baoe"] = false,
-			["ticks"] = 6,
+			["bars"] = 6,
 			["fontsizeclip"] = 0,
-			["bhidenonplayer"] = false,
-			["baddticks"] = false,
-			["binit"] = false,
-			["ben"] = true,
-			["bcliptest"] = false,
-			["bsticky"] = true,
-			["bars"] = 8,
-			["bcombattext"] = false,
 			["fontsizenclip"] = 0,
 		},
 		["吸取灵魂"] = {
 			["bticksound"] = false,
-			["bicon"] = true,
-			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
 			["baoe"] = false,
+			["bcombattext"] = false,
+			["bicon"] = true,
 			["ticks"] = 6,
-			["fontsizeclip"] = 0,
+			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
 			["bhidenonplayer"] = false,
 			["baddticks"] = false,
 			["binit"] = false,
@@ -1197,7 +1010,186 @@ GnosisCharConfig = {
 			["bcliptest"] = false,
 			["bsticky"] = true,
 			["bars"] = 8,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["火焰之雨"] = {
+			["bticksound"] = false,
+			["baoe"] = true,
 			["bcombattext"] = false,
+			["iupdate"] = 3,
+			["bicon"] = true,
+			["ticks"] = 6,
+			["ctstring"] = "col<fire>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = false,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 15,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["吸取生命"] = {
+			["bticksound"] = false,
+			["baoe"] = false,
+			["bcombattext"] = false,
+			["bicon"] = true,
+			["ticks"] = 6,
+			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = false,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 8,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["地狱烈焰"] = {
+			["bticksound"] = false,
+			["baoe"] = true,
+			["bcombattext"] = false,
+			["bars"] = 15,
+			["bicon"] = true,
+			["ticks"] = 15,
+			["fontsizeclip"] = 0,
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = true,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["iupdate"] = 3,
+			["ctstring"] = "col<fire>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["fontsizenclip"] = 0,
+		},
+		["精神灼烧"] = {
+			["bticksound"] = false,
+			["baoe"] = true,
+			["bcombattext"] = false,
+			["iupdate"] = 3,
+			["bicon"] = true,
+			["ticks"] = 6,
+			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = true,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 7,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["抚慰之雾"] = {
+			["bticksound"] = false,
+			["baoe"] = false,
+			["bcombattext"] = false,
+			["iupdate"] = 3,
+			["bicon"] = true,
+			["ticks"] = 8,
+			["ctstring"] = "col<0,1,0>(spellname - col<1,1,1>col<class>targetcol<cpre>col<pre>col<0,1,0>) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = false,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 11,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["怒雷破"] = {
+			["bticksound"] = false,
+			["baoe"] = true,
+			["bcombattext"] = false,
+			["iupdate"] = 1,
+			["bicon"] = true,
+			["ticks"] = 5,
+			["ctstring"] = "col<physical>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = true,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 4,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["宁静"] = {
+			["bticksound"] = false,
+			["baoe"] = true,
+			["bcombattext"] = false,
+			["iupdate"] = 3,
+			["bicon"] = true,
+			["ticks"] = 4,
+			["ctstring"] = "col<0,1,0>(spellname) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = false,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 15,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["苦修"] = {
+			["bticksound"] = false,
+			["baoe"] = false,
+			["bcombattext"] = false,
+			["iupdate"] = 1,
+			["bicon"] = true,
+			["ticks"] = 3,
+			["ctstring"] = "col<0,1,0>(spellname - col<1,1,1>col<class>targetcol<cpre>col<pre>col<0,1,0>) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = true,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 2,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["神圣赞美诗"] = {
+			["bticksound"] = false,
+			["baoe"] = true,
+			["bcombattext"] = false,
+			["iupdate"] = 4,
+			["bicon"] = true,
+			["ticks"] = 4,
+			["ctstring"] = "col<0,1,0>(spellname) [tickscrits] +eh <oh> col<pre>dps HPShittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = false,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 15,
+			["fontsizeclip"] = 0,
+			["fontsizenclip"] = 0,
+		},
+		["生命通道"] = {
+			["bticksound"] = false,
+			["baoe"] = false,
+			["bcombattext"] = false,
+			["iupdate"] = 3,
+			["bicon"] = true,
+			["ticks"] = 6,
+			["ctstring"] = "col<shadow>dmg col<pre>col<1,1,0>(spellname) [tickscrits]col<pre>clipped dps DPScliptext<(Clipped) >hittext< Hits>crittext< Crits>ticktext< Ticks>",
+			["bhidenonplayer"] = false,
+			["baddticks"] = false,
+			["binit"] = false,
+			["ben"] = true,
+			["bcliptest"] = false,
+			["bsticky"] = true,
+			["bars"] = 6,
+			["fontsizeclip"] = 0,
 			["fontsizenclip"] = 0,
 		},
 	},
@@ -1209,12 +1201,12 @@ GnosisCharConfig = {
 		["bsavecastbars"] = true,
 	},
 	["ct"] = {
-		["channel"] = 1,
 		["bsound"] = true,
-		["bmusic"] = false,
+		["channel"] = 1,
 		["addon"] = "Blizz",
-		["sound"] = "MONEYFRAMEOPEN",
 		["bfile"] = false,
+		["sound"] = "MONEYFRAMEOPEN",
+		["bmusic"] = false,
 	},
 	["bAutoCreateOptions"] = true,
 	["bHideMirror"] = false,
@@ -1222,9 +1214,9 @@ GnosisCharConfig = {
 	["iTimerScanEvery"] = 150,
 	["bHideAddonMsgs"] = false,
 	["bResizeOptions"] = true,
-	["wfcl"] = 1000,
 	["ctt"] = 300,
-	["strLocale"] = "default",
 	["nameNewBar"] = "",
+	["wfcl"] = 1000,
+	["strLocale"] = "default",
 	["bAddonEn"] = true,
 }
