@@ -13,3 +13,10 @@ X: 303
 Y: -167
 W: 365
 H: 240
+Frame: TellMeWhen_Group6
+FrameLevel: 10
+Anchor: CENTER
+X: -62
+Y: -28
+W: 30
+H: 30
