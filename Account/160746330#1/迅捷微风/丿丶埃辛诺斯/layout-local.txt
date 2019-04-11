@@ -1,11 +1,4 @@
 Version: 1
-Frame: TellMeWhen_Group7
-FrameLevel: 10
-Anchor: CENTER
-X: -92
-Y: 30
-W: 30
-H: 30
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
