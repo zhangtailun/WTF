@@ -2,17 +2,17 @@
 ThreatPlatesDB = {
 	["char"] = {
 		["遇术您疯 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
 		["沙雕默默 - 夏维安"] = {
-			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 			},
+			["welcome"] = true,
 		},
 		["丿丶埃辛诺斯 - 迅捷微风"] = {
 			["welcome"] = true,
@@ -21,43 +21,48 @@ ThreatPlatesDB = {
 			},
 		},
 		["丿指尖丶旋律 - 加尔"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["術士一号 - 夏维安"] = {
+			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
-			["welcome"] = true,
 		},
 		["遇术您疯 - 加尔"] = {
-			["welcome"] = true,
 			["spec"] = {
 				[3] = false,
 			},
+			["welcome"] = true,
 		},
-		["丿指尖丶旋律 - 迅捷微风"] = {
-			["welcome"] = true,
+		["戰丿魂 - 迅捷微风"] = {
 			["spec"] = {
-				[3] = false,
+				[3] = true,
 			},
+			["welcome"] = true,
 		},
 		["上帝的圣光 - 迅捷微风"] = {
+			["welcome"] = true,
 			["spec"] = {
 				nil, -- [1]
 				true, -- [2]
 				false, -- [3]
 			},
-			["welcome"] = true,
 		},
-		["戰丿魂 - 迅捷微风"] = {
-			["welcome"] = true,
+		["丿指尖丶旋律 - 迅捷微风"] = {
 			["spec"] = {
-				[3] = true,
+				[3] = false,
 			},
+			["welcome"] = true,
 		},
+	},
+	["global"] = {
+		["CheckNewLookAndFeel"] = true,
+		["DefaultsVersion"] = "CLASSIC",
+		["version"] = "9.1.4",
 	},
 	["profileKeys"] = {
 		["遇术您疯 - 夏维安"] = "Default",
@@ -66,14 +71,9 @@ ThreatPlatesDB = {
 		["丿指尖丶旋律 - 加尔"] = "Default",
 		["術士一号 - 夏维安"] = "Default",
 		["遇术您疯 - 加尔"] = "Default",
-		["丿指尖丶旋律 - 迅捷微风"] = "Default",
-		["上帝的圣光 - 迅捷微风"] = "Default",
 		["戰丿魂 - 迅捷微风"] = "Default",
-	},
-	["global"] = {
-		["CheckNewLookAndFeel"] = true,
-		["DefaultsVersion"] = "CLASSIC",
-		["version"] = "9.1.4",
+		["上帝的圣光 - 迅捷微风"] = "Default",
+		["丿指尖丶旋律 - 迅捷微风"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -95,9 +95,6 @@ ThreatPlatesDB = {
 					["Minus"] = 1,
 					["Pet"] = 1,
 					["Guardian"] = 1,
-				},
-				["toggle"] = {
-					["OccludedUnits"] = true,
 				},
 			},
 			["uniqueSettings"] = {
@@ -331,10 +328,13 @@ ThreatPlatesDB = {
 			["threat"] = {
 				["tank"] = {
 					["scale"] = {
-						["OFFTANK"] = 1,
 						["MEDIUM"] = 1,
+						["OFFTANK"] = 1,
 						["HIGH"] = 1,
 					},
+				},
+				["art"] = {
+					["ON"] = false,
 				},
 				["dps"] = {
 					["scale"] = {
@@ -342,14 +342,9 @@ ThreatPlatesDB = {
 						["LOW"] = 1,
 					},
 				},
-				["art"] = {
-					["ON"] = false,
-				},
 			},
 			["CVarsBackup"] = {
-				["nameplateMinAlpha"] = "0.6",
 				["showQuestTrackingTooltips"] = "0",
-				["nameplateMaxAlpha"] = "1.0",
 			},
 			["text"] = {
 				["full"] = true,
@@ -362,9 +357,9 @@ ThreatPlatesDB = {
 					["b"] = 0.0313725490196078,
 				},
 				["ColorGroupQuest"] = {
-					["r"] = 1,
-					["g"] = 0.937254901960784,
 					["b"] = 0.0313725490196078,
+					["g"] = 0.937254901960784,
+					["r"] = 1,
 				},
 				["HideInCombatAttacked"] = false,
 				["y"] = 0,
@@ -372,8 +367,8 @@ ThreatPlatesDB = {
 				["x_hv"] = -70,
 				["HideInInstance"] = false,
 				["ModeHPBar"] = false,
-				["ON"] = true,
 				["ShowInHeadlineView"] = true,
+				["ON"] = true,
 			},
 			["cache"] = {
 			},
@@ -430,8 +425,9 @@ ThreatPlatesDB = {
 					["ShowAbsorbs"] = false,
 					["texture"] = "Blizzard Raid Bar",
 				},
-				["healthborder"] = {
-					["texture"] = "TP_Border_Thin",
+				["castbar"] = {
+					["backdrop"] = "ElvUI Norm",
+					["texture"] = "ElvUI Norm",
 				},
 				["threatborder"] = {
 					["show"] = false,
@@ -444,14 +440,12 @@ ThreatPlatesDB = {
 				["name"] = {
 					["size"] = 12,
 				},
-				["castbar"] = {
-					["backdrop"] = "ElvUI Norm",
-					["texture"] = "ElvUI Norm",
+				["healthborder"] = {
+					["texture"] = "TP_Border_Thin",
 				},
-				["raidicon"] = {
-					["scale"] = 30,
-					["y"] = 0,
-					["x"] = -80,
+				["castnostop"] = {
+					["ShowOverlay"] = false,
+					["ShowInterruptShield"] = true,
 				},
 				["frame"] = {
 					["height"] = 64.1250005364416,
@@ -460,9 +454,10 @@ ThreatPlatesDB = {
 				["castborder"] = {
 					["texture"] = "TP_Castbar_Border_Thin",
 				},
-				["castnostop"] = {
-					["ShowInterruptShield"] = true,
-					["ShowOverlay"] = false,
+				["raidicon"] = {
+					["scale"] = 30,
+					["y"] = 0,
+					["x"] = -80,
 				},
 			},
 			["targetWidget"] = {
