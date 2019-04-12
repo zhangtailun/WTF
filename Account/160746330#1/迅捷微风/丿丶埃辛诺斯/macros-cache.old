@@ -18,17 +18,6 @@ VER 3 0100000000000007 "帷幕宏" "635350"
 /in 13 /y 剩余1s
 /in 14 /y 潜伏帷幕已结束
 END
-VER 3 0100000000000006 "帷幕宏" "INV_MISC_QUESTIONMARK"
-/cast 潜伏帷幕
-/y 潜伏帷幕已释放 持续15s
-/in 4 /y 剩余10s
-/in 9 /y 剩余5s
-/in 10 /y 剩余4s
-/in 11 /y 剩余3s
-/in 12 /y 剩余2s
-/in 13 /y 剩余1s
-/in 14 /y 潜伏帷幕已结束
-END
 VER 3 0100000000000004 "杀戮" "INV_MISC_QUESTIONMARK"
 #showtooltip 影舞步
 /use 金辉飞羽

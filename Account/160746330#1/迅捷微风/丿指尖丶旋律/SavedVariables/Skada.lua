@@ -11,26 +11,28 @@ SkadaPerCharDB = {
 			["ffdamagedone"] = 0,
 			["auras"] = {
 			},
-			["shielding"] = 0,
+			["power"] = {
+			},
 			["damage"] = 9447,
 			["players"] = {
 				{
 					["last"] = 1554612311,
 					["healingabsorbed"] = 0,
-					["healing"] = 0,
-					["class"] = "WARLOCK",
+					["healingspells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
 					["damaged"] = {
 						["团队副本训练假人"] = 9447,
 					},
 					["dispells"] = 0,
-					["ffdamagedone"] = 0,
-					["healingspells"] = {
-					},
 					["time"] = 4,
-					["interrupts"] = 0,
+					["ffdamagedone"] = 0,
 					["overhealing"] = 0,
+					["interrupts"] = 0,
 					["maxhp"] = 249860,
 					["role"] = "NONE",
+					["healing"] = 0,
 					["damage"] = 9447,
 					["damagespells"] = {
 						["献祭"] = {
@@ -98,14 +100,12 @@ SkadaPerCharDB = {
 					["ccbreaks"] = 0,
 					["alert"] = {
 					},
-					["ffdamagedonespells"] = {
-					},
+					["class"] = "WARLOCK",
 				}, -- [1]
 			},
 			["deaths"] = 0,
 			["damagetaken"] = 0,
-			["power"] = {
-			},
+			["mobtaken"] = 9447,
 			["alertCount"] = 0,
 			["healing"] = 0,
 			["overhealing"] = 0,
@@ -125,15 +125,15 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 9447,
+					["done"] = 0,
+					["htaken"] = 0,
 					["htakenspell"] = {
 					},
-					["htaken"] = 0,
-					["done"] = 0,
 				},
 			},
 			["name"] = "团队副本训练假人",
 			["mobname"] = "团队副本训练假人",
-			["mobtaken"] = 9447,
+			["shielding"] = 0,
 			["mobhdone"] = 0,
 			["last_action"] = 1554612307,
 			["endtime"] = 1554612313,
@@ -152,21 +152,19 @@ SkadaPerCharDB = {
 		["players"] = {
 			{
 				["healingabsorbed"] = 0,
-				["healing"] = 0,
-				["ffdamagedonespells"] = {
-				},
+				["ffdamagedone"] = 0,
+				["class"] = "WARLOCK",
 				["damaged"] = {
 				},
 				["dispells"] = 0,
+				["time"] = 4,
 				["healingspells"] = {
 				},
-				["ffdamagedone"] = 0,
-				["time"] = 4,
-				["interrupts"] = 0,
 				["overhealing"] = 0,
-				["deathlog"] = {
-				},
+				["interrupts"] = 0,
 				["role"] = "NONE",
+				["shielding"] = 0,
+				["healing"] = 0,
 				["damage"] = 9447,
 				["damagespells"] = {
 					["献祭"] = {
@@ -185,7 +183,8 @@ SkadaPerCharDB = {
 				["name"] = "丿指尖丶旋律",
 				["healed"] = {
 				},
-				["shielding"] = 0,
+				["deathlog"] = {
+				},
 				["id"] = "Player-917-03AC4C9E",
 				["maxhp"] = 249860,
 				["damagetaken"] = 0,
@@ -196,33 +195,33 @@ SkadaPerCharDB = {
 				["auras"] = {
 					["献祭"] = {
 						["uptime"] = 0,
-						["name"] = "献祭",
 						["active"] = 0,
 						["school"] = 4,
+						["name"] = "献祭",
 						["auratype"] = "DEBUFF",
 						["id"] = 157736,
 					},
 					["灵魂榨取"] = {
 						["uptime"] = 0,
-						["name"] = "灵魂榨取",
 						["active"] = 0,
 						["school"] = 32,
+						["name"] = "灵魂榨取",
 						["auratype"] = "BUFF",
 						["id"] = 108366,
 					},
 					["迅捷远航"] = {
 						["uptime"] = 0,
-						["name"] = "迅捷远航",
 						["active"] = 0,
 						["school"] = 1,
+						["name"] = "迅捷远航",
 						["auratype"] = "BUFF",
 						["id"] = 268887,
 					},
 					["闪点"] = {
 						["uptime"] = 0,
-						["name"] = "闪点",
 						["active"] = 0,
 						["school"] = 1,
+						["name"] = "闪点",
 						["auratype"] = "BUFF",
 						["id"] = 275429,
 					},
@@ -234,7 +233,8 @@ SkadaPerCharDB = {
 				["ccbreaks"] = 0,
 				["alert"] = {
 				},
-				["class"] = "WARLOCK",
+				["ffdamagedonespells"] = {
+				},
 			}, -- [1]
 		},
 		["deaths"] = 0,
@@ -258,10 +258,10 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 9447,
+				["done"] = 0,
+				["htaken"] = 0,
 				["htakenspell"] = {
 				},
-				["htaken"] = 0,
-				["done"] = 0,
 			},
 		},
 		["alertDamage"] = 0,
