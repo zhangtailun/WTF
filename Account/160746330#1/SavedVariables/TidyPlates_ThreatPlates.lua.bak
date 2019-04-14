@@ -147,7 +147,7 @@ ThreatPlatesDB = {
 					["showIcon"] = false,
 					["allowMarked"] = false,
 					["name"] = "爆炸物",
-					["scale"] = 1.5,
+					["scale"] = 1.2,
 				}, -- [34]
 				{
 				}, -- [35]
@@ -311,7 +311,7 @@ ThreatPlatesDB = {
 						["showIcon"] = false,
 						["allowMarked"] = false,
 						["name"] = "爆炸物",
-						["scale"] = 1.5,
+						["scale"] = 1.2,
 					},
 					["达尔纳文"] = {
 					},

@@ -140,7 +140,7 @@ ThreatPlatesDB = {
 					},
 				}, -- [33]
 				{
-					["scale"] = 1.5,
+					["scale"] = 1.2,
 					["showIcon"] = false,
 					["allowMarked"] = false,
 					["name"] = "爆炸物",
@@ -304,7 +304,7 @@ ThreatPlatesDB = {
 					["被标记的不朽守护者"] = {
 					},
 					["爆炸物"] = {
-						["scale"] = 1.5,
+						["scale"] = 1.2,
 						["showIcon"] = false,
 						["allowMarked"] = false,
 						["name"] = "爆炸物",
