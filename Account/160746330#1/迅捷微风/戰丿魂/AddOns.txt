@@ -21,10 +21,10 @@ IcyDemonsIndicator: disabled
 Combuctor: disabled
 InspectEquip-3: disabled
 RCLootCouncil: disabled
-Skada: enabled
-SkadaFormat: enabled
+Skada: disabled
+SkadaFormat: disabled
 ElvUI_EverySecondCounts: disabled
-Details: disabled
+Details: enabled
 TinyInspect: enabled
 Gnosis: enabled
 自定义插件: enabled

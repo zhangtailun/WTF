@@ -1,21 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 5132,
 	["lastSanitation"] = 3,
-	["session"] = 5095,
 	["errors"] = {
-		{
-			["message"] = "[string \"--[[ Error in 'Heaving Blow' ]] return func...\"]:15: table index is nil",
-			["time"] = "2019/04/13 16:31:58",
-			["locals"] = "InCombatSkipped",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:526: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:520>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:646: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:633: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:695: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:686>",
-			["session"] = 5094,
-			["counter"] = 5,
-		}, -- [1]
-		{
-			["message"] = "Frame MYSLOT_ReportFrame_EditBox: Unknown script element OnClick",
-			["time"] = "2019/04/13 16:53:00",
-			["session"] = 5095,
-			["counter"] = 4,
-		}, -- [2]
 	},
 }

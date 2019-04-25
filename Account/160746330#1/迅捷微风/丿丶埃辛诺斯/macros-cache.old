@@ -23,6 +23,6 @@ VER 3 0100000000000004 "杀戮" "INV_MISC_QUESTIONMARK"
 /cast 影舞步
 /cast 刀锋冲刺
 /use 金辉飞羽
-/use 敏捷战斗药水
 /use 延时之力药水
+/use 敏捷战斗药水
 END

@@ -1,7 +1,6 @@
-VER 3 0100000000000005 "冲动" "INV_MISC_QUESTIONMARK"
-#showtooltip 冲动
-/use 金辉飞羽
-/cast 冲动
+VER 3 0100000000000008 "大米坦克嫁祸" "INV_MISC_QUESTIONMARK"
+#showtooltip  嫁祸诀窍
+/click AutoTankMisdirect
 END
 VER 3 0100000000000003 "嫁祸" "INV_Misc_QuestionMark"
 #showtooltip 嫁祸诀窍
@@ -17,12 +16,4 @@ VER 3 0100000000000007 "帷幕宏" "635350"
 /in 12 /y 剩余2s
 /in 13 /y 剩余1s
 /in 14 /y 潜伏帷幕已结束
-END
-VER 3 0100000000000004 "杀戮" "INV_MISC_QUESTIONMARK"
-#showtooltip 影舞步
-/cast 影舞步
-/cast 刀锋冲刺
-/use 金辉飞羽
-/use 延时之力药水
-/use 敏捷战斗药水
 END
