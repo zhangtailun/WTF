@@ -1,0 +1,14 @@
+
+DownInFrontOptions = {
+	["HideOrderHallBar"] = true,
+	["HideChatButtons"] = true,
+	["HidePlayerTitles"] = true,
+	["HideGroupLoot"] = true,
+	["HidePlayerGuilds"] = true,
+	["HideChatTabs"] = true,
+	["HideCombatText"] = true,
+	["Version"] = "2.2.1",
+	["HideThreatText"] = true,
+	["HidePlayerNamesInPVE"] = true,
+	["HideMissionAlerts"] = true,
+}

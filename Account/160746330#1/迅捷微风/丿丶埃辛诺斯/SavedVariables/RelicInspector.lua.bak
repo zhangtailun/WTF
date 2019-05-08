@@ -1,0 +1,220 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["丿丶埃辛诺斯 - 迅捷微风"] = "丿丶埃辛诺斯 - 迅捷微风",
+	},
+	["char"] = {
+		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128872] = {
+					["timestamp"] = 425023.676,
+					["level"] = 1,
+					["crucibled"] = false,
+				},
+				[128870] = {
+					["timestamp"] = 1816077.655,
+					["level"] = 0,
+					["crucibled"] = false,
+				},
+				[128476] = {
+					{
+						["relic"] = {
+							"扭曲工程师的邪能灌注器", -- [1]
+							840976, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:152032:::::::::::5:3:3611:1492:3336:::|h[扭曲工程师的邪能灌注器]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = false,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = true,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 860,
+								["icon"] = 236548,
+								["isChosen"] = false,
+								["spellID"] = 197244,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 853,
+								["icon"] = 1022950,
+								["isChosen"] = false,
+								["spellID"] = 197233,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 854,
+								["icon"] = 132292,
+								["isChosen"] = true,
+								["spellID"] = 197234,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"恐怖选集", -- [1]
+							134554, -- [2]
+							"Shadow", -- [3]
+							"|cffa335ee|Hitem:142310:::::::::::16:3:3536:1552:3528:::|h[恐怖选集]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = true,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = false,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 858,
+								["icon"] = 841409,
+								["isChosen"] = true,
+								["spellID"] = 197239,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 853,
+								["icon"] = 1022950,
+								["isChosen"] = false,
+								["spellID"] = 197233,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1585,
+								["icon"] = 132109,
+								["isChosen"] = false,
+								["spellID"] = 238068,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"维兹艾德姆的心灵之石", -- [1]
+							237213, -- [2]
+							"Fel", -- [3]
+							"|cffa335ee|Hitem:142182:::::::::::16:3:3536:1567:3337:::|h[维兹艾德姆的心灵之石]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = false,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1777,
+								["icon"] = 460953,
+								["isChosen"] = true,
+								["spellID"] = 252799,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 860,
+								["icon"] = 236548,
+								["isChosen"] = false,
+								["spellID"] = 197244,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 858,
+								["icon"] = 841409,
+								["isChosen"] = true,
+								["spellID"] = 197239,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 852,
+								["icon"] = 132090,
+								["isChosen"] = false,
+								["spellID"] = 197231,
+							}, -- [6]
+						},
+					}, -- [3]
+					["crucibled"] = true,
+					["timestamp"] = 529993.821,
+					["level"] = 127,
+				},
+			},
+		},
+	},
+}
