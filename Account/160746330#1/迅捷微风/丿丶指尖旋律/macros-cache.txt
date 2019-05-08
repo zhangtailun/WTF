@@ -1,4 +1,0 @@
-VER 3 0100000000000001 "爆发" "INV_MISC_QUESTIONMARK"
-/施放 群兽奔腾
-/施放 狂野怒火
-END

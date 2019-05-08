@@ -1,4 +1,0 @@
-Gnosis: enabled
-Details: enabled
-Skada: disabled
-SkadaFormat: disabled
