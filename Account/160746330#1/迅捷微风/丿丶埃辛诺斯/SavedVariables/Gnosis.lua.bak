@@ -621,7 +621,7 @@ GnosisCharConfig = {
 			["instancetype"] = 1,
 			["bnwlistnew"] = "",
 			["anchorto"] = 5,
-			["bartexture"] = "Melli",
+			["bartexture"] = "Blizzard Raid Bar",
 			["fontsize_timer"] = 0,
 			["colBorderNI"] = {
 				0, -- [1]
@@ -641,8 +641,8 @@ GnosisCharConfig = {
 			["rotateicon"] = 0,
 			["bShowLat"] = true,
 			["anchor"] = {
-				["px"] = 0.508420786341865,
-				["py"] = 0.198257472021651,
+				["px"] = 0.509546808095425,
+				["py"] = 0.199258591644846,
 			},
 			["bEnShadowCol"] = true,
 			["bInvDir"] = false,

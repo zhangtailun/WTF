@@ -1,3 +1,10 @@
+VER 3 010000000000000D "人名嫁祸" "INV_MISC_QUESTIONMARK"
+#showtooltip 嫁祸诀窍
+/Cast [target=丿丶埃辛诺斯]嫁祸诀窍
+END
+VER 3 0100000000000016 "刺骨" "INV_MISC_QUESTIONMARK"
+/castsequence reset=1 刺骨,X 
+END
 VER 3 0100000000000008 "大米坦克嫁祸" "INV_MISC_QUESTIONMARK"
 #showtooltip  嫁祸诀窍
 /click AutoTankMisdirect
@@ -16,4 +23,59 @@ VER 3 0100000000000007 "帷幕宏" "635350"
 /in 12 /y 剩余2s
 /in 13 /y 剩余1s
 /in 14 /y 潜伏帷幕已结束
+END
+VER 3 0100000000000011 "抓贼宏" "INV_MISC_QUESTIONMARK"
+#show 闷棍
+/cleartarget
+/targetenemy
+/cast 闷棍
+END
+VER 3 010000000000000C "指向快速抓钩" "INV_MISC_QUESTIONMARK"
+/cast [@cursor]抓钩
+END
+VER 3 010000000000000F "斩击" "INV_MISC_QUESTIONMARK"
+/castsequence reset=1 斩击,X 
+END
+VER 3 0100000000000017 "暗影之舞" "INV_MISC_QUESTIONMARK"
+/castsequence reset=1 暗影之舞,X 
+END
+VER 3 0100000000000012 "毒伤" "INV_MISC_QUESTIONMARK"
+/castsequence reset=1 毒伤,X 
+END
+VER 3 010000000000000B "焦点暗步" "INV_MISC_QUESTIONMARK"
+#showtooltip 暗影步
+/stopcasting 
+/Cast [target=focus,exists] 暗影步;暗影步
+END
+VER 3 010000000000000A "焦点脚踢" "INV_MISC_QUESTIONMARK"
+#showtooltip 脚踢
+/stopcasting 
+/Cast [target=focus,exists] 脚踢;脚踢
+END
+VER 3 010000000000000E "骰子" "INV_MISC_QUESTIONMARK"
+/castsequence reset=1 命运骨骰,X 
+END
+VER 3 0100000000000013 "鼠标指向割裂" "INV_MISC_QUESTIONMARK"
+#showtooltip 割裂
+/stopcasting
+/cast [target=mouseover,exists]割裂;割裂
+END
+VER 3 0100000000000015 "鼠标指向夜刃" "INV_MISC_QUESTIONMARK"
+#showtooltip 夜刃
+/stopcasting
+/cast [target=mouseover,exists]夜刃;夜刃
+END
+VER 3 0100000000000010 "鼠标指向眉心" "INV_MISC_QUESTIONMARK"
+#showtooltip 正中眉心
+/stopcasting
+/cast [target=mouseover,exists]正中眉心;正中眉心
+END
+VER 3 0100000000000009 "鼠标指向设置焦点" "136103"
+#showtooltip 
+/focus mouseover 
+END
+VER 3 0100000000000014 "鼠标指向锁喉" "INV_MISC_QUESTIONMARK"
+#showtooltip 锁喉
+/stopcasting
+/cast [target=mouseover,exists]锁喉;锁喉
 END
