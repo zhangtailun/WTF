@@ -420,7 +420,6 @@ ThreatPlatesDB = {
 				},
 				["healthbar"] = {
 					["OverlayTexture"] = false,
-					["width"] = 130,
 					["backdrop"] = "Blizzard Raid Bar",
 					["ShowAbsorbs"] = false,
 					["BackgroundUseForegroundColor"] = true,
@@ -452,7 +451,7 @@ ThreatPlatesDB = {
 				},
 				["frame"] = {
 					["height"] = 66.9750005602835,
-					["width"] = 167.999997138972,
+					["width"] = 153.999997377391,
 				},
 				["name"] = {
 					["size"] = 12,

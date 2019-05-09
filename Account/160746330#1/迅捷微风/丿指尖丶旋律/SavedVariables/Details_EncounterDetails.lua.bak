@@ -1,15 +1,6 @@
 
 EncounterDetailsDB = {
 	["emotes"] = {
-		{
-			["boss"] = "科古斯狱长",
-		}, -- [1]
-		{
-			["boss"] = "骑士队长瓦莱莉",
-		}, -- [2]
-		{
-			["boss"] = "杰斯·豪里斯",
-		}, -- [3]
 	},
 	["encounter_spells"] = {
 		[257785] = {

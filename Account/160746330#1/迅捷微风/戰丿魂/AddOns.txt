@@ -59,7 +59,7 @@ BonusRollPreview: enabled
 !BugGrabber: enabled
 BugSack: enabled
 Combuctor_Config: enabled
-CursorTrail: enabled
+CursorTrail: disabled
 Details_3DModelsPaths: enabled
 Details_EncounterDetails: enabled
 Details_RaidCheck: enabled
