@@ -1,7 +1,0 @@
-
-BugGrabberDB = {
-	["session"] = 5198,
-	["lastSanitation"] = 3,
-	["errors"] = {
-	},
-}

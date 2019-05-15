@@ -1,7 +1,0 @@
-
-CombatTimeSettings = {
-	["locked"] = false,
-	["posX"] = 1651.99987792969,
-	["posY"] = 791.999877929688,
-	["hide"] = false,
-}
