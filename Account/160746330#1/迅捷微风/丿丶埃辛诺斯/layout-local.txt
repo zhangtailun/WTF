@@ -3,11 +3,11 @@ Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
 X: -18
-Y: 67
+Y: 153
 W: 235
 H: 400
 Frame: ColorPickerFrame
-FrameLevel: 21
+FrameLevel: 24
 Anchor: TOP
 X: 303
 Y: -167

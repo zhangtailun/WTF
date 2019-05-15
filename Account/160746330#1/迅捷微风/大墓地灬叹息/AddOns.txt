@@ -33,7 +33,7 @@ ElvUI_Enhance: enabled
 ElvUI_SLE: enabled
 HandyNotes_Argus: disabled
 HandyNotes_LegionRaresTreasures: disabled
-CombatTime: disabled
+CombatTime: enabled
 kgPanels: enabled
 Masque_Apathy: disabled
 Masque_Caith: disabled

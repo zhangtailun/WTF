@@ -1,7 +1,7 @@
 
 CombatTimeSettings = {
 	["locked"] = true,
+	["posX"] = 701.060180664063,
+	["posY"] = 170.49040222168,
 	["hide"] = false,
-	["posY"] = 169.307708740234,
-	["posX"] = 578.05712890625,
 }
