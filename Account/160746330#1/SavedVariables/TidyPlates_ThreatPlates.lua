@@ -1,0 +1,478 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["遇术您疯 - 夏维安"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["沙雕默默 - 夏维安"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+			},
+		},
+		["丿丶埃辛诺斯 - 迅捷微风"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["丿指尖丶旋律 - 加尔"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["術士一号 - 夏维安"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["遇术您疯 - 加尔"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["丿指尖丶旋律 - 迅捷微风"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["上帝的圣光 - 迅捷微风"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["戰丿魂 - 迅捷微风"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = true,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["遇术您疯 - 夏维安"] = "Default",
+		["沙雕默默 - 夏维安"] = "Default",
+		["丿丶埃辛诺斯 - 迅捷微风"] = "Default",
+		["丿指尖丶旋律 - 加尔"] = "Default",
+		["術士一号 - 夏维安"] = "Default",
+		["遇术您疯 - 加尔"] = "Default",
+		["丿指尖丶旋律 - 迅捷微风"] = "Default",
+		["上帝的圣光 - 迅捷微风"] = "Default",
+		["戰丿魂 - 迅捷微风"] = "Default",
+	},
+	["global"] = {
+		["CheckNewLookAndFeel"] = true,
+		["DefaultsVersion"] = "CLASSIC",
+		["version"] = "9.1.8",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["nameplate"] = {
+				["scale"] = {
+					["Neutral"] = 1,
+					["Marked"] = 1,
+					["Elite"] = 1,
+					["Boss"] = 1,
+					["CastingUnit"] = 1,
+					["Minus"] = 1,
+					["Pet"] = 1,
+					["Tapped"] = 1,
+					["Guardian"] = 1,
+					["MouseoverUnit"] = 1,
+					["CastingEnemyUnit"] = 1,
+				},
+				["alpha"] = {
+					["Minus"] = 1,
+					["Pet"] = 1,
+					["Guardian"] = 1,
+				},
+			},
+			["uniqueSettings"] = {
+				nil, -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				nil, -- [13]
+				nil, -- [14]
+				nil, -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				nil, -- [18]
+				nil, -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				nil, -- [24]
+				nil, -- [25]
+				nil, -- [26]
+				nil, -- [27]
+				nil, -- [28]
+				nil, -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				nil, -- [32]
+				{
+					["showIcon"] = false,
+					["allowMarked"] = false,
+					["name"] = "戈霍恩之嗣",
+					["color"] = {
+						["g"] = 0.913725490196078,
+						["r"] = 0,
+					},
+				}, -- [33]
+				{
+					["showIcon"] = false,
+					["allowMarked"] = false,
+					["name"] = "爆炸物",
+					["color"] = {
+						["g"] = 0.623529411764706,
+						["r"] = 0.141176470588235,
+					},
+				}, -- [34]
+				{
+				}, -- [35]
+				{
+				}, -- [36]
+				{
+				}, -- [37]
+				{
+				}, -- [38]
+				{
+				}, -- [39]
+				{
+				}, -- [40]
+				{
+				}, -- [41]
+				{
+				}, -- [42]
+				{
+				}, -- [43]
+				{
+				}, -- [44]
+				{
+				}, -- [45]
+				{
+				}, -- [46]
+				{
+				}, -- [47]
+				{
+				}, -- [48]
+				{
+				}, -- [49]
+				{
+				}, -- [50]
+				{
+				}, -- [51]
+				{
+				}, -- [52]
+				{
+				}, -- [53]
+				{
+				}, -- [54]
+				{
+				}, -- [55]
+				{
+				}, -- [56]
+				{
+				}, -- [57]
+				{
+				}, -- [58]
+				{
+				}, -- [59]
+				{
+				}, -- [60]
+				{
+				}, -- [61]
+				{
+				}, -- [62]
+				{
+				}, -- [63]
+				{
+				}, -- [64]
+				{
+				}, -- [65]
+				{
+				}, -- [66]
+				{
+				}, -- [67]
+				{
+				}, -- [68]
+				{
+				}, -- [69]
+				{
+				}, -- [70]
+				{
+				}, -- [71]
+				{
+				}, -- [72]
+				{
+				}, -- [73]
+				{
+				}, -- [74]
+				{
+				}, -- [75]
+				{
+				}, -- [76]
+				{
+				}, -- [77]
+				{
+				}, -- [78]
+				{
+				}, -- [79]
+				{
+				}, -- [80]
+				["map"] = {
+					["暗影幻灵"] = {
+					},
+					["被复活的追随者"] = {
+					},
+					["毒气之云"] = {
+					},
+					["食尸鬼苦工"] = {
+					},
+					["剧毒蛇"] = {
+					},
+					["沾泥龙虾"] = {
+					},
+					["动力炸弹"] = {
+					},
+					["黑锋石像鬼"] = {
+					},
+					["运河蟹"] = {
+					},
+					["蹒跚的血僵尸"] = {
+					},
+					["畸形的狂热者"] = {
+					},
+					["毒蛇"] = {
+					},
+					["树人"] = {
+					},
+					["瓦格里暗影戒卫者"] = {
+					},
+					["巫妖王"] = {
+					},
+					["水元素"] = {
+					},
+					["戈霍恩之嗣"] = {
+						["showIcon"] = false,
+						["allowMarked"] = false,
+						["name"] = "戈霍恩之嗣",
+						["color"] = {
+							["g"] = 0.913725490196078,
+							["r"] = 0,
+						},
+					},
+					["不稳定的软泥怪"] = {
+					},
+					["骨针"] = {
+					},
+					["亢奋的追随者"] = {
+					},
+					["暴怒的灵魂"] = {
+					},
+					["幽灵狼"] = {
+					},
+					["燃烧的余烬"] = {
+					},
+					["燃烧的炼狱火"] = {
+					},
+					["被复活的狂热者"] = {
+					},
+					["暗影魔"] = {
+					},
+					["被标记的不朽守护者"] = {
+					},
+					["爆炸物"] = {
+						["showIcon"] = false,
+						["allowMarked"] = false,
+						["name"] = "爆炸物",
+						["color"] = {
+							["g"] = 0.623529411764706,
+							["r"] = 0.141176470588235,
+						},
+					},
+					["达尔纳文"] = {
+					},
+					["缠网"] = {
+					},
+					["不朽守护者"] = {
+					},
+					["毒牙坑道蛇"] = {
+					},
+					["奥妮克希亚雏龙"] = {
+					},
+					["亡者军团食尸鬼"] = {
+					},
+				},
+			},
+			["threat"] = {
+				["tank"] = {
+					["scale"] = {
+						["OFFTANK"] = 1,
+						["MEDIUM"] = 1,
+						["HIGH"] = 1,
+					},
+				},
+				["art"] = {
+					["ON"] = false,
+				},
+				["dps"] = {
+					["scale"] = {
+						["MEDIUM"] = 1,
+						["LOW"] = 1,
+					},
+				},
+			},
+			["CVarsBackup"] = {
+				["showQuestTrackingTooltips"] = "0",
+			},
+			["text"] = {
+				["full"] = true,
+				["amount"] = false,
+			},
+			["questWidget"] = {
+				["y_hv"] = 0,
+				["ColorPlayerQuest"] = {
+					["g"] = 0.937254901960784,
+					["b"] = 0.0313725490196078,
+				},
+				["ColorGroupQuest"] = {
+					["b"] = 0.0313725490196078,
+					["g"] = 0.937254901960784,
+					["r"] = 1,
+				},
+				["HideInCombatAttacked"] = false,
+				["y"] = 0,
+				["x"] = -70,
+				["x_hv"] = -70,
+				["HideInInstance"] = false,
+				["ModeHPBar"] = false,
+				["ShowInHeadlineView"] = true,
+				["ON"] = true,
+			},
+			["cache"] = {
+			},
+			["AuraWidget"] = {
+				["Debuffs"] = {
+					["Scale"] = 1.2,
+				},
+				["CrowdControl"] = {
+					["ShowEnemy"] = false,
+					["ShowFriendly"] = false,
+				},
+				["CenterAuras"] = false,
+				["ModeIcon"] = {
+					["Duration"] = {
+						["Font"] = {
+							["HorizontalAlignment"] = "CENTER",
+							["Size"] = 11,
+						},
+						["Anchor"] = "CENTER",
+					},
+					["Style"] = "custom",
+					["IconHeight"] = 17.5,
+					["StackCount"] = {
+						["HorizontalOffset"] = 3,
+						["Font"] = {
+							["VerticalAlignment"] = "BOTTOM",
+							["HorizontalAlignment"] = "CENTER",
+							["Size"] = 7,
+						},
+						["Anchor"] = "BOTTOMRIGHT",
+						["VerticalOffset"] = 0,
+					},
+				},
+				["Buffs"] = {
+					["ShowEnemy"] = false,
+				},
+			},
+			["settings"] = {
+				["elitehealthborder"] = {
+					["show"] = false,
+					["texture"] = "TP_EliteBorder_Thin",
+				},
+				["spelltext"] = {
+					["typeface"] = "默认",
+				},
+				["level"] = {
+					["typeface"] = "默认",
+					["size"] = 9,
+				},
+				["healthbar"] = {
+					["OverlayTexture"] = false,
+					["backdrop"] = "Blizzard Raid Bar",
+					["ShowAbsorbs"] = false,
+					["BackgroundUseForegroundColor"] = true,
+					["texture"] = "Blizzard Raid Bar",
+				},
+				["healthborder"] = {
+					["texture"] = "TP_Border_Thin",
+				},
+				["threatborder"] = {
+					["show"] = false,
+				},
+				["customtext"] = {
+					["y"] = 0,
+					["typeface"] = "默认",
+					["size"] = 11,
+				},
+				["castborder"] = {
+					["texture"] = "TP_Castbar_Border_Thin",
+				},
+				["castbar"] = {
+					["backdrop"] = "ElvUI Norm",
+					["texture"] = "ElvUI Norm",
+				},
+				["raidicon"] = {
+					["scale"] = 30,
+					["y"] = 0,
+					["x"] = -80,
+				},
+				["frame"] = {
+					["height"] = 64.1250005364416,
+					["width"] = 153.999997377391,
+				},
+				["name"] = {
+					["size"] = 12,
+				},
+				["castnostop"] = {
+					["ShowOverlay"] = false,
+					["ShowInterruptShield"] = true,
+				},
+			},
+			["targetWidget"] = {
+				["g"] = 0.12156862745098,
+				["theme"] = "arrows",
+				["b"] = 0.886274509803922,
+			},
+			["ShowThreatGlowOnAttackedUnitsOnly"] = false,
+			["classWidget"] = {
+				["y_hv"] = 0,
+				["x_hv"] = -80,
+				["y"] = 0,
+				["x"] = -80,
+			},
+			["allowClass"] = true,
+		},
+	},
+}

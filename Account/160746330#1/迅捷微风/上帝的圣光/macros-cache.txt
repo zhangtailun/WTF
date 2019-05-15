@@ -1,0 +1,25 @@
+VER 3 0100000000000006 "DB_Ret" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Ret
+END
+VER 3 0100000000000004 "DB_Ret_Raid" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Ret_Raid
+END
+VER 3 0100000000000005 "DB_RetAoE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_RetAoE
+END
+VER 3 0100000000000003 "DB_RetAoE_Raid" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_RetAoE_Raid
+END
+VER 3 0100000000000002 "无敌宏" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura 圣盾术
+/cast 圣盾术 
+END
+VER 3 0100000000000001 "爆发" "INV_MISC_QUESTIONMARK"
+/施放 复仇之怒
+/施放 神圣复仇者
+END
