@@ -1,0 +1,496 @@
+VER 3 0000000000000002 " " "136048"
+/target 磨人的熊孩儿
+/cast 激活
+END
+VER 3 0000000000000003 " " "134400"
+/sit
+END
+VER 3 0000000000000004 " " "136048"
+/target 大鳥德
+/cast 激活
+END
+VER 3 0000000000000005 " " "INV_Misc_QuestionMark"
+#showtooltip 光环掌握
+/cast 光环掌握
+/use 13
+/use 14
+END
+VER 3 0000000000000006 " " "136048"
+/target 大鸟德
+/cast 激活
+END
+VER 3 0000000000000001 " " "134400"
+/target 动力保安装甲
+END
+VER 3 0000000000000007 " 跟随" "135757"
+/目标 开水白菜丶
+/跟随
+END
+VER 3 0000000000000008 "#showtooltip 天堂之" "INV_Misc_QuestionMark"
+#showtooltip 天堂之羽
+/cast [modifier:alt,@cursor] 天堂之羽; [@player] 天堂之羽
+/stopspelltarget 
+END
+VER 3 0000000000000009 "." "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [modifier:alt,target=player][target=mouseover,help][help][target=targettarget,help][]纯净术
+END
+VER 3 000000000000000B "1" "237446"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 000000000000000C "1" "574570"
+/scriptSendChatMessage("暴击暴击","whisper",nil,UnitName("targettarget"))
+END
+VER 3 000000000000000D "1" "134400"
+/tar 失怙
+END
+VER 3 000000000000000E "1" "1117778"
+/cast 伊利达雷之怒
+/use 巨型观赏珍珠
+END
+VER 3 000000000000000A "1" "134400"
+/run SetRaidTarget("mouseover", 2)
+END
+VER 3 000000000000000F "11" "134400"
+/focus [modifier:shift]
+/stopmacro [modifier:shift]
+/施放 [target=focus,help][help][target=targettarget,help][target=pet]迅如猛虎;迅如猛虎
+END
+VER 3 0000000000000010 "111" "135894"
+/cast [@arena1]纯净术
+END
+VER 3 0000000000000011 "1建输出" "INV_Misc_QuestionMark"
+#showtooltip 杀戮命令
+/startattack
+/petattack
+/console Sound_EnableSFX 0
+/castsequence reset=combat/target 毒蛇钉刺,x
+/castsequence reset=5 奥术射击,眼镜蛇射击
+/cast 杀戮命令
+/cast 急速射击
+/cast 狂野怒火
+/use 10
+/console Sound_EnableSFX 1
+END
+VER 3 0000000000000013 "222" "136103"
+/run LegendaryItemAlertSystem:AddAlert(select(2,GetItemInfo(154172)))
+END
+VER 3 0000000000000012 "222" "134400"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000014 "23" "INV_Misc_QuestionMark"
+#showtooltip 分筋错骨
+/cast [@mouseover,help] [@player] []分筋错骨
+END
+VER 3 0000000000000015 "234" "644389"
+/script SetRaidTarget("mouseover",2)
+/script SetRaidTarget("player",5
+END
+VER 3 0000000000000016 "234" "INV_Misc_QuestionMark"
+#showtooltip 星涌术 
+/stopcasting 
+/cast [target=focus] 星涌术
+END
+VER 3 0000000000000017 "321" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@focus] 震荡射击
+END
+VER 3 0000000000000018 "333" "135894"
+/cast [@arena3]纯净术
+END
+VER 3 000000000000001A "5" "134400"
+/click QueueStatusMinimapButton
+/click DropDownList1Button3
+/click DropDownList1Button2
+END
+VER 3 0000000000000019 "5" "134400"
+/script LeaveBattlefield()
+END
+VER 3 000000000000001C "`" "134400"
+/target 矿井鼠
+END
+VER 3 000000000000001B "`" "INV_Misc_QuestionMark"
+#showtooltip 回春术
+/cast [target=player]回春术
+END
+VER 3 000000000000001D "a1" "134400"
+/use [nopet,nomounted] [@pet,dead] 召唤水元素
+/use [nomod,pet]水流喷射
+/petattack [harm]
+/use [harm,pet,nochanneling]寒冰箭
+/dismount 
+END
+VER 3 000000000000001E "a1" "134400"
+/click PVPReadyDialogEnterBattleButton
+END
+VER 3 000000000000001F "B10" "135726"
+/PULL 10
+END
+VER 3 0000000000000021 "BF_Mount" "132226"
+/bfmount
+END
+VER 3 0000000000000020 "BF_Mount" "132226"
+/cancelform
+/bfmount
+END
+VER 3 0000000000000022 "BF_Pet" "236701"
+/BFPET
+END
+VER 3 0000000000000024 "BUFF" "INV_Misc_QuestionMark"
+#showtooltip 血性狂怒(种族特长)
+/cast 血性狂怒(种族特长)
+/cast 元素掌握
+END
+VER 3 0000000000000025 "BUFF" "INV_Misc_QuestionMark"
+#showtooltips 元素掌握
+/cast 血性狂怒(种族特长)
+/cast 勇气号角
+/cast 元素掌握
+END
+VER 3 0000000000000023 "BUFF" "INV_Misc_QuestionMark"
+#showtooltips 元素掌握
+/cast 血性狂怒(种族特长)
+/cast 月光棱镜
+/cast 元素掌握
+END
+VER 3 0000000000000026 "DB_MC_Chain" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_MC_Chain
+END
+VER 3 0000000000000027 "DB_MC_ElemAoE" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_MC_ElemAoE
+END
+VER 3 0000000000000028 "DB_MC_ElemST" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_MC_ElemST
+END
+VER 3 0000000000000029 "DB_MC_Surge" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_MC_Surge
+END
+VER 3 000000000000002A "DB_MC_Wave" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_MC_Wave
+END
+VER 3 000000000000002B "DB_RestoDeeps" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_RestoDeeps
+END
+VER 3 000000000000002C "DB_SURVAOE" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_SURVAOE
+END
+VER 3 000000000000002D "DB_SURVST" "INV_Misc_QuestionMark"
+#showtooltip
+/click DB_SURVST
+END
+VER 3 000000000000002F "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 净化疾病;  [@mouseover,exists,mod:ctrl] 驱散魔法; [@mouseover,exists,mod:shift] 净化疾病
+END
+VER 3 0000000000000030 "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 净化灵魂;  [@mouseover,exists,mod:ctrl] 净化术; [@mouseover,exists,mod:shift] 妖术
+END
+VER 3 000000000000002E "Decursive" "134400"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清创生血;  [@mouseover,exists,mod:ctrl] 清创生血; [@mouseover,exists,mod:shift] 清创生血
+END
+VER 3 0000000000000031 "lua" "134400"
+/script RetrieveCorpse()
+/script RepairAllItems()
+/script RepopMe()
+END
+VER 3 0000000000000032 "MillHelper" "236229"
+/click MillHelperButton
+END
+VER 3 0000000000000033 "MJBH" "132098"
+/hw MJBH
+END
+VER 3 0000000000000034 "Moonkin_MT" "INV_Misc_QuestionMark"
+#showtooltip
+/click Moonkin_MT
+END
+VER 3 0000000000000035 "MS" "610633"
+/S 牧师吃 让 
+END
+VER 3 0000000000000036 "MSS" "132098"
+/hw MSS
+END
+VER 3 0000000000000037 "pianzi" "838692"
+/rw 老板不要相信私密转账交押金，包团的，都是骗子！本团没有包团业务。游戏.微信.支付宝名字一样的也不要信。转账时谨慎交易确认账号！老板们麻烦都上  YY 【219872】 方便沟通
+END
+VER 3 0000000000000038 "PVP" "135829"
+#Showtooltip 
+/startattack 
+/castsequence reset=0/combat 嗜血
+/castsequence reset=0/combat 天怒图腾(荣誉天赋)
+END
+VER 3 0000000000000039 "SS" "237563"
+/S 这有8人队 {漂亮}各位哥哥行行好 {无辜}麻烦让下谢谢{害羞}
+END
+VER 3 000000000000003A "TT" "135127"
+/cast 治疗之泉图腾
+/y 治疗之泉丢下了……
+/in 11 /Y 还剩3秒……
+/in 12 /Y 还剩2秒……
+/in 13 /Y 还剩1秒……
+/in 13 /Y  结束了
+END
+VER 3 000000000000003B "vuhdo" "237446"
+/VuhDo opt
+END
+VER 3 000000000000003C "VuhDoDCShieldData" "132281"
+R4DT1NM1SH1NM1LR1HR2WM2DR2HR2RM2RM3SH3HR3DM[x]3LR4NM4PH4DH4PH5WM5EM5DM5DH5WM6SR7PT7NT7DR7PT8HR[x][x][x][x][x][x][x][x][x]3IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000003D "VuhDoDCShieldData" "132281"
+R7PT1DT1ET1MR1LR2WM2NM2DM2RM2RM3HR3HR3DR3MR4PH4DH[x]5NM5MR7NT7EM7PT8SH8DR8MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]4IH[x][x][x][x][x][x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000003E "VuhDoDCShieldData" "132281"
+R1HR1NM1NM1DM1LR2EM2SH2NM[x]2DR3NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]2IH[x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000003F "VuhDoDCShieldNames" "132281"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]转角遇[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000040 "VuhDoDCShieldNames" "132281"
+N丨霸气心斩灵白菜姐丶头上死无对主核心一亖鳕云之涯[x]海洋的糊涂一[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Sil[x][x][x][x]古尔扎[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000041 "VuhDoDCShieldNames" "132281"
+N地獄殺冢中枯就这一熙妹随乄訫工藤新静静五[x]斯巴拉青皮大他骂了Mes一鳕熊蓝染彡大强强Ang神级小欧阳医地狱殺彩戏师乌达斯萨鲁斯伊斯坦阿杰降咏炎玲冰了人烛鲤丶青春付Nev影舞悠虎牌丶娱樂机智的黑铁哥风之永风之救[x][x][x][x]信仰猪[x][x][x][x][x][x][x][x][x][x]索乌纳[x][x][x][x][x][x]漆黑一[x][x][x][x]克弗拉[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000042 "VuhDoDCShieldNames" "132281"
+N娱丶樂名侦探Mon丶壊囝霸气侧浮生未Exe轻舞的贼妖丶三千迣馒头的直到世亚特丨海洋的炎徝爆前丶鋒梅长苏[x]我会种曰月星大鳥德人品无丨霸气亖极度[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]暖丶寳灵魂兽[x][x][x]考尔纳[x][x][x][x][x][x][x][x][x][x]熔岩犬[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000043 "VuhDoDCShieldNames" "132281"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Sil[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000044 "VuhDoDCShieldNames" "132281"
+N老衲爱墨林丶布魯斯炎値爆Luc一心苍玛维影黛莱美吹醉一Lon被遗忘丨霸气海洋的小羽沫默然丶一焽焸[x]宝贝儿灬妩媚Thi浪凡云泉东方依然落我会种风之奇[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Sil[x][x][x][x][x][x][x][x][x][x][x]熔岩犬[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000045 "VuhDoDCShieldNames" "132281"
+N羽沫浮生未席尔薇海洋的丨霸气即将十馒头妹咬字分迷惘的后翌橙为何IncDes丨大爷亖鳕熊[x]黑铁叔吾名小最绚名我会种牙签小小哥闷倪娅弥楼兰若歹匕衤阿尔达匹克老纳成裤裆丶北美吴風之奇老衲爱波动道[x][x][x][x][x][x][x]煖丶煖[x][x][x][x][x][x][x]灵魂兽[x][x][x][x]里卡努熔岩犬[x][x][x][x][x][x][x]罗库拉[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000046 "VuhDoDCShieldNames" "132281"
+N娱丶樂Exe三千迣轻舞的亖极度直到世贼妖丶亚特丨一鳕熊[x]曰月星馒头的海洋的我会种梅长苏名侦探炎徝爆丨霸气加强版长腿加人品无[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]暖丶寳灵魂兽[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000047 "VuhDoDCShieldNames" "132281"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]暖丶寳[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000048 "VuhDoDCShieldNames" "132281"
+N娱樂你紫冥圣人品无心斩灵加强版作作胖放肆灬Gur乔妮娜丨霸气與妳侑海洋的大袅德我要起炎值爆[x]一焽焸丁散石最绚名老衲爱風之守[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]转角遇[x][x][x][x][x][x][x]吉尔法[x][x][x][x][x][x][x][x][x]熊二[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0000000000000049 "VuhDoDCShieldNames" "132281"
+N丨霸气咔哇伊水无锋白菜姐迷惘的死无对主核心云之涯心斩灵丶头上臭胖纸被遗忘海洋的磨人的炎值爆[x]漠然丶土豆丝一亖鳕Asc机制的浪凡云老衲爱七剑下风之战泉中方老尼爱[x][x][x][x][x][x][x][x][x][x][x][x][x]Sil[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]考尔勒[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000004A "VuhDoDCShieldNames" "132281"
+N小羽沫嫂嫂请冢中枯青皮大未知目随乄訫秃笔南未知目未知目杂鱼馒[x]丶依然清舞幽丨胯下艳阳叶未知目未知目任我行未知目未知目未知目未知目未知目[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]暖丶寳[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 000000000000004B "vuhmouse" "237542"
+/target vuhdo
+/cast 快速治疗
+/cast 暗影愈合
+END
+VER 3 000000000000004C "vuhmouse1" "519384"
+/target vuhdo
+/cast 治疗祷言
+/cast 真言术：耀
+END
+VER 3 000000000000004D "vuhmouse2" "603962"
+/target vuhdo
+/cast 圣言术：静
+/cast 苦修
+END
+VER 3 000000000000004E "vuhmouse3" "134400"
+/target vuhdo
+/cast 联结治疗
+END
+VER 3 000000000000004F "vuhmouse4" "237542"
+/target vuhdo
+/cast 守护之魂
+/cast 痛苦压制
+END
+VER 3 0000000000000050 "vuhmouse5" "135953"
+/target vuhdo
+/cast 恢复
+/cast 恳求
+END
+VER 3 0000000000000051 "vuhmouse6" "134400"
+/target vuhdo
+/cast 图雷之光
+/cast 意志洞悉
+END
+VER 3 0000000000000052 "wa" "644389"
+/WA
+END
+VER 3 0000000000000053 "XX" "841383"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button2
+END
+VER 3 0000000000000054 "xxxxxxxxxxxxxxxx" "134400"
+/click WorldStateScoreFrameLeaveButton
+END
+VER 3 0000000000000055 "中心" "INV_Misc_QuestionMark"
+#showtooltip 降雨
+/cast [@player]降雨
+END
+VER 3 0000000000000056 "中间技能宏" "132840"
+/click ExtraActionButton1
+END
+VER 3 0000000000000057 "伤害数字" "135833"
+/console floatingCombatTextCombatDamage 1
+END
+VER 3 0000000000000058 "倒数" "134400"
+/pull 6
+END
+VER 3 0000000000000059 "刷坐骑" "136103"
+/w pandatwo-守护之剑 1
+END
+VER 3 000000000000005A "唤醒" "136075"
+/use 虚无碎片
+/cast 唤醒
+END
+VER 3 000000000000005B "嗜血" "136012"
+/s 能不能开出嗜血呢，让我们拭目以待吧！ 
+/stopmacro [nocombat] 
+/cast 嗜血 
+/s [嗜血]已开,40秒倒数!饰品技能全开集火! 
+/in 10 /s [嗜血]还剩30秒…… 
+/in 20 /s [嗜血]还剩20秒…… 
+/in 30 /s [嗜血]还剩10秒…… 
+/in 35 /s [嗜血]最后5秒…… 
+/in 40 /s [嗜血]结束 
+END
+VER 3 000000000000005C "坐骑" "132226"
+/RandomMount
+END
+VER 3 000000000000005E "大雨" "INV_Misc_QuestionMark"
+#showtooltip 治疗之雨
+/施放 治疗之雨
+/run Minimap:PingLocation(0,0
+/y 不想死的进来啊 
+END
+VER 3 000000000000005F "大雨" "INV_Misc_QuestionMark"
+#showtooltip 治疗之雨
+/cast 治疗之雨
+/y 进来喝奶
+END
+VER 3 0000000000000060 "大雨" "136037"
+# showtooltip 治疗之雨
+/cast 治疗之雨
+/大喊 妹子进来、哥哥保护你
+END
+VER 3 000000000000005D "大雨" "136037"
+# showtooltip 治疗之雨
+/cast 治疗之雨
+/大喊 妹子进来哥哥保护你
+END
+VER 3 0000000000000061 "奶潮" "INV_Misc_QuestionMark"
+#showtooltip
+/施放 治疗之潮图腾
+/Y 治疗之潮已放，兄弟姐妹们靠近我，超级营养快线，速度围观！！
+/in 5 /y 奶水还够5秒，赶紧抢购
+/in 8 /y 奶水告急还2秒
+/in 10 /y 奶水用完，注意自保
+END
+VER 3 0000000000000062 "奶潮" "538569"
+/施放 治疗之潮图腾
+/Y 治疗之潮已放，兄弟们靠近我，超级营养快线，速度围观！！
+/in 5 /y 奶水还够5秒，赶紧抢购
+/in 8 /y 奶水告急还2秒
+/in 10 /y 奶水用完，速度滚开
+END
+VER 3 0000000000000063 "广告" "134400"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>80 then SendChatMessage("{兴奋}M1-13 3 4号来法系/敏捷SP/大剑 ZLS QMS ZDF头接1-13M抱团散买","channel",nil,5)T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000064 "开怪" "135768"
+/DBM PULL 3
+END
+VER 3 0000000000000065 "战斗数字" "644389"
+伤害显示命令
+/console floatingCombatTextCombatDamage 1
+治疗显示命令
+/console floatingCombatTextCombatHealing 1
+END
+VER 3 0000000000000066 "战斗显示" "135274"
+伤害显示命令
+/console floatingCombatTextCombatDamage 1
+治疗显示命令
+/console floatingCombatTextCombatHealing 1 
+END
+VER 3 0000000000000067 "打断" "136018"
+/stopcasting
+#showtooltip 风剪
+/ra 2222222我已打断2号
+/cast [target=focus]风剪
+END
+VER 3 0000000000000068 "打断" "136018"
+/stopcasting
+/cast 风剪
+/y 2222222222222222222222
+END
+VER 3 0000000000000069 "打断" "134400"
+/TAR 异界之手
+/cast 暗影封印
+END
+VER 3 000000000000006A "打断" "132213"
+/tar 希格林
+/cast 死亡缠绕
+END
+VER 3 000000000000006B "打断" "136018"
+/施放 风剪
+/Y 我已打断%t的,CD12秒,下一位接上
+/Y 如果没打断成功，当我没说
+END
+VER 3 000000000000006C "放逐" "136135"
+/TAR 异界之手
+/cast 放逐术
+END
+VER 3 000000000000006D "方块" "878231"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button3
+END
+VER 3 000000000000006E "星星" "841384"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button8
+END
+VER 3 000000000000006F "欢乐桶标记" "136103"
+/script SetRaidTarget("mouseover",2)
+/click ExtraActionButton1
+END
+VER 3 0000000000000070 "死缠" "607853"
+/TAR 卡兰姆
+/cast 死亡缠绕
+END
+VER 3 0000000000000071 "残废" "136152"
+/TAR 维尔布兰德族长
+/cast 残废术
+END
+VER 3 0000000000000072 "残废" "136135"
+/TAR 卡兰姆
+/cast 残废术
+END
+VER 3 0000000000000073 "法阵" "135793"
+/cancelaura 恶魔法阵
+END
+VER 3 0000000000000074 "火雨" "135804"
+/cast [@cursor] 火焰之雨
+END
+VER 3 0000000000000075 "焦点" "135473"
+/FOCUS
+END
+VER 3 0000000000000077 "爆发" "132886"
+/cast 诡异魅影
+/cast 法拉米尔的禁忌魔典
+/CAST 基尔加丹的炽燃决心
+END
+VER 3 0000000000000076 "爆发" "463284"
+/cast 灵魂收割
+/cast 勇气号角
+/cast 血性狂怒(种族特长)
+/cast 狂暴(种族特长)
+/cast 缺指指环
+END
+VER 3 0000000000000078 "视野" "413591"
+/run SetCVar("cameraDistanceMaxZoomFactor", 2.6)
+END
